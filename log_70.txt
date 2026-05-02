@@ -1,0 +1,557 @@
+[%T]	Top of the 1st - Binghamton Rumble Ponies batting - Pitching for Akron RubberDucks : RHP <a href="../players/player_18747.html">Chris McElvain</a>
+[%B]	Pitching: RHP <a href="../players/player_18747.html">Chris McElvain</a>
+[%B]	Batting: SHB <a href="../players/player_49936.html">Willy Fañas</a>
+[%N]	0-0: Foul Ball, location: 3FF
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 3DF
+[%N]	3-2: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_27156.html">Ehire Adrianza</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_49936.html">Willy Fañas</a> is caught stealing 2nd base 2-6
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 6D, EV 94.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_47135.html">Jacob Reimer</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out swinging
+[%N]	<a href="../players/player_27156.html">Ehire Adrianza</a> is caught stealing 2nd base 2-4
+[%N]	Batter strikes out.
+[%F]	Top of the 1st over - 0 runs, 1 hit, 0 errors, 0 left on base; Binghamton 0 - Akron 0
+[%T]	Bottom of the 1st - Akron RubberDucks batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_31930.html">Spencer Howard</a>
+[%B]	Pitching: RHP <a href="../players/player_31930.html">Spencer Howard</a>
+[%B]	Batting: LHB <a href="../players/player_41834.html">Isaiah Greene</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_40251.html">Juan Benjamin</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_46566.html">Joe Lampe</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_42300.html">Trevon Dabney</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	<a href="../players/player_46566.html">Joe Lampe</a> steals 2nd base
+[%N]	0-2: Ball
+[%N]	1-2: Ground out 6-3 (Groundball, 6, EV 86.3 MPH)
+[%F]	Bottom of the 1st over - 0 runs, 0 hits, 0 errors, 1 left on base; Binghamton 0 - Akron 0
+[%T]	Top of the 2nd - Binghamton Rumble Ponies batting - Pitching for Akron RubberDucks : RHP <a href="../players/player_18747.html">Chris McElvain</a>
+[%B]	Batting: RHB <a href="../players/player_50583.html">Yordis Perera</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_23704.html">Jonathan Araúz</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 5FF
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_30210.html">Jose Peraza</a>
+[%N]	0-0: Foul Ball, location: 2RF
+[%N]	0-1:  Fly out, F9  (Flyball, 9S, EV 89.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_43826.html">Carter Trice</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 3F
+[%N]	1-1:  Fly out, F9  (Flyball, 9, EV 100.6 MPH)
+[%F]	Top of the 2nd over - 0 runs, 0 hits, 0 errors, 1 left on base; Binghamton 0 - Akron 0
+[%T]	Bottom of the 2nd - Akron RubberDucks batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_31930.html">Spencer Howard</a>
+[%B]	Batting: RHB <a href="../players/player_50544.html">Jackson Feltner</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 5F
+[%N]	1-1: Foul Ball, location: 25FF
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 9LMF
+[%N]	2-2:  Fly out, F8  (Line Drive, 8RS, EV 90.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_39894.html">Wuilfredo Antunez</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 6MD, EV 100.6 MPH)
+[%B]	Batting: SHB <a href="../players/player_24115.html">Yordys Valdes</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Flyball, 6D, EV 96.3 MPH)
+[%N]	<a href="../players/player_39894.html">Wuilfredo Antunez</a> to second
+[%B]	Batting: RHB <a href="../players/player_19000.html">David Fry</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Flyball, 8LXD, EV 99.4 MPH)
+[%N]	<b><a href="../players/player_39894.html">Wuilfredo Antunez</a> scores</b>
+[%N]	<a href="../players/player_24115.html">Yordys Valdes</a> to third
+[%B]	Batting: SHB <a href="../players/player_48858.html">Jesus Montilla</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Swinging Strike
+[%N]	3-1: Called Strike
+[%N]	3-2: Foul Ball, location: 3F
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_41834.html">Isaiah Greene</a>
+[%N]	0-0: Foul Ball, location: 3FF
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 5-3 (Groundball, 56, EV 83.8 MPH)
+[%F]	Bottom of the 2nd over - 1 run, 3 hits, 0 errors, 2 left on base; Binghamton 0 - Akron 1
+[%T]	Top of the 3rd - Binghamton Rumble Ponies batting - Pitching for Akron RubberDucks : RHP <a href="../players/player_18747.html">Chris McElvain</a>
+[%B]	Batting: LHB <a href="../players/player_47628.html">Will Turner</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 6MS, EV 73.1 MPH) (infield hit)
+[%B]	Batting: LHB <a href="../players/player_39964.html">Fernando Villalobos</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_47628.html">Will Turner</a> steals 2nd base
+[%N]	1-0: Called Strike
+[%N]	Passed Ball!
+[%N]	<a href="../players/player_47628.html">Will Turner</a> to third
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 5F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Flyball, 5D, EV 87.5 MPH)
+[%N]	<b><a href="../players/player_47628.html">Will Turner</a> scores</b>
+[%B]	Batting: SHB <a href="../players/player_49936.html">Willy Fañas</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 5, EV 90.0 MPH)
+[%N]	<a href="../players/player_39964.html">Fernando Villalobos</a> to second
+[%B]	Batting: SHB <a href="../players/player_27156.html">Ehire Adrianza</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ground out U3 (Groundball, 3, EV 81.9 MPH)
+[%N]	<a href="../players/player_39964.html">Fernando Villalobos</a> to third
+[%B]	Batting: RHB <a href="../players/player_47135.html">Jacob Reimer</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_50583.html">Yordis Perera</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out looking
+[%F]	Top of the 3rd over - 1 run, 2 hits, 0 errors, 2 left on base; Binghamton 1 - Akron 1
+[%T]	Bottom of the 3rd - Akron RubberDucks batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_31930.html">Spencer Howard</a>
+[%B]	Batting: SHB <a href="../players/player_40251.html">Juan Benjamin</a>
+[%N]	0-0: Foul Ball, location: 7LMF
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2RF
+[%N]	1-2: <b>TRIPLE</b>  (Flyball, 8LXD, EV 109.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_46566.html">Joe Lampe</a>
+[%N]	0-0: Foul Ball, location: 5FF
+[%N]	0-1: Foul Ball, location: 9LSFF
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_42300.html">Trevon Dabney</a>
+[%N]	0-0: Hit by Pitch
+[%N]	<a href="../players/player_46566.html">Joe Lampe</a> to second
+[%B]	Batting: RHB <a href="../players/player_50544.html">Jackson Feltner</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 7S, EV 105.0 MPH)
+[%N]	<b><a href="../players/player_40251.html">Juan Benjamin</a> scores</b>
+[%N]	<a href="../players/player_46566.html">Joe Lampe</a> to third
+[%N]	<a href="../players/player_42300.html">Trevon Dabney</a> to second
+[%B]	Batting: LHB <a href="../players/player_39894.html">Wuilfredo Antunez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 9LDF
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_24115.html">Yordys Valdes</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 3F
+[%N]	3-2: Base on Balls
+[%N]	<b><a href="../players/player_46566.html">Joe Lampe</a> scores</b>
+[%N]	<a href="../players/player_42300.html">Trevon Dabney</a> to third
+[%N]	<a href="../players/player_50544.html">Jackson Feltner</a> to second
+[%B]	Batting: RHB <a href="../players/player_19000.html">David Fry</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1:  Fly out, F7  (Flyball, 7, EV 95.6 MPH)
+[%N]	<b>Runner from 3rd tags up, SCORES, no throw by LF</b>
+[%B]	Batting: SHB <a href="../players/player_48858.html">Jesus Montilla</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Flyball, 8RD, EV 105.6 MPH)
+[%F]	Bottom of the 3rd over - 3 runs, 2 hits, 0 errors, 2 left on base; Binghamton 1 - Akron 4
+[%T]	Top of the 4th - Binghamton Rumble Ponies batting - Pitching for Akron RubberDucks : RHP <a href="../players/player_18747.html">Chris McElvain</a>
+[%B]	Batting: SHB <a href="../players/player_23704.html">Jonathan Araúz</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 9LSFF
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_30210.html">Jose Peraza</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 2-3 (Groundball, 2R, EV 65.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_43826.html">Carter Trice</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 78S, EV 109.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_47628.html">Will Turner</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out swinging
+[%F]	Top of the 4th over - 0 runs, 1 hit, 0 errors, 1 left on base; Binghamton 1 - Akron 4
+[%T]	Bottom of the 4th - Akron RubberDucks batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_31930.html">Spencer Howard</a>
+[%B]	Batting: LHB <a href="../players/player_41834.html">Isaiah Greene</a>
+[%N]	0-0: Foul Ball, location: 9LDF
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_40251.html">Juan Benjamin</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 7LDF
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 89M, EV 110.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_46566.html">Joe Lampe</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F8  (Flyball, 8RM, EV 91.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_42300.html">Trevon Dabney</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2:  <b>2-RUN HOME RUN</b>  (Flyball, 7LD, EV 94.4 MPH), Distance : 343 ft
+[%B]	Pitching: RHP <a href="../players/player_20576.html">Kaleb Ort</a>
+[%B]	Batting: RHB <a href="../players/player_50544.html">Jackson Feltner</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ground out 6-3 (Groundball, 6, EV 85.0 MPH)
+[%F]	Bottom of the 4th over - 2 runs, 2 hits, 0 errors, 0 left on base; Binghamton 1 - Akron 6
+[%T]	Top of the 5th - Binghamton Rumble Ponies batting - Pitching for Akron RubberDucks : RHP <a href="../players/player_18747.html">Chris McElvain</a>
+[%B]	Batting: LHB <a href="../players/player_39964.html">Fernando Villalobos</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_49936.html">Willy Fañas</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 4MD, EV 99.4 MPH)
+[%B]	Batting: SHB <a href="../players/player_27156.html">Ehire Adrianza</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 7LM, EV 109.4 MPH)
+[%N]	<a href="../players/player_49936.html">Willy Fañas</a> to third
+[%B]	Batting: RHB <a href="../players/player_47135.html">Jacob Reimer</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	Wild Pitch!
+[%N]	<b><a href="../players/player_49936.html">Willy Fañas</a> scores</b>
+[%N]	<a href="../players/player_27156.html">Ehire Adrianza</a> to third
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_50583.html">Yordis Perera</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 4MD, EV 110.0 MPH)
+[%N]	<b><a href="../players/player_27156.html">Ehire Adrianza</a> scores</b>
+[%N]	<a href="../players/player_47135.html">Jacob Reimer</a> to second
+[%B]	Batting: SHB <a href="../players/player_23704.html">Jonathan Araúz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 25F
+[%N]	2-1:  Fly out, F7  (Line Drive, 7, EV 105.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_30210.html">Jose Peraza</a>
+[%N]	0-0: Foul Ball, location: 23F
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 6MD, EV 103.8 MPH)
+[%N]	<a href="../players/player_47135.html">Jacob Reimer</a> to third
+[%N]	<a href="../players/player_50583.html">Yordis Perera</a> to second
+[%B]	Batting: RHB <a href="../players/player_43826.html">Carter Trice</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<b><a href="../players/player_47135.html">Jacob Reimer</a> scores</b>
+[%N]	<a href="../players/player_50583.html">Yordis Perera</a> to third
+[%N]	<a href="../players/player_30210.html">Jose Peraza</a> to second
+[%B]	Batting: LHB <a href="../players/player_47628.html">Will Turner</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2:  Fly out, F8  (Flyball, 8RM, EV 93.1 MPH)
+[%F]	Top of the 5th over - 3 runs, 4 hits, 0 errors, 3 left on base; Binghamton 4 - Akron 6
+[%T]	Bottom of the 5th - Akron RubberDucks batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_20576.html">Kaleb Ort</a>
+[%B]	Batting: LHB <a href="../players/player_39894.html">Wuilfredo Antunez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 5-3 (Groundball, 56S, EV 83.1 MPH)
+[%B]	Batting: SHB <a href="../players/player_24115.html">Yordys Valdes</a>
+[%N]	0-0:  Fly out, F2  (Popup, 25F, EV 88.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_19000.html">David Fry</a>
+[%N]	0-0:  Fly out, F3  (Popup, 3SF, EV 77.5 MPH)
+[%F]	Bottom of the 5th over - 0 runs, 0 hits, 0 errors, 0 left on base; Binghamton 4 - Akron 6
+[%T]	Top of the 6th - Binghamton Rumble Ponies batting - Pitching for Akron RubberDucks : RHP <a href="../players/player_18747.html">Chris McElvain</a>
+[%B]	Batting: LHB <a href="../players/player_39964.html">Fernando Villalobos</a>
+[%N]	0-0: Foul Ball, location: 7LMF
+[%N]	0-1: Foul Ball, location: 3SF
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F9  (Flyball, 89M, EV 93.8 MPH)
+[%B]	Batting: SHB <a href="../players/player_49936.html">Willy Fañas</a>
+[%N]	0-0:  Fly out, F5  (Line Drive, 5L, EV 63.8 MPH)
+[%B]	Batting: SHB <a href="../players/player_27156.html">Ehire Adrianza</a>
+[%N]	0-0: Foul Ball, location: 5FF
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Base on Balls
+[%B]	Pitching: RHP <a href="../players/player_38048.html">Rafael Feliz</a>
+[%B]	Batting: RHB <a href="../players/player_47135.html">Jacob Reimer</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 6th over - 0 runs, 0 hits, 0 errors, 1 left on base; Binghamton 4 - Akron 6
+[%T]	Bottom of the 6th - Akron RubberDucks batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_20576.html">Kaleb Ort</a>
+[%B]	Batting: SHB <a href="../players/player_48858.html">Jesus Montilla</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 7LSF
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_41834.html">Isaiah Greene</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 4, EV 104.4 MPH) (infield hit)
+[%N]	<a href="../players/player_48858.html">Jesus Montilla</a> to second
+[%B]	Batting: SHB <a href="../players/player_40251.html">Juan Benjamin</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 3F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_46566.html">Joe Lampe</a>
+[%N]	0-0: Foul Ball, location: 23FF
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 8RS, EV 101.9 MPH)
+[%N]	<a href="../players/player_48858.html">Jesus Montilla</a> to third
+[%N]	<a href="../players/player_41834.html">Isaiah Greene</a> to second
+[%B]	Batting: RHB <a href="../players/player_42300.html">Trevon Dabney</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Base on Balls
+[%N]	<b><a href="../players/player_48858.html">Jesus Montilla</a> scores</b>
+[%N]	<a href="../players/player_41834.html">Isaiah Greene</a> to third
+[%N]	<a href="../players/player_46566.html">Joe Lampe</a> to second
+[%B]	Batting: RHB <a href="../players/player_50544.html">Jackson Feltner</a>
+[%N]	0-0:  Fly out, F8  (Line Drive, 8LM, EV 99.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_39894.html">Wuilfredo Antunez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 6th over - 1 run, 2 hits, 0 errors, 3 left on base; Binghamton 4 - Akron 7
+[%T]	Top of the 7th - Binghamton Rumble Ponies batting - Pitching for Akron RubberDucks : RHP <a href="../players/player_38048.html">Rafael Feliz</a>
+[%B]	Batting: RHB <a href="../players/player_50583.html">Yordis Perera</a>
+[%N]	0-0: Foul Ball, location: 3SF
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out looking
+[%B]	Batting: SHB <a href="../players/player_23704.html">Jonathan Araúz</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 3F
+[%N]	1-2: Foul Ball, location: 7LSF
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 5F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_30210.html">Jose Peraza</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ground out 4-3 (Groundball, 4MS, EV 85.0 MPH)
+[%F]	Top of the 7th over - 0 runs, 0 hits, 0 errors, 0 left on base; Binghamton 4 - Akron 7
+[%T]	Bottom of the 7th - Akron RubberDucks batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_20576.html">Kaleb Ort</a>
+[%B]	Batting: SHB <a href="../players/player_24115.html">Yordys Valdes</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 3FF
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 6MD, EV 96.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_19000.html">David Fry</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	<a href="../players/player_24115.html">Yordys Valdes</a> steals 2nd base
+[%N]	1-1: Intentional Walk
+[%B]	Batting: SHB <a href="../players/player_48858.html">Jesus Montilla</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_24115.html">Yordys Valdes</a> to third
+[%N]	<a href="../players/player_19000.html">David Fry</a> to second
+[%B]	Pitching: LHP <a href="../players/player_32392.html">Gabe Speier</a>
+[%B]	Batting: LHB <a href="../players/player_41834.html">Isaiah Greene</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>DOUBLE</b>  (Flyball, 78XD, EV 98.1 MPH)
+[%N]	<b><a href="../players/player_24115.html">Yordys Valdes</a> scores</b>
+[%N]	<b><a href="../players/player_19000.html">David Fry</a> scores</b>
+[%N]	<a href="../players/player_48858.html">Jesus Montilla</a> to third
+[%B]	Batting: SHB <a href="../players/player_40251.html">Juan Benjamin</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 34D, EV 103.8 MPH)
+[%N]	<b><a href="../players/player_48858.html">Jesus Montilla</a> scores</b>
+[%N]	<a href="../players/player_41834.html">Isaiah Greene</a> to third
+[%B]	Batting: LHB <a href="../players/player_46566.html">Joe Lampe</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_40251.html">Juan Benjamin</a> steals 2nd base
+[%N]	0-1: Foul Ball, location: 5FF
+[%N]	0-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_42300.html">Trevon Dabney</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_50544.html">Jackson Feltner</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F9  (Flyball, 9D, EV 91.9 MPH)
+[%F]	Bottom of the 7th over - 3 runs, 3 hits, 0 errors, 2 left on base; Binghamton 4 - Akron 10
+[%T]	Top of the 8th - Binghamton Rumble Ponies batting - Pitching for Akron RubberDucks : RHP <a href="../players/player_38048.html">Rafael Feliz</a>
+[%B]	Batting: RHB <a href="../players/player_43826.html">Carter Trice</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 3DF
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_47628.html">Will Turner</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 4-3 (Groundball, 34D, EV 100.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_39964.html">Fernando Villalobos</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: <b>DOUBLE</b>  (Flyball, 7LD, EV 109.4 MPH)
+[%B]	Batting: SHB <a href="../players/player_49936.html">Willy Fañas</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6, EV 100.0 MPH)
+[%F]	Top of the 8th over - 0 runs, 1 hit, 0 errors, 1 left on base; Binghamton 4 - Akron 10
+[%T]	Bottom of the 8th - Akron RubberDucks batting - Pitching for Binghamton Rumble Ponies : LHP <a href="../players/player_32392.html">Gabe Speier</a>
+[%B]	Batting: LHB <a href="../players/player_39894.html">Wuilfredo Antunez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>DOUBLE</b>  (Line Drive, 78M, EV 101.3 MPH)
+[%B]	Batting: SHB <a href="../players/player_24115.html">Yordys Valdes</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 4MD, EV 100.6 MPH)
+[%N]	<a href="../players/player_39894.html">Wuilfredo Antunez</a> to third
+[%B]	Batting: RHB <a href="../players/player_19000.html">David Fry</a>
+[%N]	0-0: Foul Ball, location: 3FF
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 89S, EV 104.4 MPH)
+[%N]	<b><a href="../players/player_39894.html">Wuilfredo Antunez</a> scores</b>
+[%N]	<a href="../players/player_24115.html">Yordys Valdes</a> to second
+[%B]	Batting: SHB <a href="../players/player_48858.html">Jesus Montilla</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2:  Fly out, F4  (Popup, 4, EV 72.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_41834.html">Isaiah Greene</a>
+[%N]	0-0: <b>DOUBLE</b>  (Line Drive, 7LM, EV 105.0 MPH)
+[%N]	<b><a href="../players/player_24115.html">Yordys Valdes</a> scores</b>
+[%N]	<a href="../players/player_19000.html">David Fry</a> to third
+[%B]	Batting: SHB <a href="../players/player_40251.html">Juan Benjamin</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Ground out 4-3 (Groundball, 4, EV 83.1 MPH)
+[%N]	<b><a href="../players/player_19000.html">David Fry</a> scores</b>
+[%N]	<a href="../players/player_41834.html">Isaiah Greene</a> to third
+[%B]	Pinch Hitting: SHB <a href="../players/player_38442.html">Tyresse Turner</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 34D, EV 108.8 MPH)
+[%N]	<b><a href="../players/player_41834.html">Isaiah Greene</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_42300.html">Trevon Dabney</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 7S, EV 109.4 MPH)
+[%N]	<a href="../players/player_38442.html">Tyresse Turner</a> to second
+[%B]	Batting: RHB <a href="../players/player_50544.html">Jackson Feltner</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1:  <b>3-RUN HOME RUN</b>  (Flyball, 7LD, EV 90.0 MPH), Distance : 348 ft
+[%B]	Pitching: RHP <a href="../players/player_30984.html">J.B. Wendelken</a>
+[%B]	Batting: LHB <a href="../players/player_39894.html">Wuilfredo Antunez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>TRIPLE</b>  (Flyball, 78XD, EV 102.5 MPH)
+[%B]	Batting: SHB <a href="../players/player_24115.html">Yordys Valdes</a>
+[%N]	0-0: Foul Ball, location: 3F
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 4MD, EV 102.5 MPH)
+[%N]	<b><a href="../players/player_39894.html">Wuilfredo Antunez</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_19000.html">David Fry</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Strikes out swinging
+[%F]	Bottom of the 8th over - 8 runs, 9 hits, 0 errors, 1 left on base; Binghamton 4 - Akron 18
+[%T]	Top of the 9th - Binghamton Rumble Ponies batting - Pitching for Akron RubberDucks : RHP <a href="../players/player_38048.html">Rafael Feliz</a>
+[%B]	Now in LF: <a href="../players/player_38442.html">Tyresse Turner</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_40438.html">Jostyn Almonte</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_47135.html">Jacob Reimer</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_50583.html">Yordis Perera</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out swinging
+[%F]	Top of the 9th over - 0 runs, 0 hits, 0 errors, 0 left on base; Binghamton 4 - Akron 18

@@ -1,0 +1,377 @@
+[%T]	Top of the 1st - Somerset Patriots batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_37496.html">Robert Colina</a>
+[%B]	Pitching: RHP <a href="../players/player_37496.html">Robert Colina</a>
+[%B]	Batting: SHB <a href="../players/player_38384.html">Mickey Gasper</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LD, EV 75.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_22362.html">Mauro Bonifacio</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 25FF
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_31599.html">Austin Wells</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 3SF
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Strikes out swinging
+[%F]	Top of the 1st over - 0 runs, 0 hits, 0 errors, 0 left on base; Somerset 0 - Binghamton 0
+[%T]	Bottom of the 1st - Binghamton Rumble Ponies batting - Pitching for Somerset Patriots : RHP <a href="../players/player_45785.html">Cam Schlittler</a>
+[%B]	Pitching: RHP <a href="../players/player_45785.html">Cam Schlittler</a>
+[%B]	Batting: SHB <a href="../players/player_49936.html">Willy Fañas</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F9  (Flyball, 9S, EV 79.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_47628.html">Will Turner</a>
+[%N]	0-0: Foul Ball, location: 2RF
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F8  (Flyball, 89S, EV 88.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_30210.html">Jose Peraza</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 8RS, EV 108.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_47135.html">Jacob Reimer</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Foul Ball, location: 9LSF
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 6-3 (Groundball, 6M, EV 83.1 MPH)
+[%F]	Bottom of the 1st over - 0 runs, 1 hit, 0 errors, 1 left on base; Somerset 0 - Binghamton 0
+[%T]	Top of the 2nd - Somerset Patriots batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_37496.html">Robert Colina</a>
+[%B]	Batting: LHB <a href="../players/player_19280.html">Jeisson Rosario</a>
+[%N]	0-0: Foul Ball, location: 25F
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F4  (Line Drive, 4D, EV 64.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_39267.html">Dayro Perez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 23FF
+[%N]	2-1: Foul Ball, location: 5FF
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_50505.html">Santiago Gomez</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F2  (Popup, 23F, EV 81.9 MPH)
+[%F]	Top of the 2nd over - 0 runs, 0 hits, 0 errors, 0 left on base; Somerset 0 - Binghamton 0
+[%T]	Bottom of the 2nd - Binghamton Rumble Ponies batting - Pitching for Somerset Patriots : RHP <a href="../players/player_45785.html">Cam Schlittler</a>
+[%B]	Batting: RHB <a href="../players/player_43826.html">Carter Trice</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_23704.html">Jonathan Araúz</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 8RS, EV 102.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_50583.html">Yordis Perera</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F7  (Flyball, 7S, EV 95.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_44657.html">Alex Ulloa</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_23704.html">Jonathan Araúz</a> to second
+[%B]	Batting: RHB <a href="../players/player_49036.html">Jose Melendez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 4-3 (Groundball, 4, EV 108.1 MPH)
+[%F]	Bottom of the 2nd over - 0 runs, 1 hit, 0 errors, 2 left on base; Somerset 0 - Binghamton 0
+[%T]	Top of the 3rd - Somerset Patriots batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_37496.html">Robert Colina</a>
+[%B]	Batting: LHB <a href="../players/player_39458.html">Kelvin Espino</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: <b>SINGLE</b>  (Groundball, 56S, EV 63.8 MPH) (infield hit)
+[%B]	Batting: SHB <a href="../players/player_47521.html">Keiner Delgado</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Bunted foul
+[%N]	0-2: Foul Ball, location: 25F
+[%N]	0-2:  Fly out, F5  (Popup, 25F, EV 46.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_49691.html">Juan Sanchez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Sac Bunt to 2R - play at second, runner OUT! 2-6
+[%B]	Batting: SHB <a href="../players/player_38384.html">Mickey Gasper</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Called Strike
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Ground out 4-3 (Groundball, 34, EV 108.8 MPH)
+[%F]	Top of the 3rd over - 0 runs, 1 hit, 0 errors, 1 left on base; Somerset 0 - Binghamton 0
+[%T]	Bottom of the 3rd - Binghamton Rumble Ponies batting - Pitching for Somerset Patriots : RHP <a href="../players/player_45785.html">Cam Schlittler</a>
+[%B]	Batting: SHB <a href="../players/player_49936.html">Willy Fañas</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F7  (Flyball, 7, EV 85.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_47628.html">Will Turner</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_30210.html">Jose Peraza</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Line Drive, 8RS, EV 96.9 MPH)
+[%F]	Bottom of the 3rd over - 0 runs, 0 hits, 0 errors, 0 left on base; Somerset 0 - Binghamton 0
+[%T]	Top of the 4th - Somerset Patriots batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_37496.html">Robert Colina</a>
+[%B]	Batting: RHB <a href="../players/player_22362.html">Mauro Bonifacio</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: <b>SINGLE</b>  (Flyball, 7S, EV 90.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_31599.html">Austin Wells</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_19280.html">Jeisson Rosario</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 5FF
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_39267.html">Dayro Perez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 3SF
+[%N]	2-2: Strikes out looking
+[%F]	Top of the 4th over - 0 runs, 1 hit, 0 errors, 1 left on base; Somerset 0 - Binghamton 0
+[%T]	Bottom of the 4th - Binghamton Rumble Ponies batting - Pitching for Somerset Patriots : RHP <a href="../players/player_45785.html">Cam Schlittler</a>
+[%B]	Batting: RHB <a href="../players/player_47135.html">Jacob Reimer</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_43826.html">Carter Trice</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F3  (Popup, 3SF, EV 83.1 MPH)
+[%B]	Batting: SHB <a href="../players/player_23704.html">Jonathan Araúz</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Bunted foul
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2:  <b>2-RUN HOME RUN</b>  (Flyball, 9D, EV 98.8 MPH), Distance : 364 ft
+[%B]	Batting: RHB <a href="../players/player_50583.html">Yordis Perera</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 9LDF
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_44657.html">Alex Ulloa</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_50583.html">Yordis Perera</a> to second
+[%N]	2-0: <b>SINGLE</b>  (Groundball, 6MD, EV 105.0 MPH)
+[%N]	<a href="../players/player_50583.html">Yordis Perera</a> to third
+[%B]	Batting: RHB <a href="../players/player_49036.html">Jose Melendez</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Grounds into double play, 6-4-3 (Groundball, 6, EV 83.8 MPH)
+[%F]	Bottom of the 4th over - 2 runs, 2 hits, 0 errors, 1 left on base; Somerset 0 - Binghamton 2
+[%T]	Top of the 5th - Somerset Patriots batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_37496.html">Robert Colina</a>
+[%B]	Batting: RHB <a href="../players/player_50505.html">Santiago Gomez</a>
+[%N]	0-0: Foul Ball, location: 9LDF
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 9S, EV 105.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_39458.html">Kelvin Espino</a>
+[%N]	0-0: Bunted foul
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Grounds into double play, 3-6-3 (Groundball, 3, EV 91.9 MPH)
+[%B]	Batting: SHB <a href="../players/player_47521.html">Keiner Delgado</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ground out U3 (Groundball, 3, EV 84.4 MPH)
+[%F]	Top of the 5th over - 0 runs, 1 hit, 0 errors, 0 left on base; Somerset 0 - Binghamton 2
+[%T]	Bottom of the 5th - Binghamton Rumble Ponies batting - Pitching for Somerset Patriots : RHP <a href="../players/player_45785.html">Cam Schlittler</a>
+[%B]	Batting: SHB <a href="../players/player_49936.html">Willy Fañas</a>
+[%N]	0-0:  Fly out, F4  (Popup, 13S, EV 89.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_47628.html">Will Turner</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 4-3 (Groundball, 4, EV 107.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_30210.html">Jose Peraza</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LD, EV 86.9 MPH)
+[%F]	Bottom of the 5th over - 0 runs, 0 hits, 0 errors, 0 left on base; Somerset 0 - Binghamton 2
+[%T]	Top of the 6th - Somerset Patriots batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_37496.html">Robert Colina</a>
+[%B]	Batting: LHB <a href="../players/player_49691.html">Juan Sanchez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_38384.html">Mickey Gasper</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 9LDF
+[%N]	0-2: Ball
+[%N]	1-2: Hit by Pitch
+[%N]	<a href="../players/player_49691.html">Juan Sanchez</a> to second
+[%B]	Batting: RHB <a href="../players/player_22362.html">Mauro Bonifacio</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 8RS, EV 81.3 MPH)
+[%N]	<a href="../players/player_49691.html">Juan Sanchez</a> to third
+[%N]	<a href="../players/player_38384.html">Mickey Gasper</a> to second
+[%B]	Batting: LHB <a href="../players/player_31599.html">Austin Wells</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_19280.html">Jeisson Rosario</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 3F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_39267.html">Dayro Perez</a>
+[%N]	0-0: Fielders Choice at 2nd, 6-4 (Groundball, 6, EV 90.6 MPH)
+[%F]	Top of the 6th over - 0 runs, 1 hit, 0 errors, 3 left on base; Somerset 0 - Binghamton 2
+[%T]	Bottom of the 6th - Binghamton Rumble Ponies batting - Pitching for Somerset Patriots : RHP <a href="../players/player_45785.html">Cam Schlittler</a>
+[%B]	Batting: RHB <a href="../players/player_47135.html">Jacob Reimer</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 3F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ground out 5-3 (Groundball, 5, EV 83.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_43826.html">Carter Trice</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_23704.html">Jonathan Araúz</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F6  (Line Drive, 56D, EV 72.5 MPH)
+[%F]	Bottom of the 6th over - 0 runs, 0 hits, 0 errors, 0 left on base; Somerset 0 - Binghamton 2
+[%T]	Top of the 7th - Somerset Patriots batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_37496.html">Robert Colina</a>
+[%B]	Batting: RHB <a href="../players/player_50505.html">Santiago Gomez</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6, EV 76.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_39458.html">Kelvin Espino</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 25F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F8  (Line Drive, 8LM, EV 87.5 MPH)
+[%B]	Batting: SHB <a href="../players/player_47521.html">Keiner Delgado</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Pitching: RHP <a href="../players/player_30984.html">J.B. Wendelken</a>
+[%B]	Batting: LHB <a href="../players/player_49691.html">Juan Sanchez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 7LMF
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out looking
+[%F]	Top of the 7th over - 0 runs, 0 hits, 0 errors, 1 left on base; Somerset 0 - Binghamton 2
+[%T]	Bottom of the 7th - Binghamton Rumble Ponies batting - Pitching for Somerset Patriots : RHP <a href="../players/player_45785.html">Cam Schlittler</a>
+[%B]	Batting: RHB <a href="../players/player_50583.html">Yordis Perera</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 8LS, EV 106.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_44657.html">Alex Ulloa</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 3FF
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_49036.html">Jose Melendez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 9LSF
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Grounds into double play, 5-4-3 (Groundball, 5, EV 89.4 MPH)
+[%F]	Bottom of the 7th over - 0 runs, 1 hit, 0 errors, 0 left on base; Somerset 0 - Binghamton 2
+[%T]	Top of the 8th - Somerset Patriots batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_30984.html">J.B. Wendelken</a>
+[%B]	Now at 2B: <a href="../players/player_30210.html">Jose Peraza</a>
+[%B]	Now in LF: <a href="../players/player_40755.html">Rhylan Thomas</a>
+[%B]	Batting: SHB <a href="../players/player_38384.html">Mickey Gasper</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2LF
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_22362.html">Mauro Bonifacio</a>
+[%N]	0-0: Foul Ball, location: 7LSF
+[%N]	0-1: Foul Ball, location: 7LSF
+[%N]	0-2: <b>DOUBLE</b>  (Line Drive, 9LM, EV 88.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_31599.html">Austin Wells</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Groundball, 3L, EV 108.1 MPH)
+[%N]	<b><a href="../players/player_22362.html">Mauro Bonifacio</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_19280.html">Jeisson Rosario</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1:  Fly out, F5  (Popup, 56, EV 71.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_39267.html">Dayro Perez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 9LDF
+[%N]	1-2: <b>TRIPLE</b>  (Flyball, 8RXD, EV 85.6 MPH)
+[%N]	<b><a href="../players/player_31599.html">Austin Wells</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_50505.html">Santiago Gomez</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Flyball, 89M, EV 91.3 MPH)
+[%F]	Top of the 8th over - 2 runs, 3 hits, 0 errors, 1 left on base; Somerset 2 - Binghamton 2
+[%T]	Bottom of the 8th - Binghamton Rumble Ponies batting - Pitching for Somerset Patriots : RHP <a href="../players/player_45785.html">Cam Schlittler</a>
+[%B]	Batting: SHB <a href="../players/player_49936.html">Willy Fañas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F6  (Popup, 6, EV 71.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_47628.html">Will Turner</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out 4-3 (Groundball, 4, EV 83.8 MPH)
+[%B]	Pitching: RHP <a href="../players/player_41867.html">Franklin Corniel</a>
+[%B]	Batting: RHB <a href="../players/player_30210.html">Jose Peraza</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 6MD, EV 97.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_47135.html">Jacob Reimer</a>
+[%N]	0-0:  Fly out, F6  (Line Drive, 6D, EV 68.8 MPH)
+[%F]	Bottom of the 8th over - 0 runs, 1 hit, 0 errors, 1 left on base; Somerset 2 - Binghamton 2
+[%T]	Top of the 9th - Somerset Patriots batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_30984.html">J.B. Wendelken</a>
+[%B]	Pitching: RHP <a href="../players/player_50660.html">Franciso Mercado</a>
+[%B]	Batting: LHB <a href="../players/player_39458.html">Kelvin Espino</a>
+[%N]	0-0: Foul Ball, location: 7LMF
+[%N]	0-1:  Fly out, F9  (Line Drive, 9, EV 90.6 MPH)
+[%B]	Batting: SHB <a href="../players/player_47521.html">Keiner Delgado</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_49691.html">Juan Sanchez</a>
+[%N]	0-0: Fielders Choice at 2nd, 4-6 (Groundball, 4, EV 94.4 MPH)
+[%B]	Batting: SHB <a href="../players/player_38384.html">Mickey Gasper</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Flyball, 9D, EV 106.3 MPH)
+[%F]	Top of the 9th over - 0 runs, 0 hits, 0 errors, 1 left on base; Somerset 2 - Binghamton 2
+[%T]	Bottom of the 9th - Binghamton Rumble Ponies batting - Pitching for Somerset Patriots : RHP <a href="../players/player_41867.html">Franklin Corniel</a>
+[%B]	Pitching: LHP <a href="../players/player_45932.html">Will Brian</a>
+[%B]	Pinch Hitting: SHB <a href="../players/player_27156.html">Ehire Adrianza</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 34D, EV 98.1 MPH)
+[%B]	Batting: SHB <a href="../players/player_23704.html">Jonathan Araúz</a>
+[%N]	0-0: Sac Bunt to P - play at first, batter OUT! 1-3
+[%N]	<a href="../players/player_27156.html">Ehire Adrianza</a> to second
+[%B]	Batting: RHB <a href="../players/player_50583.html">Yordis Perera</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  <b>2-RUN HOME RUN</b>  (Flyball, 9D, EV 98.8 MPH), Distance : 360 ft
+[%F]	Bottom of the 9th over - 2 runs, 2 hits, 0 errors, 0 left on base; Somerset 2 - Binghamton 4

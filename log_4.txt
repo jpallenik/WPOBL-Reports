@@ -1,0 +1,466 @@
+[%T]	Top of the 1st - Harrisburg Senators batting - Pitching for Altoona Curve : RHP <a href="../players/player_40516.html">Sean Sullivan</a>
+[%B]	Pitching: RHP <a href="../players/player_40516.html">Sean Sullivan</a>
+[%B]	Batting: LHB <a href="../players/player_37722.html">Alexander Ovalles</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_24907.html">Daylen Lile</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ground out U3 (Groundball, 3L, EV 102.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_40300.html">Manuel Sequera</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 25F
+[%N]	3-2:  Fly out, F7  (Flyball, 78S, EV 98.1 MPH)
+[%F]	Top of the 1st over - 0 runs, 0 hits, 0 errors, 0 left on base; Harrisburg 0 - Altoona 0
+[%T]	Bottom of the 1st - Altoona Curve batting - Pitching for Harrisburg Senators : RHP <a href="../players/player_19748.html">Andrew Dalquist</a>
+[%B]	Pitching: RHP <a href="../players/player_19748.html">Andrew Dalquist</a>
+[%B]	Batting: RHB <a href="../players/player_19168.html">Lolo Sanchez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F9  (Line Drive, 9S, EV 93.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_39622.html">Tres Gonzalez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 5-3 (Groundball, 56, EV 97.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_36428.html">Connor Scott</a>
+[%N]	0-0: Foul Ball, location: 5F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out looking
+[%F]	Bottom of the 1st over - 0 runs, 0 hits, 0 errors, 0 left on base; Harrisburg 0 - Altoona 0
+[%T]	Top of the 2nd - Harrisburg Senators batting - Pitching for Altoona Curve : RHP <a href="../players/player_40516.html">Sean Sullivan</a>
+[%B]	Batting: LHB <a href="../players/player_41159.html">Jac Caglianone</a>
+[%N]	0-0: Ball
+[%N]	1-0: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_22176.html">Alexander Canario</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_44948.html">Jared McKenzie</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 3F
+[%N]	1-1:  Fly out, F8  (Line Drive, 8RS, EV 89.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_24017.html">Brady House</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 9LSF
+[%N]	0-2: <b>SINGLE</b>  (Line Drive, 6MD, EV 107.5 MPH)
+[%N]	<a href="../players/player_41159.html">Jac Caglianone</a> to second
+[%B]	Batting: LHB <a href="../players/player_38012.html">Oscar Rangel</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Flyball, 7, EV 94.4 MPH)
+[%F]	Top of the 2nd over - 0 runs, 1 hit, 0 errors, 2 left on base; Harrisburg 0 - Altoona 0
+[%T]	Bottom of the 2nd - Altoona Curve batting - Pitching for Harrisburg Senators : RHP <a href="../players/player_19748.html">Andrew Dalquist</a>
+[%B]	Batting: LHB <a href="../players/player_23232.html">Canaan Smith-Njigba</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_43183.html">Garret Forrester</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out swinging, 2-3 out at first.
+[%B]	Batting: RHB <a href="../players/player_37621.html">Junior Perez</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out swinging
+[%F]	Bottom of the 2nd over - 0 runs, 0 hits, 0 errors, 0 left on base; Harrisburg 0 - Altoona 0
+[%T]	Top of the 3rd - Harrisburg Senators batting - Pitching for Altoona Curve : RHP <a href="../players/player_40516.html">Sean Sullivan</a>
+[%B]	Batting: RHB <a href="../players/player_36804.html">Miguel Hiraldo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 5-3 (Groundball, 56S, EV 85.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_37722.html">Alexander Ovalles</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 4D, EV 96.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_24907.html">Daylen Lile</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Line Drive, 89S, EV 96.9 MPH)
+[%N]	<a href="../players/player_37722.html">Alexander Ovalles</a> to second
+[%B]	Batting: RHB <a href="../players/player_40300.html">Manuel Sequera</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_41159.html">Jac Caglianone</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 3rd over - 0 runs, 2 hits, 0 errors, 2 left on base; Harrisburg 0 - Altoona 0
+[%T]	Bottom of the 3rd - Altoona Curve batting - Pitching for Harrisburg Senators : RHP <a href="../players/player_19748.html">Andrew Dalquist</a>
+[%B]	Batting: SHB <a href="../players/player_47848.html">Andrew Sundean</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: <b>SINGLE</b>  (Line Drive, 8LS, EV 95.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_36002.html">Claudio Finol</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 34D, EV 100.6 MPH)
+[%N]	<a href="../players/player_47848.html">Andrew Sundean</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw by RF made to third
+[%N]	<a href="../players/player_36002.html">Claudio Finol</a> to second
+[%B]	Batting: RHB <a href="../players/player_37598.html">Norkis Marcos</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_19168.html">Lolo Sanchez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F5  (Line Drive, 56, EV 66.9 MPH)
+[%N]	Lined into DP, U5 (Line Drive, 56, EV 66.9 MPH)
+[%F]	Bottom of the 3rd over - 0 runs, 2 hits, 0 errors, 1 left on base; Harrisburg 0 - Altoona 0
+[%T]	Top of the 4th - Harrisburg Senators batting - Pitching for Altoona Curve : RHP <a href="../players/player_40516.html">Sean Sullivan</a>
+[%B]	Batting: RHB <a href="../players/player_22176.html">Alexander Canario</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F6  (Line Drive, 6, EV 69.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_44948.html">Jared McKenzie</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: <b>SINGLE</b>  (Line Drive, 89S, EV 94.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_24017.html">Brady House</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 23F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_38012.html">Oscar Rangel</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 9LSF
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%F]	Top of the 4th over - 0 runs, 1 hit, 0 errors, 1 left on base; Harrisburg 0 - Altoona 0
+[%T]	Bottom of the 4th - Altoona Curve batting - Pitching for Harrisburg Senators : RHP <a href="../players/player_19748.html">Andrew Dalquist</a>
+[%B]	Batting: LHB <a href="../players/player_39622.html">Tres Gonzalez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Flyball, 8RS, EV 93.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_36428.html">Connor Scott</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_23232.html">Canaan Smith-Njigba</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_43183.html">Garret Forrester</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 56D, EV 99.4 MPH)
+[%N]	<a href="../players/player_39622.html">Tres Gonzalez</a> to second
+[%B]	Batting: RHB <a href="../players/player_37621.html">Junior Perez</a>
+[%N]	0-0: Fielders Choice at 2nd, 6-4 (Groundball, 6D, EV 88.1 MPH)
+[%F]	Bottom of the 4th over - 0 runs, 2 hits, 0 errors, 2 left on base; Harrisburg 0 - Altoona 0
+[%T]	Top of the 5th - Harrisburg Senators batting - Pitching for Altoona Curve : RHP <a href="../players/player_40516.html">Sean Sullivan</a>
+[%B]	Batting: RHB <a href="../players/player_36804.html">Miguel Hiraldo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 8LS, EV 104.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_37722.html">Alexander Ovalles</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Bunt missed!
+[%N]	2-1: Foul Ball, location: 9LDF
+[%N]	2-2:  Fly out, F7  (Flyball, 7D, EV 103.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_24907.html">Daylen Lile</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_36804.html">Miguel Hiraldo</a> to second
+[%B]	Batting: RHB <a href="../players/player_40300.html">Manuel Sequera</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_36804.html">Miguel Hiraldo</a> steals 3rd base
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_24907.html">Daylen Lile</a> to second
+[%B]	Batting: LHB <a href="../players/player_41159.html">Jac Caglianone</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 7LDF
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<b><a href="../players/player_36804.html">Miguel Hiraldo</a> scores</b>
+[%N]	<a href="../players/player_24907.html">Daylen Lile</a> to third
+[%N]	<a href="../players/player_40300.html">Manuel Sequera</a> to second
+[%B]	Batting: RHB <a href="../players/player_22176.html">Alexander Canario</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 8RD, EV 101.3 MPH)
+[%N]	<b>Runner from 3rd tags up, SCORES, no throw by CF</b>
+[%B]	Batting: LHB <a href="../players/player_44948.html">Jared McKenzie</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: <b>SINGLE</b>  (Flyball, 5D, EV 92.5 MPH)
+[%N]	<a href="../players/player_40300.html">Manuel Sequera</a> to third
+[%N]	<a href="../players/player_41159.html">Jac Caglianone</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by LF to trailing runner, OUT at third! 7-6-5</b>
+[%F]	Top of the 5th over - 3 runs, 2 hits, 0 errors, 1 left on base; Harrisburg 3 - Altoona 0
+[%T]	Bottom of the 5th - Altoona Curve batting - Pitching for Harrisburg Senators : RHP <a href="../players/player_19748.html">Andrew Dalquist</a>
+[%B]	Batting: SHB <a href="../players/player_47848.html">Andrew Sundean</a>
+[%N]	0-0: Ground out 1-3 (Groundball, 34S, EV 71.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_36002.html">Claudio Finol</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_37598.html">Norkis Marcos</a>
+[%N]	0-0: Foul Ball, location: 5F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2:  <b>2-RUN HOME RUN</b>  (Flyball, 89XD, EV 102.5 MPH), Distance : 411 ft
+[%B]	Batting: RHB <a href="../players/player_19168.html">Lolo Sanchez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_39622.html">Tres Gonzalez</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 6MD, EV 103.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_36428.html">Connor Scott</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out swinging
+[%F]	Bottom of the 5th over - 2 runs, 2 hits, 0 errors, 1 left on base; Harrisburg 3 - Altoona 2
+[%T]	Top of the 6th - Harrisburg Senators batting - Pitching for Altoona Curve : RHP <a href="../players/player_40516.html">Sean Sullivan</a>
+[%B]	Batting: RHB <a href="../players/player_24017.html">Brady House</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_38012.html">Oscar Rangel</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F4  (Popup, 34D, EV 51.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_36804.html">Miguel Hiraldo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2:  <b>SOLO HOME RUN</b>  (Flyball, 9LD, EV 97.5 MPH), Distance : 338 ft
+[%B]	Pitching: RHP <a href="../players/player_38083.html">Carlos Campos</a>
+[%B]	Batting: LHB <a href="../players/player_37722.html">Alexander Ovalles</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out looking
+[%F]	Top of the 6th over - 1 run, 1 hit, 0 errors, 0 left on base; Harrisburg 4 - Altoona 2
+[%T]	Bottom of the 6th - Altoona Curve batting - Pitching for Harrisburg Senators : RHP <a href="../players/player_19748.html">Andrew Dalquist</a>
+[%B]	Batting: LHB <a href="../players/player_23232.html">Canaan Smith-Njigba</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Swinging Strike
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_43183.html">Garret Forrester</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 9LDF
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_37621.html">Junior Perez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 9LSF
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 9LSF
+[%N]	3-2: Foul Ball, location: 2RF
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_23232.html">Canaan Smith-Njigba</a> to second
+[%B]	Batting: SHB <a href="../players/player_47848.html">Andrew Sundean</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7D, EV 111.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_36002.html">Claudio Finol</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_23232.html">Canaan Smith-Njigba</a> to third
+[%N]	<a href="../players/player_37621.html">Junior Perez</a> to second
+[%B]	Batting: RHB <a href="../players/player_37598.html">Norkis Marcos</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 6th over - 0 runs, 0 hits, 0 errors, 3 left on base; Harrisburg 4 - Altoona 2
+[%T]	Top of the 7th - Harrisburg Senators batting - Pitching for Altoona Curve : RHP <a href="../players/player_38083.html">Carlos Campos</a>
+[%B]	Pitching: LHP <a href="../players/player_20843.html">Juan Pablo Lopez</a>
+[%B]	Batting: LHB <a href="../players/player_24907.html">Daylen Lile</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 23F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 8RS, EV 103.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_40300.html">Manuel Sequera</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 3DF
+[%N]	0-2: Foul Ball, location: 3SF
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_24907.html">Daylen Lile</a> to second
+[%B]	Batting: LHB <a href="../players/player_41159.html">Jac Caglianone</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 9LDF
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out looking
+[%B]	Pitching: RHP <a href="../players/player_39443.html">Johan Montero</a>
+[%B]	Batting: RHB <a href="../players/player_22176.html">Alexander Canario</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F7  (Flyball, 7S, EV 87.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_44948.html">Jared McKenzie</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 9LSFF
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 7th over - 0 runs, 1 hit, 0 errors, 2 left on base; Harrisburg 4 - Altoona 2
+[%T]	Bottom of the 7th - Altoona Curve batting - Pitching for Harrisburg Senators : RHP <a href="../players/player_19748.html">Andrew Dalquist</a>
+[%B]	Batting: RHB <a href="../players/player_19168.html">Lolo Sanchez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 7LSF
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_39622.html">Tres Gonzalez</a>
+[%N]	0-0:  Fly out, F7  (Line Drive, 7, EV 89.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_36428.html">Connor Scott</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 3DF
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%F]	Bottom of the 7th over - 0 runs, 0 hits, 0 errors, 0 left on base; Harrisburg 4 - Altoona 2
+[%T]	Top of the 8th - Harrisburg Senators batting - Pitching for Altoona Curve : RHP <a href="../players/player_39443.html">Johan Montero</a>
+[%B]	Batting: RHB <a href="../players/player_24017.html">Brady House</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 89S, EV 104.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_38012.html">Oscar Rangel</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 3F
+[%N]	0-2: Foul Ball, location: 7LMF
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_36804.html">Miguel Hiraldo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 9LDF
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_37722.html">Alexander Ovalles</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Line Drive, 7, EV 103.1 MPH)
+[%F]	Top of the 8th over - 0 runs, 1 hit, 0 errors, 1 left on base; Harrisburg 4 - Altoona 2
+[%T]	Bottom of the 8th - Altoona Curve batting - Pitching for Harrisburg Senators : RHP <a href="../players/player_19748.html">Andrew Dalquist</a>
+[%B]	Now at 2B: <a href="../players/player_1691.html">Moisés Castillo</a>
+[%B]	Now at 3B: <a href="../players/player_40300.html">Manuel Sequera</a>
+[%B]	Now at SS: <a href="../players/player_24017.html">Brady House</a>
+[%B]	Batting: LHB <a href="../players/player_23232.html">Canaan Smith-Njigba</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 8LS, EV 92.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_43183.html">Garret Forrester</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Reached on error, E4 (Groundball, 4, EV 79.4 MPH)
+[%N]	<a href="../players/player_23232.html">Canaan Smith-Njigba</a> to second
+[%B]	Pitching: RHP <a href="../players/player_22696.html">Carlos Romero</a>
+[%B]	Now at 2B: <a href="../players/player_37514.html">Viandel Pena</a>
+[%B]	Now at 3B: <a href="../players/player_1691.html">Moisés Castillo</a>
+[%B]	Batting: RHB <a href="../players/player_37621.html">Junior Perez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_47848.html">Andrew Sundean</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 23F
+[%N]	1-1:  Fly out, F9  (Flyball, 9, EV 90.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_36002.html">Claudio Finol</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 8th over - 0 runs, 1 hit, 1 error, 2 left on base; Harrisburg 4 - Altoona 2
+[%T]	Top of the 9th - Harrisburg Senators batting - Pitching for Altoona Curve : RHP <a href="../players/player_39443.html">Johan Montero</a>
+[%B]	Batting: LHB <a href="../players/player_24907.html">Daylen Lile</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_37514.html">Viandel Pena</a>
+[%N]	0-0: Foul Ball, location: 7LSF
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 5FF
+[%N]	1-2: Foul Ball, location: 7LMF
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_41159.html">Jac Caglianone</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 8RS, EV 98.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_22176.html">Alexander Canario</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 3SF
+[%N]	2-2: Foul Ball, location: 5FF
+[%N]	2-2: Strikes out swinging
+[%F]	Top of the 9th over - 0 runs, 1 hit, 0 errors, 1 left on base; Harrisburg 4 - Altoona 2
+[%T]	Bottom of the 9th - Altoona Curve batting - Pitching for Harrisburg Senators : RHP <a href="../players/player_22696.html">Carlos Romero</a>
+[%B]	Pitching: LHP <a href="../players/player_45314.html">Drew Sommers</a>
+[%B]	Batting: RHB <a href="../players/player_37598.html">Norkis Marcos</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_19168.html">Lolo Sanchez</a>
+[%N]	0-0: Hit by Pitch
+[%B]	Batting: LHB <a href="../players/player_39622.html">Tres Gonzalez</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_36428.html">Connor Scott</a>
+[%N]	0-0: Foul Ball, location: 5SF
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%F]	Bottom of the 9th over - 0 runs, 0 hits, 0 errors, 1 left on base; Harrisburg 4 - Altoona 2

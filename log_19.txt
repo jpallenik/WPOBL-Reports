@@ -1,0 +1,537 @@
+[%T]	Top of the 1st - New Hampshire Fisher Cats batting - Pitching for Portland Sea Dogs : RHP <a href="../players/player_25495.html">Zach Plesac</a>
+[%B]	Pitching: RHP <a href="../players/player_25495.html">Zach Plesac</a>
+[%B]	Batting: RHB <a href="../players/player_42610.html">Manuel Beltré</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2:  Fly out, F6  (Popup, 6MS, EV 75.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_41206.html">Druw Jones</a>
+[%N]	0-0:  Fly out, F7  (Line Drive, 7S, EV 89.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_48903.html">Hendry Mendez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 3DF
+[%N]	1-1: Ball
+[%N]	2-1: <b>DOUBLE</b>  (Flyball, 8LXD, EV 105.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_39192.html">Alex De Jesus</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%F]	Top of the 1st over - 0 runs, 1 hit, 0 errors, 1 left on base; New Hampshire 0 - Portland 0
+[%T]	Bottom of the 1st - Portland Sea Dogs batting - Pitching for New Hampshire Fisher Cats : RHP <a href="../players/player_47566.html">Cole Phillips</a>
+[%B]	Pitching: RHP <a href="../players/player_47566.html">Cole Phillips</a>
+[%B]	Batting: LHB <a href="../players/player_40959.html">Micah McDowell</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 5DF
+[%N]	2-2: Ball
+[%N]	3-2: <b>DOUBLE</b>  (Line Drive, 9LS, EV 101.3 MPH)
+[%B]	Batting: SHB <a href="../players/player_44591.html">Noah Miller</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 7LMF
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 25FF
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_26690.html">Jarren Duran</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_40959.html">Micah McDowell</a> to third
+[%N]	<a href="../players/player_44591.html">Noah Miller</a> to second
+[%B]	Batting: LHB <a href="../players/player_41069.html">Cooper Kinney</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>TRIPLE</b>  (Line Drive, 8RXD, EV 107.5 MPH)
+[%N]	<b><a href="../players/player_40959.html">Micah McDowell</a> scores</b>
+[%N]	<b><a href="../players/player_44591.html">Noah Miller</a> scores</b>
+[%N]	<b><a href="../players/player_26690.html">Jarren Duran</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_1134.html">Cody Schrier</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 5SF
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 5FF
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_48896.html">Ariel Almonte</a>
+[%N]	0-0: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_43655.html">Reagan Burford</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 78M, EV 110.6 MPH)
+[%N]	<b><a href="../players/player_41069.html">Cooper Kinney</a> scores</b>
+[%N]	<a href="../players/player_48896.html">Ariel Almonte</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw by CF made to third
+[%N]	<a href="../players/player_43655.html">Reagan Burford</a> to second
+[%B]	Batting: SHB <a href="../players/player_42572.html">Braden Montgomery</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_39117.html">Naysbel Marcano</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F7  (Flyball, 7D, EV 97.5 MPH)
+[%F]	Bottom of the 1st over - 4 runs, 3 hits, 0 errors, 2 left on base; New Hampshire 0 - Portland 4
+[%T]	Top of the 2nd - New Hampshire Fisher Cats batting - Pitching for Portland Sea Dogs : RHP <a href="../players/player_25495.html">Zach Plesac</a>
+[%B]	Batting: RHB <a href="../players/player_1724.html">Roberto Álvarez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Called Strike
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_49942.html">Roque Salinas</a>
+[%N]	0-0: Foul Ball, location: 25F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2:  <b>2-RUN HOME RUN</b>  (Flyball, 89XD, EV 100.0 MPH), Distance : 396 ft
+[%B]	Batting: RHB <a href="../players/player_48307.html">Cam Clayton</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_40544.html">Anthony Morales</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 4-3 (Groundball, 4, EV 83.1 MPH)
+[%B]	Batting: SHB <a href="../players/player_40023.html">Marcos De La Rosa</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6M, EV 92.5 MPH)
+[%F]	Top of the 2nd over - 2 runs, 1 hit, 0 errors, 0 left on base; New Hampshire 2 - Portland 4
+[%T]	Bottom of the 2nd - Portland Sea Dogs batting - Pitching for New Hampshire Fisher Cats : RHP <a href="../players/player_47566.html">Cole Phillips</a>
+[%B]	Batting: LHB <a href="../players/player_40959.html">Micah McDowell</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_44591.html">Noah Miller</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_26690.html">Jarren Duran</a>
+[%N]	0-0: Foul Ball, location: 7LDF
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F9  (Flyball, 9, EV 72.5 MPH)
+[%F]	Bottom of the 2nd over - 0 runs, 0 hits, 0 errors, 0 left on base; New Hampshire 2 - Portland 4
+[%T]	Top of the 3rd - New Hampshire Fisher Cats batting - Pitching for Portland Sea Dogs : RHP <a href="../players/player_25495.html">Zach Plesac</a>
+[%B]	Batting: RHB <a href="../players/player_42610.html">Manuel Beltré</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 3F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 5F
+[%N]	3-2: Foul Ball, location: 9LSF
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_41206.html">Druw Jones</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 5D, EV 105.6 MPH)
+[%N]	<a href="../players/player_42610.html">Manuel Beltré</a> to second
+[%B]	Batting: LHB <a href="../players/player_48903.html">Hendry Mendez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Fielders Choice at 2nd, 4-6 (Groundball, 4, EV 84.4 MPH)
+[%N]	<a href="../players/player_42610.html">Manuel Beltré</a> to third
+[%B]	Batting: RHB <a href="../players/player_39192.html">Alex De Jesus</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_1724.html">Roberto Álvarez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 7LDF
+[%N]	1-2: Foul Ball, location: 5FF
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 3rd over - 0 runs, 1 hit, 0 errors, 2 left on base; New Hampshire 2 - Portland 4
+[%T]	Bottom of the 3rd - Portland Sea Dogs batting - Pitching for New Hampshire Fisher Cats : RHP <a href="../players/player_47566.html">Cole Phillips</a>
+[%B]	Batting: LHB <a href="../players/player_41069.html">Cooper Kinney</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 5D, EV 95.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_1134.html">Cody Schrier</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Flyball, 9S, EV 86.9 MPH)
+[%N]	<a href="../players/player_41069.html">Cooper Kinney</a> to second
+[%B]	Batting: LHB <a href="../players/player_48896.html">Ariel Almonte</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: <b>DOUBLE</b>  (Line Drive, 7LM, EV 106.9 MPH)
+[%N]	<b><a href="../players/player_41069.html">Cooper Kinney</a> scores</b>
+[%N]	<a href="../players/player_1134.html">Cody Schrier</a> to third
+[%B]	Pitching: RHP <a href="../players/player_41720.html">Devereaux Harrison</a>
+[%B]	Batting: RHB <a href="../players/player_43655.html">Reagan Burford</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_42572.html">Braden Montgomery</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 7LSF
+[%N]	2-2: Foul Ball, location: 5DF
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_39117.html">Naysbel Marcano</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 6MD, EV 95.0 MPH)
+[%N]	<b><a href="../players/player_1134.html">Cody Schrier</a> scores</b>
+[%N]	<a href="../players/player_48896.html">Ariel Almonte</a> to third
+[%N]	<a href="../players/player_43655.html">Reagan Burford</a> to second
+[%B]	Batting: LHB <a href="../players/player_40959.html">Micah McDowell</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F9  (Flyball, 89D, EV 82.5 MPH)
+[%N]	<b>Runner from 3rd tags up, SCORES, no throw by RF</b>
+[%B]	Batting: SHB <a href="../players/player_44591.html">Noah Miller</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 34D, EV 97.5 MPH)
+[%N]	<a href="../players/player_43655.html">Reagan Burford</a> to third
+[%N]	<a href="../players/player_39117.html">Naysbel Marcano</a> to second
+[%B]	Batting: LHB <a href="../players/player_26690.html">Jarren Duran</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 78D, EV 87.5 MPH)
+[%F]	Bottom of the 3rd over - 3 runs, 5 hits, 0 errors, 3 left on base; New Hampshire 2 - Portland 7
+[%T]	Top of the 4th - New Hampshire Fisher Cats batting - Pitching for Portland Sea Dogs : RHP <a href="../players/player_25495.html">Zach Plesac</a>
+[%B]	Batting: LHB <a href="../players/player_49942.html">Roque Salinas</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6, EV 86.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_48307.html">Cam Clayton</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_40544.html">Anthony Morales</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 6D, EV 89.4 MPH)
+[%B]	Batting: SHB <a href="../players/player_40023.html">Marcos De La Rosa</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out swinging
+[%F]	Top of the 4th over - 0 runs, 1 hit, 0 errors, 1 left on base; New Hampshire 2 - Portland 7
+[%T]	Bottom of the 4th - Portland Sea Dogs batting - Pitching for New Hampshire Fisher Cats : RHP <a href="../players/player_41720.html">Devereaux Harrison</a>
+[%B]	Batting: LHB <a href="../players/player_41069.html">Cooper Kinney</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1:  <b>SOLO HOME RUN</b>  (Flyball, 9LD, EV 95.0 MPH), Distance : 337 ft
+[%B]	Batting: RHB <a href="../players/player_1134.html">Cody Schrier</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 6-3 (Groundball, 6S, EV 85.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_48896.html">Ariel Almonte</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_43655.html">Reagan Burford</a>
+[%N]	0-0: Foul Ball, location: 9LSF
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2LF
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_42572.html">Braden Montgomery</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 7LMF
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 4th over - 1 run, 1 hit, 0 errors, 1 left on base; New Hampshire 2 - Portland 8
+[%T]	Top of the 5th - New Hampshire Fisher Cats batting - Pitching for Portland Sea Dogs : RHP <a href="../players/player_25495.html">Zach Plesac</a>
+[%B]	Batting: RHB <a href="../players/player_42610.html">Manuel Beltré</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 6-3 (Groundball, 6, EV 83.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_41206.html">Druw Jones</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_48903.html">Hendry Mendez</a>
+[%N]	0-0: Foul Ball, location: 9LMF
+[%N]	0-1: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_41206.html">Druw Jones</a> to second
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 4MD, EV 102.5 MPH)
+[%N]	<a href="../players/player_41206.html">Druw Jones</a> to third
+[%B]	Batting: RHB <a href="../players/player_39192.html">Alex De Jesus</a>
+[%N]	0-0: Foul Ball, location: 9LSF
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: <b>DOUBLE</b>  (Groundball, 5L, EV 101.3 MPH)
+[%N]	<b><a href="../players/player_41206.html">Druw Jones</a> scores</b>
+[%N]	<a href="../players/player_48903.html">Hendry Mendez</a> to third
+[%B]	Batting: RHB <a href="../players/player_1724.html">Roberto Álvarez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Called Strike
+[%N]	2-2: Ground out 4-3 (Groundball, 4, EV 90.0 MPH)
+[%N]	<b><a href="../players/player_48903.html">Hendry Mendez</a> scores</b>
+[%N]	<a href="../players/player_39192.html">Alex De Jesus</a> to third
+[%B]	Batting: LHB <a href="../players/player_49942.html">Roque Salinas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	Wild Pitch!
+[%N]	<b><a href="../players/player_39192.html">Alex De Jesus</a> scores</b>
+[%N]	2-0: Foul Ball, location: 3FF
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 3FF
+[%N]	3-2:  <b>SOLO HOME RUN</b>  (Flyball, 7D, EV 101.3 MPH), Distance : 394 ft
+[%B]	Pitching: RHP <a href="../players/player_39110.html">Angel Bastardo</a>
+[%B]	Batting: RHB <a href="../players/player_48307.html">Cam Clayton</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ground out 4-3 (Groundball, 4, EV 80.0 MPH)
+[%F]	Top of the 5th over - 4 runs, 3 hits, 0 errors, 0 left on base; New Hampshire 6 - Portland 8
+[%T]	Bottom of the 5th - Portland Sea Dogs batting - Pitching for New Hampshire Fisher Cats : RHP <a href="../players/player_41720.html">Devereaux Harrison</a>
+[%B]	Batting: RHB <a href="../players/player_39117.html">Naysbel Marcano</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 78M, EV 96.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_40959.html">Micah McDowell</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ground out 6-3 (Groundball, 56D, EV 101.9 MPH)
+[%B]	Batting: SHB <a href="../players/player_44591.html">Noah Miller</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F9  (Line Drive, 9D, EV 92.5 MPH)
+[%F]	Bottom of the 5th over - 0 runs, 0 hits, 0 errors, 0 left on base; New Hampshire 6 - Portland 8
+[%T]	Top of the 6th - New Hampshire Fisher Cats batting - Pitching for Portland Sea Dogs : RHP <a href="../players/player_39110.html">Angel Bastardo</a>
+[%B]	Batting: SHB <a href="../players/player_40544.html">Anthony Morales</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: <b>SINGLE</b>  (Line Drive, 7S, EV 99.4 MPH)
+[%B]	Batting: SHB <a href="../players/player_40023.html">Marcos De La Rosa</a>
+[%N]	0-0: Foul Ball, location: 5F
+[%N]	0-1: Foul Ball, location: 7LDF
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Hit by Pitch
+[%N]	<a href="../players/player_40544.html">Anthony Morales</a> to second
+[%B]	Batting: RHB <a href="../players/player_42610.html">Manuel Beltré</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Bunt missed!
+[%N]	1-2: Ball
+[%N]	2-2: <b>TRIPLE</b>  (Flyball, 8RXD, EV 107.5 MPH)
+[%N]	<b><a href="../players/player_40544.html">Anthony Morales</a> scores</b>
+[%N]	<b><a href="../players/player_40023.html">Marcos De La Rosa</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_41206.html">Druw Jones</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 3-1 (Groundball, 34S, EV 88.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_48903.html">Hendry Mendez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 34D, EV 102.5 MPH)
+[%N]	<b><a href="../players/player_42610.html">Manuel Beltré</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_39192.html">Alex De Jesus</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_48903.html">Hendry Mendez</a> to second
+[%B]	Batting: RHB <a href="../players/player_1724.html">Roberto Álvarez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 5FF
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: <b>DOUBLE</b>  (Line Drive, 89D, EV 109.4 MPH)
+[%N]	<b><a href="../players/player_48903.html">Hendry Mendez</a> scores</b>
+[%N]	<a href="../players/player_39192.html">Alex De Jesus</a> to third
+[%B]	Pitching: LHP <a href="../players/player_27498.html">Martin Perez</a>
+[%B]	Batting: LHB <a href="../players/player_49942.html">Roque Salinas</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6, EV 85.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_48307.html">Cam Clayton</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 9LDF
+[%N]	0-2: Strikes out looking
+[%F]	Top of the 6th over - 4 runs, 4 hits, 0 errors, 2 left on base; New Hampshire 10 - Portland 8
+[%T]	Bottom of the 6th - Portland Sea Dogs batting - Pitching for New Hampshire Fisher Cats : RHP <a href="../players/player_41720.html">Devereaux Harrison</a>
+[%B]	Batting: LHB <a href="../players/player_26690.html">Jarren Duran</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_41069.html">Cooper Kinney</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Sac Bunt to 5S - play at first, batter safe!
+[%N]	<a href="../players/player_26690.html">Jarren Duran</a> to second
+[%B]	Pitching: LHP <a href="../players/player_31694.html">A.J. Puk</a>
+[%B]	Batting: RHB <a href="../players/player_1134.html">Cody Schrier</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 23FF
+[%N]	1-2: Ball
+[%N]	2-2: Grounds into double play, 6-4-3 (Groundball, 6D, EV 106.9 MPH)
+[%N]	<a href="../players/player_26690.html">Jarren Duran</a> to third
+[%B]	Batting: LHB <a href="../players/player_48896.html">Ariel Almonte</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	Wild Pitch!
+[%N]	<b><a href="../players/player_26690.html">Jarren Duran</a> scores</b>
+[%N]	3-2: Strikes out looking
+[%F]	Bottom of the 6th over - 1 run, 1 hit, 0 errors, 0 left on base; New Hampshire 10 - Portland 9
+[%T]	Top of the 7th - New Hampshire Fisher Cats batting - Pitching for Portland Sea Dogs : LHP <a href="../players/player_27498.html">Martin Perez</a>
+[%B]	Batting: SHB <a href="../players/player_40544.html">Anthony Morales</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 6-3 (Groundball, 6, EV 101.9 MPH)
+[%B]	Batting: SHB <a href="../players/player_40023.html">Marcos De La Rosa</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 5DF
+[%N]	1-1:  Fly out, F3  (Popup, 23F, EV 91.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_42610.html">Manuel Beltré</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 4-3 (Groundball, 4, EV 83.1 MPH)
+[%F]	Top of the 7th over - 0 runs, 0 hits, 0 errors, 0 left on base; New Hampshire 10 - Portland 9
+[%T]	Bottom of the 7th - Portland Sea Dogs batting - Pitching for New Hampshire Fisher Cats : LHP <a href="../players/player_31694.html">A.J. Puk</a>
+[%B]	Now at 1B: <a href="../players/player_37779.html">Diowill Burgos</a>
+[%B]	Batting: RHB <a href="../players/player_43655.html">Reagan Burford</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F9  (Flyball, 9S, EV 95.0 MPH)
+[%B]	Batting: SHB <a href="../players/player_42572.html">Braden Montgomery</a>
+[%N]	0-0: Foul Ball, location: 23F
+[%N]	0-1: <b>DOUBLE</b>  (Flyball, 78D, EV 93.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_39117.html">Naysbel Marcano</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_40959.html">Micah McDowell</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 4MD, EV 98.1 MPH)
+[%N]	<a href="../players/player_42572.html">Braden Montgomery</a> to third
+[%B]	Batting: SHB <a href="../players/player_44591.html">Noah Miller</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Foul Ball, location: 5F
+[%N]	3-2: Strikes out swinging
+[%F]	Bottom of the 7th over - 0 runs, 2 hits, 0 errors, 2 left on base; New Hampshire 10 - Portland 9
+[%T]	Top of the 8th - New Hampshire Fisher Cats batting - Pitching for Portland Sea Dogs : LHP <a href="../players/player_27498.html">Martin Perez</a>
+[%B]	Batting: RHB <a href="../players/player_41206.html">Druw Jones</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_48903.html">Hendry Mendez</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Flyball, 7LMF, EV 96.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_39192.html">Alex De Jesus</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F8  (Flyball, 89M, EV 96.3 MPH)
+[%F]	Top of the 8th over - 0 runs, 0 hits, 0 errors, 0 left on base; New Hampshire 10 - Portland 9
+[%T]	Bottom of the 8th - Portland Sea Dogs batting - Pitching for New Hampshire Fisher Cats : LHP <a href="../players/player_31694.html">A.J. Puk</a>
+[%B]	Batting: LHB <a href="../players/player_26690.html">Jarren Duran</a>
+[%N]	0-0: Foul Ball, location: 25F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 4-3 (Groundball, 4, EV 80.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_41069.html">Cooper Kinney</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 4-3 (Groundball, 4, EV 94.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_1134.html">Cody Schrier</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_48896.html">Ariel Almonte</a>
+[%N]	0-0: Foul Ball, location: 5FF
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F9  (Flyball, 9, EV 75.0 MPH)
+[%F]	Bottom of the 8th over - 0 runs, 0 hits, 0 errors, 1 left on base; New Hampshire 10 - Portland 9
+[%T]	Top of the 9th - New Hampshire Fisher Cats batting - Pitching for Portland Sea Dogs : LHP <a href="../players/player_27498.html">Martin Perez</a>
+[%B]	Batting: RHB <a href="../players/player_1724.html">Roberto Álvarez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_49942.html">Roque Salinas</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 7S, EV 96.9 MPH)
+[%N]	<a href="../players/player_1724.html">Roberto Álvarez</a> to second
+[%B]	Batting: RHB <a href="../players/player_48307.html">Cam Clayton</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_37779.html">Diowill Burgos</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2LF
+[%N]	3-2:  Fly out, F9  (Flyball, 89M, EV 93.1 MPH)
+[%B]	Batting: SHB <a href="../players/player_40023.html">Marcos De La Rosa</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out swinging
+[%F]	Top of the 9th over - 0 runs, 1 hit, 0 errors, 2 left on base; New Hampshire 10 - Portland 9
+[%T]	Bottom of the 9th - Portland Sea Dogs batting - Pitching for New Hampshire Fisher Cats : LHP <a href="../players/player_31694.html">A.J. Puk</a>
+[%B]	Pitching: RHP <a href="../players/player_42190.html">Francisco Lucumi</a>
+[%B]	Batting: RHB <a href="../players/player_43655.html">Reagan Burford</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 9LDF
+[%N]	1-2: Foul Ball, location: 23FF
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_42572.html">Braden Montgomery</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_39117.html">Naysbel Marcano</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 3SF
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 9th over - 0 runs, 0 hits, 0 errors, 0 left on base; New Hampshire 10 - Portland 9

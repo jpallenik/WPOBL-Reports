@@ -1,0 +1,434 @@
+[%T]	Top of the 1st - Reading Fightin Phils batting - Pitching for Somerset Patriots : RHP <a href="../players/player_45785.html">Cam Schlittler</a>
+[%B]	Pitching: RHP <a href="../players/player_45785.html">Cam Schlittler</a>
+[%B]	Batting: RHB <a href="../players/player_48175.html">Jace Avina</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_46734.html">Stephen Klein</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out U3 (Groundball, 3L, EV 78.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_25554.html">Eduardo Torrealba</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%F]	Top of the 1st over - 0 runs, 0 hits, 0 errors, 0 left on base; Reading 0 - Somerset 0
+[%T]	Bottom of the 1st - Somerset Patriots batting - Pitching for Reading Fightin Phils : RHP <a href="../players/player_25055.html">Griff McGarry</a>
+[%B]	Pitching: RHP <a href="../players/player_25055.html">Griff McGarry</a>
+[%B]	Batting: SHB <a href="../players/player_38384.html">Mickey Gasper</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_39458.html">Kelvin Espino</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 5F
+[%N]	2-2: Foul Ball, location: 23F
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 78M, EV 101.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_31599.html">Austin Wells</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_39458.html">Kelvin Espino</a> to second
+[%B]	Batting: LHB <a href="../players/player_19280.html">Jeisson Rosario</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 89S, EV 108.8 MPH)
+[%N]	<a href="../players/player_39458.html">Kelvin Espino</a> to third
+[%N]	<a href="../players/player_31599.html">Austin Wells</a> to second
+[%B]	Batting: RHB <a href="../players/player_36777.html">Tyler Hardman</a>
+[%N]	0-0: Grounds into double play, 6-4-3 (Groundball, 6, EV 86.9 MPH)
+[%F]	Bottom of the 1st over - 0 runs, 2 hits, 0 errors, 2 left on base; Reading 0 - Somerset 0
+[%T]	Top of the 2nd - Reading Fightin Phils batting - Pitching for Somerset Patriots : RHP <a href="../players/player_45785.html">Cam Schlittler</a>
+[%B]	Batting: RHB <a href="../players/player_48872.html">Rayne Doncon</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_48405.html">Jordan Viars</a>
+[%N]	0-0: Foul Ball, location: 3F
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 7LSF
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_50511.html">José Dariel Puig</a>
+[%N]	0-0: Ball
+[%N]	1-0:  <b>SOLO HOME RUN</b>  (Flyball, 9D, EV 95.0 MPH), Distance : 352 ft
+[%B]	Batting: LHB <a href="../players/player_44026.html">Jay Harry</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 5F
+[%N]	2-2: Strikes out swinging
+[%F]	Top of the 2nd over - 1 run, 1 hit, 0 errors, 0 left on base; Reading 1 - Somerset 0
+[%T]	Bottom of the 2nd - Somerset Patriots batting - Pitching for Reading Fightin Phils : RHP <a href="../players/player_25055.html">Griff McGarry</a>
+[%B]	Batting: RHB <a href="../players/player_39267.html">Dayro Perez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F6  (Line Drive, 6, EV 71.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_22362.html">Mauro Bonifacio</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 6-3 (Groundball, 6, EV 80.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_50505.html">Santiago Gomez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out swinging
+[%F]	Bottom of the 2nd over - 0 runs, 0 hits, 0 errors, 0 left on base; Reading 1 - Somerset 0
+[%T]	Top of the 3rd - Reading Fightin Phils batting - Pitching for Somerset Patriots : RHP <a href="../players/player_45785.html">Cam Schlittler</a>
+[%B]	Batting: RHB <a href="../players/player_36944.html">Carlos Irigoyen</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 5F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 5FF
+[%N]	1-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_42922.html">Yhoswar Garcia</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_48175.html">Jace Avina</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_46734.html">Stephen Klein</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 7LDF
+[%N]	1-1: Foul Ball, location: 2LF
+[%N]	1-2: Foul Ball, location: 25F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 3DF
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 34D, EV 106.9 MPH)
+[%N]	<a href="../players/player_42922.html">Yhoswar Garcia</a> to second
+[%B]	Batting: RHB <a href="../players/player_25554.html">Eduardo Torrealba</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1:  Fly out, F9  (Line Drive, 9, EV 98.8 MPH)
+[%F]	Top of the 3rd over - 0 runs, 1 hit, 0 errors, 2 left on base; Reading 1 - Somerset 0
+[%T]	Bottom of the 3rd - Somerset Patriots batting - Pitching for Reading Fightin Phils : RHP <a href="../players/player_25055.html">Griff McGarry</a>
+[%B]	Batting: LHB <a href="../players/player_49691.html">Juan Sanchez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 7LDF
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_38384.html">Mickey Gasper</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 3F
+[%N]	1-1: Foul Ball, location: 25FF
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 4-3 (Groundball, 4, EV 92.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_39458.html">Kelvin Espino</a>
+[%N]	0-0: Foul Ball, location: 25F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 4-3 (Groundball, 34, EV 86.3 MPH)
+[%F]	Bottom of the 3rd over - 0 runs, 0 hits, 0 errors, 0 left on base; Reading 1 - Somerset 0
+[%T]	Top of the 4th - Reading Fightin Phils batting - Pitching for Somerset Patriots : RHP <a href="../players/player_45785.html">Cam Schlittler</a>
+[%B]	Batting: RHB <a href="../players/player_48872.html">Rayne Doncon</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out 4-3 (Groundball, 34D, EV 94.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_48405.html">Jordan Viars</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 9LSF
+[%N]	1-2: Strikes out swinging, 2-3 out at first.
+[%B]	Batting: RHB <a href="../players/player_50511.html">José Dariel Puig</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 5D, EV 96.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_44026.html">Jay Harry</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 3F
+[%N]	1-2: Strikes out looking
+[%F]	Top of the 4th over - 0 runs, 1 hit, 0 errors, 1 left on base; Reading 1 - Somerset 0
+[%T]	Bottom of the 4th - Somerset Patriots batting - Pitching for Reading Fightin Phils : RHP <a href="../players/player_25055.html">Griff McGarry</a>
+[%B]	Batting: LHB <a href="../players/player_31599.html">Austin Wells</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F4  (Line Drive, 34D, EV 63.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_19280.html">Jeisson Rosario</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 5SF
+[%N]	0-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_36777.html">Tyler Hardman</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 5FF
+[%N]	0-2: Strikes out looking
+[%F]	Bottom of the 4th over - 0 runs, 0 hits, 0 errors, 0 left on base; Reading 1 - Somerset 0
+[%T]	Top of the 5th - Reading Fightin Phils batting - Pitching for Somerset Patriots : RHP <a href="../players/player_45785.html">Cam Schlittler</a>
+[%B]	Batting: RHB <a href="../players/player_36944.html">Carlos Irigoyen</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2:  Fly out, F6  (Line Drive, 6M, EV 68.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_42922.html">Yhoswar Garcia</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_48175.html">Jace Avina</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Fielders Choice at 2nd, 2-4 (Groundball, 15S, EV 68.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_46734.html">Stephen Klein</a>
+[%N]	0-0: Foul Ball, location: 7LDF
+[%N]	0-1:  Fly out, F6  (Popup, 6S, EV 63.1 MPH)
+[%F]	Top of the 5th over - 0 runs, 0 hits, 0 errors, 1 left on base; Reading 1 - Somerset 0
+[%T]	Bottom of the 5th - Somerset Patriots batting - Pitching for Reading Fightin Phils : RHP <a href="../players/player_25055.html">Griff McGarry</a>
+[%B]	Batting: RHB <a href="../players/player_39267.html">Dayro Perez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 9LSF
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F9  (Line Drive, 9, EV 91.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_22362.html">Mauro Bonifacio</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Foul Ball, location: 9LMF
+[%N]	3-2: Foul Ball, location: 5FF
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_50505.html">Santiago Gomez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F9  (Flyball, 9LS, EV 93.8 MPH)
+[%F]	Bottom of the 5th over - 0 runs, 0 hits, 0 errors, 0 left on base; Reading 1 - Somerset 0
+[%T]	Top of the 6th - Reading Fightin Phils batting - Pitching for Somerset Patriots : RHP <a href="../players/player_45785.html">Cam Schlittler</a>
+[%B]	Batting: RHB <a href="../players/player_25554.html">Eduardo Torrealba</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 7LSF
+[%N]	3-2: Foul Ball, location: 25FF
+[%N]	3-2: Foul Ball, location: 23F
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_48872.html">Rayne Doncon</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9, EV 84.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_48405.html">Jordan Viars</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2:  Fly out, F7  (Flyball, 78S, EV 96.3 MPH)
+[%F]	Top of the 6th over - 0 runs, 0 hits, 0 errors, 0 left on base; Reading 1 - Somerset 0
+[%T]	Bottom of the 6th - Somerset Patriots batting - Pitching for Reading Fightin Phils : RHP <a href="../players/player_25055.html">Griff McGarry</a>
+[%B]	Batting: LHB <a href="../players/player_49691.html">Juan Sanchez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 5FF
+[%N]	0-2: Strikes out looking
+[%B]	Batting: SHB <a href="../players/player_38384.html">Mickey Gasper</a>
+[%N]	0-0: Foul Ball, location: 5F
+[%N]	0-1: Ground out 5-3 (Groundball, 56S, EV 89.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_39458.html">Kelvin Espino</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 3F
+[%N]	1-2: Strikes out swinging
+[%F]	Bottom of the 6th over - 0 runs, 0 hits, 0 errors, 0 left on base; Reading 1 - Somerset 0
+[%T]	Top of the 7th - Reading Fightin Phils batting - Pitching for Somerset Patriots : RHP <a href="../players/player_45785.html">Cam Schlittler</a>
+[%B]	Batting: RHB <a href="../players/player_50511.html">José Dariel Puig</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Foul Ball, location: 3FF
+[%N]	2-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_44026.html">Jay Harry</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: <b>SINGLE</b>  (Flyball, 89S, EV 94.4 MPH)
+[%B]	Pitching: RHP <a href="../players/player_39550.html">Yoljeldriz Diaz</a>
+[%B]	Batting: RHB <a href="../players/player_36944.html">Carlos Irigoyen</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 7LDF
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_42922.html">Yhoswar Garcia</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging, 2-3 out at first.
+[%F]	Top of the 7th over - 0 runs, 1 hit, 0 errors, 1 left on base; Reading 1 - Somerset 0
+[%T]	Bottom of the 7th - Somerset Patriots batting - Pitching for Reading Fightin Phils : RHP <a href="../players/player_25055.html">Griff McGarry</a>
+[%B]	Batting: LHB <a href="../players/player_31599.html">Austin Wells</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_19280.html">Jeisson Rosario</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 5F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F9  (Flyball, 9S, EV 83.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_36777.html">Tyler Hardman</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 9LMF
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging, 2-3 out at first.
+[%F]	Bottom of the 7th over - 0 runs, 0 hits, 0 errors, 0 left on base; Reading 1 - Somerset 0
+[%T]	Top of the 8th - Reading Fightin Phils batting - Pitching for Somerset Patriots : RHP <a href="../players/player_39550.html">Yoljeldriz Diaz</a>
+[%B]	Batting: RHB <a href="../players/player_48175.html">Jace Avina</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_46734.html">Stephen Klein</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 9LMFF
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ground out 6-3 (Groundball, 6M, EV 85.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_25554.html">Eduardo Torrealba</a>
+[%N]	0-0: <b>DOUBLE</b>  (Line Drive, 9LS, EV 90.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_48872.html">Rayne Doncon</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_48405.html">Jordan Viars</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Foul Ball, location: 2F
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_25554.html">Eduardo Torrealba</a> to third
+[%N]	<a href="../players/player_48872.html">Rayne Doncon</a> to second
+[%B]	Batting: RHB <a href="../players/player_50511.html">José Dariel Puig</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 5FF
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 6MD, EV 97.5 MPH)
+[%N]	<b><a href="../players/player_25554.html">Eduardo Torrealba</a> scores</b>
+[%N]	<a href="../players/player_48872.html">Rayne Doncon</a> to third
+[%N]	<a href="../players/player_48405.html">Jordan Viars</a> to second
+[%B]	Pitching: LHP <a href="../players/player_45932.html">Will Brian</a>
+[%B]	Batting: LHB <a href="../players/player_44026.html">Jay Harry</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 3F
+[%N]	1-2: Strikes out looking
+[%F]	Top of the 8th over - 1 run, 2 hits, 0 errors, 3 left on base; Reading 2 - Somerset 0
+[%T]	Bottom of the 8th - Somerset Patriots batting - Pitching for Reading Fightin Phils : RHP <a href="../players/player_25055.html">Griff McGarry</a>
+[%B]	Pitching: RHP <a href="../players/player_19877.html">McKinley Moore</a>
+[%B]	Batting: RHB <a href="../players/player_39267.html">Dayro Perez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_22362.html">Mauro Bonifacio</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 9LSF
+[%N]	0-2: Foul Ball, location: 9LSF
+[%N]	0-2:  Fly out, F7  (Flyball, 7, EV 88.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_50505.html">Santiago Gomez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 9LMF
+[%N]	1-2: Strikes out looking
+[%F]	Bottom of the 8th over - 0 runs, 0 hits, 0 errors, 0 left on base; Reading 2 - Somerset 0
+[%T]	Top of the 9th - Reading Fightin Phils batting - Pitching for Somerset Patriots : LHP <a href="../players/player_45932.html">Will Brian</a>
+[%B]	Batting: RHB <a href="../players/player_36944.html">Carlos Irigoyen</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 5F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 25F
+[%N]	3-2: Foul Ball, location: 23F
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 9LS, EV 102.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_42922.html">Yhoswar Garcia</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Groundball, 34S, EV 71.3 MPH) (infield hit)
+[%N]	<a href="../players/player_36944.html">Carlos Irigoyen</a> to second
+[%B]	Batting: RHB <a href="../players/player_48175.html">Jace Avina</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2:  <b>3-RUN HOME RUN</b>  (Flyball, 9LD, EV 90.0 MPH), Distance : 341 ft
+[%B]	Batting: LHB <a href="../players/player_46734.html">Stephen Klein</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 23F
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 3F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 7LMF
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 4MD, EV 98.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_25554.html">Eduardo Torrealba</a>
+[%N]	0-0: Foul Ball, location: 9LMF
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 9LMF
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_48872.html">Rayne Doncon</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_46734.html">Stephen Klein</a> is caught stealing 2nd base 2-4
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_48405.html">Jordan Viars</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 8RD, EV 95.0 MPH)
+[%F]	Top of the 9th over - 3 runs, 4 hits, 0 errors, 1 left on base; Reading 5 - Somerset 0
+[%T]	Bottom of the 9th - Somerset Patriots batting - Pitching for Reading Fightin Phils : RHP <a href="../players/player_19877.html">McKinley Moore</a>
+[%B]	Batting: LHB <a href="../players/player_49691.html">Juan Sanchez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ground out U3 (Groundball, 3, EV 82.5 MPH)
+[%B]	Batting: SHB <a href="../players/player_38384.html">Mickey Gasper</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_39458.html">Kelvin Espino</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 7LSF
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%F]	Bottom of the 9th over - 0 runs, 0 hits, 0 errors, 0 left on base; Reading 5 - Somerset 0

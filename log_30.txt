@@ -1,0 +1,458 @@
+[%T]	Top of the 1st - Altoona Curve batting - Pitching for Richmond Flying Squirrels : RHP <a href="../players/player_45851.html">Nick Sinacola</a>
+[%B]	Pitching: RHP <a href="../players/player_45851.html">Nick Sinacola</a>
+[%B]	Batting: RHB <a href="../players/player_19168.html">Lolo Sanchez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 9LDF
+[%N]	1-2: Ground out 4-3 (Groundball, 4, EV 91.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_39622.html">Tres Gonzalez</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9S, EV 93.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_23232.html">Canaan Smith-Njigba</a>
+[%N]	0-0: Foul Ball, location: 7LDF
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 23F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%F]	Top of the 1st over - 0 runs, 0 hits, 0 errors, 0 left on base; Altoona 0 - Richmond 0
+[%T]	Bottom of the 1st - Richmond Flying Squirrels batting - Pitching for Altoona Curve : RHP <a href="../players/player_40516.html">Sean Sullivan</a>
+[%B]	Pitching: RHP <a href="../players/player_40516.html">Sean Sullivan</a>
+[%B]	Batting: RHB <a href="../players/player_45558.html">Adam Tellier</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 9LMF
+[%N]	1-2: Ground out 5-3 (Groundball, 5L, EV 76.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_40914.html">Wueslly Lespe</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 5-3 (Groundball, 56, EV 100.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_45833.html">Alden Mathes</a>
+[%N]	0-0:  <b>SOLO HOME RUN</b>  (Flyball, 7D, EV 98.8 MPH), Distance : 373 ft
+[%B]	Batting: RHB <a href="../players/player_45574.html">Carmine Lane</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 89D, EV 105.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_48000.html">Donovan McIntyre</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 3-1 (Groundball, 34S, EV 83.8 MPH)
+[%F]	Bottom of the 1st over - 1 run, 2 hits, 0 errors, 1 left on base; Altoona 0 - Richmond 1
+[%T]	Top of the 2nd - Altoona Curve batting - Pitching for Richmond Flying Squirrels : RHP <a href="../players/player_45851.html">Nick Sinacola</a>
+[%B]	Batting: LHB <a href="../players/player_36428.html">Connor Scott</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_43183.html">Garret Forrester</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 23F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_37621.html">Junior Perez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2:  Fly out, F6  (Popup, 56, EV 70.6 MPH)
+[%F]	Top of the 2nd over - 0 runs, 0 hits, 0 errors, 0 left on base; Altoona 0 - Richmond 1
+[%T]	Bottom of the 2nd - Richmond Flying Squirrels batting - Pitching for Altoona Curve : RHP <a href="../players/player_40516.html">Sean Sullivan</a>
+[%B]	Batting: RHB <a href="../players/player_44343.html">Javier Francisco</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 25FF
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ground out 6-3 (Groundball, 6, EV 106.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_22107.html">Edinson Renteria Jr.</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Swinging Strike
+[%N]	2-2:  Fly out, F7  (Flyball, 7LS, EV 95.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_41788.html">Clark Elliott</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 4MD, EV 96.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_44503.html">Chris Bernal</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 9LDF
+[%N]	2-2: Ball
+[%N]	<a href="../players/player_41788.html">Clark Elliott</a> is caught stealing 2nd base 2-4
+[%F]	Bottom of the 2nd over - 0 runs, 1 hit, 0 errors, 0 left on base; Altoona 0 - Richmond 1
+[%T]	Top of the 3rd - Altoona Curve batting - Pitching for Richmond Flying Squirrels : RHP <a href="../players/player_45851.html">Nick Sinacola</a>
+[%B]	Batting: RHB <a href="../players/player_39830.html">Geovanny Planchart</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 23F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_36002.html">Claudio Finol</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Sac Bunt to 15S - play at second, runner OUT! 1-6
+[%B]	Batting: RHB <a href="../players/player_37598.html">Norkis Marcos</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2LF
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 4MD, EV 98.1 MPH)
+[%N]	<a href="../players/player_36002.html">Claudio Finol</a> to second
+[%B]	Batting: RHB <a href="../players/player_19168.html">Lolo Sanchez</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 6MD, EV 100.0 MPH)
+[%N]	<a href="../players/player_36002.html">Claudio Finol</a> to third
+[%N]	<a href="../players/player_37598.html">Norkis Marcos</a> to second
+[%B]	Batting: LHB <a href="../players/player_39622.html">Tres Gonzalez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 5F
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 4MD, EV 97.5 MPH)
+[%N]	<b><a href="../players/player_36002.html">Claudio Finol</a> scores</b>
+[%N]	<a href="../players/player_37598.html">Norkis Marcos</a> to third
+[%N]	<a href="../players/player_19168.html">Lolo Sanchez</a> to second
+[%B]	Batting: LHB <a href="../players/player_23232.html">Canaan Smith-Njigba</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_36428.html">Connor Scott</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: <b>DOUBLE</b>  (Flyball, 89XD, EV 93.8 MPH)
+[%N]	<b><a href="../players/player_37598.html">Norkis Marcos</a> scores</b>
+[%N]	<b><a href="../players/player_19168.html">Lolo Sanchez</a> scores</b>
+[%N]	<a href="../players/player_39622.html">Tres Gonzalez</a> to third
+[%N]	<b><a href="../players/player_39622.html">Tres Gonzalez</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_43183.html">Garret Forrester</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: <b>SINGLE</b>  (Groundball, 13, EV 73.1 MPH) (infield hit)
+[%N]	<a href="../players/player_36428.html">Connor Scott</a> to third
+[%B]	Batting: RHB <a href="../players/player_37621.html">Junior Perez</a>
+[%N]	0-0: Reached on error, E6 (Groundball, 6, EV 92.5 MPH)
+[%N]	<b><a href="../players/player_36428.html">Connor Scott</a> scores</b>
+[%N]	<a href="../players/player_43183.html">Garret Forrester</a> to second
+[%B]	Batting: RHB <a href="../players/player_39830.html">Geovanny Planchart</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 34D, EV 106.3 MPH)
+[%N]	<a href="../players/player_43183.html">Garret Forrester</a> to third
+[%N]	<a href="../players/player_37621.html">Junior Perez</a> to second
+[%B]	Pitching: RHP <a href="../players/player_22877.html">Conner Nurse</a>
+[%B]	Batting: RHB <a href="../players/player_36002.html">Claudio Finol</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out looking
+[%F]	Top of the 3rd over - 5 runs, 6 hits, 1 error, 3 left on base; Altoona 5 - Richmond 1
+[%T]	Bottom of the 3rd - Richmond Flying Squirrels batting - Pitching for Altoona Curve : RHP <a href="../players/player_40516.html">Sean Sullivan</a>
+[%B]	Batting: RHB <a href="../players/player_44503.html">Chris Bernal</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_45558.html">Adam Tellier</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Line Drive, 8LS, EV 91.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_40914.html">Wueslly Lespe</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F3  (Popup, 23F, EV 73.8 MPH)
+[%F]	Bottom of the 3rd over - 0 runs, 0 hits, 0 errors, 0 left on base; Altoona 5 - Richmond 1
+[%T]	Top of the 4th - Altoona Curve batting - Pitching for Richmond Flying Squirrels : RHP <a href="../players/player_22877.html">Conner Nurse</a>
+[%B]	Batting: RHB <a href="../players/player_37598.html">Norkis Marcos</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_19168.html">Lolo Sanchez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>DOUBLE</b>  (Flyball, 89D, EV 100.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_39622.html">Tres Gonzalez</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F9  (Flyball, 89S, EV 88.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_23232.html">Canaan Smith-Njigba</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 9LS, EV 98.1 MPH)
+[%N]	<a href="../players/player_19168.html">Lolo Sanchez</a> to third
+[%B]	Batting: LHB <a href="../players/player_36428.html">Connor Scott</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_23232.html">Canaan Smith-Njigba</a> to second
+[%B]	Batting: RHB <a href="../players/player_43183.html">Garret Forrester</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2RF
+[%N]	0-2: Foul Ball, location: 7LMF
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 7LSF
+[%N]	3-2:  Fly out, F4  (Line Drive, 4M, EV 74.4 MPH)
+[%F]	Top of the 4th over - 0 runs, 2 hits, 0 errors, 3 left on base; Altoona 5 - Richmond 1
+[%T]	Bottom of the 4th - Richmond Flying Squirrels batting - Pitching for Altoona Curve : RHP <a href="../players/player_40516.html">Sean Sullivan</a>
+[%B]	Batting: LHB <a href="../players/player_45833.html">Alden Mathes</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Strikes out swinging, 2-3 out at first.
+[%B]	Batting: RHB <a href="../players/player_45574.html">Carmine Lane</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_48000.html">Donovan McIntyre</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ground out 4-3 (Groundball, 4MS, EV 80.6 MPH)
+[%F]	Bottom of the 4th over - 0 runs, 0 hits, 0 errors, 0 left on base; Altoona 5 - Richmond 1
+[%T]	Top of the 5th - Altoona Curve batting - Pitching for Richmond Flying Squirrels : RHP <a href="../players/player_22877.html">Conner Nurse</a>
+[%B]	Batting: RHB <a href="../players/player_37621.html">Junior Perez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_39830.html">Geovanny Planchart</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Fielders Choice at 2nd, U6 (Groundball, 4M, EV 81.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_36002.html">Claudio Finol</a>
+[%N]	0-0: Foul Ball, location: 7LMF
+[%N]	0-1:  Fly out, F3  (Popup, 3SF, EV 77.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_37598.html">Norkis Marcos</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Fielders Choice at 2nd, 4-6 (Groundball, 4MD, EV 100.0 MPH)
+[%F]	Top of the 5th over - 0 runs, 0 hits, 0 errors, 1 left on base; Altoona 5 - Richmond 1
+[%T]	Bottom of the 5th - Richmond Flying Squirrels batting - Pitching for Altoona Curve : RHP <a href="../players/player_40516.html">Sean Sullivan</a>
+[%B]	Batting: RHB <a href="../players/player_44343.html">Javier Francisco</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 9LSF
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_22107.html">Edinson Renteria Jr.</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7S, EV 82.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_41788.html">Clark Elliott</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 34D, EV 104.4 MPH)
+[%N]	<a href="../players/player_44343.html">Javier Francisco</a> to second
+[%B]	Batting: RHB <a href="../players/player_44503.html">Chris Bernal</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F8  (Flyball, 78M, EV 98.8 MPH)
+[%F]	Bottom of the 5th over - 0 runs, 0 hits, 0 errors, 1 left on base; Altoona 5 - Richmond 1
+[%T]	Top of the 6th - Altoona Curve batting - Pitching for Richmond Flying Squirrels : RHP <a href="../players/player_22877.html">Conner Nurse</a>
+[%B]	Batting: RHB <a href="../players/player_19168.html">Lolo Sanchez</a>
+[%N]	0-0:  <b>SOLO HOME RUN</b>  (Flyball, 78XD, EV 98.8 MPH), Distance : 405 ft
+[%B]	Batting: LHB <a href="../players/player_39622.html">Tres Gonzalez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_23232.html">Canaan Smith-Njigba</a>
+[%N]	0-0: Foul Ball, location: 3FF
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F2  (Popup, 3SF, EV 79.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_36428.html">Connor Scott</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out U3 (Groundball, 13, EV 83.1 MPH)
+[%F]	Top of the 6th over - 1 run, 1 hit, 0 errors, 0 left on base; Altoona 6 - Richmond 1
+[%T]	Bottom of the 6th - Richmond Flying Squirrels batting - Pitching for Altoona Curve : RHP <a href="../players/player_40516.html">Sean Sullivan</a>
+[%B]	Batting: RHB <a href="../players/player_45558.html">Adam Tellier</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 7LMF
+[%N]	2-1: Foul Ball, location: 5F
+[%N]	2-2: Foul Ball, location: 9LMF
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_40914.html">Wueslly Lespe</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 7LMF
+[%N]	3-2: Ground out 4-3 (Groundball, 34, EV 93.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_45833.html">Alden Mathes</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: <b>DOUBLE</b>  (Flyball, 8LXD, EV 106.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_45574.html">Carmine Lane</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: <b>DOUBLE</b>  (Groundball, 3L, EV 104.4 MPH)
+[%N]	<b><a href="../players/player_45833.html">Alden Mathes</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_48000.html">Donovan McIntyre</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out swinging
+[%F]	Bottom of the 6th over - 1 run, 2 hits, 0 errors, 1 left on base; Altoona 6 - Richmond 2
+[%T]	Top of the 7th - Altoona Curve batting - Pitching for Richmond Flying Squirrels : RHP <a href="../players/player_22877.html">Conner Nurse</a>
+[%B]	Batting: RHB <a href="../players/player_43183.html">Garret Forrester</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_37621.html">Junior Perez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F7  (Line Drive, 7D, EV 98.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_39830.html">Geovanny Planchart</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Flyball, 89D, EV 106.9 MPH)
+[%F]	Top of the 7th over - 0 runs, 0 hits, 0 errors, 0 left on base; Altoona 6 - Richmond 2
+[%T]	Bottom of the 7th - Richmond Flying Squirrels batting - Pitching for Altoona Curve : RHP <a href="../players/player_40516.html">Sean Sullivan</a>
+[%B]	Batting: RHB <a href="../players/player_44343.html">Javier Francisco</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 25FF
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_22107.html">Edinson Renteria Jr.</a>
+[%N]	0-0: Foul Ball, location: 3F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Line Drive, 9S, EV 100.6 MPH)
+[%B]	Pitching: LHP <a href="../players/player_20843.html">Juan Pablo Lopez</a>
+[%B]	Batting: LHB <a href="../players/player_41788.html">Clark Elliott</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9S, EV 80.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_44503.html">Chris Bernal</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F9  (Flyball, 89M, EV 77.5 MPH)
+[%F]	Bottom of the 7th over - 0 runs, 1 hit, 0 errors, 1 left on base; Altoona 6 - Richmond 2
+[%T]	Top of the 8th - Altoona Curve batting - Pitching for Richmond Flying Squirrels : RHP <a href="../players/player_22877.html">Conner Nurse</a>
+[%B]	Pitching: RHP <a href="../players/player_38240.html">Ian Villers</a>
+[%B]	Batting: RHB <a href="../players/player_36002.html">Claudio Finol</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 7LDF
+[%N]	2-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_37598.html">Norkis Marcos</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 5F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_19168.html">Lolo Sanchez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 7LMF
+[%N]	0-2: Ball
+[%N]	1-2: Ground out 5-3 (Groundball, 56, EV 92.5 MPH)
+[%F]	Top of the 8th over - 0 runs, 0 hits, 0 errors, 0 left on base; Altoona 6 - Richmond 2
+[%T]	Bottom of the 8th - Richmond Flying Squirrels batting - Pitching for Altoona Curve : LHP <a href="../players/player_20843.html">Juan Pablo Lopez</a>
+[%B]	Batting: RHB <a href="../players/player_45558.html">Adam Tellier</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 3SF
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 9LSF
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_40914.html">Wueslly Lespe</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 4D, EV 83.1 MPH)
+[%N]	<a href="../players/player_45558.html">Adam Tellier</a> to second
+[%B]	Batting: LHB <a href="../players/player_45833.html">Alden Mathes</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F6  (Popup, 6MS, EV 78.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_45574.html">Carmine Lane</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 25F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_48000.html">Donovan McIntyre</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 7LMF
+[%N]	2-2: Ground out 6-3 (Groundball, 6M, EV 99.4 MPH)
+[%F]	Bottom of the 8th over - 0 runs, 1 hit, 0 errors, 2 left on base; Altoona 6 - Richmond 2
+[%T]	Top of the 9th - Altoona Curve batting - Pitching for Richmond Flying Squirrels : RHP <a href="../players/player_38240.html">Ian Villers</a>
+[%B]	Pitching: LHP <a href="../players/player_37487.html">Juan Sanchez</a>
+[%B]	Batting: LHB <a href="../players/player_39622.html">Tres Gonzalez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 23F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 9LSFF
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 3DF
+[%N]	3-2:  Fly out, F6  (Popup, 6, EV 61.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_23232.html">Canaan Smith-Njigba</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_36428.html">Connor Scott</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Foul Ball, location: 5F
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_23232.html">Canaan Smith-Njigba</a> to second
+[%B]	Pitching: RHP <a href="../players/player_40040.html">Mason Black</a>
+[%B]	Batting: RHB <a href="../players/player_43183.html">Garret Forrester</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 3SF
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F9  (Flyball, 9, EV 88.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_37621.html">Junior Perez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2LF
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 5-3 (Groundball, 56S, EV 86.3 MPH)
+[%F]	Top of the 9th over - 0 runs, 0 hits, 0 errors, 2 left on base; Altoona 6 - Richmond 2
+[%T]	Bottom of the 9th - Richmond Flying Squirrels batting - Pitching for Altoona Curve : LHP <a href="../players/player_20843.html">Juan Pablo Lopez</a>
+[%B]	Batting: RHB <a href="../players/player_44343.html">Javier Francisco</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F8  (Flyball, 8LD, EV 85.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_22107.html">Edinson Renteria Jr.</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 9LS, EV 108.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_41788.html">Clark Elliott</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_44503.html">Chris Bernal</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 3SF
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 9th over - 0 runs, 1 hit, 0 errors, 1 left on base; Altoona 6 - Richmond 2

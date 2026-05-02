@@ -1,0 +1,456 @@
+[%T]	Top of the 1st - Richmond Flying Squirrels batting - Pitching for Hartford Yard Goats : RHP <a href="../players/player_40279.html">Angel Jimenez</a>
+[%B]	Pitching: RHP <a href="../players/player_40279.html">Angel Jimenez</a>
+[%B]	Batting: LHB <a href="../players/player_40914.html">Wueslly Lespe</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2LF
+[%N]	1-2: Strikes out swinging, 2-3 out at first.
+[%B]	Batting: RHB <a href="../players/player_44343.html">Javier Francisco</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Line Drive, 9, EV 99.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_45833.html">Alden Mathes</a>
+[%N]	0-0: Foul Ball, location: 9LDF
+[%N]	0-1: Foul Ball, location: 7LMF
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 7S, EV 99.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_40922.html">Onil Perez</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_45833.html">Alden Mathes</a> steals 2nd base
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ground out 6-3 (Groundball, 6S, EV 95.0 MPH)
+[%F]	Top of the 1st over - 0 runs, 1 hit, 0 errors, 1 left on base; Richmond 0 - Hartford 0
+[%T]	Bottom of the 1st - Hartford Yard Goats batting - Pitching for Richmond Flying Squirrels : RHP <a href="../players/player_44821.html">German Malave</a>
+[%B]	Pitching: RHP <a href="../players/player_44821.html">German Malave</a>
+[%B]	Batting: RHB <a href="../players/player_26107.html">EJ Andrews Jr.</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 25F
+[%N]	2-2:  Fly out, F9  (Flyball, 9S, EV 97.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_25834.html">Owen Cobb</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_49139.html">Bryant Betancourt</a>
+[%N]	0-0: Grounds into double play, 4-6-3 (Groundball, 4MD, EV 104.4 MPH)
+[%F]	Bottom of the 1st over - 0 runs, 0 hits, 0 errors, 0 left on base; Richmond 0 - Hartford 0
+[%T]	Top of the 2nd - Richmond Flying Squirrels batting - Pitching for Hartford Yard Goats : RHP <a href="../players/player_40279.html">Angel Jimenez</a>
+[%B]	Batting: RHB <a href="../players/player_45574.html">Carmine Lane</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_48000.html">Donovan McIntyre</a>
+[%N]	0-0: Foul Ball, location: 3F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Ground out U3 (Groundball, 3, EV 101.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_45558.html">Adam Tellier</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 7LMF
+[%N]	1-2:  Fly out, F8  (Flyball, 78S, EV 94.4 MPH)
+[%F]	Top of the 2nd over - 0 runs, 0 hits, 0 errors, 0 left on base; Richmond 0 - Hartford 0
+[%T]	Bottom of the 2nd - Hartford Yard Goats batting - Pitching for Richmond Flying Squirrels : RHP <a href="../players/player_44821.html">German Malave</a>
+[%B]	Batting: SHB <a href="../players/player_42084.html">Tucker Toman</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 7LMF
+[%N]	2-2: Foul Ball, location: 3FF
+[%N]	2-2:  Fly out, F3  (Popup, 3F, EV 71.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_39540.html">Jesus Bugarin</a>
+[%N]	0-0: Foul Ball, location: 9LSF
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Ground out 6-3 (Groundball, 6, EV 110.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_24135.html">Roc Riggio</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_42832.html">Francisco Garcia</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 9LSF
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 2nd over - 0 runs, 0 hits, 0 errors, 1 left on base; Richmond 0 - Hartford 0
+[%T]	Top of the 3rd - Richmond Flying Squirrels batting - Pitching for Hartford Yard Goats : RHP <a href="../players/player_40279.html">Angel Jimenez</a>
+[%B]	Batting: RHB <a href="../players/player_38528.html">Dilan Rosario</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: <b>DOUBLE</b>  (Flyball, 7LM, EV 103.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_41788.html">Clark Elliott</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2:  Fly out, F4  (Line Drive, 4, EV 61.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_40914.html">Wueslly Lespe</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 5FF
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Foul Ball, location: 25F
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_44343.html">Javier Francisco</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 7LMFF
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_38528.html">Dilan Rosario</a> to third
+[%N]	<a href="../players/player_40914.html">Wueslly Lespe</a> to second
+[%B]	Batting: LHB <a href="../players/player_45833.html">Alden Mathes</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 6D, EV 93.8 MPH)
+[%N]	<b><a href="../players/player_38528.html">Dilan Rosario</a> scores</b>
+[%N]	<a href="../players/player_40914.html">Wueslly Lespe</a> to third
+[%N]	<a href="../players/player_44343.html">Javier Francisco</a> to second
+[%B]	Batting: RHB <a href="../players/player_40922.html">Onil Perez</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 5DF
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_45574.html">Carmine Lane</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Fielders Choice at 2nd, 6-4 (Groundball, 6, EV 83.8 MPH)
+[%F]	Top of the 3rd over - 1 run, 2 hits, 0 errors, 3 left on base; Richmond 1 - Hartford 0
+[%T]	Bottom of the 3rd - Hartford Yard Goats batting - Pitching for Richmond Flying Squirrels : RHP <a href="../players/player_44821.html">German Malave</a>
+[%B]	Batting: LHB <a href="../players/player_50800.html">Ronny Ugarte</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 23F
+[%N]	0-2: Foul Ball, location: 23FF
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_40278.html">Esneider Gomez</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4M, EV 78.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_26107.html">EJ Andrews Jr.</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 3D, EV 106.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_25834.html">Owen Cobb</a>
+[%N]	0-0: Foul Ball, location: 9LSF
+[%N]	0-1:  Fly out, F9  (Flyball, 9LM, EV 87.5 MPH)
+[%F]	Bottom of the 3rd over - 0 runs, 1 hit, 0 errors, 1 left on base; Richmond 1 - Hartford 0
+[%T]	Top of the 4th - Richmond Flying Squirrels batting - Pitching for Hartford Yard Goats : RHP <a href="../players/player_40279.html">Angel Jimenez</a>
+[%B]	Batting: LHB <a href="../players/player_48000.html">Donovan McIntyre</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F4  (Line Drive, 4MD, EV 73.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_45558.html">Adam Tellier</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 3FF
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2:  Fly out, F7  (Flyball, 7, EV 91.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_38528.html">Dilan Rosario</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F3  (Line Drive, 34, EV 70.6 MPH)
+[%F]	Top of the 4th over - 0 runs, 0 hits, 0 errors, 0 left on base; Richmond 1 - Hartford 0
+[%T]	Bottom of the 4th - Hartford Yard Goats batting - Pitching for Richmond Flying Squirrels : RHP <a href="../players/player_44821.html">German Malave</a>
+[%B]	Batting: LHB <a href="../players/player_49139.html">Bryant Betancourt</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out looking
+[%B]	Batting: SHB <a href="../players/player_42084.html">Tucker Toman</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1:  Fly out, F9  (Flyball, 9, EV 91.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_39540.html">Jesus Bugarin</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 3FF
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out looking
+[%F]	Bottom of the 4th over - 0 runs, 0 hits, 0 errors, 0 left on base; Richmond 1 - Hartford 0
+[%T]	Top of the 5th - Richmond Flying Squirrels batting - Pitching for Hartford Yard Goats : RHP <a href="../players/player_40279.html">Angel Jimenez</a>
+[%B]	Batting: LHB <a href="../players/player_41788.html">Clark Elliott</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 5F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_40914.html">Wueslly Lespe</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_44343.html">Javier Francisco</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 6MD, EV 76.3 MPH) (infield hit)
+[%B]	Pitching: LHP <a href="../players/player_45863.html">Caleb Franzen</a>
+[%B]	Pinch Runner at 1st <a href="../players/player_22107.html">Edinson Renteria Jr.</a>: 
+[%B]	Batting: LHB <a href="../players/player_45833.html">Alden Mathes</a>
+[%N]	0-0: Foul Ball, location: 7LSFF
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 5th over - 0 runs, 1 hit, 0 errors, 1 left on base; Richmond 1 - Hartford 0
+[%T]	Bottom of the 5th - Hartford Yard Goats batting - Pitching for Richmond Flying Squirrels : RHP <a href="../players/player_44821.html">German Malave</a>
+[%B]	Now at 1B: <a href="../players/player_22107.html">Edinson Renteria Jr.</a>
+[%B]	Now at SS: <a href="../players/player_40914.html">Wueslly Lespe</a>
+[%B]	Batting: LHB <a href="../players/player_24135.html">Roc Riggio</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 4MD, EV 98.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_42832.html">Francisco Garcia</a>
+[%N]	0-0: Fielders Choice at 2nd, 6-4 (Groundball, 56, EV 78.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_50800.html">Ronny Ugarte</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Bunted foul
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 34D, EV 107.5 MPH)
+[%N]	<a href="../players/player_42832.html">Francisco Garcia</a> to second
+[%B]	Batting: RHB <a href="../players/player_40278.html">Esneider Gomez</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2:  Fly out, F8  (Flyball, 8LD, EV 97.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_26107.html">EJ Andrews Jr.</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 89S, EV 91.3 MPH)
+[%F]	Bottom of the 5th over - 0 runs, 2 hits, 0 errors, 2 left on base; Richmond 1 - Hartford 0
+[%T]	Top of the 6th - Richmond Flying Squirrels batting - Pitching for Hartford Yard Goats : LHP <a href="../players/player_45863.html">Caleb Franzen</a>
+[%B]	Batting: RHB <a href="../players/player_40922.html">Onil Perez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 9LDF
+[%N]	3-2:  Fly out, F8  (Flyball, 8LXD, EV 93.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_45574.html">Carmine Lane</a>
+[%N]	0-0: Foul Ball, location: 5DF
+[%N]	0-1: Foul Ball, location: 5F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 5-3 (Groundball, 56S, EV 70.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_48000.html">Donovan McIntyre</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 34D, EV 94.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_45558.html">Adam Tellier</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 4MD, EV 103.1 MPH)
+[%N]	<a href="../players/player_48000.html">Donovan McIntyre</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw by CF made to third
+[%B]	Batting: RHB <a href="../players/player_38528.html">Dilan Rosario</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_45558.html">Adam Tellier</a> to second
+[%B]	Batting: LHB <a href="../players/player_41788.html">Clark Elliott</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 6-3 (Groundball, 6MD, EV 84.4 MPH)
+[%F]	Top of the 6th over - 0 runs, 2 hits, 0 errors, 3 left on base; Richmond 1 - Hartford 0
+[%T]	Bottom of the 6th - Hartford Yard Goats batting - Pitching for Richmond Flying Squirrels : RHP <a href="../players/player_44821.html">German Malave</a>
+[%B]	Batting: RHB <a href="../players/player_25834.html">Owen Cobb</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_49139.html">Bryant Betancourt</a>
+[%N]	0-0: Foul Ball, location: 25FF
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 9LMF
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_42084.html">Tucker Toman</a>
+[%N]	0-0: Grounds into double play, 6-4-3 (Groundball, 6M, EV 98.1 MPH)
+[%F]	Bottom of the 6th over - 0 runs, 0 hits, 0 errors, 0 left on base; Richmond 1 - Hartford 0
+[%T]	Top of the 7th - Richmond Flying Squirrels batting - Pitching for Hartford Yard Goats : LHP <a href="../players/player_45863.html">Caleb Franzen</a>
+[%B]	Batting: LHB <a href="../players/player_40914.html">Wueslly Lespe</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out U3 (Groundball, 3, EV 83.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_22107.html">Edinson Renteria Jr.</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_45833.html">Alden Mathes</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Grounds into double play, 6-4-3 (Groundball, 6, EV 88.1 MPH)
+[%F]	Top of the 7th over - 0 runs, 0 hits, 0 errors, 0 left on base; Richmond 1 - Hartford 0
+[%T]	Bottom of the 7th - Hartford Yard Goats batting - Pitching for Richmond Flying Squirrels : RHP <a href="../players/player_44821.html">German Malave</a>
+[%B]	Batting: RHB <a href="../players/player_39540.html">Jesus Bugarin</a>
+[%N]	0-0: Foul Ball, location: 9LDF
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 34D, EV 103.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_24135.html">Roc Riggio</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 89D, EV 105.6 MPH)
+[%B]	Pinch Hitting: LHB <a href="../players/player_46598.html">Austin Callahan</a>
+[%N]	0-0: Grounds into double play, 3-6-3 (Groundball, 3, EV 90.0 MPH)
+[%F]	Bottom of the 7th over - 0 runs, 1 hit, 0 errors, 0 left on base; Richmond 1 - Hartford 0
+[%T]	Top of the 8th - Richmond Flying Squirrels batting - Pitching for Hartford Yard Goats : LHP <a href="../players/player_45863.html">Caleb Franzen</a>
+[%B]	Now at 3B: <a href="../players/player_46598.html">Austin Callahan</a>
+[%B]	Batting: RHB <a href="../players/player_40922.html">Onil Perez</a>
+[%N]	0-0: Foul Ball, location: 9LDF
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Reached on error, E6 (Groundball, 6M, EV 106.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_45574.html">Carmine Lane</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 78M, EV 103.8 MPH)
+[%N]	<a href="../players/player_40922.html">Onil Perez</a> to second
+[%B]	Batting: LHB <a href="../players/player_48000.html">Donovan McIntyre</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F9  (Flyball, 9, EV 95.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_45558.html">Adam Tellier</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F8  (Line Drive, 8LS, EV 85.0 MPH)
+[%B]	Pitching: RHP <a href="../players/player_38907.html">Jimmy Lewis</a>
+[%B]	Batting: RHB <a href="../players/player_38528.html">Dilan Rosario</a>
+[%N]	0-0: Foul Ball, location: 7LSF
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 23F
+[%N]	3-2: Foul Ball, location: 9LDF
+[%N]	3-2: Strikes out looking
+[%F]	Top of the 8th over - 0 runs, 1 hit, 1 error, 2 left on base; Richmond 1 - Hartford 0
+[%T]	Bottom of the 8th - Hartford Yard Goats batting - Pitching for Richmond Flying Squirrels : RHP <a href="../players/player_44821.html">German Malave</a>
+[%B]	Batting: LHB <a href="../players/player_50800.html">Ronny Ugarte</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_40278.html">Esneider Gomez</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 8RS, EV 100.0 MPH)
+[%N]	<a href="../players/player_50800.html">Ronny Ugarte</a> to second
+[%B]	Pitching: RHP <a href="../players/player_41143.html">Patrick Reilly</a>
+[%B]	Batting: RHB <a href="../players/player_26107.html">EJ Andrews Jr.</a>
+[%N]	0-0: Sac Bunt to 15 - play at first, batter OUT! 1-4
+[%N]	<a href="../players/player_50800.html">Ronny Ugarte</a> to third
+[%N]	<a href="../players/player_40278.html">Esneider Gomez</a> to second
+[%B]	Batting: RHB <a href="../players/player_25834.html">Owen Cobb</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_49139.html">Bryant Betancourt</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<b><a href="../players/player_50800.html">Ronny Ugarte</a> scores</b>
+[%N]	<a href="../players/player_40278.html">Esneider Gomez</a> to third
+[%N]	<a href="../players/player_25834.html">Owen Cobb</a> to second
+[%B]	Batting: SHB <a href="../players/player_42084.html">Tucker Toman</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 23F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_39540.html">Jesus Bugarin</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F9  (Flyball, 9LD, EV 88.1 MPH)
+[%F]	Bottom of the 8th over - 1 run, 1 hit, 0 errors, 3 left on base; Richmond 1 - Hartford 1
+[%T]	Top of the 9th - Richmond Flying Squirrels batting - Pitching for Hartford Yard Goats : RHP <a href="../players/player_38907.html">Jimmy Lewis</a>
+[%B]	Pitching: LHP <a href="../players/player_50792.html">Johandry Milano</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_44961.html">Zach Morgan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 23F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 23FF
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_40914.html">Wueslly Lespe</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 7LMF
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_22107.html">Edinson Renteria Jr.</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Bunted foul
+[%N]	2-2: Ground out 5-3 (Groundball, 56S, EV 82.5 MPH)
+[%N]	<a href="../players/player_44961.html">Zach Morgan</a> to second
+[%B]	Batting: LHB <a href="../players/player_45833.html">Alden Mathes</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Flyball, 8LD, EV 92.5 MPH)
+[%F]	Top of the 9th over - 0 runs, 0 hits, 0 errors, 1 left on base; Richmond 1 - Hartford 1
+[%T]	Bottom of the 9th - Hartford Yard Goats batting - Pitching for Richmond Flying Squirrels : RHP <a href="../players/player_41143.html">Patrick Reilly</a>
+[%B]	Pitching: LHP <a href="../players/player_37487.html">Juan Sanchez</a>
+[%B]	Now in RF: <a href="../players/player_40632.html">Justin Bench</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_19007.html">Hunter Goodman</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7LSF, EV 87.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_46598.html">Austin Callahan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Flyball, 7S, EV 78.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_50800.html">Ronny Ugarte</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Pitching: RHP <a href="../players/player_38240.html">Ian Villers</a>
+[%B]	Batting: RHB <a href="../players/player_40278.html">Esneider Gomez</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 9S, EV 98.8 MPH)
+[%N]	<a href="../players/player_46598.html">Austin Callahan</a> to second
+[%B]	Batting: RHB <a href="../players/player_26107.html">EJ Andrews Jr.</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_46598.html">Austin Callahan</a> to third
+[%N]	<a href="../players/player_40278.html">Esneider Gomez</a> to second
+[%B]	Batting: RHB <a href="../players/player_25834.html">Owen Cobb</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 8LS, EV 97.5 MPH)
+[%N]	<b><a href="../players/player_46598.html">Austin Callahan</a> scores</b>
+[%F]	Bottom of the 9th over - 1 run, 3 hits, 0 errors, 2 left on base; Richmond 1 - Hartford 2

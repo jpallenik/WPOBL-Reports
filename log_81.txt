@@ -1,0 +1,570 @@
+[%T]	Top of the 1st - Portland Sea Dogs batting - Pitching for Altoona Curve : RHP <a href="../players/player_39327.html">Andy Maldonado</a>
+[%B]	Pitching: RHP <a href="../players/player_39327.html">Andy Maldonado</a>
+[%B]	Batting: LHB <a href="../players/player_40959.html">Micah McDowell</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 6MD, EV 108.8 MPH)
+[%B]	Batting: SHB <a href="../players/player_44591.html">Noah Miller</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 7S, EV 90.0 MPH)
+[%N]	<a href="../players/player_40959.html">Micah McDowell</a> to second
+[%B]	Batting: LHB <a href="../players/player_41069.html">Cooper Kinney</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Swinging Strike
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_1134.html">Cody Schrier</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 23F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 9LDF
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F8  (Line Drive, 8LS, EV 93.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_41449.html">Max Ferguson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 3DF
+[%N]	2-2: Foul Ball, location: 25FF
+[%N]	2-2: Ball
+[%N]	3-2: <b>TRIPLE</b>  (Flyball, 78XD, EV 100.6 MPH)
+[%N]	<b><a href="../players/player_40959.html">Micah McDowell</a> scores</b>
+[%N]	<b><a href="../players/player_44591.html">Noah Miller</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_17534.html">Christian Koss</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 34D, EV 95.0 MPH)
+[%N]	<b><a href="../players/player_41449.html">Max Ferguson</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_48896.html">Ariel Almonte</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_17534.html">Christian Koss</a> to second
+[%B]	Batting: SHB <a href="../players/player_42572.html">Braden Montgomery</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging
+[%F]	Top of the 1st over - 3 runs, 4 hits, 0 errors, 2 left on base; Portland 3 - Altoona 0
+[%T]	Bottom of the 1st - Altoona Curve batting - Pitching for Portland Sea Dogs : RHP <a href="../players/player_25495.html">Zach Plesac</a>
+[%B]	Pitching: RHP <a href="../players/player_25495.html">Zach Plesac</a>
+[%B]	Batting: LHB <a href="../players/player_36428.html">Connor Scott</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 6-3 (Groundball, 6M, EV 88.1 MPH)
+[%B]	Pitching: RHP <a href="../players/player_40175.html">Bradley Blalock</a>
+[%B]	Batting: RHB <a href="../players/player_48311.html">Lonnie White Jr.</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 7LSF
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Foul Ball, location: 25F
+[%N]	3-2: Ground out 5-3 (Groundball, 5S, EV 83.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_43183.html">Garret Forrester</a>
+[%N]	0-0: Foul Ball, location: 3DF
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out swinging
+[%F]	Bottom of the 1st over - 0 runs, 0 hits, 0 errors, 0 left on base; Portland 3 - Altoona 0
+[%T]	Top of the 2nd - Portland Sea Dogs batting - Pitching for Altoona Curve : RHP <a href="../players/player_39327.html">Andy Maldonado</a>
+[%B]	Batting: RHB <a href="../players/player_39117.html">Naysbel Marcano</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_40959.html">Micah McDowell</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_44591.html">Noah Miller</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Called Strike
+[%N]	3-2: Strikes out swinging
+[%F]	Top of the 2nd over - 0 runs, 0 hits, 0 errors, 0 left on base; Portland 3 - Altoona 0
+[%T]	Bottom of the 2nd - Altoona Curve batting - Pitching for Portland Sea Dogs : RHP <a href="../players/player_40175.html">Bradley Blalock</a>
+[%B]	Batting: SHB <a href="../players/player_47848.html">Andrew Sundean</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 5SF
+[%N]	1-1: <b>TRIPLE</b>  (Flyball, 89XD, EV 88.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_39622.html">Tres Gonzalez</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 5F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 25F
+[%N]	3-2:  <b>2-RUN HOME RUN</b>  (Flyball, 7D, EV 95.6 MPH), Distance : 383 ft
+[%B]	Batting: LHB <a href="../players/player_24982.html">Hudson Head</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 3FF
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 7LSF
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 34D, EV 101.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_36002.html">Claudio Finol</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 34S, EV 88.1 MPH) (infield hit)
+[%N]	<a href="../players/player_24982.html">Hudson Head</a> to second
+[%B]	Batting: RHB <a href="../players/player_24815.html">Jack Herman</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F4  (Popup, 34S, EV 89.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_37598.html">Norkis Marcos</a>
+[%N]	0-0: Grounds into double play, 6-4-3 (Groundball, 6, EV 103.8 MPH)
+[%F]	Bottom of the 2nd over - 2 runs, 4 hits, 0 errors, 1 left on base; Portland 3 - Altoona 2
+[%T]	Top of the 3rd - Portland Sea Dogs batting - Pitching for Altoona Curve : RHP <a href="../players/player_39327.html">Andy Maldonado</a>
+[%B]	Batting: LHB <a href="../players/player_41069.html">Cooper Kinney</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Foul Ball, location: 3F
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_1134.html">Cody Schrier</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out 5-3 (Groundball, 56S, EV 65.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_41449.html">Max Ferguson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_17534.html">Christian Koss</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 89M, EV 107.5 MPH)
+[%N]	<a href="../players/player_41449.html">Max Ferguson</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw by RF made at trailing runner, OUT! 9-3-6
+[%F]	Top of the 3rd over - 0 runs, 1 hit, 0 errors, 1 left on base; Portland 3 - Altoona 2
+[%T]	Bottom of the 3rd - Altoona Curve batting - Pitching for Portland Sea Dogs : RHP <a href="../players/player_40175.html">Bradley Blalock</a>
+[%B]	Batting: LHB <a href="../players/player_36428.html">Connor Scott</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Flyball, 34D, EV 92.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_48311.html">Lonnie White Jr.</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 9LDF
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_36428.html">Connor Scott</a> to second
+[%B]	Batting: RHB <a href="../players/player_43183.html">Garret Forrester</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_47848.html">Andrew Sundean</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  <b>3-RUN HOME RUN</b>  (Flyball, 9D, EV 103.1 MPH), Distance : 393 ft
+[%B]	Pitching: RHP <a href="../players/player_41201.html">Francis Hernandez</a>
+[%B]	Batting: LHB <a href="../players/player_39622.html">Tres Gonzalez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 4-3 (Groundball, 4, EV 79.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_24982.html">Hudson Head</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 23F
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_36002.html">Claudio Finol</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Reached on error, E4 (Groundball, 34, EV 100.6 MPH)
+[%N]	<a href="../players/player_24982.html">Hudson Head</a> to second
+[%B]	Batting: RHB <a href="../players/player_24815.html">Jack Herman</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 25F
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 4MD, EV 105.0 MPH)
+[%N]	<a href="../players/player_24982.html">Hudson Head</a> to third
+[%N]	<a href="../players/player_36002.html">Claudio Finol</a> to second
+[%B]	Batting: RHB <a href="../players/player_37598.html">Norkis Marcos</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 9LDF
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 3rd over - 3 runs, 3 hits, 1 error, 3 left on base; Portland 3 - Altoona 5
+[%T]	Top of the 4th - Portland Sea Dogs batting - Pitching for Altoona Curve : RHP <a href="../players/player_39327.html">Andy Maldonado</a>
+[%B]	Batting: LHB <a href="../players/player_48896.html">Ariel Almonte</a>
+[%N]	0-0: Foul Ball, location: 23F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_42572.html">Braden Montgomery</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 3SF
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 3F
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 6MD, EV 94.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_39117.html">Naysbel Marcano</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 5DF
+[%N]	1-2: Ball
+[%N]	2-2: <b>DOUBLE</b>  (Line Drive, 5D, EV 98.1 MPH)
+[%N]	<a href="../players/player_42572.html">Braden Montgomery</a> to third
+[%B]	Batting: LHB <a href="../players/player_40959.html">Micah McDowell</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 7LSF
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 25F
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 4MD, EV 94.4 MPH)
+[%N]	<b><a href="../players/player_42572.html">Braden Montgomery</a> scores</b>
+[%N]	<a href="../players/player_39117.html">Naysbel Marcano</a> to third
+[%B]	Batting: SHB <a href="../players/player_44591.html">Noah Miller</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 5SF
+[%N]	3-2: Foul Ball, location: 5DF
+[%N]	3-2:  Fly out, F5  (Line Drive, 5, EV 68.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_41069.html">Cooper Kinney</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 4MD, EV 104.4 MPH)
+[%N]	<b><a href="../players/player_39117.html">Naysbel Marcano</a> scores</b>
+[%N]	<a href="../players/player_40959.html">Micah McDowell</a> to second
+[%B]	Batting: RHB <a href="../players/player_1134.html">Cody Schrier</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 7LSFF
+[%N]	3-2: Ground out 5-3 (Groundball, 56, EV 87.5 MPH)
+[%F]	Top of the 4th over - 2 runs, 4 hits, 0 errors, 2 left on base; Portland 5 - Altoona 5
+[%T]	Bottom of the 4th - Altoona Curve batting - Pitching for Portland Sea Dogs : RHP <a href="../players/player_41201.html">Francis Hernandez</a>
+[%B]	Batting: LHB <a href="../players/player_36428.html">Connor Scott</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 4M, EV 106.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_48311.html">Lonnie White Jr.</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 7LDF
+[%N]	2-1: Bunted foul
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 25F
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 6MD, EV 100.6 MPH)
+[%N]	<a href="../players/player_36428.html">Connor Scott</a> to second
+[%B]	Batting: RHB <a href="../players/player_43183.html">Garret Forrester</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F5  (Popup, 56S, EV 81.9 MPH)
+[%B]	Batting: SHB <a href="../players/player_47848.html">Andrew Sundean</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_36428.html">Connor Scott</a> to third
+[%N]	<a href="../players/player_48311.html">Lonnie White Jr.</a> to second
+[%B]	Batting: LHB <a href="../players/player_39622.html">Tres Gonzalez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 7LSF
+[%N]	2-2:  Fly out, F8  (Flyball, 8LXD, EV 92.5 MPH)
+[%N]	<b>Runner from 3rd tags up, SCORES, no throw by CF</b>
+[%N]	<a href="../players/player_48311.html">Lonnie White Jr.</a> to third
+[%B]	Batting: LHB <a href="../players/player_24982.html">Hudson Head</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_47848.html">Andrew Sundean</a> to second
+[%B]	Batting: RHB <a href="../players/player_36002.html">Claudio Finol</a>
+[%N]	0-0: Foul Ball, location: 5DF
+[%N]	0-1: Ball
+[%N]	Wild Pitch!
+[%N]	<b><a href="../players/player_48311.html">Lonnie White Jr.</a> scores</b>
+[%N]	<a href="../players/player_47848.html">Andrew Sundean</a> to third
+[%N]	<a href="../players/player_24982.html">Hudson Head</a> to second
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%F]	Bottom of the 4th over - 2 runs, 2 hits, 0 errors, 2 left on base; Portland 5 - Altoona 7
+[%T]	Top of the 5th - Portland Sea Dogs batting - Pitching for Altoona Curve : RHP <a href="../players/player_39327.html">Andy Maldonado</a>
+[%B]	Pitching: RHP <a href="../players/player_40457.html">Cristopher Cruz</a>
+[%B]	Batting: LHB <a href="../players/player_41449.html">Max Ferguson</a>
+[%N]	0-0: Foul Ball, location: 25F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 5F
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_17534.html">Christian Koss</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 3F
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 3-1 (Groundball, 34, EV 100.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_48896.html">Ariel Almonte</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_42572.html">Braden Montgomery</a>
+[%N]	0-0: Foul Ball, location: 3FF
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  <b>2-RUN HOME RUN</b>  (Flyball, 78XD, EV 101.3 MPH), Distance : 396 ft
+[%B]	Batting: RHB <a href="../players/player_39117.html">Naysbel Marcano</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 7LSF
+[%N]	3-2: Foul Ball, location: 7LMF
+[%N]	3-2: Strikes out looking
+[%F]	Top of the 5th over - 2 runs, 1 hit, 0 errors, 0 left on base; Portland 7 - Altoona 7
+[%T]	Bottom of the 5th - Altoona Curve batting - Pitching for Portland Sea Dogs : RHP <a href="../players/player_41201.html">Francis Hernandez</a>
+[%B]	Batting: RHB <a href="../players/player_24815.html">Jack Herman</a>
+[%N]	0-0: Foul Ball, location: 3FF
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 9LDF
+[%N]	2-2: Strikes out swinging
+[%B]	Pitching: RHP <a href="../players/player_39110.html">Angel Bastardo</a>
+[%B]	Batting: RHB <a href="../players/player_37598.html">Norkis Marcos</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_36428.html">Connor Scott</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 56D, EV 95.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_48311.html">Lonnie White Jr.</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 5DF
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 3FF
+[%N]	3-2: Foul Ball, location: 5FF
+[%N]	3-2: Foul Ball, location: 23F
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 6, EV 99.4 MPH) (infield hit)
+[%N]	<a href="../players/player_36428.html">Connor Scott</a> to second
+[%B]	Batting: RHB <a href="../players/player_43183.html">Garret Forrester</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1:  Fly out, F8  (Flyball, 89D, EV 100.0 MPH)
+[%F]	Bottom of the 5th over - 0 runs, 2 hits, 0 errors, 2 left on base; Portland 7 - Altoona 7
+[%T]	Top of the 6th - Portland Sea Dogs batting - Pitching for Altoona Curve : RHP <a href="../players/player_40457.html">Cristopher Cruz</a>
+[%B]	Batting: LHB <a href="../players/player_40959.html">Micah McDowell</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 7LSF
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_44591.html">Noah Miller</a>
+[%N]	0-0: Foul Ball, location: 7LSF
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Pitching: RHP <a href="../players/player_37561.html">Daniel Rivero</a>
+[%B]	Batting: LHB <a href="../players/player_41069.html">Cooper Kinney</a>
+[%N]	0-0: Grounds out, U3 (Groundball, 3L, EV 102.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_1134.html">Cody Schrier</a>
+[%N]	0-0: Foul Ball, location: 5FF
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 6th over - 0 runs, 0 hits, 0 errors, 1 left on base; Portland 7 - Altoona 7
+[%T]	Bottom of the 6th - Altoona Curve batting - Pitching for Portland Sea Dogs : RHP <a href="../players/player_39110.html">Angel Bastardo</a>
+[%B]	Batting: SHB <a href="../players/player_47848.html">Andrew Sundean</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8RS, EV 89.4 MPH)
+[%B]	Pitching: LHP <a href="../players/player_27498.html">Martin Perez</a>
+[%B]	Batting: LHB <a href="../players/player_39622.html">Tres Gonzalez</a>
+[%N]	0-0: Foul Ball, location: 7LMF
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 25F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 78M, EV 101.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_24982.html">Hudson Head</a>
+[%N]	0-0:  <b>2-RUN HOME RUN</b>  (Flyball, 7LD, EV 93.1 MPH), Distance : 337 ft
+[%B]	Batting: RHB <a href="../players/player_36002.html">Claudio Finol</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F7  (Flyball, 78S, EV 90.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_24815.html">Jack Herman</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 6th over - 2 runs, 2 hits, 0 errors, 0 left on base; Portland 7 - Altoona 9
+[%T]	Top of the 7th - Portland Sea Dogs batting - Pitching for Altoona Curve : RHP <a href="../players/player_37561.html">Daniel Rivero</a>
+[%B]	Batting: LHB <a href="../players/player_41449.html">Max Ferguson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 9LSF
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_17534.html">Christian Koss</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Reached on error, E6 (Groundball, 6, EV 101.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_48896.html">Ariel Almonte</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 3F
+[%N]	1-2: Strikes out looking
+[%B]	Pitching: LHP <a href="../players/player_37595.html">Luis Peralta</a>
+[%B]	Batting: SHB <a href="../players/player_42572.html">Braden Montgomery</a>
+[%N]	0-0: Ball
+[%N]	1-0:  <b>2-RUN HOME RUN</b>  (Flyball, 78XD, EV 96.3 MPH), Distance : 391 ft
+[%B]	Batting: RHB <a href="../players/player_39117.html">Naysbel Marcano</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 23F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%F]	Top of the 7th over - 2 runs, 1 hit, 1 error, 0 left on base; Portland 9 - Altoona 9
+[%T]	Bottom of the 7th - Altoona Curve batting - Pitching for Portland Sea Dogs : LHP <a href="../players/player_27498.html">Martin Perez</a>
+[%B]	Batting: RHB <a href="../players/player_37598.html">Norkis Marcos</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 9LMF
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Foul Ball, location: 9LDF
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_36428.html">Connor Scott</a>
+[%N]	0-0: Ground out U3 (Groundball, 34S, EV 85.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_48311.html">Lonnie White Jr.</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out swinging
+[%F]	Bottom of the 7th over - 0 runs, 0 hits, 0 errors, 0 left on base; Portland 9 - Altoona 9
+[%T]	Top of the 8th - Portland Sea Dogs batting - Pitching for Altoona Curve : LHP <a href="../players/player_37595.html">Luis Peralta</a>
+[%B]	Batting: LHB <a href="../players/player_40959.html">Micah McDowell</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_44591.html">Noah Miller</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 89D, EV 109.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_41069.html">Cooper Kinney</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging, 2-3 out at first.
+[%B]	Batting: RHB <a href="../players/player_1134.html">Cody Schrier</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 5-3 (Groundball, 56, EV 82.5 MPH)
+[%F]	Top of the 8th over - 0 runs, 1 hit, 0 errors, 1 left on base; Portland 9 - Altoona 9
+[%T]	Bottom of the 8th - Altoona Curve batting - Pitching for Portland Sea Dogs : LHP <a href="../players/player_27498.html">Martin Perez</a>
+[%B]	Batting: RHB <a href="../players/player_43183.html">Garret Forrester</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2RF
+[%N]	3-2: <b>DOUBLE</b>  (Line Drive, 8RXD, EV 104.4 MPH)
+[%B]	Batting: SHB <a href="../players/player_47848.html">Andrew Sundean</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 9LM, EV 102.5 MPH)
+[%N]	<b><a href="../players/player_43183.html">Garret Forrester</a> scores</b>
+[%B]	Pitching: RHP <a href="../players/player_20010.html">Trevor Brigden</a>
+[%B]	Batting: LHB <a href="../players/player_39622.html">Tres Gonzalez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 3F
+[%N]	2-2:  Fly out, F7  (Flyball, 7D, EV 105.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_24982.html">Hudson Head</a>
+[%N]	0-0: Foul Ball, location: 25F
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 56D, EV 98.1 MPH)
+[%N]	<a href="../players/player_47848.html">Andrew Sundean</a> to third
+[%B]	Batting: RHB <a href="../players/player_36002.html">Claudio Finol</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 9LS, EV 110.0 MPH)
+[%N]	<b><a href="../players/player_47848.html">Andrew Sundean</a> scores</b>
+[%N]	<a href="../players/player_24982.html">Hudson Head</a> to second
+[%B]	Batting: LHB <a href="../players/player_23232.html">Canaan Smith-Njigba</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 25FF
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_37598.html">Norkis Marcos</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1:  Fly out, F6  (Popup, 6M, EV 56.3 MPH)
+[%F]	Bottom of the 8th over - 2 runs, 4 hits, 0 errors, 2 left on base; Portland 9 - Altoona 11
+[%T]	Top of the 9th - Portland Sea Dogs batting - Pitching for Altoona Curve : LHP <a href="../players/player_37595.html">Luis Peralta</a>
+[%B]	Pitching: RHP <a href="../players/player_38083.html">Carlos Campos</a>
+[%B]	Batting: LHB <a href="../players/player_41449.html">Max Ferguson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Called Strike
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 6D, EV 103.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_17534.html">Christian Koss</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_48896.html">Ariel Almonte</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_42572.html">Braden Montgomery</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_41449.html">Max Ferguson</a> to second
+[%B]	Batting: RHB <a href="../players/player_39117.html">Naysbel Marcano</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 78M, EV 86.3 MPH)
+[%F]	Top of the 9th over - 0 runs, 1 hit, 0 errors, 2 left on base; Portland 9 - Altoona 11

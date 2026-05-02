@@ -1,0 +1,521 @@
+[%T]	Top of the 1st - Harrisburg Senators batting - Pitching for Erie SeaWolves : LHP <a href="../players/player_45989.html">Jake Miller</a>
+[%B]	Pitching: LHP <a href="../players/player_45989.html">Jake Miller</a>
+[%B]	Batting: LHB <a href="../players/player_24907.html">Daylen Lile</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2LF
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_24017.html">Brady House</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Sac Bunt to 2L - play at second, runner OUT! 2-6
+[%B]	Batting: LHB <a href="../players/player_41159.html">Jac Caglianone</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_40300.html">Manuel Sequera</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out looking
+[%F]	Top of the 1st over - 0 runs, 0 hits, 0 errors, 1 left on base; Harrisburg 0 - Erie 0
+[%T]	Bottom of the 1st - Erie SeaWolves batting - Pitching for Harrisburg Senators : RHP <a href="../players/player_1338.html">Jackson Nezuh</a>
+[%B]	Pitching: RHP <a href="../players/player_1338.html">Jackson Nezuh</a>
+[%B]	Batting: SHB <a href="../players/player_48768.html">Abel Bastidas</a>
+[%N]	0-0: Foul Ball, location: 5F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 5SF
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_41954.html">Peyton Chatagnier</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Line Drive, 8RS, EV 85.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_38028.html">Jose Rodriguez</a>
+[%N]	0-0: Grounds into double play, 5-4-3 (Groundball, 56, EV 85.6 MPH)
+[%F]	Bottom of the 1st over - 0 runs, 1 hit, 0 errors, 0 left on base; Harrisburg 0 - Erie 0
+[%T]	Top of the 2nd - Harrisburg Senators batting - Pitching for Erie SeaWolves : LHP <a href="../players/player_45989.html">Jake Miller</a>
+[%B]	Batting: LHB <a href="../players/player_37722.html">Alexander Ovalles</a>
+[%N]	0-0: Foul Ball, location: 5FF
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 7LSF
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2:  <b>SOLO HOME RUN</b>  (Flyball, 78XD, EV 110.6 MPH), Distance : 428 ft
+[%B]	Batting: RHB <a href="../players/player_36804.html">Miguel Hiraldo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: <b>SINGLE</b>  (Line Drive, 56D, EV 100.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_37517.html">Christopher De La Cruz</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: <b>SINGLE</b>  (Flyball, 78S, EV 88.1 MPH)
+[%N]	<a href="../players/player_36804.html">Miguel Hiraldo</a> to second
+[%B]	Batting: LHB <a href="../players/player_44948.html">Jared McKenzie</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_38012.html">Oscar Rangel</a>
+[%N]	0-0: Ball
+[%N]	1-0: Sac Bunt to 23 - play at first, batter OUT! 3-4
+[%N]	<a href="../players/player_36804.html">Miguel Hiraldo</a> to third
+[%N]	<a href="../players/player_37517.html">Christopher De La Cruz</a> to second
+[%B]	Batting: LHB <a href="../players/player_24907.html">Daylen Lile</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_24017.html">Brady House</a>
+[%N]	0-0: Foul Ball, location: 23F
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out looking
+[%F]	Top of the 2nd over - 1 run, 3 hits, 0 errors, 3 left on base; Harrisburg 1 - Erie 0
+[%T]	Bottom of the 2nd - Erie SeaWolves batting - Pitching for Harrisburg Senators : RHP <a href="../players/player_1338.html">Jackson Nezuh</a>
+[%B]	Batting: RHB <a href="../players/player_1522.html">Andrés Chaparro</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_46613.html">Ben Malgeri</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_40285.html">Abelaldo Lopez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_46613.html">Ben Malgeri</a> to second
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_41974.html">Colin Burgess</a>
+[%N]	0-0: Ball
+[%N]	1-0: Reached on error, E4 (Line Drive, 4M, EV 71.9 MPH)
+[%N]	<a href="../players/player_46613.html">Ben Malgeri</a> to third
+[%N]	<a href="../players/player_40285.html">Abelaldo Lopez</a> to second
+[%B]	Batting: RHB <a href="../players/player_43071.html">Kyle Tako</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F7  (Flyball, 7S, EV 97.5 MPH)
+[%N]	<b>Runner from 3rd tags up, SCORES, throw by LF</b>
+[%B]	Batting: RHB <a href="../players/player_38810.html">Albert Jerez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Ground out 6-3 (Groundball, 6, EV 100.6 MPH)
+[%F]	Bottom of the 2nd over - 1 run, 0 hits, 1 error, 2 left on base; Harrisburg 1 - Erie 1
+[%T]	Top of the 3rd - Harrisburg Senators batting - Pitching for Erie SeaWolves : LHP <a href="../players/player_45989.html">Jake Miller</a>
+[%B]	Batting: LHB <a href="../players/player_41159.html">Jac Caglianone</a>
+[%N]	0-0:  <b>SOLO HOME RUN</b>  (Flyball, 9D, EV 95.6 MPH), Distance : 376 ft
+[%B]	Batting: RHB <a href="../players/player_40300.html">Manuel Sequera</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_37722.html">Alexander Ovalles</a>
+[%N]	0-0: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_36804.html">Miguel Hiraldo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  <b>2-RUN HOME RUN</b>  (Flyball, 7D, EV 101.3 MPH), Distance : 384 ft
+[%B]	Batting: LHB <a href="../players/player_37517.html">Christopher De La Cruz</a>
+[%N]	0-0: Ground out U3 (Groundball, 3, EV 84.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_44948.html">Jared McKenzie</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ground out 4-3 (Groundball, 4, EV 101.3 MPH)
+[%F]	Top of the 3rd over - 3 runs, 2 hits, 0 errors, 0 left on base; Harrisburg 4 - Erie 1
+[%T]	Bottom of the 3rd - Erie SeaWolves batting - Pitching for Harrisburg Senators : RHP <a href="../players/player_1338.html">Jackson Nezuh</a>
+[%B]	Batting: SHB <a href="../players/player_48768.html">Abel Bastidas</a>
+[%N]	0-0: Foul Ball, location: 25F
+[%N]	0-1:  Fly out, F8  (Flyball, 8RD, EV 91.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_41954.html">Peyton Chatagnier</a>
+[%N]	0-0: Foul Ball, location: 9LDF
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_38028.html">Jose Rodriguez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 25F
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F8  (Line Drive, 8LS, EV 90.0 MPH)
+[%F]	Bottom of the 3rd over - 0 runs, 0 hits, 0 errors, 0 left on base; Harrisburg 4 - Erie 1
+[%T]	Top of the 4th - Harrisburg Senators batting - Pitching for Erie SeaWolves : LHP <a href="../players/player_45989.html">Jake Miller</a>
+[%B]	Batting: LHB <a href="../players/player_38012.html">Oscar Rangel</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 34, EV 90.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_24907.html">Daylen Lile</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9D, EV 101.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_24017.html">Brady House</a>
+[%N]	0-0: Foul Ball, location: 9LMF
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 9LMF
+[%N]	3-2: Foul Ball, location: 5F
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 56D, EV 97.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_41159.html">Jac Caglianone</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 34D, EV 98.1 MPH)
+[%N]	<a href="../players/player_24017.html">Brady House</a> to second
+[%B]	Batting: RHB <a href="../players/player_40300.html">Manuel Sequera</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 56S, EV 83.8 MPH)
+[%F]	Top of the 4th over - 0 runs, 2 hits, 0 errors, 2 left on base; Harrisburg 4 - Erie 1
+[%T]	Bottom of the 4th - Erie SeaWolves batting - Pitching for Harrisburg Senators : RHP <a href="../players/player_1338.html">Jackson Nezuh</a>
+[%B]	Batting: RHB <a href="../players/player_1522.html">Andrés Chaparro</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Swinging Strike
+[%N]	3-2: <b>SINGLE</b>  (Flyball, 4MD, EV 98.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_46613.html">Ben Malgeri</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_1522.html">Andrés Chaparro</a> to second
+[%B]	Batting: RHB <a href="../players/player_40285.html">Abelaldo Lopez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Bunted foul
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_41974.html">Colin Burgess</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2LF
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_43071.html">Kyle Tako</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 5F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2RF
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_1522.html">Andrés Chaparro</a> to third
+[%N]	<a href="../players/player_46613.html">Ben Malgeri</a> to second
+[%B]	Batting: RHB <a href="../players/player_38810.html">Albert Jerez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 25F
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 6MD, EV 108.1 MPH)
+[%N]	<b><a href="../players/player_1522.html">Andrés Chaparro</a> scores</b>
+[%N]	<a href="../players/player_46613.html">Ben Malgeri</a> to third
+[%N]	<a href="../players/player_43071.html">Kyle Tako</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by CF to home</b>
+[%B]	Batting: SHB <a href="../players/player_48768.html">Abel Bastidas</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 5F
+[%N]	3-2: Strikes out swinging
+[%F]	Bottom of the 4th over - 2 runs, 2 hits, 0 errors, 2 left on base; Harrisburg 4 - Erie 3
+[%T]	Top of the 5th - Harrisburg Senators batting - Pitching for Erie SeaWolves : LHP <a href="../players/player_45989.html">Jake Miller</a>
+[%B]	Batting: LHB <a href="../players/player_37722.html">Alexander Ovalles</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 2-3 (Groundball, 15S, EV 66.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_36804.html">Miguel Hiraldo</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 56, EV 86.3 MPH)
+[%B]	Now at 1B: <a href="../players/player_36520.html">Eli Wilson</a>
+[%B]	Now at 3B: <a href="../players/player_38810.html">Albert Jerez</a>
+[%B]	Now at SS: <a href="../players/player_38028.html">Jose Rodriguez</a>
+[%B]	Batting: LHB <a href="../players/player_37517.html">Christopher De La Cruz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 7LMF
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%F]	Top of the 5th over - 0 runs, 0 hits, 0 errors, 0 left on base; Harrisburg 4 - Erie 3
+[%T]	Bottom of the 5th - Erie SeaWolves batting - Pitching for Harrisburg Senators : RHP <a href="../players/player_1338.html">Jackson Nezuh</a>
+[%B]	Batting: RHB <a href="../players/player_41954.html">Peyton Chatagnier</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_38028.html">Jose Rodriguez</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_41954.html">Peyton Chatagnier</a> steals 2nd base
+[%N]	0-1: <b>DOUBLE</b>  (Flyball, 9LD, EV 88.1 MPH)
+[%N]	<b><a href="../players/player_41954.html">Peyton Chatagnier</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_1522.html">Andrés Chaparro</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Line Drive, 89D, EV 103.8 MPH)
+[%N]	<b><a href="../players/player_38028.html">Jose Rodriguez</a> scores</b>
+[%B]	Pitching: RHP <a href="../players/player_37451.html">Jhosmer Alvarez</a>
+[%B]	Batting: RHB <a href="../players/player_46613.html">Ben Malgeri</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Bunted foul
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_40285.html">Abelaldo Lopez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 4MD, EV 95.6 MPH)
+[%N]	<a href="../players/player_1522.html">Andrés Chaparro</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by CF to home</b>
+[%B]	Batting: RHB <a href="../players/player_41974.html">Colin Burgess</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_43071.html">Kyle Tako</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 9LSF
+[%N]	1-1: Foul Ball, location: 25F
+[%N]	1-2: Strikes out swinging
+[%F]	Bottom of the 5th over - 3 runs, 3 hits, 0 errors, 1 left on base; Harrisburg 4 - Erie 6
+[%T]	Top of the 6th - Harrisburg Senators batting - Pitching for Erie SeaWolves : LHP <a href="../players/player_45989.html">Jake Miller</a>
+[%B]	Batting: LHB <a href="../players/player_44948.html">Jared McKenzie</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out looking
+[%B]	Pitching: RHP <a href="../players/player_39313.html">Jorge Garcia</a>
+[%B]	Batting: LHB <a href="../players/player_38012.html">Oscar Rangel</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 7LDF
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_24907.html">Daylen Lile</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Reached on error, E3 (Groundball, 34, EV 71.3 MPH)
+[%N]	<a href="../players/player_38012.html">Oscar Rangel</a> to second
+[%B]	Batting: RHB <a href="../players/player_24017.html">Brady House</a>
+[%N]	0-0: Ball
+[%N]	1-0: Grounds into double play, 5-4-3 (Groundball, 56S, EV 88.8 MPH)
+[%F]	Top of the 6th over - 0 runs, 0 hits, 1 error, 1 left on base; Harrisburg 4 - Erie 6
+[%T]	Bottom of the 6th - Erie SeaWolves batting - Pitching for Harrisburg Senators : RHP <a href="../players/player_37451.html">Jhosmer Alvarez</a>
+[%B]	Batting: RHB <a href="../players/player_38810.html">Albert Jerez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 3FF
+[%N]	1-2:  Fly out, F8  (Flyball, 8RXD, EV 91.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_36520.html">Eli Wilson</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 9S, EV 98.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_41954.html">Peyton Chatagnier</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1:  Fly out, F8  (Line Drive, 8RS, EV 91.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_38028.html">Jose Rodriguez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 3F
+[%N]	3-2: Foul Ball, location: 5SF
+[%N]	3-2: Foul Ball, location: 3DF
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_36520.html">Eli Wilson</a> to second
+[%B]	Pitching: RHP <a href="../players/player_37556.html">Bryan Caceres</a>
+[%B]	Batting: RHB <a href="../players/player_1522.html">Andrés Chaparro</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 5DF
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 6th over - 0 runs, 1 hit, 0 errors, 2 left on base; Harrisburg 4 - Erie 6
+[%T]	Top of the 7th - Harrisburg Senators batting - Pitching for Erie SeaWolves : RHP <a href="../players/player_39313.html">Jorge Garcia</a>
+[%B]	Batting: LHB <a href="../players/player_41159.html">Jac Caglianone</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 7LSF
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F4  (Line Drive, 4MD, EV 70.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_40300.html">Manuel Sequera</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 5F
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_37722.html">Alexander Ovalles</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_36804.html">Miguel Hiraldo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: <b>DOUBLE</b>  (Line Drive, 9LS, EV 100.6 MPH)
+[%N]	<a href="../players/player_37722.html">Alexander Ovalles</a> to third
+[%B]	Batting: LHB <a href="../players/player_37517.html">Christopher De La Cruz</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 9LMFF
+[%N]	3-2: Base on Balls
+[%B]	Pitching: LHP <a href="../players/player_43342.html">Kris Anglin</a>
+[%B]	Pinch Hitting: SHB <a href="../players/player_37514.html">Viandel Pena</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Ground out 3-1 (Groundball, 34, EV 86.3 MPH)
+[%F]	Top of the 7th over - 0 runs, 1 hit, 0 errors, 3 left on base; Harrisburg 4 - Erie 6
+[%T]	Bottom of the 7th - Erie SeaWolves batting - Pitching for Harrisburg Senators : RHP <a href="../players/player_37556.html">Bryan Caceres</a>
+[%B]	Now in RF: <a href="../players/player_40348.html">Eliesel Santana</a>
+[%B]	Batting: RHB <a href="../players/player_46613.html">Ben Malgeri</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 9LMF
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 6-3 (Groundball, 6, EV 83.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_40285.html">Abelaldo Lopez</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 34D, EV 107.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_41974.html">Colin Burgess</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7, EV 96.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_43071.html">Kyle Tako</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_40285.html">Abelaldo Lopez</a> steals 2nd base
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_38810.html">Albert Jerez</a>
+[%N]	0-0: Ball
+[%N]	Passed Ball!
+[%N]	<a href="../players/player_40285.html">Abelaldo Lopez</a> to third
+[%N]	<a href="../players/player_43071.html">Kyle Tako</a> to second
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_36520.html">Eli Wilson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 9LDF
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<b><a href="../players/player_40285.html">Abelaldo Lopez</a> scores</b>
+[%N]	<a href="../players/player_43071.html">Kyle Tako</a> to third
+[%N]	<a href="../players/player_38810.html">Albert Jerez</a> to second
+[%B]	Batting: RHB <a href="../players/player_41954.html">Peyton Chatagnier</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 7LSF
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out looking
+[%F]	Bottom of the 7th over - 1 run, 1 hit, 0 errors, 3 left on base; Harrisburg 4 - Erie 7
+[%T]	Top of the 8th - Harrisburg Senators batting - Pitching for Erie SeaWolves : LHP <a href="../players/player_43342.html">Kris Anglin</a>
+[%B]	Batting: LHB <a href="../players/player_38012.html">Oscar Rangel</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 7LMF
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 5F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_24907.html">Daylen Lile</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 7LMF
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Pitching: RHP <a href="../players/player_49240.html">Carlos Marcano</a>
+[%B]	Batting: RHB <a href="../players/player_24017.html">Brady House</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Fielders Choice at 2nd, 5-4 (Groundball, 15, EV 85.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_41159.html">Jac Caglianone</a>
+[%N]	0-0: Foul Ball, location: 7LSF
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_24017.html">Brady House</a> to second
+[%B]	Batting: RHB <a href="../players/player_40300.html">Manuel Sequera</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F8  (Flyball, 8RXD, EV 101.9 MPH)
+[%F]	Top of the 8th over - 0 runs, 0 hits, 0 errors, 2 left on base; Harrisburg 4 - Erie 7
+[%T]	Bottom of the 8th - Erie SeaWolves batting - Pitching for Harrisburg Senators : RHP <a href="../players/player_37556.html">Bryan Caceres</a>
+[%B]	Batting: RHB <a href="../players/player_38028.html">Jose Rodriguez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F7  (Flyball, 78D, EV 108.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_1522.html">Andrés Chaparro</a>
+[%N]	0-0: Foul Ball, location: 23F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  <b>SOLO HOME RUN</b>  (Flyball, 7LD, EV 95.6 MPH), Distance : 349 ft
+[%B]	Batting: RHB <a href="../players/player_46613.html">Ben Malgeri</a>
+[%N]	0-0: Foul Ball, location: 5FF
+[%N]	0-1: <b>DOUBLE</b>  (Flyball, 89XD, EV 105.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_40285.html">Abelaldo Lopez</a>
+[%N]	0-0: Foul Ball, location: 7LMF
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2:  Fly out, F5  (Line Drive, 5, EV 69.4 MPH)
+[%B]	Pitching: LHP <a href="../players/player_1031.html">Austin Cox</a>
+[%B]	Batting: RHB <a href="../players/player_41974.html">Colin Burgess</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F7  (Flyball, 7, EV 91.3 MPH)
+[%F]	Bottom of the 8th over - 1 run, 2 hits, 0 errors, 1 left on base; Harrisburg 4 - Erie 8
+[%T]	Top of the 9th - Harrisburg Senators batting - Pitching for Erie SeaWolves : RHP <a href="../players/player_49240.html">Carlos Marcano</a>
+[%B]	Batting: LHB <a href="../players/player_37722.html">Alexander Ovalles</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Flyball, 89XD, EV 110.0 MPH)
+[%B]	Pitching: RHP <a href="../players/player_42904.html">Ulices Campos</a>
+[%B]	Batting: RHB <a href="../players/player_36804.html">Miguel Hiraldo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_37517.html">Christopher De La Cruz</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9, EV 88.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_40348.html">Eliesel Santana</a>
+[%N]	0-0: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_37722.html">Alexander Ovalles</a> to third
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Called Strike
+[%N]	3-2: Reached on error, E5 (Groundball, 5, EV 78.1 MPH)
+[%N]	<b><a href="../players/player_37722.html">Alexander Ovalles</a> scores</b>
+[%B]	Pitching: RHP <a href="../players/player_44481.html">James Peyton Smith</a>
+[%B]	Batting: LHB <a href="../players/player_38012.html">Oscar Rangel</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 8RD, EV 101.9 MPH)
+[%F]	Top of the 9th over - 1 run, 1 hit, 1 error, 1 left on base; Harrisburg 5 - Erie 8

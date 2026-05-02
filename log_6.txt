@@ -1,0 +1,449 @@
+[%T]	Top of the 1st - Richmond Flying Squirrels batting - Pitching for Erie SeaWolves : RHP <a href="../players/player_49738.html">George Eisenhardt</a>
+[%B]	Pitching: RHP <a href="../players/player_49738.html">George Eisenhardt</a>
+[%B]	Batting: RHB <a href="../players/player_45558.html">Adam Tellier</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_40914.html">Wueslly Lespe</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 3FF
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_45833.html">Alden Mathes</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 78S, EV 107.5 MPH)
+[%N]	<a href="../players/player_45558.html">Adam Tellier</a> to second
+[%B]	Batting: RHB <a href="../players/player_45574.html">Carmine Lane</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 9LSFF
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F8  (Line Drive, 8RM, EV 93.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_40922.html">Onil Perez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 3-1 (Groundball, 34, EV 101.9 MPH)
+[%F]	Top of the 1st over - 0 runs, 1 hit, 0 errors, 2 left on base; Richmond 0 - Erie 0
+[%T]	Bottom of the 1st - Erie SeaWolves batting - Pitching for Richmond Flying Squirrels : RHP <a href="../players/player_44821.html">German Malave</a>
+[%B]	Pitching: RHP <a href="../players/player_44821.html">German Malave</a>
+[%B]	Batting: SHB <a href="../players/player_48768.html">Abel Bastidas</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 7LSF
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 7LSF
+[%N]	1-2: Foul Ball, location: 5DF
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_22542.html">Matt Vierling</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9, EV 92.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_38028.html">Jose Rodriguez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 6-3 (Groundball, 6, EV 106.3 MPH)
+[%F]	Bottom of the 1st over - 0 runs, 0 hits, 0 errors, 0 left on base; Richmond 0 - Erie 0
+[%T]	Top of the 2nd - Richmond Flying Squirrels batting - Pitching for Erie SeaWolves : RHP <a href="../players/player_49738.html">George Eisenhardt</a>
+[%B]	Batting: LHB <a href="../players/player_48000.html">Donovan McIntyre</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out U3 (Groundball, 34, EV 82.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_44343.html">Javier Francisco</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 3-1 (Groundball, 34, EV 98.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_41788.html">Clark Elliott</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 7LDF
+[%N]	0-2: Strikes out looking
+[%F]	Top of the 2nd over - 0 runs, 0 hits, 0 errors, 0 left on base; Richmond 0 - Erie 0
+[%T]	Bottom of the 2nd - Erie SeaWolves batting - Pitching for Richmond Flying Squirrels : RHP <a href="../players/player_44821.html">German Malave</a>
+[%B]	Batting: RHB <a href="../players/player_1522.html">Andrés Chaparro</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Called Strike
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 6D, EV 100.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_46613.html">Ben Malgeri</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Sac Bunt to 5S - play at first, batter OUT! 5-3
+[%N]	<a href="../players/player_1522.html">Andrés Chaparro</a> to second
+[%B]	Batting: RHB <a href="../players/player_23959.html">Josh Crouch</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>DOUBLE</b>  (Groundball, 5L, EV 99.4 MPH)
+[%N]	<b><a href="../players/player_1522.html">Andrés Chaparro</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_40493.html">Aeverson Arteaga</a>
+[%N]	0-0: Foul Ball, location: 23F
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_43071.html">Kyle Tako</a>
+[%N]	0-0:  Fly out, F8  (Line Drive, 8LD, EV 91.9 MPH)
+[%F]	Bottom of the 2nd over - 1 run, 2 hits, 0 errors, 1 left on base; Richmond 0 - Erie 1
+[%T]	Top of the 3rd - Richmond Flying Squirrels batting - Pitching for Erie SeaWolves : RHP <a href="../players/player_49738.html">George Eisenhardt</a>
+[%B]	Batting: RHB <a href="../players/player_38528.html">Dilan Rosario</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 9LDF
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2:  <b>SOLO HOME RUN</b>  (Flyball, 89XD, EV 105.0 MPH), Distance : 421 ft
+[%B]	Batting: RHB <a href="../players/player_45558.html">Adam Tellier</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 8RD, EV 91.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_40914.html">Wueslly Lespe</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2LF
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 4MD, EV 102.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_45833.html">Alden Mathes</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 23F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1:  <b>2-RUN HOME RUN</b>  (Flyball, 7D, EV 103.1 MPH), Distance : 380 ft
+[%B]	Batting: RHB <a href="../players/player_45574.html">Carmine Lane</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 4-3 (Groundball, 4M, EV 84.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_40922.html">Onil Perez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2:  Fly out, F8  (Line Drive, 8RM, EV 110.0 MPH)
+[%F]	Top of the 3rd over - 3 runs, 3 hits, 0 errors, 0 left on base; Richmond 3 - Erie 1
+[%T]	Bottom of the 3rd - Erie SeaWolves batting - Pitching for Richmond Flying Squirrels : RHP <a href="../players/player_44821.html">German Malave</a>
+[%B]	Batting: RHB <a href="../players/player_38810.html">Albert Jerez</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LM, EV 90.6 MPH)
+[%B]	Batting: SHB <a href="../players/player_48768.html">Abel Bastidas</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 5FF
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_22542.html">Matt Vierling</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F5  (Popup, 5SF, EV 80.0 MPH)
+[%F]	Bottom of the 3rd over - 0 runs, 0 hits, 0 errors, 0 left on base; Richmond 3 - Erie 1
+[%T]	Top of the 4th - Richmond Flying Squirrels batting - Pitching for Erie SeaWolves : RHP <a href="../players/player_49738.html">George Eisenhardt</a>
+[%B]	Batting: LHB <a href="../players/player_48000.html">Donovan McIntyre</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7D, EV 102.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_44343.html">Javier Francisco</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 9LSF
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_41788.html">Clark Elliott</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_38528.html">Dilan Rosario</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Strikes out looking
+[%F]	Top of the 4th over - 0 runs, 0 hits, 0 errors, 1 left on base; Richmond 3 - Erie 1
+[%T]	Bottom of the 4th - Erie SeaWolves batting - Pitching for Richmond Flying Squirrels : RHP <a href="../players/player_44821.html">German Malave</a>
+[%B]	DELAY
+[%N]	Rain delay of 21 minutes in the 4th inning. 
+[%B]	Batting: RHB <a href="../players/player_38028.html">Jose Rodriguez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 9LSF
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_1522.html">Andrés Chaparro</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_46613.html">Ben Malgeri</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	<a href="../players/player_1522.html">Andrés Chaparro</a> steals 2nd base
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 5F
+[%N]	2-2:  Fly out, F9  (Flyball, 9, EV 78.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_23959.html">Josh Crouch</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_40493.html">Aeverson Arteaga</a>
+[%N]	0-0: Foul Ball, location: 23F
+[%N]	0-1: Hit by Pitch
+[%N]	<a href="../players/player_1522.html">Andrés Chaparro</a> to third
+[%N]	<a href="../players/player_23959.html">Josh Crouch</a> to second
+[%B]	Batting: RHB <a href="../players/player_43071.html">Kyle Tako</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2RF
+[%N]	0-2: Strikes out swinging
+[%F]	Bottom of the 4th over - 0 runs, 0 hits, 0 errors, 3 left on base; Richmond 3 - Erie 1
+[%T]	Top of the 5th - Richmond Flying Squirrels batting - Pitching for Erie SeaWolves : RHP <a href="../players/player_49738.html">George Eisenhardt</a>
+[%B]	Batting: RHB <a href="../players/player_45558.html">Adam Tellier</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Foul Ball, location: 9LMF
+[%N]	3-1: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_40914.html">Wueslly Lespe</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 7LDF
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Ball
+[%N]	<a href="../players/player_45558.html">Adam Tellier</a> to second
+[%B]	Batting: LHB <a href="../players/player_45833.html">Alden Mathes</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_45558.html">Adam Tellier</a> to third
+[%N]	<a href="../players/player_40914.html">Wueslly Lespe</a> to second
+[%B]	Batting: RHB <a href="../players/player_45574.html">Carmine Lane</a>
+[%N]	0-0: Grounds into fielders choice 6-2 (Groundball, 56, EV 88.1 MPH)
+[%N]	<a href="../players/player_40914.html">Wueslly Lespe</a> to third
+[%N]	<a href="../players/player_45833.html">Alden Mathes</a> to second
+[%B]	Batting: RHB <a href="../players/player_40922.html">Onil Perez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 9LDF
+[%N]	0-2: Grounds into fielders choice U2 (Groundball, 2R, EV 70.0 MPH)
+[%N]	<a href="../players/player_45833.html">Alden Mathes</a> to third
+[%N]	<a href="../players/player_45574.html">Carmine Lane</a> to second
+[%B]	Batting: LHB <a href="../players/player_48000.html">Donovan McIntyre</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out looking
+[%F]	Top of the 5th over - 0 runs, 0 hits, 0 errors, 3 left on base; Richmond 3 - Erie 1
+[%T]	Bottom of the 5th - Erie SeaWolves batting - Pitching for Richmond Flying Squirrels : RHP <a href="../players/player_44821.html">German Malave</a>
+[%B]	Batting: RHB <a href="../players/player_38810.html">Albert Jerez</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 4D, EV 100.0 MPH)
+[%B]	Batting: SHB <a href="../players/player_48768.html">Abel Bastidas</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_38810.html">Albert Jerez</a> is caught stealing 2nd base 2-6
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 7LDF
+[%N]	2-2:  Fly out, F9  (Flyball, 9D, EV 92.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_22542.html">Matt Vierling</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 5th over - 0 runs, 1 hit, 0 errors, 0 left on base; Richmond 3 - Erie 1
+[%T]	Top of the 6th - Richmond Flying Squirrels batting - Pitching for Erie SeaWolves : RHP <a href="../players/player_49738.html">George Eisenhardt</a>
+[%B]	Batting: RHB <a href="../players/player_44343.html">Javier Francisco</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Foul Ball, location: 3F
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 9S, EV 96.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_41788.html">Clark Elliott</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 7LMF
+[%N]	0-2:  Fly out, F8  (Line Drive, 8LS, EV 105.0 MPH)
+[%B]	Pitching: RHP <a href="../players/player_39313.html">Jorge Garcia</a>
+[%B]	Batting: RHB <a href="../players/player_38528.html">Dilan Rosario</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 9LS, EV 93.8 MPH)
+[%N]	<a href="../players/player_44343.html">Javier Francisco</a> to third
+[%B]	Batting: RHB <a href="../players/player_45558.html">Adam Tellier</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1:  Fly out, F3  (Line Drive, 3, EV 97.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_40914.html">Wueslly Lespe</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 3SF
+[%N]	2-2: Foul Ball, location: 25F
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 34D, EV 95.0 MPH)
+[%N]	<b><a href="../players/player_44343.html">Javier Francisco</a> scores</b>
+[%N]	<a href="../players/player_38528.html">Dilan Rosario</a> to third
+[%B]	Batting: LHB <a href="../players/player_45833.html">Alden Mathes</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 7LSF
+[%N]	2-2: Strikes out swinging
+[%F]	Top of the 6th over - 1 run, 3 hits, 0 errors, 2 left on base; Richmond 4 - Erie 1
+[%T]	Bottom of the 6th - Erie SeaWolves batting - Pitching for Richmond Flying Squirrels : RHP <a href="../players/player_44821.html">German Malave</a>
+[%B]	Batting: RHB <a href="../players/player_38028.html">Jose Rodriguez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ground out 4-3 (Groundball, 4MD, EV 100.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_1522.html">Andrés Chaparro</a>
+[%N]	0-0: Foul Ball, location: 5FF
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F7  (Flyball, 78M, EV 91.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_46613.html">Ben Malgeri</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: <b>DOUBLE</b>  (Line Drive, 78D, EV 104.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_23959.html">Josh Crouch</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 9LMF
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 6th over - 0 runs, 1 hit, 0 errors, 1 left on base; Richmond 4 - Erie 1
+[%T]	Top of the 7th - Richmond Flying Squirrels batting - Pitching for Erie SeaWolves : RHP <a href="../players/player_39313.html">Jorge Garcia</a>
+[%B]	Batting: RHB <a href="../players/player_45574.html">Carmine Lane</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ground out 5-3 (Groundball, 56S, EV 66.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_40922.html">Onil Perez</a>
+[%N]	0-0:  Fly out, F3  (Popup, 3SF, EV 71.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_48000.html">Donovan McIntyre</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 9LDF
+[%N]	2-2: Ground out U3 (Groundball, 3S, EV 83.1 MPH)
+[%F]	Top of the 7th over - 0 runs, 0 hits, 0 errors, 0 left on base; Richmond 4 - Erie 1
+[%T]	Bottom of the 7th - Erie SeaWolves batting - Pitching for Richmond Flying Squirrels : RHP <a href="../players/player_44821.html">German Malave</a>
+[%B]	Batting: RHB <a href="../players/player_40493.html">Aeverson Arteaga</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 23F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Pitching: RHP <a href="../players/player_39033.html">Roberto Monegro</a>
+[%B]	Batting: RHB <a href="../players/player_43071.html">Kyle Tako</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 3F
+[%N]	1-1: Ground out 6-3 (Groundball, 6, EV 104.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_38810.html">Albert Jerez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 5-3 (Groundball, 56, EV 100.6 MPH)
+[%F]	Bottom of the 7th over - 0 runs, 0 hits, 0 errors, 0 left on base; Richmond 4 - Erie 1
+[%T]	Top of the 8th - Richmond Flying Squirrels batting - Pitching for Erie SeaWolves : RHP <a href="../players/player_39313.html">Jorge Garcia</a>
+[%B]	Batting: RHB <a href="../players/player_44343.html">Javier Francisco</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Ground out 6-3 (Groundball, 6, EV 90.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_41788.html">Clark Elliott</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2LF
+[%N]	3-2: Foul Ball, location: 3F
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_38528.html">Dilan Rosario</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Strikes out looking
+[%F]	Top of the 8th over - 0 runs, 0 hits, 0 errors, 0 left on base; Richmond 4 - Erie 1
+[%T]	Bottom of the 8th - Erie SeaWolves batting - Pitching for Richmond Flying Squirrels : RHP <a href="../players/player_39033.html">Roberto Monegro</a>
+[%B]	Batting: SHB <a href="../players/player_48768.html">Abel Bastidas</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_22542.html">Matt Vierling</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_38028.html">Jose Rodriguez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Popup, 5D, EV 47.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_1522.html">Andrés Chaparro</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 23FF
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F6  (Line Drive, 6MD, EV 71.9 MPH)
+[%F]	Bottom of the 8th over - 0 runs, 1 hit, 0 errors, 1 left on base; Richmond 4 - Erie 1
+[%T]	Top of the 9th - Richmond Flying Squirrels batting - Pitching for Erie SeaWolves : RHP <a href="../players/player_39313.html">Jorge Garcia</a>
+[%B]	Batting: RHB <a href="../players/player_45558.html">Adam Tellier</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 78S, EV 85.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_40914.html">Wueslly Lespe</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 3F
+[%N]	1-2: Foul Ball, location: 25F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_45833.html">Alden Mathes</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 3FF
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_45574.html">Carmine Lane</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out looking
+[%F]	Top of the 9th over - 0 runs, 1 hit, 0 errors, 1 left on base; Richmond 4 - Erie 1
+[%T]	Bottom of the 9th - Erie SeaWolves batting - Pitching for Richmond Flying Squirrels : RHP <a href="../players/player_39033.html">Roberto Monegro</a>
+[%B]	Pitching: RHP <a href="../players/player_38107.html">Julio Rodriguez</a>
+[%B]	Batting: RHB <a href="../players/player_46613.html">Ben Malgeri</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 9LDF
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_23959.html">Josh Crouch</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 7LMFF
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_40493.html">Aeverson Arteaga</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 3SF
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_43071.html">Kyle Tako</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ground out 4-3 (Groundball, 34, EV 88.1 MPH)
+[%F]	Bottom of the 9th over - 0 runs, 0 hits, 0 errors, 1 left on base; Richmond 4 - Erie 1
