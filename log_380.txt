@@ -1,0 +1,409 @@
+[%T]	Top of the 1st - Gwinnett Stripers batting - Pitching for Jacksonville Jumbo Shrimp : RHP <a href="../players/player_23912.html">Franco Aleman</a>
+[%B]	Pitching: RHP <a href="../players/player_23912.html">Franco Aleman</a>
+[%B]	Batting: LHB <a href="../players/player_17344.html">Tyler Black</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 3FF
+[%N]	1-1:  Fly out, F9  (Flyball, 9, EV 97.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_36719.html">Jesse Franklin V</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Hit by Pitch
+[%B]	Batting: SHB <a href="../players/player_35623.html">Cal Conley</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 23FF
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_44552.html">Cole Mathis</a>
+[%N]	0-0:  Fly out, F7  (Line Drive, 7, EV 100.6 MPH)
+[%F]	Top of the 1st over - 0 runs, 0 hits, 0 errors, 1 left on base; Gwinnett 0 - Jacksonville 0
+[%T]	Bottom of the 1st - Jacksonville Jumbo Shrimp batting - Pitching for Gwinnett Stripers : RHP <a href="../players/player_132705.html">Muneyoshi Yamamoto</a>
+[%B]	Pitching: RHP <a href="../players/player_132705.html">Muneyoshi Yamamoto</a>
+[%B]	Batting: LHB <a href="../players/player_38930.html">Colin Barber</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6, EV 90.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_21615.html">Dalvy Rosario</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_23231.html">Stephen Scott</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 3F
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 4MD, EV 100.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_44916.html">Justin Janas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1:  <b>2-RUN HOME RUN</b>  (Flyball, 9LD, EV 93.1 MPH), Distance : 335 ft
+[%B]	Batting: RHB <a href="../players/player_25624.html">Nick Solak</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 3FF
+[%N]	1-2: Ground out 6-3 (Groundball, 6, EV 88.8 MPH)
+[%F]	Bottom of the 1st over - 2 runs, 2 hits, 0 errors, 0 left on base; Gwinnett 0 - Jacksonville 2
+[%T]	Top of the 2nd - Gwinnett Stripers batting - Pitching for Jacksonville Jumbo Shrimp : RHP <a href="../players/player_23912.html">Franco Aleman</a>
+[%B]	Batting: SHB <a href="../players/player_39700.html">Geraldo Quintero</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 8RS, EV 110.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_48424.html">Adam Zebrowski</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 5SF
+[%N]	0-2: Grounds into double play, 5-4-3 (Groundball, 56S, EV 85.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_42472.html">Kevin Kilpatrick</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Ground out 5-3 (Groundball, 56S, EV 75.0 MPH)
+[%F]	Top of the 2nd over - 0 runs, 1 hit, 0 errors, 0 left on base; Gwinnett 0 - Jacksonville 2
+[%T]	Bottom of the 2nd - Jacksonville Jumbo Shrimp batting - Pitching for Gwinnett Stripers : RHP <a href="../players/player_132705.html">Muneyoshi Yamamoto</a>
+[%B]	Batting: RHB <a href="../players/player_37484.html">Nelson Medina</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 5DF
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_24967.html">Addison Barger</a>
+[%N]	0-0: Bunted foul
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: <b>DOUBLE</b>  (Line Drive, 78M, EV 110.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_30583.html">Austin Nola</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_36431.html">Jordan Groshans</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F7  (Flyball, 78M, EV 86.9 MPH)
+[%F]	Bottom of the 2nd over - 0 runs, 1 hit, 0 errors, 1 left on base; Gwinnett 0 - Jacksonville 2
+[%T]	Top of the 3rd - Gwinnett Stripers batting - Pitching for Jacksonville Jumbo Shrimp : RHP <a href="../players/player_23912.html">Franco Aleman</a>
+[%B]	Batting: RHB <a href="../players/player_22775.html">Nolan McLean</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 9LDF
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 3F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 23F
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_41499.html">Keshawn Ogans</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 9LDF
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ground out 4-3 (Groundball, 4, EV 78.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_17344.html">Tyler Black</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 89S, EV 92.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_36719.html">Jesse Franklin V</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out swinging
+[%F]	Top of the 3rd over - 0 runs, 1 hit, 0 errors, 1 left on base; Gwinnett 0 - Jacksonville 2
+[%T]	Bottom of the 3rd - Jacksonville Jumbo Shrimp batting - Pitching for Gwinnett Stripers : RHP <a href="../players/player_132705.html">Muneyoshi Yamamoto</a>
+[%B]	Batting: LHB <a href="../players/player_38930.html">Colin Barber</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 4MD, EV 102.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_21615.html">Dalvy Rosario</a>
+[%N]	0-0: Grounds into double play, 5-4-3 (Groundball, 56, EV 82.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_23231.html">Stephen Scott</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 7LMF
+[%N]	0-2: Foul Ball, location: 25F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: <b>DOUBLE</b>  (Line Drive, 7LM, EV 104.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_44916.html">Justin Janas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 7LDF
+[%N]	2-2: Strikes out looking
+[%F]	Bottom of the 3rd over - 0 runs, 2 hits, 0 errors, 1 left on base; Gwinnett 0 - Jacksonville 2
+[%T]	Top of the 4th - Gwinnett Stripers batting - Pitching for Jacksonville Jumbo Shrimp : RHP <a href="../players/player_23912.html">Franco Aleman</a>
+[%B]	Batting: SHB <a href="../players/player_35623.html">Cal Conley</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 5SF
+[%N]	2-1: <b>SINGLE</b>  (Line Drive, 6D, EV 98.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_44552.html">Cole Mathis</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 5FF
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Grounds into double play, 6-4-3 (Groundball, 6, EV 91.9 MPH)
+[%B]	Batting: SHB <a href="../players/player_39700.html">Geraldo Quintero</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F5  (Popup, 5SF, EV 80.0 MPH)
+[%F]	Top of the 4th over - 0 runs, 1 hit, 0 errors, 0 left on base; Gwinnett 0 - Jacksonville 2
+[%T]	Bottom of the 4th - Jacksonville Jumbo Shrimp batting - Pitching for Gwinnett Stripers : RHP <a href="../players/player_132705.html">Muneyoshi Yamamoto</a>
+[%B]	Batting: RHB <a href="../players/player_25624.html">Nick Solak</a>
+[%N]	0-0: Foul Ball, location: 25F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 9LMF
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 7S, EV 83.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_37484.html">Nelson Medina</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 9LMF
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F7  (Flyball, 7LS, EV 87.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_24967.html">Addison Barger</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 89S, EV 96.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_30583.html">Austin Nola</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 4D, EV 98.8 MPH)
+[%N]	<a href="../players/player_25624.html">Nick Solak</a> to second
+[%B]	Batting: RHB <a href="../players/player_36431.html">Jordan Groshans</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 5-3 (Groundball, 56S, EV 88.1 MPH)
+[%F]	Bottom of the 4th over - 0 runs, 2 hits, 0 errors, 2 left on base; Gwinnett 0 - Jacksonville 2
+[%T]	Top of the 5th - Gwinnett Stripers batting - Pitching for Jacksonville Jumbo Shrimp : RHP <a href="../players/player_23912.html">Franco Aleman</a>
+[%B]	Batting: RHB <a href="../players/player_48424.html">Adam Zebrowski</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 6MD, EV 106.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_42472.html">Kevin Kilpatrick</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_48424.html">Adam Zebrowski</a> to second
+[%B]	Batting: RHB <a href="../players/player_22775.html">Nolan McLean</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 3DF
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_41499.html">Keshawn Ogans</a>
+[%N]	0-0:  Fly out, F4  (Popup, 3S, EV 83.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_17344.html">Tyler Black</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Fielders Choice at 2nd, 6-4 (Groundball, 6MD, EV 96.9 MPH)
+[%F]	Top of the 5th over - 0 runs, 1 hit, 0 errors, 2 left on base; Gwinnett 0 - Jacksonville 2
+[%T]	Bottom of the 5th - Jacksonville Jumbo Shrimp batting - Pitching for Gwinnett Stripers : RHP <a href="../players/player_132705.html">Muneyoshi Yamamoto</a>
+[%B]	Batting: LHB <a href="../players/player_38930.html">Colin Barber</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Reached via error on a dropped throw from 1B, E1 (Groundball, 34, EV 104.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_21615.html">Dalvy Rosario</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 78S, EV 94.4 MPH)
+[%N]	<a href="../players/player_38930.html">Colin Barber</a> to second
+[%B]	Batting: LHB <a href="../players/player_23231.html">Stephen Scott</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F8  (Flyball, 8RD, EV 93.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_44916.html">Justin Janas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 3DF
+[%N]	2-1: Foul Ball, location: 7LSF
+[%N]	2-2: Grounds into double play, 6-4-3 (Groundball, 6, EV 91.3 MPH)
+[%F]	Bottom of the 5th over - 0 runs, 1 hit, 1 error, 1 left on base; Gwinnett 0 - Jacksonville 2
+[%T]	Top of the 6th - Gwinnett Stripers batting - Pitching for Jacksonville Jumbo Shrimp : RHP <a href="../players/player_23912.html">Franco Aleman</a>
+[%B]	Batting: LHB <a href="../players/player_36719.html">Jesse Franklin V</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_35623.html">Cal Conley</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 78XD, EV 103.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_44552.html">Cole Mathis</a>
+[%N]	0-0: Foul Ball, location: 3SF
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_39700.html">Geraldo Quintero</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 8LXD, EV 100.0 MPH)
+[%N]	<a href="../players/player_44552.html">Cole Mathis</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by CF to trailing runner, OUT at third! 8-3-5</b>
+[%F]	Top of the 6th over - 1 run, 1 hit, 0 errors, 0 left on base; Gwinnett 1 - Jacksonville 2
+[%T]	Bottom of the 6th - Jacksonville Jumbo Shrimp batting - Pitching for Gwinnett Stripers : RHP <a href="../players/player_132705.html">Muneyoshi Yamamoto</a>
+[%B]	Batting: RHB <a href="../players/player_25624.html">Nick Solak</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 5DF
+[%N]	1-2: Ball
+[%N]	2-2: Reached on error, E6 (Groundball, 6, EV 106.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_37484.html">Nelson Medina</a>
+[%N]	0-0: Ball
+[%N]	1-0:  <b>2-RUN HOME RUN</b>  (Flyball, 9D, EV 100.0 MPH), Distance : 379 ft
+[%B]	Batting: LHB <a href="../players/player_24967.html">Addison Barger</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 3F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 89S, EV 93.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_30583.html">Austin Nola</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 4MD, EV 105.6 MPH)
+[%N]	<a href="../players/player_24967.html">Addison Barger</a> to second
+[%N]	<a href="../players/player_24967.html">Addison Barger</a> to third
+[%B]	Batting: RHB <a href="../players/player_36431.html">Jordan Groshans</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F8  (Flyball, 8LD, EV 95.6 MPH)
+[%N]	<b>Runner from 3rd tags up, SCORES, no throw by CF</b>
+[%B]	Pitching: LHP <a href="../players/player_50591.html">Rolando Gutierrez</a>
+[%B]	Batting: LHB <a href="../players/player_38930.html">Colin Barber</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Line Drive, 7, EV 104.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_21615.html">Dalvy Rosario</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 5F
+[%N]	1-1: Foul Ball, location: 9LDF
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 4MS, EV 73.8 MPH) (infield hit)
+[%N]	<a href="../players/player_30583.html">Austin Nola</a> to second
+[%B]	Batting: LHB <a href="../players/player_23231.html">Stephen Scott</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F7  (Flyball, 7D, EV 84.4 MPH)
+[%F]	Bottom of the 6th over - 3 runs, 4 hits, 1 error, 2 left on base; Gwinnett 1 - Jacksonville 5
+[%T]	Top of the 7th - Gwinnett Stripers batting - Pitching for Jacksonville Jumbo Shrimp : RHP <a href="../players/player_23912.html">Franco Aleman</a>
+[%B]	Batting: RHB <a href="../players/player_48424.html">Adam Zebrowski</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 9LMF
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 34D, EV 101.9 MPH)
+[%B]	Pitching: RHP <a href="../players/player_19614.html">George Soriano</a>
+[%B]	Batting: RHB <a href="../players/player_42472.html">Kevin Kilpatrick</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 9LSF
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_22775.html">Nolan McLean</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_41499.html">Keshawn Ogans</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ground out 4-3 (Groundball, 4, EV 90.6 MPH)
+[%F]	Top of the 7th over - 0 runs, 1 hit, 0 errors, 1 left on base; Gwinnett 1 - Jacksonville 5
+[%T]	Bottom of the 7th - Jacksonville Jumbo Shrimp batting - Pitching for Gwinnett Stripers : LHP <a href="../players/player_50591.html">Rolando Gutierrez</a>
+[%B]	Batting: LHB <a href="../players/player_44916.html">Justin Janas</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F6  (Popup, 6MD, EV 52.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_25624.html">Nick Solak</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Flyball, 9S, EV 97.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_37484.html">Nelson Medina</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 7LS, EV 106.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_24967.html">Addison Barger</a>
+[%N]	0-0: Foul Ball, location: 5FF
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 5FF
+[%N]	0-2: Ball
+[%N]	1-2: Ground out 6-3 (Groundball, 4M, EV 104.4 MPH)
+[%F]	Bottom of the 7th over - 0 runs, 1 hit, 0 errors, 1 left on base; Gwinnett 1 - Jacksonville 5
+[%T]	Top of the 8th - Gwinnett Stripers batting - Pitching for Jacksonville Jumbo Shrimp : RHP <a href="../players/player_19614.html">George Soriano</a>
+[%B]	Batting: LHB <a href="../players/player_17344.html">Tyler Black</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ground out U3 (Groundball, 3S, EV 86.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_36719.html">Jesse Franklin V</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Hit by Pitch
+[%B]	Batting: SHB <a href="../players/player_35623.html">Cal Conley</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  <b>2-RUN HOME RUN</b>  (Flyball, 78XD, EV 105.6 MPH), Distance : 412 ft
+[%B]	Batting: RHB <a href="../players/player_44552.html">Cole Mathis</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 56D, EV 95.0 MPH)
+[%B]	Batting: SHB <a href="../players/player_39700.html">Geraldo Quintero</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 9LSF
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 6D, EV 105.0 MPH) (infield hit)
+[%N]	<a href="../players/player_44552.html">Cole Mathis</a> to second
+[%B]	Pitching: RHP <a href="../players/player_36743.html">Steven Jennings</a>
+[%B]	Batting: RHB <a href="../players/player_48424.html">Adam Zebrowski</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 3D, EV 95.0 MPH)
+[%N]	<a href="../players/player_44552.html">Cole Mathis</a> to third
+[%N]	<a href="../players/player_39700.html">Geraldo Quintero</a> to second
+[%B]	Batting: RHB <a href="../players/player_42472.html">Kevin Kilpatrick</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 6D, EV 105.0 MPH)
+[%N]	<b><a href="../players/player_44552.html">Cole Mathis</a> scores</b>
+[%N]	<a href="../players/player_39700.html">Geraldo Quintero</a> to third
+[%N]	<a href="../players/player_48424.html">Adam Zebrowski</a> to second
+[%N]	Runner from 3rd tries for Home, throw by CF and OUT! 8-2
+[%B]	Batting: RHB <a href="../players/player_22775.html">Nolan McLean</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%F]	Top of the 8th over - 3 runs, 5 hits, 0 errors, 2 left on base; Gwinnett 4 - Jacksonville 5
+[%T]	Bottom of the 8th - Jacksonville Jumbo Shrimp batting - Pitching for Gwinnett Stripers : LHP <a href="../players/player_50591.html">Rolando Gutierrez</a>
+[%B]	Batting: RHB <a href="../players/player_30583.html">Austin Nola</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6, EV 106.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_36431.html">Jordan Groshans</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F8  (Flyball, 8LD, EV 98.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_38930.html">Colin Barber</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 89S, EV 102.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_21615.html">Dalvy Rosario</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1:  <b>2-RUN HOME RUN</b>  (Flyball, 8RXD, EV 106.9 MPH), Distance : 441 ft
+[%B]	Batting: LHB <a href="../players/player_23231.html">Stephen Scott</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  <b>SOLO HOME RUN</b>  (Flyball, 89XD, EV 108.8 MPH), Distance : 413 ft
+[%B]	Pitching: LHP <a href="../players/player_48588.html">Adam Shoemaker</a>
+[%B]	Batting: LHB <a href="../players/player_44916.html">Justin Janas</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F6  (Line Drive, 6, EV 66.3 MPH)
+[%F]	Bottom of the 8th over - 3 runs, 3 hits, 0 errors, 0 left on base; Gwinnett 4 - Jacksonville 8
+[%T]	Top of the 9th - Gwinnett Stripers batting - Pitching for Jacksonville Jumbo Shrimp : RHP <a href="../players/player_36743.html">Steven Jennings</a>
+[%B]	Batting: RHB <a href="../players/player_41499.html">Keshawn Ogans</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 34, EV 78.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_17344.html">Tyler Black</a>
+[%N]	0-0: <b>DOUBLE</b>  (Flyball, 8LXD, EV 93.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_36719.html">Jesse Franklin V</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 23F
+[%N]	1-1: Ground out U3 (Groundball, 34, EV 65.0 MPH)
+[%N]	<a href="../players/player_17344.html">Tyler Black</a> to third
+[%B]	Batting: SHB <a href="../players/player_35623.html">Cal Conley</a>
+[%N]	0-0: Ground out U3 (Groundball, 3, EV 90.0 MPH)
+[%F]	Top of the 9th over - 0 runs, 1 hit, 0 errors, 1 left on base; Gwinnett 4 - Jacksonville 8

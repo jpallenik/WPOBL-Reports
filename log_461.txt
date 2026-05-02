@@ -1,0 +1,392 @@
+[%T]	Top of the 1st - Nashville Sounds batting - Pitching for Gwinnett Stripers : LHP <a href="../players/player_50591.html">Rolando Gutierrez</a>
+[%B]	Pitching: LHP <a href="../players/player_50591.html">Rolando Gutierrez</a>
+[%B]	Batting: RHB <a href="../players/player_48948.html">Miguel Bleis</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ground out 5-3 (Groundball, 56, EV 85.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_1741.html">Darrien Miller</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_38703.html">Will Brennan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_39259.html">Jesus Parra</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out swinging
+[%F]	Top of the 1st over - 0 runs, 0 hits, 0 errors, 1 left on base; Nashville 0 - Gwinnett 0
+[%T]	Bottom of the 1st - Gwinnett Stripers batting - Pitching for Nashville Sounds : RHP <a href="../players/player_40406.html">Stiven Cruz</a>
+[%B]	Pitching: RHP <a href="../players/player_40406.html">Stiven Cruz</a>
+[%B]	Batting: RHB <a href="../players/player_42472.html">Kevin Kilpatrick</a>
+[%N]	0-0: Ground out 1-3 (Groundball, P, EV 66.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_36108.html">Garrett Mitchell</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: <b>TRIPLE</b>  (Flyball, 89XD, EV 103.8 MPH)
+[%B]	Batting: SHB <a href="../players/player_35623.html">Cal Conley</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Groundball, 6, EV 91.3 MPH)
+[%N]	<b><a href="../players/player_36108.html">Garrett Mitchell</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_44552.html">Cole Mathis</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: <b>TRIPLE</b>  (Flyball, 9LD, EV 97.5 MPH)
+[%N]	<b><a href="../players/player_35623.html">Cal Conley</a> scores</b>
+[%B]	Batting: SHB <a href="../players/player_39700.html">Geraldo Quintero</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_47766.html">Nacho Alvarez Jr.</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 1st over - 2 runs, 3 hits, 0 errors, 1 left on base; Nashville 0 - Gwinnett 2
+[%T]	Top of the 2nd - Nashville Sounds batting - Pitching for Gwinnett Stripers : LHP <a href="../players/player_50591.html">Rolando Gutierrez</a>
+[%B]	Batting: LHB <a href="../players/player_42537.html">Caden Grice</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_46589.html">Ajay Sczepkowski</a>
+[%N]	0-0: Ball
+[%N]	1-0:  <b>SOLO HOME RUN</b>  (Flyball, 7LD, EV 90.6 MPH), Distance : 345 ft
+[%B]	Batting: RHB <a href="../players/player_40423.html">Jheremy Vargas</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 7LMFF
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_49415.html">Kaylan Nicasia</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 9LDF
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 7S, EV 98.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_48935.html">Gregory Barrios</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 7LS, EV 102.5 MPH)
+[%N]	<a href="../players/player_49415.html">Kaylan Nicasia</a> to second
+[%B]	Batting: RHB <a href="../players/player_48948.html">Miguel Bleis</a>
+[%N]	0-0: Foul Ball, location: 9LMF
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ground out 6-3 (Groundball, 56D, EV 103.8 MPH)
+[%F]	Top of the 2nd over - 1 run, 3 hits, 0 errors, 2 left on base; Nashville 1 - Gwinnett 2
+[%T]	Bottom of the 2nd - Gwinnett Stripers batting - Pitching for Nashville Sounds : RHP <a href="../players/player_40406.html">Stiven Cruz</a>
+[%B]	Batting: RHB <a href="../players/player_38935.html">Kadon Morton</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 6-3 (Groundball, 56, EV 83.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_48424.html">Adam Zebrowski</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 78D, EV 91.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_41499.html">Keshawn Ogans</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6, EV 101.3 MPH)
+[%F]	Bottom of the 2nd over - 0 runs, 0 hits, 0 errors, 0 left on base; Nashville 1 - Gwinnett 2
+[%T]	Top of the 3rd - Nashville Sounds batting - Pitching for Gwinnett Stripers : LHP <a href="../players/player_50591.html">Rolando Gutierrez</a>
+[%B]	Batting: LHB <a href="../players/player_1741.html">Darrien Miller</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 5DF
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_38703.html">Will Brennan</a>
+[%N]	0-0: Ground out U3 (Groundball, 23, EV 86.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_39259.html">Jesus Parra</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 9LDF
+[%N]	3-2: Strikes out swinging
+[%F]	Top of the 3rd over - 0 runs, 0 hits, 0 errors, 0 left on base; Nashville 1 - Gwinnett 2
+[%T]	Bottom of the 3rd - Gwinnett Stripers batting - Pitching for Nashville Sounds : RHP <a href="../players/player_40406.html">Stiven Cruz</a>
+[%B]	Batting: RHB <a href="../players/player_42472.html">Kevin Kilpatrick</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F7  (Flyball, 78M, EV 90.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_36108.html">Garrett Mitchell</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9D, EV 94.4 MPH)
+[%B]	Batting: SHB <a href="../players/player_35623.html">Cal Conley</a>
+[%N]	0-0: Foul Ball, location: 25FF
+[%N]	0-1: Ground out 5-3 (Groundball, 5, EV 79.4 MPH)
+[%F]	Bottom of the 3rd over - 0 runs, 0 hits, 0 errors, 0 left on base; Nashville 1 - Gwinnett 2
+[%T]	Top of the 4th - Nashville Sounds batting - Pitching for Gwinnett Stripers : LHP <a href="../players/player_50591.html">Rolando Gutierrez</a>
+[%B]	Batting: LHB <a href="../players/player_42537.html">Caden Grice</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ground out 4-3 (Groundball, 4, EV 81.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_46589.html">Ajay Sczepkowski</a>
+[%N]	0-0: <b>TRIPLE</b>  (Flyball, 78XD, EV 90.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_40423.html">Jheremy Vargas</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 9LSF
+[%N]	1-2:  Fly out, F8  (Flyball, 89D, EV 105.6 MPH)
+[%N]	<b>Runner from 3rd tags up, SCORES, no throw by CF</b>
+[%B]	Batting: SHB <a href="../players/player_49415.html">Kaylan Nicasia</a>
+[%N]	0-0: Foul Ball, location: 7LSFF
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ground out U3 (Groundball, 34, EV 89.4 MPH)
+[%F]	Top of the 4th over - 1 run, 1 hit, 0 errors, 0 left on base; Nashville 2 - Gwinnett 2
+[%T]	Bottom of the 4th - Gwinnett Stripers batting - Pitching for Nashville Sounds : RHP <a href="../players/player_40406.html">Stiven Cruz</a>
+[%B]	Batting: RHB <a href="../players/player_44552.html">Cole Mathis</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 7LM, EV 106.9 MPH)
+[%B]	Batting: SHB <a href="../players/player_39700.html">Geraldo Quintero</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Sac Bunt to 2R - play at first, batter OUT! 2-3
+[%N]	<a href="../players/player_44552.html">Cole Mathis</a> to second
+[%B]	Batting: RHB <a href="../players/player_47766.html">Nacho Alvarez Jr.</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F9  (Line Drive, 9, EV 91.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_38935.html">Kadon Morton</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_48424.html">Adam Zebrowski</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 23F
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_44552.html">Cole Mathis</a> to third
+[%N]	<a href="../players/player_38935.html">Kadon Morton</a> to second
+[%B]	Batting: RHB <a href="../players/player_41499.html">Keshawn Ogans</a>
+[%N]	0-0: Ball
+[%N]	Wild Pitch!
+[%N]	<b><a href="../players/player_44552.html">Cole Mathis</a> scores</b>
+[%N]	<a href="../players/player_38935.html">Kadon Morton</a> to third
+[%N]	<a href="../players/player_48424.html">Adam Zebrowski</a> to second
+[%N]	1-0:  Fly out, F8  (Line Drive, 8LS, EV 106.3 MPH)
+[%F]	Bottom of the 4th over - 1 run, 1 hit, 0 errors, 2 left on base; Nashville 2 - Gwinnett 3
+[%T]	Top of the 5th - Nashville Sounds batting - Pitching for Gwinnett Stripers : LHP <a href="../players/player_50591.html">Rolando Gutierrez</a>
+[%B]	Batting: RHB <a href="../players/player_48935.html">Gregory Barrios</a>
+[%N]	0-0:  Fly out, F6  (Popup, 6, EV 55.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_48948.html">Miguel Bleis</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2RF
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 9LMF
+[%N]	0-2: Foul Ball, location: 9LSF
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_1741.html">Darrien Miller</a>
+[%N]	0-0: Foul Ball, location: 25F
+[%N]	0-1: Ground out 4-3 (Groundball, 4, EV 80.6 MPH)
+[%F]	Top of the 5th over - 0 runs, 0 hits, 0 errors, 0 left on base; Nashville 2 - Gwinnett 3
+[%T]	Bottom of the 5th - Gwinnett Stripers batting - Pitching for Nashville Sounds : RHP <a href="../players/player_40406.html">Stiven Cruz</a>
+[%B]	Batting: RHB <a href="../players/player_42472.html">Kevin Kilpatrick</a>
+[%N]	0-0: Foul Ball, location: 9LDF
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_36108.html">Garrett Mitchell</a>
+[%N]	0-0: Foul Ball, location: 9LSF
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 23F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2:  <b>SOLO HOME RUN</b>  (Flyball, 9D, EV 97.5 MPH), Distance : 373 ft
+[%B]	Batting: SHB <a href="../players/player_35623.html">Cal Conley</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Flyball, 8LD, EV 98.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_44552.html">Cole Mathis</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 9LSF
+[%N]	1-2:  Fly out, F7  (Flyball, 7D, EV 92.5 MPH)
+[%F]	Bottom of the 5th over - 1 run, 1 hit, 0 errors, 0 left on base; Nashville 2 - Gwinnett 4
+[%T]	Top of the 6th - Nashville Sounds batting - Pitching for Gwinnett Stripers : LHP <a href="../players/player_50591.html">Rolando Gutierrez</a>
+[%B]	Batting: LHB <a href="../players/player_38703.html">Will Brennan</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Flyball, 78M, EV 91.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_39259.html">Jesus Parra</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Foul Ball, location: 3SF
+[%N]	2-2: Ground out 6-3 (Groundball, 6, EV 91.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_42537.html">Caden Grice</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 23F
+[%N]	0-2: Foul Ball, location: 7LSF
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging <b>passed ball, reaches first!</b>
+[%B]	Batting: RHB <a href="../players/player_46589.html">Ajay Sczepkowski</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 34D, EV 100.0 MPH)
+[%N]	<a href="../players/player_42537.html">Caden Grice</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw by RF made at trailing runner, OUT! 9-3-6
+[%F]	Top of the 6th over - 0 runs, 1 hit, 0 errors, 1 left on base; Nashville 2 - Gwinnett 4
+[%T]	Bottom of the 6th - Gwinnett Stripers batting - Pitching for Nashville Sounds : RHP <a href="../players/player_40406.html">Stiven Cruz</a>
+[%B]	Batting: SHB <a href="../players/player_39700.html">Geraldo Quintero</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 9LMF
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_47766.html">Nacho Alvarez Jr.</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6, EV 93.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_38935.html">Kadon Morton</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 25FF
+[%N]	0-2: <b>SINGLE</b>  (Line Drive, 8LS, EV 96.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_48424.html">Adam Zebrowski</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 23F
+[%N]	1-2: Foul Ball, location: 25F
+[%N]	1-2: Strikes out swinging
+[%F]	Bottom of the 6th over - 0 runs, 1 hit, 0 errors, 1 left on base; Nashville 2 - Gwinnett 4
+[%T]	Top of the 7th - Nashville Sounds batting - Pitching for Gwinnett Stripers : LHP <a href="../players/player_50591.html">Rolando Gutierrez</a>
+[%B]	Batting: RHB <a href="../players/player_40423.html">Jheremy Vargas</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 5FF
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 4D, EV 96.9 MPH)
+[%B]	Pitching: RHP <a href="../players/player_35397.html">Jared Johnson</a>
+[%B]	Batting: SHB <a href="../players/player_49415.html">Kaylan Nicasia</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 7LSF
+[%N]	3-2: Strikes out swinging
+[%N]	<a href="../players/player_40423.html">Jheremy Vargas</a> is caught stealing 2nd base 2-6
+[%N]	Batter strikes out.
+[%B]	Pinch Hitting: LHB <a href="../players/player_41191.html">CJ Kayfus</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Flyball, 7D, EV 88.1 MPH)
+[%F]	Top of the 7th over - 0 runs, 1 hit, 0 errors, 0 left on base; Nashville 2 - Gwinnett 4
+[%T]	Bottom of the 7th - Gwinnett Stripers batting - Pitching for Nashville Sounds : RHP <a href="../players/player_40406.html">Stiven Cruz</a>
+[%B]	Now at 2B: <a href="../players/player_46589.html">Ajay Sczepkowski</a>
+[%B]	Now in RF: <a href="../players/player_41191.html">CJ Kayfus</a>
+[%B]	Batting: RHB <a href="../players/player_41499.html">Keshawn Ogans</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Line Drive, 9, EV 105.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_42472.html">Kevin Kilpatrick</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 5F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_36108.html">Garrett Mitchell</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ground out 6-3 (Groundball, 56, EV 88.8 MPH)
+[%F]	Bottom of the 7th over - 0 runs, 0 hits, 0 errors, 0 left on base; Nashville 2 - Gwinnett 4
+[%T]	Top of the 8th - Nashville Sounds batting - Pitching for Gwinnett Stripers : RHP <a href="../players/player_35397.html">Jared Johnson</a>
+[%B]	Batting: RHB <a href="../players/player_48948.html">Miguel Bleis</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out looking
+[%B]	Pitching: LHP <a href="../players/player_48588.html">Adam Shoemaker</a>
+[%B]	Batting: LHB <a href="../players/player_1741.html">Darrien Miller</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 3F
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F9  (Line Drive, 9S, EV 93.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_38703.html">Will Brennan</a>
+[%N]	0-0: Foul Ball, location: 3SF
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F8  (Line Drive, 8LS, EV 95.6 MPH)
+[%F]	Top of the 8th over - 0 runs, 0 hits, 0 errors, 0 left on base; Nashville 2 - Gwinnett 4
+[%T]	Bottom of the 8th - Gwinnett Stripers batting - Pitching for Nashville Sounds : RHP <a href="../players/player_40406.html">Stiven Cruz</a>
+[%B]	Pitching: RHP <a href="../players/player_38837.html">Victor Villanueva</a>
+[%B]	Batting: SHB <a href="../players/player_35623.html">Cal Conley</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  <b>SOLO HOME RUN</b>  (Flyball, 8RXD, EV 102.5 MPH), Distance : 412 ft
+[%B]	Batting: RHB <a href="../players/player_44552.html">Cole Mathis</a>
+[%N]	0-0: Foul Ball, location: 9LMF
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 6D, EV 102.5 MPH)
+[%B]	Batting: SHB <a href="../players/player_39700.html">Geraldo Quintero</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F7  (Flyball, 7S, EV 88.1 MPH)
+[%B]	Pitching: RHP <a href="../players/player_37513.html">Joseph Hernandez</a>
+[%B]	Batting: RHB <a href="../players/player_47766.html">Nacho Alvarez Jr.</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 9LMF
+[%N]	3-2:  Fly out, F4  (Line Drive, 4D, EV 69.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_38935.html">Kadon Morton</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%F]	Bottom of the 8th over - 1 run, 2 hits, 0 errors, 1 left on base; Nashville 2 - Gwinnett 5
+[%T]	Top of the 9th - Nashville Sounds batting - Pitching for Gwinnett Stripers : LHP <a href="../players/player_48588.html">Adam Shoemaker</a>
+[%B]	Pitching: RHP <a href="../players/player_18852.html">Daysbel Hernández</a>
+[%B]	Now at 1B: <a href="../players/player_47766.html">Nacho Alvarez Jr.</a>
+[%B]	Now at 3B: <a href="../players/player_22775.html">Nolan McLean</a>
+[%B]	Batting: RHB <a href="../players/player_39259.html">Jesus Parra</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 9LMF
+[%N]	2-1: <b>SINGLE</b>  (Flyball, 7LS, EV 91.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_42537.html">Caden Grice</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_46589.html">Ajay Sczepkowski</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 9LMF
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_40423.html">Jheremy Vargas</a>
+[%N]	0-0: <b>TRIPLE</b>  (Line Drive, 89XD, EV 108.8 MPH)
+[%N]	<b><a href="../players/player_39259.html">Jesus Parra</a> scores</b>
+[%B]	Batting: SHB <a href="../players/player_49415.html">Kaylan Nicasia</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out looking
+[%F]	Top of the 9th over - 1 run, 2 hits, 0 errors, 1 left on base; Nashville 3 - Gwinnett 5

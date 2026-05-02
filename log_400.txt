@@ -1,0 +1,459 @@
+[%T]	Top of the 1st - Worcester Red Sox batting - Pitching for St. Paul Saints : RHP <a href="../players/player_22785.html">A.J. Labas</a>
+[%B]	Pitching: RHP <a href="../players/player_22785.html">A.J. Labas</a>
+[%B]	Batting: SHB <a href="../players/player_39176.html">Brainer Bonaci</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Line Drive, 78S, EV 105.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_21573.html">Jake Cronenworth</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 8LD, EV 102.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_38934.html">Sean McLain</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_39176.html">Brainer Bonaci</a> steals 2nd base
+[%N]	0-1: Ground out 5-3 (Groundball, 56, EV 106.9 MPH)
+[%N]	<a href="../players/player_39176.html">Brainer Bonaci</a> to third
+[%B]	Batting: LHB <a href="../players/player_39121.html">Eddinson Paulino</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F8  (Line Drive, 8LM, EV 96.9 MPH)
+[%F]	Top of the 1st over - 0 runs, 1 hit, 0 errors, 1 left on base; Worcester 0 - St. Paul 0
+[%T]	Bottom of the 1st - St. Paul Saints batting - Pitching for Worcester Red Sox : LHP <a href="../players/player_25827.html">Cole Ragans</a>
+[%B]	Pitching: LHP <a href="../players/player_25827.html">Cole Ragans</a>
+[%B]	Batting: RHB <a href="../players/player_43862.html">Tanner Schobel</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 7LMFF
+[%N]	1-1: Foul Ball, location: 3FF
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_48899.html">Samuel Zavala</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_18520.html">Ryan Jeffers</a>
+[%N]	0-0: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_36447.html">Mikey Perez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_18520.html">Ryan Jeffers</a> to second
+[%B]	Batting: RHB <a href="../players/player_25880.html">Alex Isola</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1:  Fly out, F8  (Flyball, 8LM, EV 90.0 MPH)
+[%F]	Bottom of the 1st over - 0 runs, 0 hits, 0 errors, 2 left on base; Worcester 0 - St. Paul 0
+[%T]	Top of the 2nd - Worcester Red Sox batting - Pitching for St. Paul Saints : RHP <a href="../players/player_22785.html">A.J. Labas</a>
+[%B]	Batting: LHB <a href="../players/player_36955.html">Wilyer Abreu</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8RXD, EV 86.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_21455.html">Kevin Newman</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Flyball, 7, EV 93.1 MPH)
+[%B]	Batting: SHB <a href="../players/player_24023.html">Robert Moore</a>
+[%N]	0-0: Foul Ball, location: 23F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ground out 6-3 (Groundball, 6, EV 88.1 MPH)
+[%F]	Top of the 2nd over - 0 runs, 0 hits, 0 errors, 0 left on base; Worcester 0 - St. Paul 0
+[%T]	Bottom of the 2nd - St. Paul Saints batting - Pitching for Worcester Red Sox : LHP <a href="../players/player_25827.html">Cole Ragans</a>
+[%B]	Batting: RHB <a href="../players/player_38672.html">Anthony Prato</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 23F
+[%N]	1-1: Foul Ball, location: 7LSFF
+[%N]	1-2: Foul Ball, location: 3SF
+[%N]	1-2: Ball
+[%N]	2-2: Reached on error, E5 (Groundball, 5S, EV 72.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_31853.html">Roy Morales</a>
+[%N]	0-0: Grounds into double play, 5-4-3 (Groundball, 5, EV 110.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_23631.html">Trevor Larnach</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 3F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 2nd over - 0 runs, 0 hits, 1 error, 0 left on base; Worcester 0 - St. Paul 0
+[%T]	Top of the 3rd - Worcester Red Sox batting - Pitching for St. Paul Saints : RHP <a href="../players/player_22785.html">A.J. Labas</a>
+[%B]	Batting: RHB <a href="../players/player_19588.html">Sam Huff</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 5FF
+[%N]	0-2: Strikes out looking
+[%B]	Batting: SHB <a href="../players/player_37741.html">Gilberto Jimenez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 7LSF
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_39176.html">Brainer Bonaci</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 9LMF
+[%N]	3-2: Ground out 4-3 (Groundball, 4, EV 83.8 MPH)
+[%F]	Top of the 3rd over - 0 runs, 0 hits, 0 errors, 0 left on base; Worcester 0 - St. Paul 0
+[%T]	Bottom of the 3rd - St. Paul Saints batting - Pitching for Worcester Red Sox : LHP <a href="../players/player_25827.html">Cole Ragans</a>
+[%B]	Batting: LHB <a href="../players/player_36113.html">MJ Melendez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Line Drive, 7S, EV 92.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_43862.html">Tanner Schobel</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 3D, EV 96.9 MPH)
+[%N]	<a href="../players/player_36113.html">MJ Melendez</a> to third
+[%B]	Batting: LHB <a href="../players/player_48899.html">Samuel Zavala</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_18520.html">Ryan Jeffers</a>
+[%N]	0-0: Foul Ball, location: 3FF
+[%N]	0-1: Foul Ball, location: 9LSF
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 7S, EV 100.0 MPH)
+[%N]	<b><a href="../players/player_36113.html">MJ Melendez</a> scores</b>
+[%N]	<a href="../players/player_43862.html">Tanner Schobel</a> to third
+[%N]	<a href="../players/player_48899.html">Samuel Zavala</a> to second
+[%B]	Batting: RHB <a href="../players/player_36447.html">Mikey Perez</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9D, EV 96.9 MPH)
+[%N]	<b>Runner from 3rd tags up, SCORES, no throw by RF</b>
+[%B]	Batting: RHB <a href="../players/player_25880.html">Alex Isola</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_38672.html">Anthony Prato</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 3FF
+[%N]	0-2: Ground out 4-3 (Groundball, 4, EV 86.9 MPH)
+[%F]	Bottom of the 3rd over - 2 runs, 3 hits, 0 errors, 2 left on base; Worcester 0 - St. Paul 2
+[%T]	Top of the 4th - Worcester Red Sox batting - Pitching for St. Paul Saints : RHP <a href="../players/player_22785.html">A.J. Labas</a>
+[%B]	Batting: LHB <a href="../players/player_21573.html">Jake Cronenworth</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_38934.html">Sean McLain</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Groundball, 23, EV 61.3 MPH) (infield hit)
+[%B]	Batting: LHB <a href="../players/player_39121.html">Eddinson Paulino</a>
+[%N]	0-0: Swinging Strike
+[%N]	<a href="../players/player_38934.html">Sean McLain</a> steals 2nd base
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: <b>TRIPLE</b>  (Groundball, 3L, EV 101.9 MPH)
+[%N]	<b><a href="../players/player_38934.html">Sean McLain</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_36955.html">Wilyer Abreu</a>
+[%N]	0-0: Foul Ball, location: 9LMF
+[%N]	0-1:  <b>2-RUN HOME RUN</b>  (Flyball, 89XD, EV 100.0 MPH), Distance : 401 ft
+[%B]	Batting: RHB <a href="../players/player_21455.html">Kevin Newman</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 6MD, EV 103.8 MPH)
+[%B]	Batting: SHB <a href="../players/player_24023.html">Robert Moore</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: <b>DOUBLE</b>  (Flyball, 78D, EV 93.8 MPH)
+[%N]	<a href="../players/player_21455.html">Kevin Newman</a> to third
+[%B]	Batting: RHB <a href="../players/player_19588.html">Sam Huff</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 56D, EV 97.5 MPH)
+[%N]	<b><a href="../players/player_21455.html">Kevin Newman</a> scores</b>
+[%N]	<a href="../players/player_24023.html">Robert Moore</a> to third
+[%B]	Batting: SHB <a href="../players/player_37741.html">Gilberto Jimenez</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 56D, EV 94.4 MPH)
+[%N]	<b><a href="../players/player_24023.html">Robert Moore</a> scores</b>
+[%N]	<a href="../players/player_19588.html">Sam Huff</a> to second
+[%B]	Batting: SHB <a href="../players/player_39176.html">Brainer Bonaci</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 3F
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_21573.html">Jake Cronenworth</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 9LMF
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 23F
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 56D, EV 98.8 MPH)
+[%N]	<a href="../players/player_19588.html">Sam Huff</a> to third
+[%N]	<a href="../players/player_37741.html">Gilberto Jimenez</a> to second
+[%B]	Batting: RHB <a href="../players/player_38934.html">Sean McLain</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2:  Fly out, F4  (Popup, 3S, EV 77.5 MPH)
+[%F]	Top of the 4th over - 5 runs, 8 hits, 0 errors, 3 left on base; Worcester 5 - St. Paul 2
+[%T]	Bottom of the 4th - St. Paul Saints batting - Pitching for Worcester Red Sox : LHP <a href="../players/player_25827.html">Cole Ragans</a>
+[%B]	Batting: RHB <a href="../players/player_31853.html">Roy Morales</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 6D, EV 97.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_23631.html">Trevor Larnach</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Flyball, 7D, EV 94.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_36113.html">MJ Melendez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 9LMF
+[%N]	2-1: <b>DOUBLE</b>  (Line Drive, 78D, EV 105.0 MPH)
+[%N]	<a href="../players/player_31853.html">Roy Morales</a> to third
+[%B]	Batting: RHB <a href="../players/player_43862.html">Tanner Schobel</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ground out 6-3 (Groundball, 6, EV 92.5 MPH)
+[%N]	<b><a href="../players/player_31853.html">Roy Morales</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_48899.html">Samuel Zavala</a>
+[%N]	0-0: Foul Ball, location: 2LF
+[%N]	0-1: Foul Ball, location: 25F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ground out 6-3 (Groundball, 6, EV 88.8 MPH)
+[%F]	Bottom of the 4th over - 1 run, 2 hits, 0 errors, 1 left on base; Worcester 5 - St. Paul 3
+[%T]	Top of the 5th - Worcester Red Sox batting - Pitching for St. Paul Saints : RHP <a href="../players/player_22785.html">A.J. Labas</a>
+[%B]	Batting: LHB <a href="../players/player_39121.html">Eddinson Paulino</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2:  Fly out, F8  (Flyball, 8RS, EV 95.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_36955.html">Wilyer Abreu</a>
+[%N]	0-0: Foul Ball, location: 3F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: <b>DOUBLE</b>  (Line Drive, 78XD, EV 100.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_21455.html">Kevin Newman</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 9LSF
+[%N]	0-2:  Fly out, F6  (Line Drive, 4MD, EV 69.4 MPH)
+[%N]	Lined into DP, U6 (Line Drive, 4MD, EV 69.4 MPH)
+[%F]	Top of the 5th over - 0 runs, 1 hit, 0 errors, 0 left on base; Worcester 5 - St. Paul 3
+[%T]	Bottom of the 5th - St. Paul Saints batting - Pitching for Worcester Red Sox : LHP <a href="../players/player_25827.html">Cole Ragans</a>
+[%B]	Batting: RHB <a href="../players/player_18520.html">Ryan Jeffers</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 5FF
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_36447.html">Mikey Perez</a>
+[%N]	0-0:  Fly out, F8  (Line Drive, 8LM, EV 86.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_25880.html">Alex Isola</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F6  (Line Drive, 6D, EV 61.9 MPH)
+[%F]	Bottom of the 5th over - 0 runs, 0 hits, 0 errors, 0 left on base; Worcester 5 - St. Paul 3
+[%T]	Top of the 6th - Worcester Red Sox batting - Pitching for St. Paul Saints : RHP <a href="../players/player_22785.html">A.J. Labas</a>
+[%B]	Batting: SHB <a href="../players/player_24023.html">Robert Moore</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 7LMF
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 25F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 9LDF
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_19588.html">Sam Huff</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  <b>SOLO HOME RUN</b>  (Flyball, 9D, EV 95.6 MPH), Distance : 377 ft
+[%B]	Pitching: RHP <a href="../players/player_45666.html">David Festa</a>
+[%B]	Batting: SHB <a href="../players/player_37741.html">Gilberto Jimenez</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Line Drive, 7LS, EV 86.9 MPH)
+[%B]	Batting: SHB <a href="../players/player_39176.html">Brainer Bonaci</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 6MD, EV 94.4 MPH)
+[%N]	<a href="../players/player_37741.html">Gilberto Jimenez</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by CF to home</b>
+[%N]	<a href="../players/player_39176.html">Brainer Bonaci</a> to second
+[%B]	Batting: LHB <a href="../players/player_21573.html">Jake Cronenworth</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 7LSF
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: <b>DOUBLE</b>  (Flyball, 8LXD, EV 95.0 MPH)
+[%N]	<b><a href="../players/player_39176.html">Brainer Bonaci</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_38934.html">Sean McLain</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 9LD, EV 100.6 MPH)
+[%N]	<b><a href="../players/player_21573.html">Jake Cronenworth</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_39121.html">Eddinson Paulino</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F4  (Popup, 4, EV 58.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_36955.html">Wilyer Abreu</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F7  (Flyball, 7, EV 97.5 MPH)
+[%F]	Top of the 6th over - 4 runs, 5 hits, 0 errors, 1 left on base; Worcester 9 - St. Paul 3
+[%T]	Bottom of the 6th - St. Paul Saints batting - Pitching for Worcester Red Sox : LHP <a href="../players/player_25827.html">Cole Ragans</a>
+[%B]	Batting: RHB <a href="../players/player_38672.html">Anthony Prato</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_31853.html">Roy Morales</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Flyball, 89D, EV 108.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_23631.html">Trevor Larnach</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Pitching: RHP <a href="../players/player_36898.html">Billy Sullivan</a>
+[%B]	Batting: LHB <a href="../players/player_36113.html">MJ Melendez</a>
+[%N]	0-0: <b>DOUBLE</b>  (Line Drive, 8LXD, EV 103.8 MPH)
+[%N]	<b><a href="../players/player_31853.html">Roy Morales</a> scores</b>
+[%N]	<a href="../players/player_23631.html">Trevor Larnach</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by CF to trailing runner, SAFE at third!</b>
+[%B]	Batting: RHB <a href="../players/player_43862.html">Tanner Schobel</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F8  (Flyball, 8RD, EV 106.3 MPH)
+[%N]	<b>Runner from 3rd tags up, SCORES, no throw by CF</b>
+[%B]	Batting: LHB <a href="../players/player_48899.html">Samuel Zavala</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7D, EV 90.6 MPH)
+[%F]	Bottom of the 6th over - 3 runs, 2 hits, 0 errors, 0 left on base; Worcester 9 - St. Paul 6
+[%T]	Top of the 7th - Worcester Red Sox batting - Pitching for St. Paul Saints : RHP <a href="../players/player_45666.html">David Festa</a>
+[%B]	Batting: RHB <a href="../players/player_21455.html">Kevin Newman</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 7S, EV 108.8 MPH)
+[%B]	Batting: SHB <a href="../players/player_24023.html">Robert Moore</a>
+[%N]	0-0: Foul Ball, location: 5F
+[%N]	0-1:  Fly out, F5  (Popup, 5F, EV 77.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_19588.html">Sam Huff</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2:  Fly out, F9  (Flyball, 9LM, EV 100.0 MPH)
+[%B]	Batting: SHB <a href="../players/player_37741.html">Gilberto Jimenez</a>
+[%N]	0-0: Foul Ball, location: 9LMF
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 7LMF
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%F]	Top of the 7th over - 0 runs, 1 hit, 0 errors, 1 left on base; Worcester 9 - St. Paul 6
+[%T]	Bottom of the 7th - St. Paul Saints batting - Pitching for Worcester Red Sox : RHP <a href="../players/player_36898.html">Billy Sullivan</a>
+[%B]	Batting: RHB <a href="../players/player_18520.html">Ryan Jeffers</a>
+[%N]	0-0: Foul Ball, location: 3DF
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 8RS, EV 95.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_36447.html">Mikey Perez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 9LSF
+[%N]	1-2: Reached on error, E6 (Groundball, 6, EV 97.5 MPH)
+[%N]	<a href="../players/player_18520.html">Ryan Jeffers</a> to second
+[%B]	Batting: RHB <a href="../players/player_25880.html">Alex Isola</a>
+[%N]	0-0: Ball
+[%N]	1-0: Grounds into double play, 4-6-3 (Groundball, 4, EV 100.6 MPH)
+[%N]	<a href="../players/player_18520.html">Ryan Jeffers</a> to third
+[%B]	Batting: RHB <a href="../players/player_38672.html">Anthony Prato</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 5DF
+[%N]	0-2: Strikes out swinging
+[%F]	Bottom of the 7th over - 0 runs, 1 hit, 1 error, 1 left on base; Worcester 9 - St. Paul 6
+[%T]	Top of the 8th - Worcester Red Sox batting - Pitching for St. Paul Saints : RHP <a href="../players/player_45666.html">David Festa</a>
+[%B]	Batting: SHB <a href="../players/player_39176.html">Brainer Bonaci</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_21573.html">Jake Cronenworth</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2:  <b>SOLO HOME RUN</b>  (Flyball, 78XD, EV 98.1 MPH), Distance : 404 ft
+[%B]	Pitching: RHP <a href="../players/player_26220.html">Yerry De Los Santos</a>
+[%B]	Batting: RHB <a href="../players/player_38934.html">Sean McLain</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F8  (Flyball, 78M, EV 76.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_39121.html">Eddinson Paulino</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 7S, EV 98.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_36955.html">Wilyer Abreu</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F9  (Flyball, 89M, EV 93.1 MPH)
+[%F]	Top of the 8th over - 1 run, 2 hits, 0 errors, 1 left on base; Worcester 10 - St. Paul 6
+[%T]	Bottom of the 8th - St. Paul Saints batting - Pitching for Worcester Red Sox : RHP <a href="../players/player_36898.html">Billy Sullivan</a>
+[%B]	Batting: RHB <a href="../players/player_31853.html">Roy Morales</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 9LDF
+[%N]	1-1: Foul Ball, location: 25FF
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_23631.html">Trevor Larnach</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ground out 4-3 (Groundball, 4, EV 83.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_36113.html">MJ Melendez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F7  (Line Drive, 7, EV 91.9 MPH)
+[%F]	Bottom of the 8th over - 0 runs, 0 hits, 0 errors, 0 left on base; Worcester 10 - St. Paul 6
+[%T]	Top of the 9th - Worcester Red Sox batting - Pitching for St. Paul Saints : RHP <a href="../players/player_26220.html">Yerry De Los Santos</a>
+[%B]	Batting: RHB <a href="../players/player_21455.html">Kevin Newman</a>
+[%N]	0-0: Foul Ball, location: 23FF
+[%N]	0-1: Ground out 6-3 (Groundball, 6, EV 82.5 MPH)
+[%B]	Batting: SHB <a href="../players/player_24023.html">Robert Moore</a>
+[%N]	0-0: Foul Ball, location: 7LSF
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F8  (Flyball, 8LM, EV 100.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_19588.html">Sam Huff</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: <b>DOUBLE</b>  (Groundball, 5L, EV 107.5 MPH)
+[%B]	Batting: SHB <a href="../players/player_37741.html">Gilberto Jimenez</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 6MD, EV 98.1 MPH)
+[%N]	<a href="../players/player_19588.html">Sam Huff</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by CF to home</b>
+[%N]	<a href="../players/player_37741.html">Gilberto Jimenez</a> to second
+[%B]	Batting: SHB <a href="../players/player_39176.html">Brainer Bonaci</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F5  (Popup, 56S, EV 81.9 MPH)
+[%F]	Top of the 9th over - 1 run, 2 hits, 0 errors, 1 left on base; Worcester 11 - St. Paul 6
+[%T]	Bottom of the 9th - St. Paul Saints batting - Pitching for Worcester Red Sox : RHP <a href="../players/player_36898.html">Billy Sullivan</a>
+[%B]	Batting: RHB <a href="../players/player_43862.html">Tanner Schobel</a>
+[%N]	0-0: Foul Ball, location: 9LDF
+[%N]	0-1: Foul Ball, location: 25F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 9LDF
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 3SF
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_48899.html">Samuel Zavala</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 7LSF
+[%N]	3-2: Ground out 3-1 (Groundball, 34, EV 81.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_18520.html">Ryan Jeffers</a>
+[%N]	0-0: Foul Ball, location: 7LDF
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ground out 5-3 (Groundball, 5, EV 103.1 MPH)
+[%F]	Bottom of the 9th over - 0 runs, 0 hits, 0 errors, 0 left on base; Worcester 11 - St. Paul 6

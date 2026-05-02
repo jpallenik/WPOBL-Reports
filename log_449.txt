@@ -1,0 +1,459 @@
+[%T]	Top of the 1st - Jacksonville Jumbo Shrimp batting - Pitching for Norfolk Tides : LHP <a href="../players/player_23872.html">Drew Rom</a>
+[%B]	Pitching: LHP <a href="../players/player_23872.html">Drew Rom</a>
+[%B]	Batting: RHB <a href="../players/player_21615.html">Dalvy Rosario</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 9LMF
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_25624.html">Nick Solak</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_23231.html">Stephen Scott</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: <b>SINGLE</b>  (Groundball, 34D, EV 105.0 MPH)
+[%N]	<a href="../players/player_25624.html">Nick Solak</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw by RF made at trailing runner, OUT! 9-3-6
+[%B]	Batting: LHB <a href="../players/player_44916.html">Justin Janas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_37733.html">Yunior Garcia</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 4-3 (Groundball, 4, EV 93.1 MPH)
+[%F]	Top of the 1st over - 0 runs, 1 hit, 0 errors, 2 left on base; Jacksonville 0 - Norfolk 0
+[%T]	Bottom of the 1st - Norfolk Tides batting - Pitching for Jacksonville Jumbo Shrimp : RHP <a href="../players/player_33428.html">Germán Márquez</a>
+[%B]	Pitching: RHP <a href="../players/player_33428.html">Germán Márquez</a>
+[%B]	Batting: RHB <a href="../players/player_25035.html">Hudson Haskin</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: <b>SINGLE</b>  (Flyball, 9, EV 97.5 MPH)
+[%B]	Batting: SHB <a href="../players/player_45026.html">Reed Trimble</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 3S, EV 70.6 MPH) (infield hit)
+[%N]	<a href="../players/player_25035.html">Hudson Haskin</a> to second
+[%B]	Batting: LHB <a href="../players/player_840.html">Terrin Vavra</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_25207.html">Heston Kjerstad</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 3DF
+[%N]	2-2: Ball
+[%N]	3-2: Fielders Choice at 2nd, 4-6 (Groundball, 4M, EV 109.4 MPH)
+[%N]	<a href="../players/player_25035.html">Hudson Haskin</a> to third
+[%B]	Batting: SHB <a href="../players/player_35386.html">Carter Young</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 5FF
+[%N]	0-2: Strikes out looking
+[%F]	Bottom of the 1st over - 0 runs, 2 hits, 0 errors, 2 left on base; Jacksonville 0 - Norfolk 0
+[%T]	Top of the 2nd - Jacksonville Jumbo Shrimp batting - Pitching for Norfolk Tides : LHP <a href="../players/player_23872.html">Drew Rom</a>
+[%B]	Batting: RHB <a href="../players/player_34324.html">Lourdes Gurriel Jr.</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 3SF
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 25FF
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_31839.html">Victor Caratini</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_24967.html">Addison Barger</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F7  (Line Drive, 7, EV 106.3 MPH)
+[%F]	Top of the 2nd over - 0 runs, 0 hits, 0 errors, 0 left on base; Jacksonville 0 - Norfolk 0
+[%T]	Bottom of the 2nd - Norfolk Tides batting - Pitching for Jacksonville Jumbo Shrimp : RHP <a href="../players/player_33428.html">Germán Márquez</a>
+[%B]	Batting: LHB <a href="../players/player_42521.html">Collin Burns</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 25F
+[%N]	1-1: Ground out 3-1 (Groundball, 34S, EV 81.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_37368.html">César Prieto</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 3-1 (Groundball, 34, EV 103.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_40444.html">Victor González</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 9LSF
+[%N]	2-2: Foul Ball, location: 9LMF
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2RF
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 8LS, EV 109.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_37563.html">Randy Florentino</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_40444.html">Victor González</a> steals 2nd base
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F9  (Flyball, 9D, EV 103.1 MPH)
+[%F]	Bottom of the 2nd over - 0 runs, 1 hit, 0 errors, 1 left on base; Jacksonville 0 - Norfolk 0
+[%T]	Top of the 3rd - Jacksonville Jumbo Shrimp batting - Pitching for Norfolk Tides : LHP <a href="../players/player_23872.html">Drew Rom</a>
+[%B]	Batting: RHB <a href="../players/player_37484.html">Nelson Medina</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 9LMF
+[%N]	2-2: Foul Ball, location: 3F
+[%N]	2-2: Foul Ball, location: 3DF
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_21615.html">Dalvy Rosario</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 6MD, EV 103.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_25624.html">Nick Solak</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_23231.html">Stephen Scott</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 25FF
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 3F
+[%N]	3-2:  Fly out, F9  (Flyball, 89M, EV 91.3 MPH)
+[%F]	Top of the 3rd over - 0 runs, 1 hit, 0 errors, 1 left on base; Jacksonville 0 - Norfolk 0
+[%T]	Bottom of the 3rd - Norfolk Tides batting - Pitching for Jacksonville Jumbo Shrimp : RHP <a href="../players/player_33428.html">Germán Márquez</a>
+[%B]	Batting: RHB <a href="../players/player_25035.html">Hudson Haskin</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  <b>SOLO HOME RUN</b>  (Flyball, 7LD, EV 95.0 MPH), Distance : 341 ft
+[%B]	Batting: SHB <a href="../players/player_45026.html">Reed Trimble</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 56D, EV 99.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_840.html">Terrin Vavra</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Ground out 4-3 (Groundball, 4, EV 103.1 MPH)
+[%N]	<a href="../players/player_45026.html">Reed Trimble</a> to second
+[%B]	Batting: LHB <a href="../players/player_25207.html">Heston Kjerstad</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: <b>TRIPLE</b>  (Line Drive, 89XD, EV 98.8 MPH)
+[%N]	<b><a href="../players/player_45026.html">Reed Trimble</a> scores</b>
+[%B]	Batting: SHB <a href="../players/player_35386.html">Carter Young</a>
+[%N]	0-0: Foul Ball, location: 2LF
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_42521.html">Collin Burns</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out swinging
+[%F]	Bottom of the 3rd over - 2 runs, 3 hits, 0 errors, 1 left on base; Jacksonville 0 - Norfolk 2
+[%T]	Top of the 4th - Jacksonville Jumbo Shrimp batting - Pitching for Norfolk Tides : LHP <a href="../players/player_23872.html">Drew Rom</a>
+[%B]	Batting: LHB <a href="../players/player_44916.html">Justin Janas</a>
+[%N]	0-0: Foul Ball, location: 7LDF
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F5  (Popup, 6S, EV 79.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_37733.html">Yunior Garcia</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4, EV 104.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_34324.html">Lourdes Gurriel Jr.</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2RF
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%F]	Top of the 4th over - 0 runs, 0 hits, 0 errors, 0 left on base; Jacksonville 0 - Norfolk 2
+[%T]	Bottom of the 4th - Norfolk Tides batting - Pitching for Jacksonville Jumbo Shrimp : RHP <a href="../players/player_33428.html">Germán Márquez</a>
+[%B]	Batting: LHB <a href="../players/player_37368.html">César Prieto</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: <b>DOUBLE</b>  (Flyball, 9LD, EV 101.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_40444.html">Victor González</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 23F
+[%N]	2-2: Foul Ball, location: 3F
+[%N]	2-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_37563.html">Randy Florentino</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 7LMF
+[%N]	1-1: Foul Ball, location: 3F
+[%N]	1-2:  Fly out, F8  (Flyball, 8LD, EV 111.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_25035.html">Hudson Haskin</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Called Strike
+[%N]	2-2: Ground out 6-3 (Groundball, 6, EV 105.6 MPH)
+[%F]	Bottom of the 4th over - 0 runs, 1 hit, 0 errors, 1 left on base; Jacksonville 0 - Norfolk 2
+[%T]	Top of the 5th - Jacksonville Jumbo Shrimp batting - Pitching for Norfolk Tides : LHP <a href="../players/player_23872.html">Drew Rom</a>
+[%B]	Batting: SHB <a href="../players/player_31839.html">Victor Caratini</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_24967.html">Addison Barger</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 3FF
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F8  (Flyball, S4, EV 101.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_37484.html">Nelson Medina</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 5F
+[%N]	2-1: Ground out U3 (Groundball, 34, EV 88.8 MPH)
+[%F]	Top of the 5th over - 0 runs, 0 hits, 0 errors, 0 left on base; Jacksonville 0 - Norfolk 2
+[%T]	Bottom of the 5th - Norfolk Tides batting - Pitching for Jacksonville Jumbo Shrimp : RHP <a href="../players/player_33428.html">Germán Márquez</a>
+[%B]	Batting: SHB <a href="../players/player_45026.html">Reed Trimble</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 34D, EV 108.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_840.html">Terrin Vavra</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 23FF
+[%N]	0-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_25207.html">Heston Kjerstad</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Flyball, 89S, EV 93.1 MPH)
+[%N]	<a href="../players/player_45026.html">Reed Trimble</a> to second
+[%B]	Batting: SHB <a href="../players/player_35386.html">Carter Young</a>
+[%N]	0-0: Foul Ball, location: 25F
+[%N]	0-1:  Fly out, F7  (Flyball, 78S, EV 85.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_42521.html">Collin Burns</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 2L, EV 65.0 MPH) (infield hit)
+[%N]	<a href="../players/player_45026.html">Reed Trimble</a> to third
+[%N]	<a href="../players/player_25207.html">Heston Kjerstad</a> to second
+[%B]	Pitching: RHP <a href="../players/player_21321.html">Carlos Vargas</a>
+[%B]	Batting: LHB <a href="../players/player_37368.html">César Prieto</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Fielders Choice at 2nd, 6-4 (Groundball, 6, EV 81.3 MPH)
+[%F]	Bottom of the 5th over - 0 runs, 3 hits, 0 errors, 3 left on base; Jacksonville 0 - Norfolk 2
+[%T]	Top of the 6th - Jacksonville Jumbo Shrimp batting - Pitching for Norfolk Tides : LHP <a href="../players/player_23872.html">Drew Rom</a>
+[%B]	Batting: RHB <a href="../players/player_21615.html">Dalvy Rosario</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 3S, EV 63.1 MPH) (infield hit)
+[%B]	Pinch Runner at 1st <a href="../players/player_44465.html">Kahlil Watson</a>: 
+[%B]	Batting: RHB <a href="../players/player_25624.html">Nick Solak</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	<a href="../players/player_44465.html">Kahlil Watson</a> steals 2nd base
+[%N]	1-1: Foul Ball, location: 9LSF
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 4-3 (Groundball, 4, EV 91.3 MPH)
+[%N]	<a href="../players/player_44465.html">Kahlil Watson</a> to third
+[%B]	Batting: LHB <a href="../players/player_23231.html">Stephen Scott</a>
+[%N]	0-0: Foul Ball, location: 3SF
+[%N]	0-1: Foul Ball, location: 5FF
+[%N]	0-2: <b>SINGLE</b>  (Line Drive, 6MD, EV 94.4 MPH)
+[%N]	<b><a href="../players/player_44465.html">Kahlil Watson</a> scores</b>
+[%B]	Pitching: RHP <a href="../players/player_37532.html">Alfred Vega</a>
+[%B]	Batting: LHB <a href="../players/player_44916.html">Justin Janas</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: <b>SINGLE</b>  (Line Drive, 9S, EV 101.9 MPH)
+[%N]	<a href="../players/player_23231.html">Stephen Scott</a> to second
+[%B]	Batting: RHB <a href="../players/player_37733.html">Yunior Garcia</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 3SF
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_34324.html">Lourdes Gurriel Jr.</a>
+[%N]	0-0: Ball
+[%N]	1-0: Fielders Choice at 2nd, 6-4 (Groundball, 6, EV 109.4 MPH)
+[%F]	Top of the 6th over - 1 run, 3 hits, 0 errors, 2 left on base; Jacksonville 1 - Norfolk 2
+[%T]	Bottom of the 6th - Norfolk Tides batting - Pitching for Jacksonville Jumbo Shrimp : RHP <a href="../players/player_21321.html">Carlos Vargas</a>
+[%B]	Now at SS: <a href="../players/player_44465.html">Kahlil Watson</a>
+[%B]	Batting: RHB <a href="../players/player_40444.html">Victor González</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_37563.html">Randy Florentino</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	<a href="../players/player_40444.html">Victor González</a> is caught stealing 2nd base 2-6
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_25035.html">Hudson Haskin</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_37563.html">Randy Florentino</a> to second
+[%B]	Batting: SHB <a href="../players/player_45026.html">Reed Trimble</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 34D, EV 100.0 MPH)
+[%N]	<a href="../players/player_37563.html">Randy Florentino</a> to third
+[%N]	<a href="../players/player_25035.html">Hudson Haskin</a> to second
+[%B]	Pitching: RHP <a href="../players/player_19614.html">George Soriano</a>
+[%B]	Batting: LHB <a href="../players/player_840.html">Terrin Vavra</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 9LDF
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2RF
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F8  (Line Drive, 8LM, EV 97.5 MPH)
+[%N]	<b>Runner from 3rd tags up, SCORES, throw by CF</b>
+[%N]	<a href="../players/player_25035.html">Hudson Haskin</a> to third
+[%B]	Batting: LHB <a href="../players/player_25207.html">Heston Kjerstad</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 5DF
+[%N]	1-2: Foul Ball, location: 25FF
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 6th over - 1 run, 1 hit, 0 errors, 2 left on base; Jacksonville 1 - Norfolk 3
+[%T]	Top of the 7th - Jacksonville Jumbo Shrimp batting - Pitching for Norfolk Tides : RHP <a href="../players/player_37532.html">Alfred Vega</a>
+[%B]	Batting: SHB <a href="../players/player_31839.html">Victor Caratini</a>
+[%N]	0-0: Foul Ball, location: 7LSF
+[%N]	0-1:  Fly out, F8  (Flyball, 8RM, EV 95.6 MPH)
+[%B]	Pitching: LHP <a href="../players/player_40976.html">Philip Abner</a>
+[%B]	Batting: LHB <a href="../players/player_24967.html">Addison Barger</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: <b>SINGLE</b>  (Line Drive, 3D, EV 96.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_37484.html">Nelson Medina</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_24967.html">Addison Barger</a> steals 2nd base
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F9  (Flyball, 9, EV 84.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_44465.html">Kahlil Watson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 25F
+[%N]	1-2: Foul Ball, location: 9LDF
+[%N]	1-2: Ball
+[%N]	2-2: Ground out U3 (Groundball, 3, EV 90.0 MPH)
+[%F]	Top of the 7th over - 0 runs, 1 hit, 0 errors, 1 left on base; Jacksonville 1 - Norfolk 3
+[%T]	Bottom of the 7th - Norfolk Tides batting - Pitching for Jacksonville Jumbo Shrimp : RHP <a href="../players/player_19614.html">George Soriano</a>
+[%B]	Batting: SHB <a href="../players/player_35386.html">Carter Young</a>
+[%N]	0-0: Ball
+[%N]	1-0: Reached on error, E6 (Groundball, 6, EV 101.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_42521.html">Collin Burns</a>
+[%N]	0-0:  Fly out, F9  (Line Drive, 9, EV 94.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_37368.html">César Prieto</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F9  (Flyball, 9, EV 86.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_40444.html">Victor González</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 23F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 7th over - 0 runs, 0 hits, 1 error, 1 left on base; Jacksonville 1 - Norfolk 3
+[%T]	Top of the 8th - Jacksonville Jumbo Shrimp batting - Pitching for Norfolk Tides : LHP <a href="../players/player_40976.html">Philip Abner</a>
+[%B]	Batting: RHB <a href="../players/player_25624.html">Nick Solak</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Ground out 6-3 (Groundball, 6, EV 90.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_23231.html">Stephen Scott</a>
+[%N]	0-0: Foul Ball, location: 2RF
+[%N]	0-1: Foul Ball, location: 3F
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_44916.html">Justin Janas</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out looking
+[%F]	Top of the 8th over - 0 runs, 0 hits, 0 errors, 0 left on base; Jacksonville 1 - Norfolk 3
+[%T]	Bottom of the 8th - Norfolk Tides batting - Pitching for Jacksonville Jumbo Shrimp : RHP <a href="../players/player_19614.html">George Soriano</a>
+[%B]	Batting: LHB <a href="../players/player_37563.html">Randy Florentino</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Foul Ball, location: 5F
+[%N]	3-2: Foul Ball, location: 9LSFF
+[%N]	3-2: Strikes out swinging
+[%B]	Pitching: RHP <a href="../players/player_36743.html">Steven Jennings</a>
+[%B]	Batting: RHB <a href="../players/player_25035.html">Hudson Haskin</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 23F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F7  (Flyball, 7, EV 84.4 MPH)
+[%B]	Batting: SHB <a href="../players/player_45026.html">Reed Trimble</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_840.html">Terrin Vavra</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 5SF
+[%N]	2-2: Foul Ball, location: 7LDF
+[%N]	2-2: Ground out U3 (Groundball, 3, EV 100.6 MPH)
+[%F]	Bottom of the 8th over - 0 runs, 0 hits, 0 errors, 1 left on base; Jacksonville 1 - Norfolk 3
+[%T]	Top of the 9th - Jacksonville Jumbo Shrimp batting - Pitching for Norfolk Tides : LHP <a href="../players/player_40976.html">Philip Abner</a>
+[%B]	Pitching: RHP <a href="../players/player_49127.html">Yaqui Rivera</a>
+[%B]	Batting: RHB <a href="../players/player_37733.html">Yunior Garcia</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 25FF
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 9LSF
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_34324.html">Lourdes Gurriel Jr.</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 5F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 7LDF
+[%N]	1-2: Ground out 6-3 (Groundball, 6, EV 103.8 MPH)
+[%B]	Batting: SHB <a href="../players/player_31839.html">Victor Caratini</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out looking
+[%F]	Top of the 9th over - 0 runs, 0 hits, 0 errors, 0 left on base; Jacksonville 1 - Norfolk 3

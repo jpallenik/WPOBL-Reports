@@ -1,0 +1,355 @@
+[%T]	Top of the 1st - Syracuse Mets batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_36879.html">Victor Vargas</a>
+[%B]	Pitching: RHP <a href="../players/player_36879.html">Victor Vargas</a>
+[%B]	Batting: RHB <a href="../players/player_143918.html">Daniel Dickenson</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 6MD, EV 106.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_143197.html">Hyeseong Kim</a>
+[%N]	0-0:  Fly out, F6  (Popup, 6M, EV 59.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_47549.html">Jett Williams</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 25F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 15S, EV 60.6 MPH) (infield hit)
+[%N]	<a href="../players/player_143918.html">Daniel Dickenson</a> to second
+[%B]	Batting: RHB <a href="../players/player_19150.html">Junior Tilien</a>
+[%N]	0-0: Grounds into double play, 5-4-3 (Groundball, 56, EV 81.9 MPH)
+[%F]	Top of the 1st over - 0 runs, 2 hits, 0 errors, 1 left on base; Syracuse 0 - Buffalo 0
+[%T]	Bottom of the 1st - Buffalo Bisons batting - Pitching for Syracuse Mets : LHP <a href="../players/player_25910.html">Avery Weems</a>
+[%B]	Pitching: LHP <a href="../players/player_25910.html">Avery Weems</a>
+[%B]	Batting: LHB <a href="../players/player_48328.html">J.J. Wetherholt</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out U3 (Groundball, 3, EV 87.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_39072.html">Yoander Rivero</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Flyball, 9S, EV 81.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_35312.html">Luis Robert Jr.</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 6MD, EV 100.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_24221.html">Justyn-Henry Malloy</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1:  <b>2-RUN HOME RUN</b>  (Flyball, 9LD, EV 92.5 MPH), Distance : 349 ft
+[%B]	Batting: LHB <a href="../players/player_47832.html">Jaden Rudd</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out 6-3 (Groundball, 6S, EV 85.0 MPH)
+[%F]	Bottom of the 1st over - 2 runs, 2 hits, 0 errors, 0 left on base; Syracuse 0 - Buffalo 2
+[%T]	Top of the 2nd - Syracuse Mets batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_36879.html">Victor Vargas</a>
+[%B]	Batting: RHB <a href="../players/player_40456.html">Alex Ramirez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F5  (Popup, 5SF, EV 85.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_36941.html">Stanley Consuegra</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 23FF
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 78S, EV 97.5 MPH)
+[%B]	Batting: SHB <a href="../players/player_25742.html">Rowdey Jordan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Grounds into double play, 3-6-3 (Groundball, 3S, EV 86.3 MPH)
+[%F]	Top of the 2nd over - 0 runs, 1 hit, 0 errors, 0 left on base; Syracuse 0 - Buffalo 2
+[%T]	Bottom of the 2nd - Buffalo Bisons batting - Pitching for Syracuse Mets : LHP <a href="../players/player_25910.html">Avery Weems</a>
+[%B]	Batting: LHB <a href="../players/player_38909.html">Chris Newell</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Called Strike
+[%N]	1-2: Ground out 4-3 (Groundball, 34, EV 83.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_45096.html">Michael Turconi</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 78S, EV 97.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_25369.html">Stephen Alemais</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 9LDF
+[%N]	1-2: Ground out 4-3 (Groundball, 4MD, EV 96.3 MPH)
+[%F]	Bottom of the 2nd over - 0 runs, 0 hits, 0 errors, 0 left on base; Syracuse 0 - Buffalo 2
+[%T]	Top of the 3rd - Syracuse Mets batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_36879.html">Victor Vargas</a>
+[%B]	Batting: LHB <a href="../players/player_40469.html">Vincent Perozo</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_45608.html">David Bryant</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F8  (Flyball, 89M, EV 83.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_143918.html">Daniel Dickenson</a>
+[%N]	0-0: Foul Ball, location: 23F
+[%N]	0-1:  Fly out, F7  (Flyball, 78S, EV 90.0 MPH)
+[%F]	Top of the 3rd over - 0 runs, 0 hits, 0 errors, 0 left on base; Syracuse 0 - Buffalo 2
+[%T]	Bottom of the 3rd - Buffalo Bisons batting - Pitching for Syracuse Mets : LHP <a href="../players/player_25910.html">Avery Weems</a>
+[%B]	Batting: RHB <a href="../players/player_36429.html">Will Banfield</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 5SF
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_48328.html">J.J. Wetherholt</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F7  (Flyball, 7, EV 89.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_39072.html">Yoander Rivero</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 56, EV 81.3 MPH)
+[%F]	Bottom of the 3rd over - 0 runs, 0 hits, 0 errors, 0 left on base; Syracuse 0 - Buffalo 2
+[%T]	Top of the 4th - Syracuse Mets batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_36879.html">Victor Vargas</a>
+[%B]	Batting: LHB <a href="../players/player_143197.html">Hyeseong Kim</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_47549.html">Jett Williams</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 5F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Grounds into double play, 4-6-3 (Groundball, 4, EV 100.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_19150.html">Junior Tilien</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%F]	Top of the 4th over - 0 runs, 0 hits, 0 errors, 0 left on base; Syracuse 0 - Buffalo 2
+[%T]	Bottom of the 4th - Buffalo Bisons batting - Pitching for Syracuse Mets : LHP <a href="../players/player_25910.html">Avery Weems</a>
+[%B]	Batting: RHB <a href="../players/player_35312.html">Luis Robert Jr.</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 6-3 (Groundball, 6M, EV 81.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_24221.html">Justyn-Henry Malloy</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 3F
+[%N]	0-2: Foul Ball, location: 9LSF
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 5-3 (Groundball, 56, EV 86.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_47832.html">Jaden Rudd</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F7  (Line Drive, 56D, EV 70.6 MPH)
+[%F]	Bottom of the 4th over - 0 runs, 0 hits, 0 errors, 0 left on base; Syracuse 0 - Buffalo 2
+[%T]	Top of the 5th - Syracuse Mets batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_36879.html">Victor Vargas</a>
+[%B]	Batting: RHB <a href="../players/player_40456.html">Alex Ramirez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 3SF
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_36941.html">Stanley Consuegra</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 5-3 (Groundball, 56S, EV 87.5 MPH)
+[%B]	Batting: SHB <a href="../players/player_25742.html">Rowdey Jordan</a>
+[%N]	0-0: Foul Ball, location: 3F
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 7LMF
+[%N]	3-2: Foul Ball, location: 3F
+[%N]	3-2: Foul Ball, location: 5F
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 89S, EV 101.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_40469.html">Vincent Perozo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F7  (Flyball, 7, EV 88.1 MPH)
+[%F]	Top of the 5th over - 0 runs, 1 hit, 0 errors, 1 left on base; Syracuse 0 - Buffalo 2
+[%T]	Bottom of the 5th - Buffalo Bisons batting - Pitching for Syracuse Mets : LHP <a href="../players/player_25910.html">Avery Weems</a>
+[%B]	Batting: LHB <a href="../players/player_38909.html">Chris Newell</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_45096.html">Michael Turconi</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_25369.html">Stephen Alemais</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1:  Fly out, F7  (Line Drive, 7S, EV 95.0 MPH)
+[%F]	Bottom of the 5th over - 0 runs, 0 hits, 0 errors, 0 left on base; Syracuse 0 - Buffalo 2
+[%T]	Top of the 6th - Syracuse Mets batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_36879.html">Victor Vargas</a>
+[%B]	Batting: LHB <a href="../players/player_45608.html">David Bryant</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F8  (Flyball, 8LD, EV 90.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_143918.html">Daniel Dickenson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F5  (Line Drive, 56, EV 71.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_143197.html">Hyeseong Kim</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out looking
+[%F]	Top of the 6th over - 0 runs, 0 hits, 0 errors, 0 left on base; Syracuse 0 - Buffalo 2
+[%T]	Bottom of the 6th - Buffalo Bisons batting - Pitching for Syracuse Mets : LHP <a href="../players/player_25910.html">Avery Weems</a>
+[%B]	Batting: RHB <a href="../players/player_36429.html">Will Banfield</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F9  (Flyball, 89M, EV 95.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_48328.html">J.J. Wetherholt</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F8  (Flyball, 8RD, EV 77.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_39072.html">Yoander Rivero</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out looking
+[%F]	Bottom of the 6th over - 0 runs, 0 hits, 0 errors, 0 left on base; Syracuse 0 - Buffalo 2
+[%T]	Top of the 7th - Syracuse Mets batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_36879.html">Victor Vargas</a>
+[%B]	Batting: RHB <a href="../players/player_47549.html">Jett Williams</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_19150.html">Junior Tilien</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: <b>DOUBLE</b>  (Flyball, 89D, EV 102.5 MPH)
+[%B]	Pitching: RHP <a href="../players/player_26106.html">Daniel Espino</a>
+[%B]	Batting: RHB <a href="../players/player_40456.html">Alex Ramirez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 9LDF
+[%N]	2-2: Ground out 6-3 (Groundball, 56D, EV 100.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_36941.html">Stanley Consuegra</a>
+[%N]	0-0: Foul Ball, location: 7LSF
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 6-3 (Groundball, 6, EV 105.0 MPH)
+[%F]	Top of the 7th over - 0 runs, 1 hit, 0 errors, 1 left on base; Syracuse 0 - Buffalo 2
+[%T]	Bottom of the 7th - Buffalo Bisons batting - Pitching for Syracuse Mets : LHP <a href="../players/player_25910.html">Avery Weems</a>
+[%B]	Batting: RHB <a href="../players/player_35312.html">Luis Robert Jr.</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6, EV 78.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_24221.html">Justyn-Henry Malloy</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 9LMF
+[%N]	2-2: Ball
+[%N]	3-2: <b>TRIPLE</b>  (Flyball, 89XD, EV 93.8 MPH)
+[%B]	Pinch Runner at 3rd <a href="../players/player_31620.html">Chris Okey</a>: 
+[%B]	Batting: LHB <a href="../players/player_47832.html">Jaden Rudd</a>
+[%N]	0-0:  Fly out, F8  (Line Drive, 8LM, EV 95.6 MPH)
+[%N]	<b>Runner from 3rd tags up, SCORES, no throw by CF</b>
+[%B]	Batting: LHB <a href="../players/player_38909.html">Chris Newell</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 3F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 9LDF
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 7th over - 1 run, 1 hit, 0 errors, 0 left on base; Syracuse 0 - Buffalo 3
+[%T]	Top of the 8th - Syracuse Mets batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_26106.html">Daniel Espino</a>
+[%B]	Now in RF: <a href="../players/player_40807.html">Garrett Spain</a>
+[%B]	Batting: SHB <a href="../players/player_25742.html">Rowdey Jordan</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ground out 6-3 (Groundball, 6, EV 85.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_40469.html">Vincent Perozo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 5-3 (Groundball, 56, EV 86.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_45608.html">David Bryant</a>
+[%N]	0-0:  Fly out, F5  (Popup, 25F, EV 91.9 MPH)
+[%F]	Top of the 8th over - 0 runs, 0 hits, 0 errors, 0 left on base; Syracuse 0 - Buffalo 3
+[%T]	Bottom of the 8th - Buffalo Bisons batting - Pitching for Syracuse Mets : LHP <a href="../players/player_25910.html">Avery Weems</a>
+[%B]	Batting: LHB <a href="../players/player_45096.html">Michael Turconi</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_25369.html">Stephen Alemais</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: <b>SINGLE</b>  (Line Drive, 8RS, EV 102.5 MPH)
+[%N]	<a href="../players/player_45096.html">Michael Turconi</a> to second
+[%B]	Pitching: RHP <a href="../players/player_40919.html">Ismael Mota</a>
+[%B]	Batting: RHB <a href="../players/player_36429.html">Will Banfield</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F7  (Flyball, 78S, EV 90.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_48328.html">J.J. Wetherholt</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 34D, EV 96.3 MPH)
+[%N]	<a href="../players/player_45096.html">Michael Turconi</a> to third
+[%N]	<a href="../players/player_25369.html">Stephen Alemais</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by RF to home</b>
+[%N]	<a href="../players/player_25369.html">Stephen Alemais</a> to third
+[%N]	<a href="../players/player_48328.html">J.J. Wetherholt</a> to second
+[%B]	Batting: RHB <a href="../players/player_39072.html">Yoander Rivero</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ground out 3-1 (Groundball, 34, EV 85.6 MPH)
+[%N]	<b><a href="../players/player_25369.html">Stephen Alemais</a> scores</b>
+[%N]	<a href="../players/player_48328.html">J.J. Wetherholt</a> to third
+[%B]	Batting: RHB <a href="../players/player_35312.html">Luis Robert Jr.</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2:  <b>2-RUN HOME RUN</b>  (Flyball, 7D, EV 98.8 MPH), Distance : 362 ft
+[%B]	Batting: LHB <a href="../players/player_40807.html">Garrett Spain</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out swinging
+[%F]	Bottom of the 8th over - 4 runs, 3 hits, 0 errors, 0 left on base; Syracuse 0 - Buffalo 7
+[%T]	Top of the 9th - Syracuse Mets batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_26106.html">Daniel Espino</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_39035.html">Victor Bericoto</a>
+[%N]	0-0:  Fly out, F3  (Line Drive, 3D, EV 63.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_143197.html">Hyeseong Kim</a>
+[%N]	0-0: Foul Ball, location: 5F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 7S, EV 108.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_47549.html">Jett Williams</a>
+[%N]	0-0: Ball
+[%N]	1-0: Reached on error, E6 (Groundball, 6, EV 76.9 MPH)
+[%N]	<a href="../players/player_143197.html">Hyeseong Kim</a> to second
+[%B]	Batting: RHB <a href="../players/player_19150.html">Junior Tilien</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 25FF
+[%N]	0-2: <b>SINGLE</b>  (Groundball, 4MD, EV 110.6 MPH)
+[%N]	<a href="../players/player_143197.html">Hyeseong Kim</a> to third
+[%N]	<a href="../players/player_47549.html">Jett Williams</a> to second
+[%B]	Batting: RHB <a href="../players/player_40456.html">Alex Ramirez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_36941.html">Stanley Consuegra</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2RF
+[%N]	0-2: Ball
+[%N]	1-2: Hit by Pitch
+[%N]	<b><a href="../players/player_143197.html">Hyeseong Kim</a> scores</b>
+[%N]	<a href="../players/player_47549.html">Jett Williams</a> to third
+[%N]	<a href="../players/player_19150.html">Junior Tilien</a> to second
+[%B]	Batting: SHB <a href="../players/player_25742.html">Rowdey Jordan</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4, EV 80.6 MPH)
+[%F]	Top of the 9th over - 1 run, 2 hits, 1 error, 3 left on base; Syracuse 1 - Buffalo 7

@@ -1,0 +1,352 @@
+[%T]	Top of the 1st - Norfolk Tides batting - Pitching for Memphis Redbirds : RHP <a href="../players/player_42291.html">Emmet Sheehan</a>
+[%B]	Pitching: RHP <a href="../players/player_42291.html">Emmet Sheehan</a>
+[%B]	Batting: LHB <a href="../players/player_840.html">Terrin Vavra</a>
+[%N]	0-0: Ground out U3 (Groundball, 3S, EV 80.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_37368.html">César Prieto</a>
+[%N]	0-0:  Fly out, F5  (Popup, 56, EV 63.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_25207.html">Heston Kjerstad</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Called Strike
+[%N]	1-2: Ground out U3 (Groundball, 34S, EV 75.6 MPH)
+[%F]	Top of the 1st over - 0 runs, 0 hits, 0 errors, 0 left on base; Norfolk 0 - Memphis 0
+[%T]	Bottom of the 1st - Memphis Redbirds batting - Pitching for Norfolk Tides : LHP <a href="../players/player_23872.html">Drew Rom</a>
+[%B]	Pitching: LHP <a href="../players/player_23872.html">Drew Rom</a>
+[%B]	Batting: RHB <a href="../players/player_23400.html">Masyn Winn</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_46240.html">Noah Mendlinger</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 7LDF
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F7  (Flyball, 78M, EV 83.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_18344.html">Jordan Walker</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 5FF
+[%N]	1-2: Strikes out swinging
+[%F]	Bottom of the 1st over - 0 runs, 0 hits, 0 errors, 0 left on base; Norfolk 0 - Memphis 0
+[%T]	Top of the 2nd - Norfolk Tides batting - Pitching for Memphis Redbirds : RHP <a href="../players/player_42291.html">Emmet Sheehan</a>
+[%B]	Batting: SHB <a href="../players/player_35386.html">Carter Young</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_48747.html">Anderson De Los Santos</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4, EV 90.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_25035.html">Hudson Haskin</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2:  Fly out, F9  (Flyball, 9, EV 90.0 MPH)
+[%F]	Top of the 2nd over - 0 runs, 0 hits, 0 errors, 0 left on base; Norfolk 0 - Memphis 0
+[%T]	Bottom of the 2nd - Memphis Redbirds batting - Pitching for Norfolk Tides : LHP <a href="../players/player_23872.html">Drew Rom</a>
+[%B]	Batting: RHB <a href="../players/player_35601.html">Juan Yepez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Foul Ball, location: 7LMFF
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_37929.html">Heriberto Hernandez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 5FF
+[%N]	1-1: Foul Ball, location: 5F
+[%N]	1-2: Hit by Pitch
+[%B]	Batting: LHB <a href="../players/player_45398.html">Alex Iadisernia</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Sac Bunt to 13S - play at first, batter OUT! 1-3
+[%N]	<a href="../players/player_37929.html">Heriberto Hernandez</a> to second
+[%B]	Batting: RHB <a href="../players/player_47390.html">Emaarion Boyd</a>
+[%N]	0-0: Foul Ball, location: 5SF
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F6  (Line Drive, 6, EV 71.9 MPH)
+[%F]	Bottom of the 2nd over - 0 runs, 0 hits, 0 errors, 1 left on base; Norfolk 0 - Memphis 0
+[%T]	Top of the 3rd - Norfolk Tides batting - Pitching for Memphis Redbirds : RHP <a href="../players/player_42291.html">Emmet Sheehan</a>
+[%B]	Batting: LHB <a href="../players/player_42049.html">Xavier Isaac</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 3FF
+[%N]	0-2: Strikes out swinging, 2-3 out at first.
+[%B]	Batting: RHB <a href="../players/player_40444.html">Victor González</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging, 2-3 out at first.
+[%B]	Batting: LHB <a href="../players/player_37563.html">Randy Florentino</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_840.html">Terrin Vavra</a>
+[%N]	0-0: Ground out U3 (Groundball, 3, EV 89.4 MPH)
+[%F]	Top of the 3rd over - 0 runs, 0 hits, 0 errors, 1 left on base; Norfolk 0 - Memphis 0
+[%T]	Bottom of the 3rd - Memphis Redbirds batting - Pitching for Norfolk Tides : LHP <a href="../players/player_23872.html">Drew Rom</a>
+[%B]	Batting: RHB <a href="../players/player_1527.html">Nicolas Torres</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 9S, EV 102.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_44562.html">Ashtin Webb</a>
+[%N]	0-0: Bunt missed!
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_23400.html">Masyn Winn</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	<a href="../players/player_1527.html">Nicolas Torres</a> is caught stealing 2nd base 2-4
+[%N]	1-2: Ground out 4-3 (Groundball, 4, EV 77.5 MPH)
+[%F]	Bottom of the 3rd over - 0 runs, 1 hit, 0 errors, 0 left on base; Norfolk 0 - Memphis 0
+[%T]	Top of the 4th - Norfolk Tides batting - Pitching for Memphis Redbirds : RHP <a href="../players/player_42291.html">Emmet Sheehan</a>
+[%B]	Batting: LHB <a href="../players/player_37368.html">César Prieto</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 7LDF
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 3FF
+[%N]	2-2:  Fly out, F9  (Flyball, 89M, EV 94.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_25207.html">Heston Kjerstad</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out looking
+[%B]	Batting: SHB <a href="../players/player_35386.html">Carter Young</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 89M, EV 103.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_48747.html">Anderson De Los Santos</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 78S, EV 103.8 MPH)
+[%N]	<a href="../players/player_35386.html">Carter Young</a> to second
+[%B]	Batting: RHB <a href="../players/player_25035.html">Hudson Haskin</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 4th over - 0 runs, 2 hits, 0 errors, 2 left on base; Norfolk 0 - Memphis 0
+[%T]	Bottom of the 4th - Memphis Redbirds batting - Pitching for Norfolk Tides : LHP <a href="../players/player_23872.html">Drew Rom</a>
+[%B]	Batting: LHB <a href="../players/player_46240.html">Noah Mendlinger</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 25F
+[%N]	1-2: Ground out 4-3 (Groundball, 4, EV 91.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_18344.html">Jordan Walker</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 78S, EV 97.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_35601.html">Juan Yepez</a>
+[%N]	0-0: Foul Ball, location: 7LDF
+[%N]	0-1: Called Strike
+[%N]	0-2: <b>SINGLE</b>  (Line Drive, 6MD, EV 103.1 MPH)
+[%N]	<a href="../players/player_18344.html">Jordan Walker</a> to second
+[%B]	Batting: RHB <a href="../players/player_37929.html">Heriberto Hernandez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F8  (Line Drive, 8LS, EV 85.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_45398.html">Alex Iadisernia</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out U3 (Groundball, 34, EV 90.6 MPH)
+[%F]	Bottom of the 4th over - 0 runs, 2 hits, 0 errors, 2 left on base; Norfolk 0 - Memphis 0
+[%T]	Top of the 5th - Norfolk Tides batting - Pitching for Memphis Redbirds : RHP <a href="../players/player_42291.html">Emmet Sheehan</a>
+[%B]	Batting: LHB <a href="../players/player_42049.html">Xavier Isaac</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_40444.html">Victor González</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_37563.html">Randy Florentino</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 9LMF
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%F]	Top of the 5th over - 0 runs, 0 hits, 0 errors, 0 left on base; Norfolk 0 - Memphis 0
+[%T]	Bottom of the 5th - Memphis Redbirds batting - Pitching for Norfolk Tides : LHP <a href="../players/player_23872.html">Drew Rom</a>
+[%B]	Batting: RHB <a href="../players/player_47390.html">Emaarion Boyd</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Foul Ball, location: 9LSF
+[%N]	3-2:  Fly out, F7  (Flyball, 7D, EV 105.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_1527.html">Nicolas Torres</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7, EV 94.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_44562.html">Ashtin Webb</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 23FF
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 5th over - 0 runs, 0 hits, 0 errors, 0 left on base; Norfolk 0 - Memphis 0
+[%T]	Top of the 6th - Norfolk Tides batting - Pitching for Memphis Redbirds : RHP <a href="../players/player_42291.html">Emmet Sheehan</a>
+[%B]	Batting: LHB <a href="../players/player_840.html">Terrin Vavra</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 56, EV 90.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_37368.html">César Prieto</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ground out U3 (Groundball, 34, EV 85.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_25207.html">Heston Kjerstad</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 34D, EV 96.9 MPH)
+[%B]	Batting: SHB <a href="../players/player_35386.html">Carter Young</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 6th over - 0 runs, 1 hit, 0 errors, 1 left on base; Norfolk 0 - Memphis 0
+[%T]	Bottom of the 6th - Memphis Redbirds batting - Pitching for Norfolk Tides : LHP <a href="../players/player_23872.html">Drew Rom</a>
+[%B]	Batting: RHB <a href="../players/player_23400.html">Masyn Winn</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 89M, EV 84.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_46240.html">Noah Mendlinger</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Flyball, 78S, EV 89.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_18344.html">Jordan Walker</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 5F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 9LMF
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 6th over - 0 runs, 0 hits, 0 errors, 0 left on base; Norfolk 0 - Memphis 0
+[%T]	Top of the 7th - Norfolk Tides batting - Pitching for Memphis Redbirds : RHP <a href="../players/player_42291.html">Emmet Sheehan</a>
+[%B]	Batting: RHB <a href="../players/player_48747.html">Anderson De Los Santos</a>
+[%N]	0-0:  Fly out, F8  (Line Drive, 8LM, EV 97.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_25035.html">Hudson Haskin</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 6D, EV 95.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_42049.html">Xavier Isaac</a>
+[%N]	0-0: Ball
+[%N]	1-0:  <b>2-RUN HOME RUN</b>  (Flyball, 89XD, EV 103.8 MPH), Distance : 393 ft
+[%B]	Batting: RHB <a href="../players/player_40444.html">Victor González</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F8  (Line Drive, 8LM, EV 95.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_37563.html">Randy Florentino</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 7LSF
+[%N]	0-2: Strikes out looking
+[%F]	Top of the 7th over - 2 runs, 2 hits, 0 errors, 0 left on base; Norfolk 2 - Memphis 0
+[%T]	Bottom of the 7th - Memphis Redbirds batting - Pitching for Norfolk Tides : LHP <a href="../players/player_23872.html">Drew Rom</a>
+[%B]	Batting: RHB <a href="../players/player_35601.html">Juan Yepez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 8LD, EV 74.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_37929.html">Heriberto Hernandez</a>
+[%N]	0-0: Foul Ball, location: 23F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  <b>SOLO HOME RUN</b>  (Flyball, 7D, EV 110.6 MPH), Distance : 445 ft
+[%B]	Batting: LHB <a href="../players/player_45398.html">Alex Iadisernia</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F7  (Flyball, 7LM, EV 91.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_47390.html">Emaarion Boyd</a>
+[%N]	0-0: Foul Ball, location: 3SF
+[%N]	0-1: Ground out 4-3 (Groundball, 4, EV 103.8 MPH)
+[%F]	Bottom of the 7th over - 1 run, 1 hit, 0 errors, 0 left on base; Norfolk 2 - Memphis 1
+[%T]	Top of the 8th - Norfolk Tides batting - Pitching for Memphis Redbirds : RHP <a href="../players/player_42291.html">Emmet Sheehan</a>
+[%B]	Batting: LHB <a href="../players/player_840.html">Terrin Vavra</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F5  (Popup, 56, EV 63.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_37368.html">César Prieto</a>
+[%N]	0-0:  <b>SOLO HOME RUN</b>  (Flyball, 89XD, EV 98.8 MPH), Distance : 404 ft
+[%B]	Batting: LHB <a href="../players/player_25207.html">Heston Kjerstad</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ground out 4-3 (Groundball, 34D, EV 90.0 MPH)
+[%B]	Batting: SHB <a href="../players/player_35386.html">Carter Young</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1:  <b>SOLO HOME RUN</b>  (Flyball, 8RXD, EV 113.1 MPH), Distance : 431 ft
+[%B]	Batting: RHB <a href="../players/player_48747.html">Anderson De Los Santos</a>
+[%N]	0-0: Foul Ball, location: 9LMF
+[%N]	0-1:  Fly out, F9  (Flyball, 89XD, EV 97.5 MPH)
+[%F]	Top of the 8th over - 2 runs, 2 hits, 0 errors, 0 left on base; Norfolk 4 - Memphis 1
+[%T]	Bottom of the 8th - Memphis Redbirds batting - Pitching for Norfolk Tides : LHP <a href="../players/player_23872.html">Drew Rom</a>
+[%B]	Batting: RHB <a href="../players/player_1527.html">Nicolas Torres</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Pitching: RHP <a href="../players/player_39951.html">Brayner Sanchez</a>
+[%B]	Batting: RHB <a href="../players/player_44562.html">Ashtin Webb</a>
+[%N]	0-0: Ball
+[%N]	1-0: Grounds into double play, 4-6-3 (Groundball, 4, EV 106.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_23400.html">Masyn Winn</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 8LS, EV 91.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_46240.html">Noah Mendlinger</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 23F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2RF
+[%N]	2-2: Foul Ball, location: 3FF
+[%N]	2-2: Foul Ball, location: 7LMF
+[%N]	2-2:  Fly out, F6  (Line Drive, 6MD, EV 66.3 MPH)
+[%F]	Bottom of the 8th over - 0 runs, 1 hit, 0 errors, 1 left on base; Norfolk 4 - Memphis 1
+[%T]	Top of the 9th - Norfolk Tides batting - Pitching for Memphis Redbirds : RHP <a href="../players/player_42291.html">Emmet Sheehan</a>
+[%B]	Batting: RHB <a href="../players/player_25035.html">Hudson Haskin</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ground out 6-3 (Groundball, 6M, EV 105.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_42049.html">Xavier Isaac</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging
+[%B]	Pitching: LHP <a href="../players/player_39522.html">Diorys Guerrero</a>
+[%B]	Batting: RHB <a href="../players/player_40444.html">Victor González</a>
+[%N]	0-0: Foul Ball, location: 25F
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 6MD, EV 100.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_37563.html">Randy Florentino</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7S, EV 92.5 MPH)
+[%F]	Top of the 9th over - 0 runs, 1 hit, 0 errors, 1 left on base; Norfolk 4 - Memphis 1
+[%T]	Bottom of the 9th - Memphis Redbirds batting - Pitching for Norfolk Tides : RHP <a href="../players/player_39951.html">Brayner Sanchez</a>
+[%B]	Pitching: RHP <a href="../players/player_49127.html">Yaqui Rivera</a>
+[%B]	Batting: RHB <a href="../players/player_18344.html">Jordan Walker</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 5FF
+[%N]	0-2: <b>SINGLE</b>  (Line Drive, 7LS, EV 103.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_35601.html">Juan Yepez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 3F
+[%N]	1-2: Foul Ball, location: 9LMF
+[%N]	1-2: Grounds into double play, 5-4-3 (Groundball, 56, EV 90.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_37929.html">Heriberto Hernandez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 7LDF
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%F]	Bottom of the 9th over - 0 runs, 1 hit, 0 errors, 0 left on base; Norfolk 4 - Memphis 1

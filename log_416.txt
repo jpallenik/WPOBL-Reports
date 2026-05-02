@@ -1,0 +1,444 @@
+[%T]	Top of the 1st - St. Paul Saints batting - Pitching for Toledo Mud Hens : RHP <a href="../players/player_45313.html">Troy Melton</a>
+[%B]	Pitching: RHP <a href="../players/player_45313.html">Troy Melton</a>
+[%B]	Batting: RHB <a href="../players/player_43862.html">Tanner Schobel</a>
+[%N]	0-0:  Fly out, F6  (Line Drive, 6, EV 95.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_31853.html">Roy Morales</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 8RS, EV 98.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_38672.html">Anthony Prato</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 4MD, EV 101.9 MPH)
+[%N]	<a href="../players/player_31853.html">Roy Morales</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw by CF made to third
+[%N]	<a href="../players/player_38672.html">Anthony Prato</a> to second
+[%B]	Batting: LHB <a href="../players/player_24856.html">Alex Binelas</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_18520.html">Ryan Jeffers</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out swinging
+[%F]	Top of the 1st over - 0 runs, 2 hits, 0 errors, 2 left on base; St. Paul 0 - Toledo 0
+[%T]	Bottom of the 1st - Toledo Mud Hens batting - Pitching for St. Paul Saints : RHP <a href="../players/player_50934.html">Juan Mercedes</a>
+[%B]	Pitching: RHP <a href="../players/player_50934.html">Juan Mercedes</a>
+[%B]	Batting: RHB <a href="../players/player_132822.html">Seaver King</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 5FF
+[%N]	0-2: Foul Ball, location: 5F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 25FF
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_30352.html">Travis Jankowski</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 7LDF
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 4-3 (Groundball, 4M, EV 90.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_18706.html">Andre Lipcius</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F8  (Line Drive, 8RD, EV 104.4 MPH)
+[%F]	Bottom of the 1st over - 0 runs, 0 hits, 0 errors, 0 left on base; St. Paul 0 - Toledo 0
+[%T]	Top of the 2nd - St. Paul Saints batting - Pitching for Toledo Mud Hens : RHP <a href="../players/player_45313.html">Troy Melton</a>
+[%B]	Batting: LHB <a href="../players/player_36113.html">MJ Melendez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out 6-3 (Groundball, 6, EV 83.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_36447.html">Mikey Perez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_48899.html">Samuel Zavala</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: <b>SINGLE</b>  (Line Drive, 8LS, EV 88.1 MPH)
+[%N]	<a href="../players/player_36447.html">Mikey Perez</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw by CF made to third
+[%B]	Batting: LHB <a href="../players/player_23631.html">Trevor Larnach</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9, EV 88.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_43862.html">Tanner Schobel</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Line Drive, 7, EV 87.5 MPH)
+[%F]	Top of the 2nd over - 0 runs, 1 hit, 0 errors, 2 left on base; St. Paul 0 - Toledo 0
+[%T]	Bottom of the 2nd - Toledo Mud Hens batting - Pitching for St. Paul Saints : RHP <a href="../players/player_50934.html">Juan Mercedes</a>
+[%B]	Batting: LHB <a href="../players/player_19254.html">Kerry Carpenter</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 7LS, EV 104.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_815.html">Mario Feliciano</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Hit by Pitch
+[%N]	<a href="../players/player_19254.html">Kerry Carpenter</a> to second
+[%B]	Batting: RHB <a href="../players/player_30362.html">C.J. Hinojosa</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Flyball, 6D, EV 88.8 MPH)
+[%N]	<a href="../players/player_19254.html">Kerry Carpenter</a> to third
+[%N]	<a href="../players/player_815.html">Mario Feliciano</a> to second
+[%B]	Batting: LHB <a href="../players/player_23090.html">Dominic Canzone</a>
+[%N]	0-0: Foul Ball, location: 2RF
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 9LDF
+[%N]	1-2: Fielders Choice at 2nd, 3-6 (Groundball, 3S, EV 86.3 MPH)
+[%N]	<b><a href="../players/player_19254.html">Kerry Carpenter</a> scores</b>
+[%N]	<a href="../players/player_815.html">Mario Feliciano</a> to third
+[%B]	Batting: RHB <a href="../players/player_35283.html">Victor Robles</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Flyball, 7LM, EV 93.1 MPH)
+[%N]	<b>Runner from 3rd tags up, SCORES, no throw by LF</b>
+[%B]	Batting: RHB <a href="../players/player_18994.html">David Hensley</a>
+[%N]	0-0: Foul Ball, location: 9LDF
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2:  <b>2-RUN HOME RUN</b>  (Flyball, 8RXD, EV 112.5 MPH), Distance : 439 ft
+[%B]	Batting: RHB <a href="../players/player_132822.html">Seaver King</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out 6-3 (Groundball, 6, EV 105.6 MPH)
+[%F]	Bottom of the 2nd over - 4 runs, 3 hits, 0 errors, 0 left on base; St. Paul 0 - Toledo 4
+[%T]	Top of the 3rd - St. Paul Saints batting - Pitching for Toledo Mud Hens : RHP <a href="../players/player_45313.html">Troy Melton</a>
+[%B]	Batting: RHB <a href="../players/player_31853.html">Roy Morales</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ground out 4-3 (Groundball, 4, EV 95.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_38672.html">Anthony Prato</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Swinging Strike
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 34D, EV 100.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_24856.html">Alex Binelas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 5SF
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_18520.html">Ryan Jeffers</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%F]	Top of the 3rd over - 0 runs, 1 hit, 0 errors, 1 left on base; St. Paul 0 - Toledo 4
+[%T]	Bottom of the 3rd - Toledo Mud Hens batting - Pitching for St. Paul Saints : RHP <a href="../players/player_50934.html">Juan Mercedes</a>
+[%B]	Batting: LHB <a href="../players/player_30352.html">Travis Jankowski</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_18706.html">Andre Lipcius</a>
+[%N]	0-0: Sac Bunt to 13 - play at first, batter OUT! 1-3
+[%N]	<a href="../players/player_30352.html">Travis Jankowski</a> to second
+[%B]	Batting: LHB <a href="../players/player_19254.html">Kerry Carpenter</a>
+[%N]	0-0: Foul Ball, location: 5DF
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 34D, EV 100.0 MPH)
+[%N]	<a href="../players/player_30352.html">Travis Jankowski</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by RF to home</b>
+[%N]	<a href="../players/player_19254.html">Kerry Carpenter</a> to second
+[%B]	Batting: RHB <a href="../players/player_815.html">Mario Feliciano</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 9LSF
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_30362.html">C.J. Hinojosa</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F4  (Popup, 4D, EV 52.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_23090.html">Dominic Canzone</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 5F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 3FF
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 4S, EV 66.3 MPH) (infield hit)
+[%N]	<a href="../players/player_19254.html">Kerry Carpenter</a> to third
+[%N]	<a href="../players/player_815.html">Mario Feliciano</a> to second
+[%B]	Batting: RHB <a href="../players/player_35283.html">Victor Robles</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 6-3 (Groundball, 6S, EV 85.6 MPH)
+[%F]	Bottom of the 3rd over - 1 run, 2 hits, 0 errors, 3 left on base; St. Paul 0 - Toledo 5
+[%T]	Top of the 4th - St. Paul Saints batting - Pitching for Toledo Mud Hens : RHP <a href="../players/player_45313.html">Troy Melton</a>
+[%B]	Batting: LHB <a href="../players/player_36113.html">MJ Melendez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 6-3 (Groundball, 6, EV 86.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_36447.html">Mikey Perez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_48899.html">Samuel Zavala</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	<a href="../players/player_36447.html">Mikey Perez</a> steals 2nd base
+[%N]	2-1:  Fly out, F7  (Flyball, 78M, EV 91.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_23631.html">Trevor Larnach</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2:  Fly out, F8  (Flyball, 89M, EV 90.0 MPH)
+[%F]	Top of the 4th over - 0 runs, 0 hits, 0 errors, 1 left on base; St. Paul 0 - Toledo 5
+[%T]	Bottom of the 4th - Toledo Mud Hens batting - Pitching for St. Paul Saints : RHP <a href="../players/player_50934.html">Juan Mercedes</a>
+[%B]	Batting: RHB <a href="../players/player_18994.html">David Hensley</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1:  Fly out, F9  (Flyball, 89S, EV 84.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_132822.html">Seaver King</a>
+[%N]	0-0: Foul Ball, location: 5F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 6MD, EV 96.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_30352.html">Travis Jankowski</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 34D, EV 93.8 MPH)
+[%N]	<a href="../players/player_132822.html">Seaver King</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw by RF made to third
+[%N]	<a href="../players/player_30352.html">Travis Jankowski</a> to second
+[%B]	Batting: RHB <a href="../players/player_18706.html">Andre Lipcius</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 23F
+[%N]	0-2: Ground out 5-3 (Groundball, 56, EV 97.5 MPH)
+[%N]	<b><a href="../players/player_132822.html">Seaver King</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_19254.html">Kerry Carpenter</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 9S, EV 90.6 MPH)
+[%N]	<a href="../players/player_30352.html">Travis Jankowski</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by RF to home</b>
+[%B]	Pitching: RHP <a href="../players/player_37551.html">Danny Moreno</a>
+[%B]	Batting: RHB <a href="../players/player_815.html">Mario Feliciano</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Foul Ball, location: 3F
+[%N]	2-2: Foul Ball, location: 9LSF
+[%N]	2-2:  <b>2-RUN HOME RUN</b>  (Flyball, 89XD, EV 106.9 MPH), Distance : 413 ft
+[%B]	Batting: RHB <a href="../players/player_30362.html">C.J. Hinojosa</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Flyball, 78S, EV 96.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_23090.html">Dominic Canzone</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 1-3 (Groundball, 13, EV 71.3 MPH)
+[%F]	Bottom of the 4th over - 4 runs, 5 hits, 0 errors, 1 left on base; St. Paul 0 - Toledo 9
+[%T]	Top of the 5th - St. Paul Saints batting - Pitching for Toledo Mud Hens : RHP <a href="../players/player_45313.html">Troy Melton</a>
+[%B]	Batting: RHB <a href="../players/player_43862.html">Tanner Schobel</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 3FF
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_31853.html">Roy Morales</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F6  (Line Drive, 6MD, EV 61.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_38672.html">Anthony Prato</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 2-3 (Groundball, 15S, EV 63.1 MPH)
+[%F]	Top of the 5th over - 0 runs, 0 hits, 0 errors, 0 left on base; St. Paul 0 - Toledo 9
+[%T]	Bottom of the 5th - Toledo Mud Hens batting - Pitching for St. Paul Saints : RHP <a href="../players/player_37551.html">Danny Moreno</a>
+[%B]	Batting: RHB <a href="../players/player_35283.html">Victor Robles</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 34D, EV 99.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_18994.html">David Hensley</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_132822.html">Seaver King</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 7LSFF
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 5-3 (Groundball, 56S, EV 68.8 MPH)
+[%N]	<a href="../players/player_35283.html">Victor Robles</a> to second
+[%B]	Batting: LHB <a href="../players/player_30352.html">Travis Jankowski</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 9S, EV 106.3 MPH)
+[%N]	<a href="../players/player_35283.html">Victor Robles</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by RF to home</b>
+[%B]	Batting: RHB <a href="../players/player_18706.html">Andre Lipcius</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 1-3 (Groundball, 15S, EV 69.4 MPH)
+[%F]	Bottom of the 5th over - 1 run, 2 hits, 0 errors, 1 left on base; St. Paul 0 - Toledo 10
+[%T]	Top of the 6th - St. Paul Saints batting - Pitching for Toledo Mud Hens : RHP <a href="../players/player_45313.html">Troy Melton</a>
+[%B]	Batting: LHB <a href="../players/player_24856.html">Alex Binelas</a>
+[%N]	0-0: Ball
+[%N]	1-0:  <b>SOLO HOME RUN</b>  (Flyball, 89XD, EV 101.3 MPH), Distance : 410 ft
+[%B]	Pitching: RHP <a href="../players/player_41023.html">Samuel Mejia</a>
+[%B]	Batting: RHB <a href="../players/player_18520.html">Ryan Jeffers</a>
+[%N]	0-0: Ground out 1-3 (Groundball, 13S, EV 65.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_36113.html">MJ Melendez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 25F
+[%N]	0-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_36447.html">Mikey Perez</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 4MD, EV 94.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_48899.html">Samuel Zavala</a>
+[%N]	0-0: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_36447.html">Mikey Perez</a> to second
+[%N]	1-0:  Fly out, F4  (Popup, 4M, EV 56.9 MPH)
+[%F]	Top of the 6th over - 1 run, 2 hits, 0 errors, 1 left on base; St. Paul 1 - Toledo 10
+[%T]	Bottom of the 6th - Toledo Mud Hens batting - Pitching for St. Paul Saints : RHP <a href="../players/player_37551.html">Danny Moreno</a>
+[%B]	Batting: LHB <a href="../players/player_19254.html">Kerry Carpenter</a>
+[%N]	0-0: Ground out U3 (Groundball, 3L, EV 84.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_815.html">Mario Feliciano</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F7  (Flyball, 7, EV 81.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_30362.html">C.J. Hinojosa</a>
+[%N]	0-0: Hit by Pitch
+[%B]	Batting: LHB <a href="../players/player_23090.html">Dominic Canzone</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Flyball, 7, EV 96.3 MPH)
+[%F]	Bottom of the 6th over - 0 runs, 0 hits, 0 errors, 1 left on base; St. Paul 1 - Toledo 10
+[%T]	Top of the 7th - St. Paul Saints batting - Pitching for Toledo Mud Hens : RHP <a href="../players/player_41023.html">Samuel Mejia</a>
+[%B]	Batting: LHB <a href="../players/player_23631.html">Trevor Larnach</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F3  (Popup, 34S, EV 71.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_43862.html">Tanner Schobel</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Flyball, 9, EV 88.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_31853.html">Roy Morales</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2:  Fly out, F7  (Line Drive, 7, EV 88.1 MPH)
+[%F]	Top of the 7th over - 0 runs, 0 hits, 0 errors, 0 left on base; St. Paul 1 - Toledo 10
+[%T]	Bottom of the 7th - Toledo Mud Hens batting - Pitching for St. Paul Saints : RHP <a href="../players/player_37551.html">Danny Moreno</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_40289.html">Roberto Campos</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: <b>SINGLE</b>  (Line Drive, 34D, EV 95.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_18994.html">David Hensley</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2:  Fly out, F7  (Line Drive, 56D, EV 74.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_132822.html">Seaver King</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 5F
+[%N]	1-1: Foul Ball, location: 25F
+[%N]	1-2: Foul Ball, location: 5F
+[%N]	1-2: Foul Ball, location: 7LMF
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F7  (Line Drive, 7S, EV 92.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_30352.html">Travis Jankowski</a>
+[%N]	0-0: Foul Ball, location: 7LSF
+[%N]	0-1: Foul Ball, location: 5FF
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 4MD, EV 102.5 MPH)
+[%N]	<a href="../players/player_40289.html">Roberto Campos</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw by CF made to third
+[%N]	<a href="../players/player_30352.html">Travis Jankowski</a> to second
+[%B]	Pinch Hitting: RHB <a href="../players/player_1309.html">Peyton Graham</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 7th over - 0 runs, 2 hits, 0 errors, 2 left on base; St. Paul 1 - Toledo 10
+[%T]	Top of the 8th - St. Paul Saints batting - Pitching for Toledo Mud Hens : RHP <a href="../players/player_41023.html">Samuel Mejia</a>
+[%B]	Now at 1B: <a href="../players/player_42198.html">Alan Roden</a>
+[%B]	Now in RF: <a href="../players/player_40289.html">Roberto Campos</a>
+[%B]	Batting: RHB <a href="../players/player_38672.html">Anthony Prato</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Pinch Hitting: RHB <a href="../players/player_461.html">Yorman Rodriguez</a>
+[%N]	0-0: Foul Ball, location: 9LMF
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 1-3 (Groundball, 15S, EV 73.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_18520.html">Ryan Jeffers</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 5FF
+[%N]	0-2: Strikes out swinging
+[%F]	Top of the 8th over - 0 runs, 0 hits, 0 errors, 0 left on base; St. Paul 1 - Toledo 10
+[%T]	Bottom of the 8th - Toledo Mud Hens batting - Pitching for St. Paul Saints : RHP <a href="../players/player_37551.html">Danny Moreno</a>
+[%B]	Pitching: LHP <a href="../players/player_39972.html">Andricson Salvador</a>
+[%B]	Now at 1B: <a href="../players/player_461.html">Yorman Rodriguez</a>
+[%B]	Batting: LHB <a href="../players/player_19254.html">Kerry Carpenter</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ground out 4-3 (Groundball, 4, EV 79.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_815.html">Mario Feliciano</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 7LDF
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_30362.html">C.J. Hinojosa</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 5FF
+[%N]	2-2: Foul Ball, location: 5FF
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 4MD, EV 109.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_23090.html">Dominic Canzone</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  <b>2-RUN HOME RUN</b>  (Flyball, 9D, EV 93.8 MPH), Distance : 373 ft
+[%B]	Batting: RHB <a href="../players/player_40289.html">Roberto Campos</a>
+[%N]	0-0:  Fly out, F5  (Popup, 56S, EV 71.9 MPH)
+[%F]	Bottom of the 8th over - 2 runs, 2 hits, 0 errors, 0 left on base; St. Paul 1 - Toledo 12
+[%T]	Top of the 9th - St. Paul Saints batting - Pitching for Toledo Mud Hens : RHP <a href="../players/player_41023.html">Samuel Mejia</a>
+[%B]	Batting: LHB <a href="../players/player_36113.html">MJ Melendez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_36447.html">Mikey Perez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Foul Ball, location: 3FF
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_48899.html">Samuel Zavala</a>
+[%N]	0-0: Foul Ball, location: 9LMF
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out swinging
+[%F]	Top of the 9th over - 0 runs, 0 hits, 0 errors, 0 left on base; St. Paul 1 - Toledo 12

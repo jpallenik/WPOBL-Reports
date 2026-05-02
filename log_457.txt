@@ -1,0 +1,480 @@
+[%T]	Top of the 1st - Columbus Clippers batting - Pitching for Worcester Red Sox : RHP <a href="../players/player_32643.html">Jaime Barria</a>
+[%B]	Pitching: RHP <a href="../players/player_32643.html">Jaime Barria</a>
+[%B]	Batting: LHB <a href="../players/player_24031.html">Petey Halpin</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 7LMF
+[%N]	2-2:  <b>SOLO HOME RUN</b>  (Flyball, 89XD, EV 103.8 MPH), Distance : 380 ft
+[%B]	Batting: RHB <a href="../players/player_32197.html">Thairo Estrada</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 9LDF
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_35704.html">Oscar Gonzalez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 5FF
+[%N]	2-1: Ground out 5-3 (Groundball, 5L, EV 96.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_41641.html">Chase DeLauter</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Popup, 4MD, EV 48.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_22108.html">Yainer Diaz</a>
+[%N]	0-0: Fielders Choice at 2nd, 5-4 (Groundball, 5, EV 85.6 MPH)
+[%F]	Top of the 1st over - 1 run, 2 hits, 0 errors, 1 left on base; Columbus 1 - Worcester 0
+[%T]	Bottom of the 1st - Worcester Red Sox batting - Pitching for Columbus Clippers : RHP <a href="../players/player_25771.html">Max Kranick</a>
+[%B]	Pitching: RHP <a href="../players/player_25771.html">Max Kranick</a>
+[%B]	Batting: SHB <a href="../players/player_39176.html">Brainer Bonaci</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_38934.html">Sean McLain</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 7S, EV 91.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_39121.html">Eddinson Paulino</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Fielders Choice at 2nd, 6-4 (Groundball, 6M, EV 86.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_36955.html">Wilyer Abreu</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 78S, EV 98.1 MPH)
+[%N]	<a href="../players/player_39121.html">Eddinson Paulino</a> to second
+[%B]	Batting: RHB <a href="../players/player_21455.html">Kevin Newman</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 9S, EV 107.5 MPH)
+[%N]	<a href="../players/player_39121.html">Eddinson Paulino</a> to third
+[%N]	<a href="../players/player_36955.html">Wilyer Abreu</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by RF to home</b>
+[%B]	Batting: SHB <a href="../players/player_24023.html">Robert Moore</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Fielders Choice at 2nd, 6-4 (Groundball, 6, EV 102.5 MPH)
+[%F]	Bottom of the 1st over - 1 run, 3 hits, 0 errors, 2 left on base; Columbus 1 - Worcester 1
+[%T]	Top of the 2nd - Columbus Clippers batting - Pitching for Worcester Red Sox : RHP <a href="../players/player_32643.html">Jaime Barria</a>
+[%B]	Batting: LHB <a href="../players/player_24870.html">Milan Tolentino</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Line Drive, 78D, EV 85.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_36768.html">Johnathan Rodriguez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Line Drive, 9S, EV 86.9 MPH)
+[%B]	Batting: SHB <a href="../players/player_36870.html">Aaron Bracho</a>
+[%N]	0-0: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_36768.html">Johnathan Rodriguez</a> to second
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_23950.html">Joey Bart</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 3FF
+[%N]	1-1:  Fly out, F8  (Line Drive, 8RM, EV 98.1 MPH)
+[%F]	Top of the 2nd over - 0 runs, 1 hit, 0 errors, 1 left on base; Columbus 1 - Worcester 1
+[%T]	Bottom of the 2nd - Worcester Red Sox batting - Pitching for Columbus Clippers : RHP <a href="../players/player_25771.html">Max Kranick</a>
+[%B]	Batting: RHB <a href="../players/player_19588.html">Sam Huff</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6, EV 103.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_42539.html">Tyler Collins</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1:  Fly out, F7  (Flyball, 78M, EV 90.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_33564.html">Jose Siri</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2:  Fly out, F9  (Flyball, 9S, EV 73.1 MPH)
+[%F]	Bottom of the 2nd over - 0 runs, 0 hits, 0 errors, 0 left on base; Columbus 1 - Worcester 1
+[%T]	Top of the 3rd - Columbus Clippers batting - Pitching for Worcester Red Sox : RHP <a href="../players/player_32643.html">Jaime Barria</a>
+[%B]	Batting: LHB <a href="../players/player_24031.html">Petey Halpin</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2RF, Error on foul ball, E2
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_32197.html">Thairo Estrada</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_35704.html">Oscar Gonzalez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: <b>SINGLE</b>  (Flyball, 89S, EV 78.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_41641.html">Chase DeLauter</a>
+[%N]	0-0: Foul Ball, location: 9LSF
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Hit by Pitch
+[%N]	<a href="../players/player_35704.html">Oscar Gonzalez</a> to second
+[%B]	Batting: RHB <a href="../players/player_22108.html">Yainer Diaz</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 9LDF
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F9  (Flyball, 89S, EV 87.5 MPH)
+[%F]	Top of the 3rd over - 0 runs, 1 hit, 1 error, 2 left on base; Columbus 1 - Worcester 1
+[%T]	Bottom of the 3rd - Worcester Red Sox batting - Pitching for Columbus Clippers : RHP <a href="../players/player_25771.html">Max Kranick</a>
+[%B]	Batting: SHB <a href="../players/player_39176.html">Brainer Bonaci</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ground out U3 (Groundball, 3S, EV 84.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_38934.html">Sean McLain</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 25F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: <b>DOUBLE</b>  (Line Drive, 3D, EV 99.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_39121.html">Eddinson Paulino</a>
+[%N]	0-0:  Fly out, F7  (Line Drive, 7D, EV 95.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_36955.html">Wilyer Abreu</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 9LSF
+[%N]	0-2: Foul Ball, location: 7LMF
+[%N]	0-2: Foul Ball, location: 3F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 23F
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F8  (Line Drive, 8RS, EV 91.3 MPH)
+[%F]	Bottom of the 3rd over - 0 runs, 1 hit, 0 errors, 1 left on base; Columbus 1 - Worcester 1
+[%T]	Top of the 4th - Columbus Clippers batting - Pitching for Worcester Red Sox : RHP <a href="../players/player_32643.html">Jaime Barria</a>
+[%B]	Batting: LHB <a href="../players/player_24870.html">Milan Tolentino</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 25F
+[%N]	1-2: Foul Ball, location: 7LSF
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_36768.html">Johnathan Rodriguez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 6-3 (Groundball, 6, EV 87.5 MPH)
+[%B]	Batting: SHB <a href="../players/player_36870.html">Aaron Bracho</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 23FF
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 4th over - 0 runs, 0 hits, 0 errors, 0 left on base; Columbus 1 - Worcester 1
+[%T]	Bottom of the 4th - Worcester Red Sox batting - Pitching for Columbus Clippers : RHP <a href="../players/player_25771.html">Max Kranick</a>
+[%B]	Batting: RHB <a href="../players/player_21455.html">Kevin Newman</a>
+[%N]	0-0: Foul Ball, location: 7LDF
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 5F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 3DF
+[%N]	2-2: Foul Ball, location: 9LDF
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 4-3 (Groundball, 4MD, EV 108.1 MPH)
+[%B]	Batting: SHB <a href="../players/player_24023.html">Robert Moore</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1:  <b>SOLO HOME RUN</b>  (Line Drive, 9LD, EV 98.8 MPH), Distance : 356 ft
+[%B]	Batting: RHB <a href="../players/player_19588.html">Sam Huff</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2RF
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 7LMF
+[%N]	2-2: Foul Ball, location: 9LSF
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 4-3 (Groundball, 4M, EV 83.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_42539.html">Tyler Collins</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_33564.html">Jose Siri</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_42539.html">Tyler Collins</a> is caught stealing 2nd base 2-4
+[%F]	Bottom of the 4th over - 1 run, 1 hit, 0 errors, 0 left on base; Columbus 1 - Worcester 2
+[%T]	Top of the 5th - Columbus Clippers batting - Pitching for Worcester Red Sox : RHP <a href="../players/player_32643.html">Jaime Barria</a>
+[%B]	Batting: RHB <a href="../players/player_23950.html">Joey Bart</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  <b>SOLO HOME RUN</b>  (Flyball, 7LD, EV 96.3 MPH), Distance : 345 ft
+[%B]	Batting: LHB <a href="../players/player_24031.html">Petey Halpin</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F8  (Flyball, 8RM, EV 98.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_32197.html">Thairo Estrada</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Groundball, 3L, EV 99.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_35704.html">Oscar Gonzalez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 3SF
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 7S, EV 96.9 MPH)
+[%N]	<a href="../players/player_32197.html">Thairo Estrada</a> to third
+[%B]	Batting: LHB <a href="../players/player_41641.html">Chase DeLauter</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_22108.html">Yainer Diaz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Fielders Choice at 2nd, 6-4 (Groundball, 6, EV 88.8 MPH)
+[%F]	Top of the 5th over - 1 run, 3 hits, 0 errors, 2 left on base; Columbus 2 - Worcester 2
+[%T]	Bottom of the 5th - Worcester Red Sox batting - Pitching for Columbus Clippers : RHP <a href="../players/player_25771.html">Max Kranick</a>
+[%B]	Batting: RHB <a href="../players/player_33564.html">Jose Siri</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 9S, EV 102.5 MPH)
+[%B]	Batting: SHB <a href="../players/player_39176.html">Brainer Bonaci</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 3F
+[%N]	1-1: Foul Ball, location: 3F
+[%N]	1-2:  Fly out, F7  (Flyball, 7D, EV 91.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_38934.html">Sean McLain</a>
+[%N]	0-0: Fielders Choice at 2nd, 6-4 (Groundball, 6, EV 81.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_39121.html">Eddinson Paulino</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Line Drive, 89D, EV 108.8 MPH)
+[%N]	<a href="../players/player_38934.html">Sean McLain</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw by RF</b>
+[%B]	Batting: LHB <a href="../players/player_36955.html">Wilyer Abreu</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 7LDF
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: <b>DOUBLE</b>  (Line Drive, 78D, EV 108.1 MPH)
+[%N]	<b><a href="../players/player_39121.html">Eddinson Paulino</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_21455.html">Kevin Newman</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 6-3 (Groundball, 6MD, EV 106.3 MPH)
+[%F]	Bottom of the 5th over - 2 runs, 3 hits, 0 errors, 1 left on base; Columbus 2 - Worcester 4
+[%T]	Top of the 6th - Columbus Clippers batting - Pitching for Worcester Red Sox : RHP <a href="../players/player_32643.html">Jaime Barria</a>
+[%B]	Pitching: RHP <a href="../players/player_29961.html">John Brebbia</a>
+[%B]	Batting: LHB <a href="../players/player_24870.html">Milan Tolentino</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 7LDF
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 5D, EV 108.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_36768.html">Johnathan Rodriguez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Grounds into double play, 5-4-3 (Groundball, 56, EV 85.6 MPH)
+[%B]	Batting: SHB <a href="../players/player_36870.html">Aaron Bracho</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 8LS, EV 95.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_23950.html">Joey Bart</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 6th over - 0 runs, 2 hits, 0 errors, 1 left on base; Columbus 2 - Worcester 4
+[%T]	Bottom of the 6th - Worcester Red Sox batting - Pitching for Columbus Clippers : RHP <a href="../players/player_25771.html">Max Kranick</a>
+[%B]	Batting: SHB <a href="../players/player_24023.html">Robert Moore</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 6-3 (Groundball, 6, EV 103.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_19588.html">Sam Huff</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 9LSF
+[%N]	1-2: Ball
+[%N]	2-2:  <b>SOLO HOME RUN</b>  (Flyball, 9LD, EV 93.1 MPH), Distance : 340 ft
+[%B]	Pitching: RHP <a href="../players/player_19922.html">James Karinchak</a>
+[%B]	Batting: LHB <a href="../players/player_42539.html">Tyler Collins</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 5DF
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: <b>DOUBLE</b>  (Line Drive, 7LM, EV 103.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_33564.html">Jose Siri</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_39176.html">Brainer Bonaci</a>
+[%N]	0-0: Foul Ball, location: 5DF
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Line Drive, 8LS, EV 92.5 MPH)
+[%N]	<a href="../players/player_42539.html">Tyler Collins</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by CF to home</b>
+[%B]	Batting: RHB <a href="../players/player_38934.html">Sean McLain</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_39176.html">Brainer Bonaci</a> is caught stealing 2nd base 2-4
+[%F]	Bottom of the 6th over - 2 runs, 3 hits, 0 errors, 0 left on base; Columbus 2 - Worcester 6
+[%T]	Top of the 7th - Columbus Clippers batting - Pitching for Worcester Red Sox : RHP <a href="../players/player_29961.html">John Brebbia</a>
+[%B]	Batting: LHB <a href="../players/player_24031.html">Petey Halpin</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 7S, EV 110.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_32197.html">Thairo Estrada</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Line Drive, 78D, EV 110.0 MPH)
+[%N]	<a href="../players/player_24031.html">Petey Halpin</a> to third
+[%B]	Batting: RHB <a href="../players/player_35704.html">Oscar Gonzalez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F2  (Popup, 2LF, EV 88.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_41641.html">Chase DeLauter</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F9  (Flyball, 89M, EV 90.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_22108.html">Yainer Diaz</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 56D, EV 103.1 MPH)
+[%N]	<b><a href="../players/player_24031.html">Petey Halpin</a> scores</b>
+[%N]	<a href="../players/player_32197.html">Thairo Estrada</a> to third
+[%B]	Batting: LHB <a href="../players/player_24870.html">Milan Tolentino</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 7th over - 1 run, 3 hits, 0 errors, 2 left on base; Columbus 3 - Worcester 6
+[%T]	Bottom of the 7th - Worcester Red Sox batting - Pitching for Columbus Clippers : RHP <a href="../players/player_19922.html">James Karinchak</a>
+[%B]	Batting: RHB <a href="../players/player_38934.html">Sean McLain</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 6-3 (Groundball, 6, EV 110.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_39121.html">Eddinson Paulino</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Swinging Strike
+[%N]	3-1: Foul Ball, location: 9LSF
+[%N]	3-2: <b>DOUBLE</b>  (Groundball, 5L, EV 93.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_36955.html">Wilyer Abreu</a>
+[%N]	0-0: Intentional Walk
+[%B]	Batting: RHB <a href="../players/player_21455.html">Kevin Newman</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 8RS, EV 98.8 MPH)
+[%N]	<a href="../players/player_39121.html">Eddinson Paulino</a> to third
+[%N]	<a href="../players/player_36955.html">Wilyer Abreu</a> to second
+[%N]	Throwing error, E8
+[%N]	<b><a href="../players/player_39121.html">Eddinson Paulino</a> scores</b>
+[%N]	<a href="../players/player_36955.html">Wilyer Abreu</a> to third
+[%N]	<a href="../players/player_21455.html">Kevin Newman</a> to second
+[%B]	Batting: SHB <a href="../players/player_24023.html">Robert Moore</a>
+[%N]	0-0: Ground out 3-1 (Groundball, 34, EV 89.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_19588.html">Sam Huff</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ground out 6-3 (Groundball, 6M, EV 100.6 MPH)
+[%F]	Bottom of the 7th over - 1 run, 2 hits, 1 error, 2 left on base; Columbus 3 - Worcester 7
+[%T]	Top of the 8th - Columbus Clippers batting - Pitching for Worcester Red Sox : RHP <a href="../players/player_29961.html">John Brebbia</a>
+[%B]	Batting: RHB <a href="../players/player_36768.html">Johnathan Rodriguez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1:  Fly out, F4  (Popup, 4M, EV 65.0 MPH)
+[%B]	Batting: SHB <a href="../players/player_36870.html">Aaron Bracho</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1:  <b>SOLO HOME RUN</b>  (Flyball, 78XD, EV 107.5 MPH), Distance : 406 ft
+[%B]	Batting: RHB <a href="../players/player_23950.html">Joey Bart</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out 5-3 (Groundball, 56S, EV 76.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_24031.html">Petey Halpin</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 23F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Pitching: RHP <a href="../players/player_31508.html">Giovanny Gallegos</a>
+[%B]	Now in LF: <a href="../players/player_38984.html">Albert Feliz</a>
+[%B]	Now in RF: <a href="../players/player_42539.html">Tyler Collins</a>
+[%B]	Batting: RHB <a href="../players/player_32197.html">Thairo Estrada</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%F]	Top of the 8th over - 1 run, 1 hit, 0 errors, 1 left on base; Columbus 4 - Worcester 7
+[%T]	Bottom of the 8th - Worcester Red Sox batting - Pitching for Columbus Clippers : RHP <a href="../players/player_19922.html">James Karinchak</a>
+[%B]	Batting: LHB <a href="../players/player_42539.html">Tyler Collins</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F8  (Flyball, 8RM, EV 96.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_33564.html">Jose Siri</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: <b>DOUBLE</b>  (Groundball, 5L, EV 105.6 MPH)
+[%B]	Batting: SHB <a href="../players/player_39176.html">Brainer Bonaci</a>
+[%N]	0-0: Foul Ball, location: 25FF
+[%N]	0-1: Foul Ball, location: 23F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 4D, EV 110.0 MPH)
+[%N]	<a href="../players/player_33564.html">Jose Siri</a> to third
+[%B]	Pitching: RHP <a href="../players/player_350.html">Jeff Brigham</a>
+[%B]	Batting: RHB <a href="../players/player_38984.html">Albert Feliz</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 78M, EV 87.5 MPH)
+[%N]	Throwing error, E7
+[%N]	<b><a href="../players/player_33564.html">Jose Siri</a> scores</b>
+[%N]	<a href="../players/player_39176.html">Brainer Bonaci</a> to second
+[%B]	Batting: LHB <a href="../players/player_39121.html">Eddinson Paulino</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 5F
+[%N]	2-1: <b>DOUBLE</b>  (Flyball, 9LM, EV 108.1 MPH)
+[%N]	<b><a href="../players/player_39176.html">Brainer Bonaci</a> scores</b>
+[%B]	Pinch Runner at 2nd <a href="../players/player_32282.html">Eloy Jiménez</a>: 
+[%B]	Batting: LHB <a href="../players/player_36955.html">Wilyer Abreu</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out swinging
+[%F]	Bottom of the 8th over - 2 runs, 3 hits, 1 error, 1 left on base; Columbus 4 - Worcester 9
+[%T]	Top of the 9th - Columbus Clippers batting - Pitching for Worcester Red Sox : RHP <a href="../players/player_31508.html">Giovanny Gallegos</a>
+[%B]	Now at 1B: <a href="../players/player_40960.html">Chase Meidroth</a>
+[%B]	Now at 2B: <a href="../players/player_21455.html">Kevin Newman</a>
+[%B]	Batting: RHB <a href="../players/player_35704.html">Oscar Gonzalez</a>
+[%N]	0-0: Foul Ball, location: 9LDF
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F8  (Flyball, 8LXD, EV 102.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_41641.html">Chase DeLauter</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Foul Ball, location: 7LSF
+[%N]	3-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_22108.html">Yainer Diaz</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 7LSF
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F7  (Line Drive, 7, EV 88.1 MPH)
+[%F]	Top of the 9th over - 0 runs, 0 hits, 0 errors, 0 left on base; Columbus 4 - Worcester 9

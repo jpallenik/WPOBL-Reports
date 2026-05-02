@@ -1,0 +1,374 @@
+[%T]	Top of the 1st - Louisville Bats batting - Pitching for Indianapolis Indians : RHP <a href="../players/player_24065.html">Braxton Ashcraft</a>
+[%B]	Pitching: RHP <a href="../players/player_24065.html">Braxton Ashcraft</a>
+[%B]	Batting: LHB <a href="../players/player_44684.html">Cam Collier</a>
+[%N]	0-0:  Fly out, F6  (Popup, 6MD, EV 70.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_23804.html">Tyler Callihan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out 5-3 (Groundball, 56, EV 96.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_37373.html">Michel Triana</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 6-3 (Groundball, 6, EV 86.9 MPH)
+[%F]	Top of the 1st over - 0 runs, 0 hits, 0 errors, 0 left on base; Louisville 0 - Indianapolis 0
+[%T]	Bottom of the 1st - Indianapolis Indians batting - Pitching for Louisville Bats : RHP <a href="../players/player_39218.html">Gabriel Tapia</a>
+[%B]	Pitching: RHP <a href="../players/player_39218.html">Gabriel Tapia</a>
+[%B]	Batting: RHB <a href="../players/player_38671.html">Jared Triolo</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 9LDF
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F6  (Popup, 6, EV 79.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_25122.html">Matt Fraizer</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F1  (Line Drive, P, EV 65.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_41240.html">Termarr Johnson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 5F
+[%N]	0-2: <b>SINGLE</b>  (Groundball, 4MD, EV 99.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_39004.html">Eduardo Garcia</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 2-3 (Groundball, 2R, EV 69.4 MPH)
+[%F]	Bottom of the 1st over - 0 runs, 1 hit, 0 errors, 1 left on base; Louisville 0 - Indianapolis 0
+[%T]	Top of the 2nd - Louisville Bats batting - Pitching for Indianapolis Indians : RHP <a href="../players/player_24065.html">Braxton Ashcraft</a>
+[%B]	Batting: RHB <a href="../players/player_23807.html">Nicholas Northcut</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_23954.html">Ian Moller</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out looking
+[%B]	Batting: SHB <a href="../players/player_37558.html">Derwin Barreto</a>
+[%N]	0-0: Foul Ball, location: 5F
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%F]	Top of the 2nd over - 0 runs, 0 hits, 0 errors, 0 left on base; Louisville 0 - Indianapolis 0
+[%T]	Bottom of the 2nd - Indianapolis Indians batting - Pitching for Louisville Bats : RHP <a href="../players/player_39218.html">Gabriel Tapia</a>
+[%B]	Batting: RHB <a href="../players/player_24030.html">Dylan Crews</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 3F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_41388.html">Aaron Zavala</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ground out 6-3 (Groundball, 6, EV 92.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_38361.html">Vinny Capra</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 9LSF
+[%N]	2-2:  Fly out, F9  (Line Drive, 9, EV 90.0 MPH)
+[%F]	Bottom of the 2nd over - 0 runs, 0 hits, 0 errors, 0 left on base; Louisville 0 - Indianapolis 0
+[%T]	Top of the 3rd - Louisville Bats batting - Pitching for Indianapolis Indians : RHP <a href="../players/player_24065.html">Braxton Ashcraft</a>
+[%B]	Batting: RHB <a href="../players/player_46493.html">Gabe Lacy</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_886.html">Misael Gonzalez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 34D, EV 104.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_39124.html">Elio Prado</a>
+[%N]	0-0: Grounds into double play, 4-6-3 (Groundball, 4, EV 101.9 MPH)
+[%F]	Top of the 3rd over - 0 runs, 1 hit, 0 errors, 0 left on base; Louisville 0 - Indianapolis 0
+[%T]	Bottom of the 3rd - Indianapolis Indians batting - Pitching for Louisville Bats : RHP <a href="../players/player_39218.html">Gabriel Tapia</a>
+[%B]	Batting: LHB <a href="../players/player_491.html">Estevan Florial</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ground out U3 (Groundball, 3, EV 84.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_28484.html">Dixon Machado</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_38671.html">Jared Triolo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: <b>SINGLE</b>  (Groundball, 56D, EV 104.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_25122.html">Matt Fraizer</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_38671.html">Jared Triolo</a> steals 2nd base
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F8  (Flyball, 89M, EV 96.3 MPH)
+[%F]	Bottom of the 3rd over - 0 runs, 1 hit, 0 errors, 1 left on base; Louisville 0 - Indianapolis 0
+[%T]	Top of the 4th - Louisville Bats batting - Pitching for Indianapolis Indians : RHP <a href="../players/player_24065.html">Braxton Ashcraft</a>
+[%B]	Batting: LHB <a href="../players/player_44684.html">Cam Collier</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 4-3 (Groundball, 4, EV 83.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_23804.html">Tyler Callihan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Foul Ball, location: 5SF
+[%N]	3-2: Foul Ball, location: 5SF
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>DOUBLE</b>  (Flyball, 8LXD, EV 108.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_37373.html">Michel Triana</a>
+[%N]	0-0: Ball
+[%N]	1-0:  <b>2-RUN HOME RUN</b>  (Flyball, 9LD, EV 93.1 MPH), Distance : 336 ft
+[%B]	Batting: RHB <a href="../players/player_23807.html">Nicholas Northcut</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2:  Fly out, F7  (Flyball, 7S, EV 87.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_23954.html">Ian Moller</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out swinging
+[%F]	Top of the 4th over - 2 runs, 2 hits, 0 errors, 0 left on base; Louisville 2 - Indianapolis 0
+[%T]	Bottom of the 4th - Indianapolis Indians batting - Pitching for Louisville Bats : RHP <a href="../players/player_39218.html">Gabriel Tapia</a>
+[%B]	Batting: LHB <a href="../players/player_41240.html">Termarr Johnson</a>
+[%N]	0-0: Foul Ball, location: 23F
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2:  Fly out, F3  (Line Drive, 3L, EV 70.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_39004.html">Eduardo Garcia</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 25F
+[%N]	2-2: Foul Ball, location: 5FF
+[%N]	2-2:  <b>SOLO HOME RUN</b>  (Flyball, 7D, EV 100.0 MPH), Distance : 393 ft
+[%B]	Batting: RHB <a href="../players/player_24030.html">Dylan Crews</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: <b>SINGLE</b>  (Flyball, 7, EV 91.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_41388.html">Aaron Zavala</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_24030.html">Dylan Crews</a> steals 2nd base
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F7  (Flyball, 78D, EV 86.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_38361.html">Vinny Capra</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2:  Fly out, F9  (Flyball, 89M, EV 80.0 MPH)
+[%F]	Bottom of the 4th over - 1 run, 2 hits, 0 errors, 1 left on base; Louisville 2 - Indianapolis 1
+[%T]	Top of the 5th - Louisville Bats batting - Pitching for Indianapolis Indians : RHP <a href="../players/player_24065.html">Braxton Ashcraft</a>
+[%B]	Batting: SHB <a href="../players/player_37558.html">Derwin Barreto</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 4-3 (Groundball, 34, EV 85.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_46493.html">Gabe Lacy</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Flyball, 5D, EV 89.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_886.html">Misael Gonzalez</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8RM, EV 84.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_39124.html">Elio Prado</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ground out 4-3 (Groundball, 4S, EV 85.6 MPH)
+[%F]	Top of the 5th over - 0 runs, 1 hit, 0 errors, 1 left on base; Louisville 2 - Indianapolis 1
+[%T]	Bottom of the 5th - Indianapolis Indians batting - Pitching for Louisville Bats : RHP <a href="../players/player_39218.html">Gabriel Tapia</a>
+[%B]	Batting: LHB <a href="../players/player_491.html">Estevan Florial</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_28484.html">Dixon Machado</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F6  (Popup, 56D, EV 51.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_38671.html">Jared Triolo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 23F
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F7  (Flyball, 7, EV 89.4 MPH)
+[%F]	Bottom of the 5th over - 0 runs, 0 hits, 0 errors, 0 left on base; Louisville 2 - Indianapolis 1
+[%T]	Top of the 6th - Louisville Bats batting - Pitching for Indianapolis Indians : RHP <a href="../players/player_24065.html">Braxton Ashcraft</a>
+[%B]	Batting: LHB <a href="../players/player_44684.html">Cam Collier</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_23804.html">Tyler Callihan</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 3F
+[%N]	1-2: Foul Ball, location: 9LSF
+[%N]	1-2: Ground out U3 (Groundball, 3L, EV 83.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_37373.html">Michel Triana</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F8  (Flyball, 8RD, EV 91.3 MPH)
+[%F]	Top of the 6th over - 0 runs, 0 hits, 0 errors, 0 left on base; Louisville 2 - Indianapolis 1
+[%T]	Bottom of the 6th - Indianapolis Indians batting - Pitching for Louisville Bats : RHP <a href="../players/player_39218.html">Gabriel Tapia</a>
+[%B]	Batting: LHB <a href="../players/player_25122.html">Matt Fraizer</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F5  (Popup, 5F, EV 70.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_41240.html">Termarr Johnson</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 34D, EV 100.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_39004.html">Eduardo Garcia</a>
+[%N]	0-0: Hit by Pitch
+[%N]	<a href="../players/player_41240.html">Termarr Johnson</a> to second
+[%B]	Batting: RHB <a href="../players/player_24030.html">Dylan Crews</a>
+[%N]	0-0: Ball
+[%N]	1-0: Fielders Choice at 2nd, 5-4 (Groundball, 56S, EV 80.0 MPH)
+[%N]	<a href="../players/player_41240.html">Termarr Johnson</a> to third
+[%B]	Batting: LHB <a href="../players/player_41388.html">Aaron Zavala</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 6D, EV 97.5 MPH)
+[%N]	<b><a href="../players/player_41240.html">Termarr Johnson</a> scores</b>
+[%N]	<a href="../players/player_24030.html">Dylan Crews</a> to second
+[%B]	Batting: RHB <a href="../players/player_38361.html">Vinny Capra</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Fielders Choice at 2nd, 6-4 (Groundball, 56, EV 85.6 MPH)
+[%F]	Bottom of the 6th over - 1 run, 2 hits, 0 errors, 2 left on base; Louisville 2 - Indianapolis 2
+[%T]	Top of the 7th - Louisville Bats batting - Pitching for Indianapolis Indians : RHP <a href="../players/player_24065.html">Braxton Ashcraft</a>
+[%B]	Batting: RHB <a href="../players/player_23807.html">Nicholas Northcut</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: <b>DOUBLE</b>  (Flyball, 8LD, EV 105.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_23954.html">Ian Moller</a>
+[%N]	0-0: Intentional Walk
+[%B]	Batting: SHB <a href="../players/player_37558.html">Derwin Barreto</a>
+[%N]	0-0: Foul Ball, location: 7LDF
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_46493.html">Gabe Lacy</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F8  (Flyball, 8RM, EV 79.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_886.html">Misael Gonzalez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 89M, EV 101.9 MPH)
+[%N]	<a href="../players/player_23807.html">Nicholas Northcut</a> to third
+[%N]	<a href="../players/player_23954.html">Ian Moller</a> to second
+[%N]	<b><a href="../players/player_23807.html">Nicholas Northcut</a> scores</b>
+[%N]	<a href="../players/player_23954.html">Ian Moller</a> to third
+[%B]	Batting: RHB <a href="../players/player_39124.html">Elio Prado</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 5SF
+[%N]	0-2: Strikes out looking
+[%F]	Top of the 7th over - 1 run, 2 hits, 0 errors, 2 left on base; Louisville 3 - Indianapolis 2
+[%T]	Bottom of the 7th - Indianapolis Indians batting - Pitching for Louisville Bats : RHP <a href="../players/player_39218.html">Gabriel Tapia</a>
+[%B]	Batting: LHB <a href="../players/player_491.html">Estevan Florial</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 3-1 (Groundball, 34, EV 81.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_28484.html">Dixon Machado</a>
+[%N]	0-0: Foul Ball, location: 23F
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 56D, EV 98.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_38671.html">Jared Triolo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>DOUBLE</b>  (Flyball, 9LD, EV 108.1 MPH)
+[%N]	<a href="../players/player_28484.html">Dixon Machado</a> to third
+[%B]	Pinch Runner at 2nd <a href="../players/player_39374.html">Dariel Lopez</a>: 
+[%B]	Batting: LHB <a href="../players/player_25122.html">Matt Fraizer</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Flyball, 4D, EV 88.8 MPH)
+[%N]	<b><a href="../players/player_28484.html">Dixon Machado</a> scores</b>
+[%N]	<a href="../players/player_39374.html">Dariel Lopez</a> to third
+[%B]	Batting: LHB <a href="../players/player_41240.html">Termarr Johnson</a>
+[%N]	0-0:  <b>3-RUN HOME RUN</b>  (Flyball, 89XD, EV 104.4 MPH), Distance : 389 ft
+[%B]	Pitching: RHP <a href="../players/player_39597.html">Zach Maxwell</a>
+[%B]	Batting: RHB <a href="../players/player_39004.html">Eduardo Garcia</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 56S, EV 70.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_24030.html">Dylan Crews</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_41388.html">Aaron Zavala</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 34D, EV 101.3 MPH)
+[%N]	<a href="../players/player_24030.html">Dylan Crews</a> to second
+[%B]	Batting: RHB <a href="../players/player_38361.html">Vinny Capra</a>
+[%N]	0-0: Hit by Pitch
+[%N]	<a href="../players/player_24030.html">Dylan Crews</a> to third
+[%N]	<a href="../players/player_41388.html">Aaron Zavala</a> to second
+[%B]	Batting: LHB <a href="../players/player_491.html">Estevan Florial</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 7th over - 4 runs, 5 hits, 0 errors, 3 left on base; Louisville 3 - Indianapolis 6
+[%T]	Top of the 8th - Louisville Bats batting - Pitching for Indianapolis Indians : RHP <a href="../players/player_24065.html">Braxton Ashcraft</a>
+[%B]	Now at 3B: <a href="../players/player_39374.html">Dariel Lopez</a>
+[%B]	Batting: LHB <a href="../players/player_44684.html">Cam Collier</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Pitching: LHP <a href="../players/player_45217.html">Tyler Samaniego</a>
+[%B]	Batting: LHB <a href="../players/player_23804.html">Tyler Callihan</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 4MS, EV 86.9 MPH) (infield hit)
+[%B]	Batting: LHB <a href="../players/player_37373.html">Michel Triana</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2LF
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_23807.html">Nicholas Northcut</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 3SF
+[%N]	0-2: Ground out U3 (Groundball, 3, EV 96.9 MPH)
+[%F]	Top of the 8th over - 0 runs, 1 hit, 0 errors, 1 left on base; Louisville 3 - Indianapolis 6
+[%T]	Bottom of the 8th - Indianapolis Indians batting - Pitching for Louisville Bats : RHP <a href="../players/player_39597.html">Zach Maxwell</a>
+[%B]	Batting: RHB <a href="../players/player_28484.html">Dixon Machado</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ground out 6-3 (Groundball, 6, EV 101.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_39374.html">Dariel Lopez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 9LMF
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 25FF
+[%N]	2-2:  <b>SOLO HOME RUN</b>  (Flyball, 8RXD, EV 112.5 MPH), Distance : 421 ft
+[%B]	Batting: LHB <a href="../players/player_25122.html">Matt Fraizer</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2:  Fly out, F1  (Line Drive, P, EV 63.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_41240.html">Termarr Johnson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F9  (Flyball, 89S, EV 91.9 MPH)
+[%F]	Bottom of the 8th over - 1 run, 1 hit, 0 errors, 0 left on base; Louisville 3 - Indianapolis 7
+[%T]	Top of the 9th - Louisville Bats batting - Pitching for Indianapolis Indians : LHP <a href="../players/player_45217.html">Tyler Samaniego</a>
+[%B]	Batting: RHB <a href="../players/player_23954.html">Ian Moller</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 56D, EV 98.1 MPH)
+[%B]	Batting: SHB <a href="../players/player_37558.html">Derwin Barreto</a>
+[%N]	0-0: Ball
+[%N]	1-0: Grounds into double play, 5-4-3 (Groundball, 56, EV 86.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_46493.html">Gabe Lacy</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1:  Fly out, F7  (Line Drive, 7, EV 92.5 MPH)
+[%F]	Top of the 9th over - 0 runs, 1 hit, 0 errors, 0 left on base; Louisville 3 - Indianapolis 7

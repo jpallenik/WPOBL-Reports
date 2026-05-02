@@ -1,0 +1,368 @@
+[%T]	Top of the 1st - Buffalo Bisons batting - Pitching for Omaha Storm Chasers : RHP <a href="../players/player_50854.html">Yunior Marte</a>
+[%B]	Pitching: RHP <a href="../players/player_50854.html">Yunior Marte</a>
+[%B]	Batting: LHB <a href="../players/player_48328.html">J.J. Wetherholt</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 1-3 (Groundball, 13S, EV 66.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_38909.html">Chris Newell</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ground out U3 (Groundball, 34, EV 87.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_35312.html">Luis Robert Jr.</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Flyball, 78M, EV 86.9 MPH)
+[%F]	Top of the 1st over - 0 runs, 0 hits, 0 errors, 0 left on base; Buffalo 0 - Omaha 0
+[%T]	Bottom of the 1st - Omaha Storm Chasers batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_41074.html">Dahian Santos</a>
+[%B]	Pitching: RHP <a href="../players/player_41074.html">Dahian Santos</a>
+[%B]	Batting: RHB <a href="../players/player_36252.html">Nate Eaton</a>
+[%N]	0-0: Foul Ball, location: 7LMF
+[%N]	0-1: Swinging Strike
+[%N]	0-2:  Fly out, F8  (Line Drive, 8LS, EV 104.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_38772.html">Jean Ramirez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Called Strike
+[%N]	1-2:  Fly out, F8  (Flyball, 89D, EV 100.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_22509.html">Nathan Martorella</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out swinging
+[%F]	Bottom of the 1st over - 0 runs, 0 hits, 0 errors, 0 left on base; Buffalo 0 - Omaha 0
+[%T]	Top of the 2nd - Buffalo Bisons batting - Pitching for Omaha Storm Chasers : RHP <a href="../players/player_50854.html">Yunior Marte</a>
+[%B]	Batting: LHB <a href="../players/player_41146.html">Robert Robertis</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Flyball, 78M, EV 91.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_24221.html">Justyn-Henry Malloy</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2LF
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_47832.html">Jaden Rudd</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Grounds into double play, 4-6-3 (Groundball, 34, EV 103.8 MPH)
+[%F]	Top of the 2nd over - 0 runs, 1 hit, 0 errors, 0 left on base; Buffalo 0 - Omaha 0
+[%T]	Bottom of the 2nd - Omaha Storm Chasers batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_41074.html">Dahian Santos</a>
+[%B]	Batting: RHB <a href="../players/player_39394.html">Rodolfo Nolasco</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_26012.html">Austin Shenton</a>
+[%N]	0-0: Foul Ball, location: 7LMF
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Reached on error, E4 (Groundball, 4M, EV 88.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_24634.html">Hayden Dunhurst</a>
+[%N]	0-0: Foul Ball, location: 9LMF
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 25F
+[%N]	1-2: Grounds into double play, 6-4-3 (Groundball, 56, EV 103.1 MPH)
+[%F]	Bottom of the 2nd over - 0 runs, 0 hits, 1 error, 0 left on base; Buffalo 0 - Omaha 0
+[%T]	Top of the 3rd - Buffalo Bisons batting - Pitching for Omaha Storm Chasers : RHP <a href="../players/player_50854.html">Yunior Marte</a>
+[%B]	Batting: LHB <a href="../players/player_45096.html">Michael Turconi</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 3FF
+[%N]	0-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_25369.html">Stephen Alemais</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 3F
+[%N]	0-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_36429.html">Will Banfield</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 3rd over - 0 runs, 0 hits, 0 errors, 0 left on base; Buffalo 0 - Omaha 0
+[%T]	Bottom of the 3rd - Omaha Storm Chasers batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_41074.html">Dahian Santos</a>
+[%B]	Batting: LHB <a href="../players/player_46411.html">Javier Vaz</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2LF
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 6MD, EV 100.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_44462.html">Vance Honeycutt</a>
+[%N]	0-0: Ball
+[%N]	1-0: Bunt missed!
+[%N]	1-1: Foul Ball, location: 23F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	<a href="../players/player_46411.html">Javier Vaz</a> is caught stealing 2nd base 2-4
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out looking
+[%B]	Batting: SHB <a href="../players/player_37387.html">Cesar Idrogo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ground out 4-3 (Groundball, 4, EV 104.4 MPH)
+[%F]	Bottom of the 3rd over - 0 runs, 1 hit, 0 errors, 0 left on base; Buffalo 0 - Omaha 0
+[%T]	Top of the 4th - Buffalo Bisons batting - Pitching for Omaha Storm Chasers : RHP <a href="../players/player_50854.html">Yunior Marte</a>
+[%B]	Batting: LHB <a href="../players/player_48328.html">J.J. Wetherholt</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F7  (Flyball, 7, EV 91.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_38909.html">Chris Newell</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2:  <b>SOLO HOME RUN</b>  (Flyball, 78XD, EV 99.4 MPH), Distance : 390 ft
+[%B]	Batting: RHB <a href="../players/player_35312.html">Luis Robert Jr.</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 4-3 (Groundball, 13, EV 85.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_41146.html">Robert Robertis</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 78M, EV 110.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_24221.html">Justyn-Henry Malloy</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out looking
+[%F]	Top of the 4th over - 1 run, 2 hits, 0 errors, 1 left on base; Buffalo 1 - Omaha 0
+[%T]	Bottom of the 4th - Omaha Storm Chasers batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_41074.html">Dahian Santos</a>
+[%B]	Batting: RHB <a href="../players/player_36252.html">Nate Eaton</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 5D, EV 91.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_38772.html">Jean Ramirez</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 34D, EV 96.3 MPH)
+[%N]	<a href="../players/player_36252.html">Nate Eaton</a> to second
+[%B]	Batting: LHB <a href="../players/player_22509.html">Nathan Martorella</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  <b>3-RUN HOME RUN</b>  (Line Drive, 89XD, EV 104.4 MPH), Distance : 395 ft
+[%B]	Batting: RHB <a href="../players/player_39394.html">Rodolfo Nolasco</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Foul Ball, location: 9LMF
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_26012.html">Austin Shenton</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 25F
+[%N]	1-2: Foul Ball, location: 3DF
+[%N]	1-2: Foul Ball, location: 3FF
+[%N]	1-2:  Fly out, F9  (Line Drive, 9, EV 91.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_24634.html">Hayden Dunhurst</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 9LSF
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 4th over - 3 runs, 3 hits, 0 errors, 0 left on base; Buffalo 1 - Omaha 3
+[%T]	Top of the 5th - Buffalo Bisons batting - Pitching for Omaha Storm Chasers : RHP <a href="../players/player_50854.html">Yunior Marte</a>
+[%B]	Batting: LHB <a href="../players/player_47832.html">Jaden Rudd</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 6-3 (Groundball, 6, EV 100.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_45096.html">Michael Turconi</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 9LSFF
+[%N]	1-2:  Fly out, F6  (Popup, 6S, EV 73.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_25369.html">Stephen Alemais</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F9  (Flyball, 9LDF, EV 105.6 MPH)
+[%F]	Top of the 5th over - 0 runs, 0 hits, 0 errors, 0 left on base; Buffalo 1 - Omaha 3
+[%T]	Bottom of the 5th - Omaha Storm Chasers batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_41074.html">Dahian Santos</a>
+[%B]	Batting: LHB <a href="../players/player_46411.html">Javier Vaz</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ground out 6-3 (Groundball, 6, EV 85.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_44462.html">Vance Honeycutt</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 5D, EV 108.8 MPH)
+[%B]	Batting: SHB <a href="../players/player_37387.html">Cesar Idrogo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Hit by Pitch
+[%N]	<a href="../players/player_44462.html">Vance Honeycutt</a> to second
+[%B]	Batting: RHB <a href="../players/player_36252.html">Nate Eaton</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 25F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F8  (Flyball, 8LM, EV 93.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_38772.html">Jean Ramirez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 8LS, EV 90.6 MPH)
+[%N]	<a href="../players/player_44462.html">Vance Honeycutt</a> to third
+[%N]	<a href="../players/player_37387.html">Cesar Idrogo</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by CF to home</b>
+[%B]	Batting: LHB <a href="../players/player_22509.html">Nathan Martorella</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 7LSF
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: <b>DOUBLE</b>  (Groundball, 3L, EV 108.1 MPH)
+[%N]	<b><a href="../players/player_37387.html">Cesar Idrogo</a> scores</b>
+[%N]	<a href="../players/player_38772.html">Jean Ramirez</a> to third
+[%N]	<b><a href="../players/player_38772.html">Jean Ramirez</a> scores</b>
+[%B]	Pitching: RHP <a href="../players/player_39643.html">Sem Robberse</a>
+[%B]	Batting: RHB <a href="../players/player_39394.html">Rodolfo Nolasco</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 5-3 (Groundball, 5, EV 98.8 MPH)
+[%F]	Bottom of the 5th over - 3 runs, 3 hits, 0 errors, 1 left on base; Buffalo 1 - Omaha 6
+[%T]	Top of the 6th - Buffalo Bisons batting - Pitching for Omaha Storm Chasers : RHP <a href="../players/player_50854.html">Yunior Marte</a>
+[%B]	Batting: RHB <a href="../players/player_36429.html">Will Banfield</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 56, EV 90.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_48328.html">J.J. Wetherholt</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 25F
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_38909.html">Chris Newell</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out swinging
+[%F]	Top of the 6th over - 0 runs, 0 hits, 0 errors, 0 left on base; Buffalo 1 - Omaha 6
+[%T]	Bottom of the 6th - Omaha Storm Chasers batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_39643.html">Sem Robberse</a>
+[%B]	Batting: LHB <a href="../players/player_26012.html">Austin Shenton</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_24634.html">Hayden Dunhurst</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_46411.html">Javier Vaz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>DOUBLE</b>  (Flyball, 9D, EV 107.5 MPH)
+[%N]	<a href="../players/player_24634.html">Hayden Dunhurst</a> to third
+[%B]	Batting: RHB <a href="../players/player_44462.html">Vance Honeycutt</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_37387.html">Cesar Idrogo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out U3 (Groundball, 34, EV 103.1 MPH)
+[%F]	Bottom of the 6th over - 0 runs, 1 hit, 0 errors, 2 left on base; Buffalo 1 - Omaha 6
+[%T]	Top of the 7th - Buffalo Bisons batting - Pitching for Omaha Storm Chasers : RHP <a href="../players/player_50854.html">Yunior Marte</a>
+[%B]	Batting: RHB <a href="../players/player_35312.html">Luis Robert Jr.</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 6-3 (Groundball, 56, EV 80.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_41146.html">Robert Robertis</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 5D, EV 96.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_24221.html">Justyn-Henry Malloy</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 15S, EV 68.8 MPH) (infield hit)
+[%N]	<a href="../players/player_41146.html">Robert Robertis</a> to second
+[%B]	Batting: LHB <a href="../players/player_47832.html">Jaden Rudd</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_41146.html">Robert Robertis</a> to third
+[%N]	<a href="../players/player_24221.html">Justyn-Henry Malloy</a> to second
+[%B]	Batting: LHB <a href="../players/player_45096.html">Michael Turconi</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F9  (Flyball, 9S, EV 85.0 MPH)
+[%B]	Pinch Hitting: LHB <a href="../players/player_40807.html">Garrett Spain</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out swinging
+[%F]	Top of the 7th over - 0 runs, 2 hits, 0 errors, 3 left on base; Buffalo 1 - Omaha 6
+[%T]	Bottom of the 7th - Omaha Storm Chasers batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_39643.html">Sem Robberse</a>
+[%B]	Now at SS: <a href="../players/player_21777.html">Francisco Acuña</a>
+[%B]	Batting: RHB <a href="../players/player_36252.html">Nate Eaton</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F8  (Flyball, 8RD, EV 104.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_38772.html">Jean Ramirez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_22509.html">Nathan Martorella</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 25FF
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_39394.html">Rodolfo Nolasco</a>
+[%N]	0-0: Ground out 2-3 (Groundball, 2R, EV 66.3 MPH)
+[%F]	Bottom of the 7th over - 0 runs, 0 hits, 0 errors, 1 left on base; Buffalo 1 - Omaha 6
+[%T]	Top of the 8th - Buffalo Bisons batting - Pitching for Omaha Storm Chasers : RHP <a href="../players/player_50854.html">Yunior Marte</a>
+[%B]	Batting: RHB <a href="../players/player_36429.html">Will Banfield</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ground out 6-3 (Groundball, 6, EV 85.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_48328.html">J.J. Wetherholt</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_38909.html">Chris Newell</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 7LMF
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 25F
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F8  (Flyball, 8RD, EV 105.6 MPH)
+[%F]	Top of the 8th over - 0 runs, 0 hits, 0 errors, 0 left on base; Buffalo 1 - Omaha 6
+[%T]	Bottom of the 8th - Omaha Storm Chasers batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_39643.html">Sem Robberse</a>
+[%B]	Batting: LHB <a href="../players/player_26012.html">Austin Shenton</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F4  (Popup, 34D, EV 56.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_24634.html">Hayden Dunhurst</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 89M, EV 88.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_46411.html">Javier Vaz</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%F]	Bottom of the 8th over - 0 runs, 0 hits, 0 errors, 0 left on base; Buffalo 1 - Omaha 6
+[%T]	Top of the 9th - Buffalo Bisons batting - Pitching for Omaha Storm Chasers : RHP <a href="../players/player_50854.html">Yunior Marte</a>
+[%B]	Pitching: RHP <a href="../players/player_1374.html">Ben Hernandez</a>
+[%B]	Batting: RHB <a href="../players/player_35312.html">Luis Robert Jr.</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2LF
+[%N]	1-2: <b>DOUBLE</b>  (Groundball, 5L, EV 107.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_41146.html">Robert Robertis</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F7  (Flyball, 7D, EV 95.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_24221.html">Justyn-Henry Malloy</a>
+[%N]	0-0: Foul Ball, location: 7LDF
+[%N]	0-1: Ground out 1-3 (Groundball, 15S, EV 68.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_47832.html">Jaden Rudd</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: <b>SINGLE</b>  (Groundball, 6D, EV 94.4 MPH)
+[%N]	<a href="../players/player_35312.html">Luis Robert Jr.</a> to third
+[%B]	Batting: LHB <a href="../players/player_45096.html">Michael Turconi</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Foul Ball, location: 3F
+[%N]	3-2: Foul Ball, location: 7LMF
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_47832.html">Jaden Rudd</a> to second
+[%B]	Batting: RHB <a href="../players/player_21777.html">Francisco Acuña</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Fielders Choice at 2nd, 6-4 (Groundball, 6, EV 85.0 MPH)
+[%F]	Top of the 9th over - 0 runs, 2 hits, 0 errors, 3 left on base; Buffalo 1 - Omaha 6

@@ -1,0 +1,448 @@
+[%T]	Top of the 1st - Iowa Cubs batting - Pitching for Louisville Bats : LHP <a href="../players/player_37543.html">Omar Cruz</a>
+[%B]	Pitching: LHP <a href="../players/player_37543.html">Omar Cruz</a>
+[%B]	Batting: RHB <a href="../players/player_36936.html">Leo Jiménez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 5F
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Flyball, 5D, EV 91.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_36877.html">Luis Verdugo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Called Strike
+[%N]	2-2: Grounds into double play, 5-4-3 (Groundball, 56S, EV 85.0 MPH)
+[%B]	Batting: SHB <a href="../players/player_45710.html">David McCabe</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Called Strike
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 34D, EV 106.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_39161.html">Bryan Ramos</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Foul Ball, location: 25F
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 34D, EV 107.5 MPH)
+[%N]	<a href="../players/player_45710.html">David McCabe</a> to second
+[%N]	<a href="../players/player_45710.html">David McCabe</a> to third
+[%B]	Batting: SHB <a href="../players/player_36761.html">Ivan Johnson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 9LSF
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Hit by Pitch
+[%N]	<a href="../players/player_39161.html">Bryan Ramos</a> to second
+[%B]	Batting: RHB <a href="../players/player_38164.html">Pablo Aliendo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 34D, EV 97.5 MPH)
+[%N]	<b><a href="../players/player_45710.html">David McCabe</a> scores</b>
+[%N]	<a href="../players/player_39161.html">Bryan Ramos</a> to third
+[%N]	<a href="../players/player_36761.html">Ivan Johnson</a> to second
+[%B]	Batting: LHB <a href="../players/player_662.html">Lawrence Butler</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out swinging
+[%F]	Top of the 1st over - 1 run, 4 hits, 0 errors, 3 left on base; Iowa 1 - Louisville 0
+[%T]	Bottom of the 1st - Louisville Bats batting - Pitching for Iowa Cubs : RHP <a href="../players/player_23722.html">Nick Neidert</a>
+[%B]	Pitching: RHP <a href="../players/player_23722.html">Nick Neidert</a>
+[%B]	Batting: LHB <a href="../players/player_44684.html">Cam Collier</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4, EV 107.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_49038.html">Hector Rodriguez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ground out 4-3 (Groundball, 34D, EV 103.1 MPH)
+[%B]	Batting: SHB <a href="../players/player_22434.html">John Aiello</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 4-3 (Groundball, 34, EV 88.8 MPH)
+[%F]	Bottom of the 1st over - 0 runs, 0 hits, 0 errors, 0 left on base; Iowa 1 - Louisville 0
+[%T]	Top of the 2nd - Iowa Cubs batting - Pitching for Louisville Bats : LHP <a href="../players/player_37543.html">Omar Cruz</a>
+[%B]	Batting: LHB <a href="../players/player_796.html">Corey Rosier</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>TRIPLE</b>  (Flyball, 9LD, EV 97.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_44471.html">Will Taylor</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7, EV 95.6 MPH)
+[%N]	<b>Runner from 3rd tags up, SCORES, no throw by LF</b>
+[%B]	Batting: RHB <a href="../players/player_36936.html">Leo Jiménez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: <b>SINGLE</b>  (Line Drive, 56, EV 106.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_36877.html">Luis Verdugo</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 34D, EV 101.9 MPH)
+[%N]	<a href="../players/player_36936.html">Leo Jiménez</a> to second
+[%B]	Batting: SHB <a href="../players/player_45710.html">David McCabe</a>
+[%N]	0-0: Grounds into double play, 5-4-3 (Groundball, 56, EV 82.5 MPH)
+[%F]	Top of the 2nd over - 1 run, 3 hits, 0 errors, 1 left on base; Iowa 2 - Louisville 0
+[%T]	Bottom of the 2nd - Louisville Bats batting - Pitching for Iowa Cubs : RHP <a href="../players/player_23722.html">Nick Neidert</a>
+[%B]	Batting: LHB <a href="../players/player_37373.html">Michel Triana</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 3F
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F7  (Flyball, 7, EV 98.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_18502.html">James Beard</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out looking
+[%B]	Batting: SHB <a href="../players/player_37558.html">Derwin Barreto</a>
+[%N]	0-0:  Fly out, F6  (Line Drive, 6, EV 65.6 MPH)
+[%F]	Bottom of the 2nd over - 0 runs, 0 hits, 0 errors, 0 left on base; Iowa 2 - Louisville 0
+[%T]	Top of the 3rd - Iowa Cubs batting - Pitching for Louisville Bats : LHP <a href="../players/player_37543.html">Omar Cruz</a>
+[%B]	Batting: RHB <a href="../players/player_39161.html">Bryan Ramos</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_36761.html">Ivan Johnson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 7LSF
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_38164.html">Pablo Aliendo</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging, 2-3 out at first.
+[%F]	Top of the 3rd over - 0 runs, 0 hits, 0 errors, 0 left on base; Iowa 2 - Louisville 0
+[%T]	Bottom of the 3rd - Louisville Bats batting - Pitching for Iowa Cubs : RHP <a href="../players/player_23722.html">Nick Neidert</a>
+[%B]	DELAY
+[%N]	Rain delay of 70 minutes in the 3rd inning. 
+[%B]	Batting: RHB <a href="../players/player_886.html">Misael Gonzalez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 9LMF
+[%N]	0-2: Strikes out looking
+[%B]	Batting: SHB <a href="../players/player_40241.html">Johnny Ascanio</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Line Drive, 8LS, EV 105.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_1102.html">Logan Tanner</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 4MD, EV 88.1 MPH) (infield hit)
+[%N]	<a href="../players/player_40241.html">Johnny Ascanio</a> to second
+[%B]	Batting: LHB <a href="../players/player_44684.html">Cam Collier</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_49038.html">Hector Rodriguez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F7  (Line Drive, 7, EV 98.8 MPH)
+[%F]	Bottom of the 3rd over - 0 runs, 2 hits, 0 errors, 2 left on base; Iowa 2 - Louisville 0
+[%T]	Top of the 4th - Iowa Cubs batting - Pitching for Louisville Bats : LHP <a href="../players/player_37543.html">Omar Cruz</a>
+[%B]	Batting: LHB <a href="../players/player_662.html">Lawrence Butler</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Flyball, 8RS, EV 96.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_796.html">Corey Rosier</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Pitching: LHP <a href="../players/player_49943.html">Ben Walmsley</a>
+[%B]	Batting: RHB <a href="../players/player_44471.html">Will Taylor</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%N]	<a href="../players/player_662.html">Lawrence Butler</a> is caught stealing 2nd base 2-4
+[%N]	Batter strikes out.
+[%F]	Top of the 4th over - 0 runs, 1 hit, 0 errors, 0 left on base; Iowa 2 - Louisville 0
+[%T]	Bottom of the 4th - Louisville Bats batting - Pitching for Iowa Cubs : RHP <a href="../players/player_23722.html">Nick Neidert</a>
+[%B]	Batting: SHB <a href="../players/player_22434.html">John Aiello</a>
+[%N]	0-0: Foul Ball, location: 7LSF
+[%N]	0-1: Foul Ball, location: 7LSF
+[%N]	0-2:  Fly out, F8  (Flyball, 8RM, EV 93.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_37373.html">Michel Triana</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 7LSF
+[%N]	0-2: Foul Ball, location: 7LSF
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_18502.html">James Beard</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 25FF
+[%N]	2-2: Ground out 4-3 (Groundball, 34, EV 107.5 MPH)
+[%F]	Bottom of the 4th over - 0 runs, 0 hits, 0 errors, 0 left on base; Iowa 2 - Louisville 0
+[%T]	Top of the 5th - Iowa Cubs batting - Pitching for Louisville Bats : LHP <a href="../players/player_49943.html">Ben Walmsley</a>
+[%B]	Batting: RHB <a href="../players/player_36936.html">Leo Jiménez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_36877.html">Luis Verdugo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Reached on error, E9 (Flyball, 9, EV 95.0 MPH)
+[%B]	Batting: SHB <a href="../players/player_45710.html">David McCabe</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 89M, EV 88.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_39161.html">Bryan Ramos</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2LF
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ground out 5-3 (Groundball, 56S, EV 77.5 MPH)
+[%F]	Top of the 5th over - 0 runs, 0 hits, 1 error, 1 left on base; Iowa 2 - Louisville 0
+[%T]	Bottom of the 5th - Louisville Bats batting - Pitching for Iowa Cubs : RHP <a href="../players/player_23722.html">Nick Neidert</a>
+[%B]	Pitching: LHP <a href="../players/player_177.html">Aaron Ashby</a>
+[%B]	Batting: SHB <a href="../players/player_37558.html">Derwin Barreto</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_886.html">Misael Gonzalez</a>
+[%N]	0-0: Reached on error, E5 (Groundball, 56S, EV 74.4 MPH)
+[%B]	Batting: SHB <a href="../players/player_40241.html">Johnny Ascanio</a>
+[%N]	0-0: <b>DOUBLE</b>  (Flyball, 89XD, EV 107.5 MPH)
+[%N]	<a href="../players/player_886.html">Misael Gonzalez</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw by CF</b>
+[%B]	Batting: RHB <a href="../players/player_1102.html">Logan Tanner</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Line Drive, 7LS, EV 110.6 MPH)
+[%N]	<a href="../players/player_40241.html">Johnny Ascanio</a> to third
+[%B]	Batting: LHB <a href="../players/player_44684.html">Cam Collier</a>
+[%N]	0-0: Ball
+[%N]	1-0: Grounds into double play, 6-4-3 (Groundball, 6M, EV 99.4 MPH)
+[%F]	Bottom of the 5th over - 1 run, 2 hits, 1 error, 1 left on base; Iowa 2 - Louisville 1
+[%T]	Top of the 6th - Iowa Cubs batting - Pitching for Louisville Bats : LHP <a href="../players/player_49943.html">Ben Walmsley</a>
+[%B]	Batting: SHB <a href="../players/player_36761.html">Ivan Johnson</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_38164.html">Pablo Aliendo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 9LSF
+[%N]	1-2: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_36761.html">Ivan Johnson</a> to second
+[%N]	2-2:  Fly out, F7  (Flyball, 7, EV 95.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_662.html">Lawrence Butler</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 3F
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_796.html">Corey Rosier</a>
+[%N]	0-0:  <b>2-RUN HOME RUN</b>  (Flyball, 9LD, EV 91.9 MPH), Distance : 349 ft
+[%B]	Batting: RHB <a href="../players/player_44471.html">Will Taylor</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Line Drive, 8LXD, EV 103.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_36936.html">Leo Jiménez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F4  (Popup, 4MD, EV 70.6 MPH)
+[%F]	Top of the 6th over - 2 runs, 2 hits, 0 errors, 1 left on base; Iowa 4 - Louisville 1
+[%T]	Bottom of the 6th - Louisville Bats batting - Pitching for Iowa Cubs : LHP <a href="../players/player_177.html">Aaron Ashby</a>
+[%B]	Batting: LHB <a href="../players/player_49038.html">Hector Rodriguez</a>
+[%N]	0-0: Foul Ball, location: 3DF
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 3F
+[%N]	1-2: <b>DOUBLE</b>  (Line Drive, 9LS, EV 91.3 MPH)
+[%B]	Batting: SHB <a href="../players/player_22434.html">John Aiello</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 6-3 (Groundball, P, EV 87.5 MPH)
+[%N]	<a href="../players/player_49038.html">Hector Rodriguez</a> to third
+[%B]	Batting: LHB <a href="../players/player_37373.html">Michel Triana</a>
+[%N]	0-0: Called Strike
+[%N]	<b>Steal of home, <a href="../players/player_49038.html">Hector Rodriguez</a> is out</b>
+[%N]	0-1: Foul Ball, location: 7LMF
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Strikes out swinging
+[%F]	Bottom of the 6th over - 0 runs, 1 hit, 0 errors, 0 left on base; Iowa 4 - Louisville 1
+[%T]	Top of the 7th - Iowa Cubs batting - Pitching for Louisville Bats : LHP <a href="../players/player_49943.html">Ben Walmsley</a>
+[%B]	Batting: RHB <a href="../players/player_36877.html">Luis Verdugo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F7  (Flyball, 7, EV 91.3 MPH)
+[%B]	Batting: SHB <a href="../players/player_45710.html">David McCabe</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F6  (Popup, 6, EV 60.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_39161.html">Bryan Ramos</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: <b>DOUBLE</b>  (Flyball, 89XD, EV 110.6 MPH)
+[%B]	Batting: SHB <a href="../players/player_36761.html">Ivan Johnson</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 8LS, EV 86.9 MPH)
+[%N]	<a href="../players/player_39161.html">Bryan Ramos</a> to third
+[%B]	Batting: RHB <a href="../players/player_38164.html">Pablo Aliendo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 25F
+[%N]	3-2: Strikes out looking
+[%F]	Top of the 7th over - 0 runs, 2 hits, 0 errors, 2 left on base; Iowa 4 - Louisville 1
+[%T]	Bottom of the 7th - Louisville Bats batting - Pitching for Iowa Cubs : LHP <a href="../players/player_177.html">Aaron Ashby</a>
+[%B]	Batting: RHB <a href="../players/player_18502.html">James Beard</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1:  Fly out, F9  (Flyball, 89S, EV 87.5 MPH)
+[%B]	Batting: SHB <a href="../players/player_37558.html">Derwin Barreto</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: <b>SINGLE</b>  (Groundball, 6MD, EV 104.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_886.html">Misael Gonzalez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F7  (Flyball, 7, EV 95.6 MPH)
+[%B]	Batting: SHB <a href="../players/player_40241.html">Johnny Ascanio</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out looking
+[%F]	Bottom of the 7th over - 0 runs, 1 hit, 0 errors, 1 left on base; Iowa 4 - Louisville 1
+[%T]	Top of the 8th - Iowa Cubs batting - Pitching for Louisville Bats : LHP <a href="../players/player_49943.html">Ben Walmsley</a>
+[%B]	Pitching: RHP <a href="../players/player_39597.html">Zach Maxwell</a>
+[%B]	Batting: LHB <a href="../players/player_662.html">Lawrence Butler</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 7LSF
+[%N]	0-2: Hit by Pitch
+[%B]	Batting: LHB <a href="../players/player_796.html">Corey Rosier</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	<a href="../players/player_662.html">Lawrence Butler</a> steals 2nd base
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 25FF
+[%N]	3-2: Foul Ball, location: 25FF
+[%N]	3-2:  Fly out, F8  (Flyball, 8LM, EV 79.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_44471.html">Will Taylor</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_36936.html">Leo Jiménez</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_662.html">Lawrence Butler</a> is caught stealing 3rd base 2-5
+[%N]	<a href="../players/player_44471.html">Will Taylor</a> to second
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 23F
+[%N]	2-1:  Fly out, F7  (Flyball, 7, EV 90.6 MPH)
+[%F]	Top of the 8th over - 0 runs, 0 hits, 0 errors, 1 left on base; Iowa 4 - Louisville 1
+[%T]	Bottom of the 8th - Louisville Bats batting - Pitching for Iowa Cubs : LHP <a href="../players/player_177.html">Aaron Ashby</a>
+[%B]	Batting: RHB <a href="../players/player_1102.html">Logan Tanner</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 5F
+[%N]	2-1:  Fly out, F7  (Flyball, 78S, EV 78.1 MPH)
+[%B]	Pinch Hitting: RHB <a href="../players/player_40244.html">Juan Garcia</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_49038.html">Hector Rodriguez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 5FF
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%F]	Bottom of the 8th over - 0 runs, 0 hits, 0 errors, 0 left on base; Iowa 4 - Louisville 1
+[%T]	Top of the 9th - Iowa Cubs batting - Pitching for Louisville Bats : RHP <a href="../players/player_39597.html">Zach Maxwell</a>
+[%B]	Now at 3B: <a href="../players/player_23804.html">Tyler Callihan</a>
+[%B]	Batting: RHB <a href="../players/player_36877.html">Luis Verdugo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 9LSFF
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 5F
+[%N]	2-2: Hit by Pitch
+[%B]	Batting: SHB <a href="../players/player_45710.html">David McCabe</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_36877.html">Luis Verdugo</a> to second
+[%B]	Batting: RHB <a href="../players/player_39161.html">Bryan Ramos</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 78S, EV 101.3 MPH)
+[%N]	<a href="../players/player_36877.html">Luis Verdugo</a> to third
+[%N]	<a href="../players/player_45710.html">David McCabe</a> to second
+[%B]	Batting: SHB <a href="../players/player_36761.html">Ivan Johnson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 23F
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 6M, EV 108.1 MPH)
+[%N]	<b><a href="../players/player_36877.html">Luis Verdugo</a> scores</b>
+[%N]	<a href="../players/player_45710.html">David McCabe</a> to third
+[%N]	<a href="../players/player_39161.html">Bryan Ramos</a> to second
+[%B]	Batting: RHB <a href="../players/player_38164.html">Pablo Aliendo</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 5D, EV 98.8 MPH)
+[%N]	<b><a href="../players/player_45710.html">David McCabe</a> scores</b>
+[%N]	<a href="../players/player_39161.html">Bryan Ramos</a> to third
+[%N]	<a href="../players/player_36761.html">Ivan Johnson</a> to second
+[%B]	Batting: LHB <a href="../players/player_662.html">Lawrence Butler</a>
+[%N]	0-0: Foul Ball, location: 2RF
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_796.html">Corey Rosier</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Grounds into fielders choice 3-2 (Groundball, 13, EV 78.1 MPH)
+[%N]	<a href="../players/player_36761.html">Ivan Johnson</a> to third
+[%N]	<a href="../players/player_38164.html">Pablo Aliendo</a> to second
+[%B]	Batting: RHB <a href="../players/player_44471.html">Will Taylor</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 25F
+[%N]	1-2: Ball
+[%N]	2-2: Ground out U3 (Groundball, 34, EV 90.6 MPH)
+[%F]	Top of the 9th over - 2 runs, 3 hits, 0 errors, 3 left on base; Iowa 6 - Louisville 1
+[%T]	Bottom of the 9th - Louisville Bats batting - Pitching for Iowa Cubs : LHP <a href="../players/player_177.html">Aaron Ashby</a>
+[%B]	Batting: SHB <a href="../players/player_22434.html">John Aiello</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Flyball, 89M, EV 96.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_37373.html">Michel Triana</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 4-3 (Groundball, 4, EV 90.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_18502.html">James Beard</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 9LSF
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 9LMF
+[%N]	2-2: Strikes out looking
+[%F]	Bottom of the 9th over - 0 runs, 0 hits, 0 errors, 0 left on base; Iowa 6 - Louisville 1

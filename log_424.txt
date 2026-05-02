@@ -1,0 +1,419 @@
+[%T]	Top of the 1st - Omaha Storm Chasers batting - Pitching for Iowa Cubs : RHP <a href="../players/player_42027.html">Andrew Hoffmann</a>
+[%B]	Pitching: RHP <a href="../players/player_42027.html">Andrew Hoffmann</a>
+[%B]	Batting: RHB <a href="../players/player_36252.html">Nate Eaton</a>
+[%N]	0-0:  Fly out, F8  (Line Drive, 8LD, EV 88.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_38772.html">Jean Ramirez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: <b>DOUBLE</b>  (Line Drive, 78D, EV 104.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_22509.html">Nathan Martorella</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 3SF
+[%N]	2-1: Swinging Strike
+[%N]	2-2:  Fly out, F9  (Line Drive, 9S, EV 90.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_39394.html">Rodolfo Nolasco</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: <b>TRIPLE</b>  (Flyball, 78XD, EV 86.9 MPH)
+[%N]	<b><a href="../players/player_38772.html">Jean Ramirez</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_26012.html">Austin Shenton</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_24634.html">Hayden Dunhurst</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out swinging
+[%F]	Top of the 1st over - 1 run, 2 hits, 0 errors, 2 left on base; Omaha 1 - Iowa 0
+[%T]	Bottom of the 1st - Iowa Cubs batting - Pitching for Omaha Storm Chasers : RHP <a href="../players/player_47337.html">Owen Murphy</a>
+[%B]	Pitching: RHP <a href="../players/player_47337.html">Owen Murphy</a>
+[%B]	Batting: RHB <a href="../players/player_36936.html">Leo Jiménez</a>
+[%N]	0-0: Foul Ball, location: 23F
+[%N]	0-1:  Fly out, F8  (Line Drive, 8RM, EV 90.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_662.html">Lawrence Butler</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F8  (Flyball, 8LD, EV 96.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_39161.html">Bryan Ramos</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 7S, EV 95.6 MPH)
+[%B]	Batting: SHB <a href="../players/player_45710.html">David McCabe</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Flyball, 9LS, EV 97.5 MPH)
+[%N]	<a href="../players/player_39161.html">Bryan Ramos</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw by RF made to third
+[%B]	Batting: SHB <a href="../players/player_36761.html">Ivan Johnson</a>
+[%N]	0-0: Foul Ball, location: 25FF
+[%N]	0-1: Foul Ball, location: 2LF
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F8  (Flyball, 8RM, EV 88.1 MPH)
+[%F]	Bottom of the 1st over - 0 runs, 2 hits, 0 errors, 2 left on base; Omaha 1 - Iowa 0
+[%T]	Top of the 2nd - Omaha Storm Chasers batting - Pitching for Iowa Cubs : RHP <a href="../players/player_42027.html">Andrew Hoffmann</a>
+[%B]	Batting: LHB <a href="../players/player_46411.html">Javier Vaz</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 5-3 (Groundball, 56, EV 101.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_44462.html">Vance Honeycutt</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 9LSF
+[%N]	0-2: Ball
+[%N]	1-2: Ground out 6-3 (Groundball, 6, EV 90.0 MPH)
+[%B]	Batting: SHB <a href="../players/player_37387.html">Cesar Idrogo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F8  (Flyball, 78M, EV 97.5 MPH)
+[%F]	Top of the 2nd over - 0 runs, 0 hits, 0 errors, 0 left on base; Omaha 1 - Iowa 0
+[%T]	Bottom of the 2nd - Iowa Cubs batting - Pitching for Omaha Storm Chasers : RHP <a href="../players/player_47337.html">Owen Murphy</a>
+[%B]	Batting: SHB <a href="../players/player_181.html">Greg Allen</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Line Drive, 8LS, EV 95.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_796.html">Corey Rosier</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F6  (Popup, 6M, EV 34.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_38164.html">Pablo Aliendo</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_181.html">Greg Allen</a> steals 2nd base
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 5D, EV 102.5 MPH)
+[%N]	<a href="../players/player_181.html">Greg Allen</a> to third
+[%B]	Batting: RHB <a href="../players/player_44471.html">Will Taylor</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: <b>SINGLE</b>  (Line Drive, 6M, EV 96.3 MPH)
+[%N]	<b><a href="../players/player_181.html">Greg Allen</a> scores</b>
+[%N]	<a href="../players/player_38164.html">Pablo Aliendo</a> to second
+[%B]	Batting: RHB <a href="../players/player_36936.html">Leo Jiménez</a>
+[%N]	0-0: Foul Ball, location: 25FF
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_662.html">Lawrence Butler</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: <b>DOUBLE</b>  (Flyball, 8LXD, EV 111.3 MPH)
+[%N]	<b><a href="../players/player_38164.html">Pablo Aliendo</a> scores</b>
+[%N]	<a href="../players/player_44471.html">Will Taylor</a> to third
+[%N]	<b><a href="../players/player_44471.html">Will Taylor</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_39161.html">Bryan Ramos</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2:  <b>2-RUN HOME RUN</b>  (Flyball, 78XD, EV 110.0 MPH), Distance : 414 ft
+[%B]	Batting: SHB <a href="../players/player_45710.html">David McCabe</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F9  (Line Drive, 9S, EV 66.3 MPH)
+[%F]	Bottom of the 2nd over - 5 runs, 5 hits, 0 errors, 0 left on base; Omaha 1 - Iowa 5
+[%T]	Top of the 3rd - Omaha Storm Chasers batting - Pitching for Iowa Cubs : RHP <a href="../players/player_42027.html">Andrew Hoffmann</a>
+[%B]	Batting: RHB <a href="../players/player_36252.html">Nate Eaton</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 7LMF
+[%N]	2-1:  Fly out, F8  (Flyball, 8RM, EV 93.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_38772.html">Jean Ramirez</a>
+[%N]	0-0:  <b>SOLO HOME RUN</b>  (Flyball, 89XD, EV 105.6 MPH), Distance : 400 ft
+[%B]	Batting: LHB <a href="../players/player_22509.html">Nathan Martorella</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 9LMFF
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_39394.html">Rodolfo Nolasco</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 5-3 (Groundball, 5, EV 105.0 MPH)
+[%F]	Top of the 3rd over - 1 run, 1 hit, 0 errors, 0 left on base; Omaha 2 - Iowa 5
+[%T]	Bottom of the 3rd - Iowa Cubs batting - Pitching for Omaha Storm Chasers : RHP <a href="../players/player_47337.html">Owen Murphy</a>
+[%B]	Batting: SHB <a href="../players/player_36761.html">Ivan Johnson</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 5-3 (Groundball, 5, EV 86.9 MPH)
+[%B]	Batting: SHB <a href="../players/player_181.html">Greg Allen</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>TRIPLE</b>  (Line Drive, 78XD, EV 95.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_796.html">Corey Rosier</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F6  (Popup, 15, EV 76.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_38164.html">Pablo Aliendo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 9LMF
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Ground out 6-3 (Groundball, 6, EV 104.4 MPH)
+[%F]	Bottom of the 3rd over - 0 runs, 1 hit, 0 errors, 1 left on base; Omaha 2 - Iowa 5
+[%T]	Top of the 4th - Omaha Storm Chasers batting - Pitching for Iowa Cubs : RHP <a href="../players/player_42027.html">Andrew Hoffmann</a>
+[%B]	Batting: LHB <a href="../players/player_26012.html">Austin Shenton</a>
+[%N]	0-0: Ball
+[%N]	1-0:  <b>SOLO HOME RUN</b>  (Flyball, 9D, EV 98.1 MPH), Distance : 370 ft
+[%B]	Batting: LHB <a href="../players/player_24634.html">Hayden Dunhurst</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_46411.html">Javier Vaz</a>
+[%N]	0-0:  Fly out, F7  (Line Drive, 78M, EV 91.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_44462.html">Vance Honeycutt</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F7  (Flyball, 7, EV 90.6 MPH)
+[%F]	Top of the 4th over - 1 run, 1 hit, 0 errors, 0 left on base; Omaha 3 - Iowa 5
+[%T]	Bottom of the 4th - Iowa Cubs batting - Pitching for Omaha Storm Chasers : RHP <a href="../players/player_47337.html">Owen Murphy</a>
+[%B]	Batting: RHB <a href="../players/player_44471.html">Will Taylor</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F2  (Popup, 3SF, EV 87.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_36936.html">Leo Jiménez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Reached on error, E5 (Groundball, 56, EV 88.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_662.html">Lawrence Butler</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 23F
+[%N]	1-1: Foul Ball, location: 5F
+[%N]	1-2:  <b>2-RUN HOME RUN</b>  (Flyball, 9D, EV 93.8 MPH), Distance : 370 ft
+[%B]	Pitching: RHP <a href="../players/player_43541.html">Teddy McGraw</a>
+[%B]	Batting: RHB <a href="../players/player_39161.html">Bryan Ramos</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 9LMF
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_45710.html">David McCabe</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_39161.html">Bryan Ramos</a> to second
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_36761.html">Ivan Johnson</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_39161.html">Bryan Ramos</a> steals 3rd base
+[%N]	1-0:  Fly out, F9  (Flyball, 89S, EV 89.4 MPH)
+[%B]	Batting: SHB <a href="../players/player_181.html">Greg Allen</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out U3 (Groundball, 3, EV 95.0 MPH)
+[%F]	Bottom of the 4th over - 2 runs, 1 hit, 1 error, 2 left on base; Omaha 3 - Iowa 7
+[%T]	Top of the 5th - Omaha Storm Chasers batting - Pitching for Iowa Cubs : RHP <a href="../players/player_42027.html">Andrew Hoffmann</a>
+[%B]	Batting: SHB <a href="../players/player_37387.html">Cesar Idrogo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Line Drive, 4MD, EV 63.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_36252.html">Nate Eaton</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 7S, EV 103.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_38772.html">Jean Ramirez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_22509.html">Nathan Martorella</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_36252.html">Nate Eaton</a> steals 2nd base
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Line Drive, 6D, EV 95.6 MPH)
+[%N]	<a href="../players/player_36252.html">Nate Eaton</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by CF to home</b>
+[%B]	Batting: RHB <a href="../players/player_39394.html">Rodolfo Nolasco</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	<a href="../players/player_22509.html">Nathan Martorella</a> steals 2nd base
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 9LDF
+[%N]	2-2: Strikes out looking
+[%F]	Top of the 5th over - 1 run, 2 hits, 0 errors, 1 left on base; Omaha 4 - Iowa 7
+[%T]	Bottom of the 5th - Iowa Cubs batting - Pitching for Omaha Storm Chasers : RHP <a href="../players/player_43541.html">Teddy McGraw</a>
+[%B]	Batting: LHB <a href="../players/player_796.html">Corey Rosier</a>
+[%N]	0-0:  Fly out, F6  (Popup, 56, EV 78.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_38164.html">Pablo Aliendo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 25FF
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_44471.html">Will Taylor</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1:  Fly out, F9  (Flyball, 9, EV 96.9 MPH)
+[%F]	Bottom of the 5th over - 0 runs, 0 hits, 0 errors, 0 left on base; Omaha 4 - Iowa 7
+[%T]	Top of the 6th - Omaha Storm Chasers batting - Pitching for Iowa Cubs : RHP <a href="../players/player_42027.html">Andrew Hoffmann</a>
+[%B]	Batting: LHB <a href="../players/player_26012.html">Austin Shenton</a>
+[%N]	0-0: Foul Ball, location: 5FF
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_24634.html">Hayden Dunhurst</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 5DF
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_46411.html">Javier Vaz</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, P, EV 89.4 MPH) (infield hit)
+[%B]	Pitching: RHP <a href="../players/player_50558.html">Daniel Wright</a>
+[%B]	Batting: RHB <a href="../players/player_44462.html">Vance Honeycutt</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Fielders Choice at 2nd, 6-4 (Groundball, 6D, EV 83.1 MPH)
+[%F]	Top of the 6th over - 0 runs, 1 hit, 0 errors, 1 left on base; Omaha 4 - Iowa 7
+[%T]	Bottom of the 6th - Iowa Cubs batting - Pitching for Omaha Storm Chasers : RHP <a href="../players/player_43541.html">Teddy McGraw</a>
+[%B]	Batting: RHB <a href="../players/player_36936.html">Leo Jiménez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out U3 (Groundball, 34, EV 85.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_662.html">Lawrence Butler</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 4-3 (Groundball, 4, EV 86.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_39161.html">Bryan Ramos</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 5F
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out looking
+[%F]	Bottom of the 6th over - 0 runs, 0 hits, 0 errors, 0 left on base; Omaha 4 - Iowa 7
+[%T]	Top of the 7th - Omaha Storm Chasers batting - Pitching for Iowa Cubs : RHP <a href="../players/player_50558.html">Daniel Wright</a>
+[%B]	Batting: SHB <a href="../players/player_37387.html">Cesar Idrogo</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6, EV 84.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_36252.html">Nate Eaton</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F6  (Popup, 6, EV 74.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_38772.html">Jean Ramirez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_22509.html">Nathan Martorella</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Strikes out swinging
+[%F]	Top of the 7th over - 0 runs, 0 hits, 0 errors, 1 left on base; Omaha 4 - Iowa 7
+[%T]	Bottom of the 7th - Iowa Cubs batting - Pitching for Omaha Storm Chasers : RHP <a href="../players/player_43541.html">Teddy McGraw</a>
+[%B]	Batting: SHB <a href="../players/player_45710.html">David McCabe</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 4MS, EV 71.9 MPH) (infield hit)
+[%B]	Batting: SHB <a href="../players/player_36761.html">Ivan Johnson</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 34, EV 103.1 MPH)
+[%N]	<a href="../players/player_45710.html">David McCabe</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw by RF made to third
+[%B]	Batting: SHB <a href="../players/player_181.html">Greg Allen</a>
+[%N]	Pickoff Throw to First - Out! 1-3
+[%N]	0-0: Ball
+[%N]	1-0: Hit by Pitch
+[%B]	Batting: LHB <a href="../players/player_796.html">Corey Rosier</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F9  (Flyball, 9LSF, EV 83.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_38164.html">Pablo Aliendo</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 5FF
+[%N]	1-2: Foul Ball, location: 3DF
+[%N]	1-2: Foul Ball, location: 5FF
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out looking
+[%F]	Bottom of the 7th over - 0 runs, 2 hits, 0 errors, 2 left on base; Omaha 4 - Iowa 7
+[%T]	Top of the 8th - Omaha Storm Chasers batting - Pitching for Iowa Cubs : RHP <a href="../players/player_50558.html">Daniel Wright</a>
+[%B]	Batting: RHB <a href="../players/player_39394.html">Rodolfo Nolasco</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 25F
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_26012.html">Austin Shenton</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_24634.html">Hayden Dunhurst</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out swinging
+[%F]	Top of the 8th over - 0 runs, 0 hits, 0 errors, 0 left on base; Omaha 4 - Iowa 7
+[%T]	Bottom of the 8th - Iowa Cubs batting - Pitching for Omaha Storm Chasers : RHP <a href="../players/player_43541.html">Teddy McGraw</a>
+[%B]	Batting: RHB <a href="../players/player_44471.html">Will Taylor</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 5-3 (Groundball, 56S, EV 87.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_36936.html">Leo Jiménez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Reached on error, E4 (Groundball, 4, EV 91.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_662.html">Lawrence Butler</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F9  (Flyball, 9LS, EV 80.6 MPH)
+[%B]	Pitching: RHP <a href="../players/player_1374.html">Ben Hernandez</a>
+[%B]	Batting: RHB <a href="../players/player_39161.html">Bryan Ramos</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 23F
+[%N]	2-1:  Fly out, F8  (Flyball, 8LM, EV 86.9 MPH)
+[%F]	Bottom of the 8th over - 0 runs, 0 hits, 1 error, 1 left on base; Omaha 4 - Iowa 7
+[%T]	Top of the 9th - Omaha Storm Chasers batting - Pitching for Iowa Cubs : RHP <a href="../players/player_50558.html">Daniel Wright</a>
+[%B]	Pitching: RHP <a href="../players/player_29598.html">Blake Treinen</a>
+[%B]	Batting: LHB <a href="../players/player_46411.html">Javier Vaz</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ground out 1-3 (Groundball, 15S, EV 69.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_44462.html">Vance Honeycutt</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out looking
+[%B]	Batting: SHB <a href="../players/player_37387.html">Cesar Idrogo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 5FF
+[%N]	2-1: Ball
+[%N]	3-1: Ground out U3 (Groundball, 3S, EV 83.8 MPH)
+[%F]	Top of the 9th over - 0 runs, 0 hits, 0 errors, 0 left on base; Omaha 4 - Iowa 7

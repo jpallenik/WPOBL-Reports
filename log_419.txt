@@ -1,0 +1,505 @@
+[%T]	Top of the 1st - Memphis Redbirds batting - Pitching for Charlotte Knights : RHP <a href="../players/player_23301.html">Slade Cecconi</a>
+[%B]	Pitching: RHP <a href="../players/player_23301.html">Slade Cecconi</a>
+[%B]	Batting: RHB <a href="../players/player_23400.html">Masyn Winn</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 6M, EV 94.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_46240.html">Noah Mendlinger</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 7LSF
+[%N]	0-2: Foul Ball, location: 3SF
+[%N]	0-2: Foul Ball, location: 5FF
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 34D, EV 96.9 MPH)
+[%N]	<a href="../players/player_23400.html">Masyn Winn</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw by RF made to third
+[%N]	<a href="../players/player_46240.html">Noah Mendlinger</a> to second
+[%B]	Batting: RHB <a href="../players/player_18344.html">Jordan Walker</a>
+[%N]	0-0: Foul Ball, location: 3F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Hit by Pitch
+[%B]	Batting: LHB <a href="../players/player_821.html">Ryan Holgate</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Swinging Strike
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 9S, EV 90.6 MPH)
+[%N]	<b><a href="../players/player_23400.html">Masyn Winn</a> scores</b>
+[%N]	<a href="../players/player_46240.html">Noah Mendlinger</a> to third
+[%N]	<a href="../players/player_18344.html">Jordan Walker</a> to second
+[%B]	Batting: LHB <a href="../players/player_45112.html">Nathan Church</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 6MD, EV 98.1 MPH)
+[%N]	<b><a href="../players/player_46240.html">Noah Mendlinger</a> scores</b>
+[%N]	<a href="../players/player_18344.html">Jordan Walker</a> to third
+[%N]	<a href="../players/player_821.html">Ryan Holgate</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by CF to home</b>
+[%B]	Batting: LHB <a href="../players/player_45398.html">Alex Iadisernia</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: <b>TRIPLE</b>  (Flyball, 78XD, EV 90.6 MPH)
+[%N]	<b><a href="../players/player_821.html">Ryan Holgate</a> scores</b>
+[%N]	<b><a href="../players/player_45112.html">Nathan Church</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_1527.html">Nicolas Torres</a>
+[%N]	0-0: Foul Ball, location: 5F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 3FF
+[%N]	0-2: Foul Ball, location: 3SF
+[%N]	0-2: Foul Ball, location: 7LMFF
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_44562.html">Ashtin Webb</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 56D, EV 94.4 MPH)
+[%N]	<b><a href="../players/player_45398.html">Alex Iadisernia</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_38833.html">Ramon Mendoza</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 25F
+[%N]	0-2: <b>DOUBLE</b>  (Line Drive, 7LS, EV 92.5 MPH)
+[%N]	<a href="../players/player_44562.html">Ashtin Webb</a> to third
+[%B]	Batting: RHB <a href="../players/player_23400.html">Masyn Winn</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 6-3 (Groundball, 56, EV 104.4 MPH)
+[%N]	<b><a href="../players/player_44562.html">Ashtin Webb</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_46240.html">Noah Mendlinger</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Called Strike
+[%N]	2-2: Ground out 6-3 (Groundball, 6, EV 108.8 MPH)
+[%F]	Top of the 1st over - 7 runs, 7 hits, 0 errors, 1 left on base; Memphis 7 - Charlotte 0
+[%T]	Bottom of the 1st - Charlotte Knights batting - Pitching for Memphis Redbirds : RHP <a href="../players/player_45753.html">Gordon Graceffo</a>
+[%B]	Pitching: RHP <a href="../players/player_45753.html">Gordon Graceffo</a>
+[%B]	Batting: RHB <a href="../players/player_36078.html">Dasan Brown</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2RF
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_42151.html">Jordan Sprinkle</a>
+[%N]	0-0:  Fly out, F8  (Line Drive, 8RM, EV 90.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_46035.html">Alsander Womack</a>
+[%N]	0-0: Ground out U3 (Groundball, 3, EV 104.4 MPH)
+[%F]	Bottom of the 1st over - 0 runs, 0 hits, 0 errors, 0 left on base; Memphis 7 - Charlotte 0
+[%T]	Top of the 2nd - Memphis Redbirds batting - Pitching for Charlotte Knights : RHP <a href="../players/player_23301.html">Slade Cecconi</a>
+[%B]	Batting: RHB <a href="../players/player_18344.html">Jordan Walker</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F8  (Flyball, 78S, EV 92.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_821.html">Ryan Holgate</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 25F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 23FF
+[%N]	1-2: Foul Ball, location: 3FF
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F4  (Popup, 34, EV 72.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_45112.html">Nathan Church</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7, EV 83.8 MPH)
+[%F]	Top of the 2nd over - 0 runs, 0 hits, 0 errors, 0 left on base; Memphis 7 - Charlotte 0
+[%T]	Bottom of the 2nd - Charlotte Knights batting - Pitching for Memphis Redbirds : RHP <a href="../players/player_45753.html">Gordon Graceffo</a>
+[%B]	Batting: RHB <a href="../players/player_42915.html">Javier Mora</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_33971.html">Seiya Suzuki</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 7LSF
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F8  (Flyball, 8LD, EV 100.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_45551.html">Shawn Goosenberg</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 3F
+[%N]	1-2:  Fly out, F7  (Line Drive, 7, EV 105.6 MPH)
+[%F]	Bottom of the 2nd over - 0 runs, 0 hits, 0 errors, 0 left on base; Memphis 7 - Charlotte 0
+[%T]	Top of the 3rd - Memphis Redbirds batting - Pitching for Charlotte Knights : RHP <a href="../players/player_23301.html">Slade Cecconi</a>
+[%B]	Batting: LHB <a href="../players/player_45398.html">Alex Iadisernia</a>
+[%N]	0-0: Ground out 2-3 (Groundball, 15S, EV 74.4 MPH)
+[%B]	Pitching: RHP <a href="../players/player_46727.html">Magnus Ellerts</a>
+[%B]	Batting: RHB <a href="../players/player_1527.html">Nicolas Torres</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Reached on error, E5 (Groundball, 56, EV 88.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_44562.html">Ashtin Webb</a>
+[%N]	0-0:  <b>2-RUN HOME RUN</b>  (Flyball, 9D, EV 93.8 MPH), Distance : 357 ft
+[%B]	Batting: RHB <a href="../players/player_38833.html">Ramon Mendoza</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 9LSF
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F8  (Line Drive, 8RM, EV 95.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_23400.html">Masyn Winn</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 25FF
+[%N]	1-1: Swinging Strike
+[%N]	1-2:  <b>SOLO HOME RUN</b>  (Flyball, 89XD, EV 102.5 MPH), Distance : 383 ft
+[%B]	Batting: LHB <a href="../players/player_46240.html">Noah Mendlinger</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 3SF
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Hit by Pitch, AND HE CHARGES THE MOUND! The benches clear!
+[%B]	Pitching: RHP <a href="../players/player_24910.html">Alex McFarlane</a>
+[%B]	Pinch Runner at 1st <a href="../players/player_42442.html">Brody Moore</a>: 
+[%B]	Batting: RHB <a href="../players/player_18344.html">Jordan Walker</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging
+[%F]	Top of the 3rd over - 3 runs, 2 hits, 1 error, 1 left on base; Memphis 10 - Charlotte 0
+[%T]	Bottom of the 3rd - Charlotte Knights batting - Pitching for Memphis Redbirds : RHP <a href="../players/player_45753.html">Gordon Graceffo</a>
+[%B]	Now at 2B: <a href="../players/player_42442.html">Brody Moore</a>
+[%B]	Now at 3B: <a href="../players/player_1527.html">Nicolas Torres</a>
+[%B]	Batting: SHB <a href="../players/player_28269.html">Niko Goodrum</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 7LSF
+[%N]	1-1: Reached on error, E6 (Groundball, 6, EV 71.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_45317.html">Jacob Burke</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F8  (Flyball, 89M, EV 95.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_25074.html">Jake Rogers</a>
+[%N]	0-0:  Fly out, F5  (Popup, 5SF, EV 72.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_36078.html">Dasan Brown</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 89S, EV 92.5 MPH)
+[%F]	Bottom of the 3rd over - 0 runs, 0 hits, 1 error, 1 left on base; Memphis 10 - Charlotte 0
+[%T]	Top of the 4th - Memphis Redbirds batting - Pitching for Charlotte Knights : RHP <a href="../players/player_24910.html">Alex McFarlane</a>
+[%B]	Batting: LHB <a href="../players/player_821.html">Ryan Holgate</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F8  (Line Drive, 8RS, EV 96.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_45112.html">Nathan Church</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 3SF
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 5SF
+[%N]	3-2: Ground out 6-3 (Groundball, 6, EV 80.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_45398.html">Alex Iadisernia</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Called Strike
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 78S, EV 106.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_1527.html">Nicolas Torres</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 4th over - 0 runs, 1 hit, 0 errors, 1 left on base; Memphis 10 - Charlotte 0
+[%T]	Bottom of the 4th - Charlotte Knights batting - Pitching for Memphis Redbirds : RHP <a href="../players/player_45753.html">Gordon Graceffo</a>
+[%B]	Batting: RHB <a href="../players/player_42151.html">Jordan Sprinkle</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 5FF
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F4  (Popup, 4MD, EV 56.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_46035.html">Alsander Womack</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ground out 6-3 (Groundball, P, EV 88.8 MPH)
+[%B]	DELAY
+[%N]	Rain delay of 21 minutes in the 4th inning. 
+[%B]	Batting: RHB <a href="../players/player_42915.html">Javier Mora</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1:  Fly out, F4  (Flyball, 34D, EV 95.0 MPH)
+[%F]	Bottom of the 4th over - 0 runs, 0 hits, 0 errors, 0 left on base; Memphis 10 - Charlotte 0
+[%T]	Top of the 5th - Memphis Redbirds batting - Pitching for Charlotte Knights : RHP <a href="../players/player_24910.html">Alex McFarlane</a>
+[%B]	Batting: RHB <a href="../players/player_44562.html">Ashtin Webb</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 25F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_38833.html">Ramon Mendoza</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 9LSF
+[%N]	0-2: Foul Ball, location: 3FF
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_23400.html">Masyn Winn</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ground out 4-3 (Groundball, 4, EV 80.0 MPH)
+[%N]	<a href="../players/player_44562.html">Ashtin Webb</a> to second
+[%B]	Batting: RHB <a href="../players/player_42442.html">Brody Moore</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Flyball, 9, EV 100.0 MPH)
+[%F]	Top of the 5th over - 0 runs, 0 hits, 0 errors, 1 left on base; Memphis 10 - Charlotte 0
+[%T]	Bottom of the 5th - Charlotte Knights batting - Pitching for Memphis Redbirds : RHP <a href="../players/player_45753.html">Gordon Graceffo</a>
+[%B]	Batting: RHB <a href="../players/player_33971.html">Seiya Suzuki</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_45551.html">Shawn Goosenberg</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 5F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 23F
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_28269.html">Niko Goodrum</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 5F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 5th over - 0 runs, 0 hits, 0 errors, 0 left on base; Memphis 10 - Charlotte 0
+[%T]	Top of the 6th - Memphis Redbirds batting - Pitching for Charlotte Knights : RHP <a href="../players/player_24910.html">Alex McFarlane</a>
+[%B]	Batting: RHB <a href="../players/player_18344.html">Jordan Walker</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_821.html">Ryan Holgate</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F6  (Popup, 6MS, EV 75.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_45112.html">Nathan Church</a>
+[%N]	0-0:  Fly out, F5  (Popup, 56S, EV 77.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_45398.html">Alex Iadisernia</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 7LMF
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%F]	Top of the 6th over - 0 runs, 0 hits, 0 errors, 1 left on base; Memphis 10 - Charlotte 0
+[%T]	Bottom of the 6th - Charlotte Knights batting - Pitching for Memphis Redbirds : RHP <a href="../players/player_45753.html">Gordon Graceffo</a>
+[%B]	Batting: RHB <a href="../players/player_45317.html">Jacob Burke</a>
+[%N]	0-0: Ball
+[%N]	1-0:  <b>SOLO HOME RUN</b>  (Flyball, 78XD, EV 102.5 MPH), Distance : 394 ft
+[%B]	Batting: RHB <a href="../players/player_25074.html">Jake Rogers</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F8  (Line Drive, 8LD, EV 93.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_36078.html">Dasan Brown</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 34D, EV 103.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_42151.html">Jordan Sprinkle</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 9LDF
+[%N]	1-1:  Fly out, F6  (Line Drive, 6, EV 70.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_46035.html">Alsander Womack</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F8  (Line Drive, 8LM, EV 88.1 MPH)
+[%F]	Bottom of the 6th over - 1 run, 2 hits, 0 errors, 1 left on base; Memphis 10 - Charlotte 1
+[%T]	Top of the 7th - Memphis Redbirds batting - Pitching for Charlotte Knights : RHP <a href="../players/player_24910.html">Alex McFarlane</a>
+[%B]	Batting: RHB <a href="../players/player_1527.html">Nicolas Torres</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 13, EV 83.1 MPH) (infield hit)
+[%B]	Batting: RHB <a href="../players/player_44562.html">Ashtin Webb</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_38833.html">Ramon Mendoza</a>
+[%N]	0-0: Foul Ball, location: 2LF
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 9LSF
+[%N]	2-2: Foul Ball, location: 5DF
+[%N]	2-2:  <b>2-RUN HOME RUN</b>  (Flyball, 7D, EV 91.9 MPH), Distance : 362 ft
+[%B]	Pitching: RHP <a href="../players/player_1335.html">Andrew Wantz</a>
+[%B]	Batting: RHB <a href="../players/player_23400.html">Masyn Winn</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 9LSF
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 78S, EV 103.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_42442.html">Brody Moore</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Grounds into double play, 1-4-3 (Groundball, 15S, EV 70.6 MPH)
+[%F]	Top of the 7th over - 2 runs, 3 hits, 0 errors, 0 left on base; Memphis 12 - Charlotte 1
+[%T]	Bottom of the 7th - Charlotte Knights batting - Pitching for Memphis Redbirds : RHP <a href="../players/player_45753.html">Gordon Graceffo</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_31894.html">Jorge Mateo</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6, EV 82.5 MPH)
+[%B]	Pinch Hitting: RHB <a href="../players/player_27910.html">Jake Marisnick</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F8  (Flyball, 8RXD, EV 94.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_45551.html">Shawn Goosenberg</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out looking
+[%F]	Bottom of the 7th over - 0 runs, 0 hits, 0 errors, 0 left on base; Memphis 12 - Charlotte 1
+[%T]	Top of the 8th - Memphis Redbirds batting - Pitching for Charlotte Knights : RHP <a href="../players/player_1335.html">Andrew Wantz</a>
+[%B]	Now at SS: <a href="../players/player_31894.html">Jorge Mateo</a>
+[%B]	Now in LF: <a href="../players/player_27910.html">Jake Marisnick</a>
+[%B]	Now in RF: <a href="../players/player_45317.html">Jacob Burke</a>
+[%B]	Batting: RHB <a href="../players/player_18344.html">Jordan Walker</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 23F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_821.html">Ryan Holgate</a>
+[%N]	0-0: Foul Ball, location: 2RF
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_45112.html">Nathan Church</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: <b>DOUBLE</b>  (Flyball, 78XD, EV 106.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_45398.html">Alex Iadisernia</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 8th over - 0 runs, 1 hit, 0 errors, 1 left on base; Memphis 12 - Charlotte 1
+[%T]	Bottom of the 8th - Charlotte Knights batting - Pitching for Memphis Redbirds : RHP <a href="../players/player_45753.html">Gordon Graceffo</a>
+[%B]	Batting: SHB <a href="../players/player_28269.html">Niko Goodrum</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  <b>SOLO HOME RUN</b>  (Flyball, 7D, EV 94.4 MPH), Distance : 366 ft
+[%B]	Batting: RHB <a href="../players/player_45317.html">Jacob Burke</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 7LMFF
+[%N]	2-2:  Fly out, F8  (Flyball, 8LD, EV 85.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_25074.html">Jake Rogers</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: <b>DOUBLE</b>  (Flyball, 7D, EV 92.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_36078.html">Dasan Brown</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 89S, EV 95.0 MPH)
+[%N]	<a href="../players/player_25074.html">Jake Rogers</a> to third
+[%B]	Batting: RHB <a href="../players/player_42151.html">Jordan Sprinkle</a>
+[%N]	0-0: Foul Ball, location: 3SF
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>DOUBLE</b>  (Line Drive, 7LM, EV 111.3 MPH)
+[%N]	<b><a href="../players/player_25074.html">Jake Rogers</a> scores</b>
+[%N]	<a href="../players/player_36078.html">Dasan Brown</a> to third
+[%B]	Pitching: LHP <a href="../players/player_41362.html">Pete Hansen</a>
+[%B]	Batting: RHB <a href="../players/player_46035.html">Alsander Womack</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 23F
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 6-3 (Groundball, 6, EV 81.3 MPH)
+[%N]	<b><a href="../players/player_36078.html">Dasan Brown</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_31894.html">Jorge Mateo</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Line Drive, 8LM, EV 91.3 MPH)
+[%F]	Bottom of the 8th over - 3 runs, 4 hits, 0 errors, 1 left on base; Memphis 12 - Charlotte 4
+[%T]	Top of the 9th - Memphis Redbirds batting - Pitching for Charlotte Knights : RHP <a href="../players/player_1335.html">Andrew Wantz</a>
+[%B]	Batting: RHB <a href="../players/player_1527.html">Nicolas Torres</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 7LMF
+[%N]	1-1: <b>DOUBLE</b>  (Line Drive, 89D, EV 107.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_44562.html">Ashtin Webb</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 7LMF
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_38833.html">Ramon Mendoza</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  <b>2-RUN HOME RUN</b>  (Flyball, 7LD, EV 95.0 MPH), Distance : 341 ft
+[%B]	Batting: RHB <a href="../players/player_23400.html">Masyn Winn</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 23F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 3FF
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F8  (Flyball, 8LS, EV 79.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_42442.html">Brody Moore</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 25F
+[%N]	1-1: Foul Ball, location: 9LDF
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 34, EV 95.6 MPH)
+[%B]	Pinch Hitting: RHB <a href="../players/player_47390.html">Emaarion Boyd</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 3F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Hit by Pitch
+[%N]	<a href="../players/player_42442.html">Brody Moore</a> to second
+[%B]	Batting: LHB <a href="../players/player_821.html">Ryan Holgate</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 9th over - 2 runs, 3 hits, 0 errors, 2 left on base; Memphis 14 - Charlotte 4
+[%T]	Bottom of the 9th - Charlotte Knights batting - Pitching for Memphis Redbirds : LHP <a href="../players/player_41362.html">Pete Hansen</a>
+[%B]	Now in CF: <a href="../players/player_47390.html">Emaarion Boyd</a>
+[%B]	Batting: RHB <a href="../players/player_27910.html">Jake Marisnick</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7D, EV 108.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_45551.html">Shawn Goosenberg</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 7LMF
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: <b>DOUBLE</b>  (Line Drive, 7LS, EV 107.5 MPH)
+[%B]	Batting: SHB <a href="../players/player_28269.html">Niko Goodrum</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  <b>2-RUN HOME RUN</b>  (Flyball, 89XD, EV 102.5 MPH), Distance : 396 ft
+[%B]	Batting: RHB <a href="../players/player_45317.html">Jacob Burke</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 9LSF
+[%N]	1-2: Foul Ball, location: 5SF
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_25074.html">Jake Rogers</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>DOUBLE</b>  (Line Drive, 9LM, EV 108.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_36078.html">Dasan Brown</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: <b>SINGLE</b>  (Groundball, 6MD, EV 103.1 MPH)
+[%N]	<a href="../players/player_25074.html">Jake Rogers</a> to third
+[%B]	Batting: RHB <a href="../players/player_42151.html">Jordan Sprinkle</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 3F
+[%N]	1-2: Strikes out swinging
+[%F]	Bottom of the 9th over - 2 runs, 4 hits, 0 errors, 2 left on base; Memphis 14 - Charlotte 6

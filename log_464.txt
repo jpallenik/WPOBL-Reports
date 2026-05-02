@@ -1,0 +1,370 @@
+[%T]	Top of the 1st - Rochester Red Wings batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_42271.html">Myles Janson</a>
+[%B]	Pitching: RHP <a href="../players/player_42271.html">Myles Janson</a>
+[%B]	Batting: LHB <a href="../players/player_23792.html">Robert Hassell III</a>
+[%N]	0-0: Foul Ball, location: 2LF
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 7LSF
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 7LM, EV 103.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_22436.html">Brendan Rodgers</a>
+[%N]	0-0: Ball
+[%N]	1-0: Sac Bunt to 3S - play at first, batter OUT! 3-4
+[%N]	<a href="../players/player_23792.html">Robert Hassell III</a> to second
+[%B]	Batting: RHB <a href="../players/player_37643.html">Rainer Nunez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out looking
+[%B]	Batting: SHB <a href="../players/player_38613.html">Trey Lipscomb</a>
+[%N]	Balk!
+[%N]	<a href="../players/player_23792.html">Robert Hassell III</a> to third
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging
+[%F]	Top of the 1st over - 0 runs, 1 hit, 0 errors, 1 left on base; Rochester 0 - Lehigh Valley 0
+[%T]	Bottom of the 1st - Lehigh Valley IronPigs batting - Pitching for Rochester Red Wings : RHP <a href="../players/player_20886.html">Alec Kisena</a>
+[%B]	Pitching: RHP <a href="../players/player_20886.html">Alec Kisena</a>
+[%B]	Batting: RHB <a href="../players/player_37965.html">Johan Rojas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_18535.html">Stuart Fairchild</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging, 2-3 out at first.
+[%B]	Batting: LHB <a href="../players/player_24264.html">Jake Alu</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Line Drive, 89M, EV 93.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_39197.html">Jose Ramos</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 3DF
+[%N]	1-2: Foul Ball, location: 9LSF
+[%N]	1-2:  <b>2-RUN HOME RUN</b>  (Line Drive, 78XD, EV 105.6 MPH), Distance : 423 ft
+[%B]	Batting: RHB <a href="../players/player_23372.html">Nick Madrigal</a>
+[%N]	0-0: Foul Ball, location: 23FF
+[%N]	0-1: Foul Ball, location: 3F
+[%N]	0-2: Ground out 6-3 (Groundball, 56, EV 109.4 MPH)
+[%F]	Bottom of the 1st over - 2 runs, 2 hits, 0 errors, 0 left on base; Rochester 0 - Lehigh Valley 2
+[%T]	Top of the 2nd - Rochester Red Wings batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_42271.html">Myles Janson</a>
+[%B]	Batting: LHB <a href="../players/player_25555.html">Ryan Ward</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_37915.html">Ronaiker Palma</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ground out 6-3 (Groundball, 6, EV 84.4 MPH)
+[%B]	Batting: SHB <a href="../players/player_19526.html">Abraham Toro</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 2nd over - 0 runs, 0 hits, 0 errors, 0 left on base; Rochester 0 - Lehigh Valley 2
+[%T]	Bottom of the 2nd - Lehigh Valley IronPigs batting - Pitching for Rochester Red Wings : RHP <a href="../players/player_20886.html">Alec Kisena</a>
+[%B]	Batting: RHB <a href="../players/player_37012.html">Chas McCormick</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6MS, EV 84.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_23838.html">Justin Connell</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8RD, EV 108.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_36811.html">Blake Hunt</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: <b>SINGLE</b>  (Flyball, 8LM, EV 78.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_26844.html">Miguel Rojas</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Popup, 34D, EV 71.9 MPH)
+[%N]	<a href="../players/player_36811.html">Blake Hunt</a> to second
+[%B]	Batting: RHB <a href="../players/player_37965.html">Johan Rojas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Ball
+[%N]	3-1:  <b>3-RUN HOME RUN</b>  (Flyball, 7D, EV 98.1 MPH), Distance : 385 ft
+[%B]	Batting: RHB <a href="../players/player_18535.html">Stuart Fairchild</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out looking
+[%F]	Bottom of the 2nd over - 3 runs, 3 hits, 0 errors, 0 left on base; Rochester 0 - Lehigh Valley 5
+[%T]	Top of the 3rd - Rochester Red Wings batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_42271.html">Myles Janson</a>
+[%B]	Batting: RHB <a href="../players/player_22176.html">Alexander Canario</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 9LMF
+[%N]	2-1: Foul Ball, location: 23F
+[%N]	2-2: Foul Ball, location: 7LSF
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_30628.html">Joey Meneses</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 56, EV 89.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_23792.html">Robert Hassell III</a>
+[%N]	0-0:  Fly out, F5  (Popup, 5F, EV 71.9 MPH)
+[%F]	Top of the 3rd over - 0 runs, 0 hits, 0 errors, 0 left on base; Rochester 0 - Lehigh Valley 5
+[%T]	Bottom of the 3rd - Lehigh Valley IronPigs batting - Pitching for Rochester Red Wings : RHP <a href="../players/player_20886.html">Alec Kisena</a>
+[%B]	Batting: LHB <a href="../players/player_24264.html">Jake Alu</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 8RM, EV 96.9 MPH) - OUT at second base trying to stretch hit.
+[%B]	Batting: RHB <a href="../players/player_39197.html">Jose Ramos</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 9LMF
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2:  Fly out, F8  (Flyball, 8RD, EV 103.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_23372.html">Nick Madrigal</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ground out 5-3 (Groundball, 56S, EV 86.3 MPH)
+[%F]	Bottom of the 3rd over - 0 runs, 1 hit, 0 errors, 0 left on base; Rochester 0 - Lehigh Valley 5
+[%T]	Top of the 4th - Rochester Red Wings batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_42271.html">Myles Janson</a>
+[%B]	Batting: RHB <a href="../players/player_22436.html">Brendan Rodgers</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_37643.html">Rainer Nunez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out looking
+[%B]	Batting: SHB <a href="../players/player_38613.html">Trey Lipscomb</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F9  (Flyball, 89M, EV 95.0 MPH)
+[%F]	Top of the 4th over - 0 runs, 0 hits, 0 errors, 0 left on base; Rochester 0 - Lehigh Valley 5
+[%T]	Bottom of the 4th - Lehigh Valley IronPigs batting - Pitching for Rochester Red Wings : RHP <a href="../players/player_20886.html">Alec Kisena</a>
+[%B]	Batting: RHB <a href="../players/player_37012.html">Chas McCormick</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 3SF
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_23838.html">Justin Connell</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9LS, EV 98.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_36811.html">Blake Hunt</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 3FF
+[%N]	1-2: Strikes out looking
+[%F]	Bottom of the 4th over - 0 runs, 0 hits, 0 errors, 0 left on base; Rochester 0 - Lehigh Valley 5
+[%T]	Top of the 5th - Rochester Red Wings batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_42271.html">Myles Janson</a>
+[%B]	Batting: LHB <a href="../players/player_25555.html">Ryan Ward</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 3F
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_37915.html">Ronaiker Palma</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_19526.html">Abraham Toro</a>
+[%N]	0-0:  Fly out, F5  (Popup, 5F, EV 80.6 MPH)
+[%F]	Top of the 5th over - 0 runs, 0 hits, 0 errors, 0 left on base; Rochester 0 - Lehigh Valley 5
+[%T]	Bottom of the 5th - Lehigh Valley IronPigs batting - Pitching for Rochester Red Wings : RHP <a href="../players/player_20886.html">Alec Kisena</a>
+[%B]	Batting: RHB <a href="../players/player_26844.html">Miguel Rojas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1:  Fly out, F7  (Flyball, 78M, EV 76.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_37965.html">Johan Rojas</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6, EV 103.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_18535.html">Stuart Fairchild</a>
+[%N]	0-0: Hit by Pitch
+[%B]	Pitching: RHP <a href="../players/player_36745.html">Matt Sauer</a>
+[%B]	Batting: LHB <a href="../players/player_24264.html">Jake Alu</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: <b>SINGLE</b>  (Line Drive, 7S, EV 92.5 MPH)
+[%N]	<a href="../players/player_18535.html">Stuart Fairchild</a> to second
+[%B]	Batting: RHB <a href="../players/player_39197.html">Jose Ramos</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1:  Fly out, F4  (Popup, 34, EV 74.4 MPH)
+[%F]	Bottom of the 5th over - 0 runs, 1 hit, 0 errors, 2 left on base; Rochester 0 - Lehigh Valley 5
+[%T]	Top of the 6th - Rochester Red Wings batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_42271.html">Myles Janson</a>
+[%B]	Batting: RHB <a href="../players/player_22176.html">Alexander Canario</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 7LSF
+[%N]	0-2: Foul Ball, location: 9LDF
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_30628.html">Joey Meneses</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 6MD, EV 109.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_23792.html">Robert Hassell III</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 8RS, EV 90.0 MPH)
+[%N]	<a href="../players/player_30628.html">Joey Meneses</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw by CF made to third
+[%B]	Batting: RHB <a href="../players/player_22436.html">Brendan Rodgers</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_37643.html">Rainer Nunez</a>
+[%N]	0-0:  Fly out, F5  (Line Drive, 5, EV 70.6 MPH)
+[%F]	Top of the 6th over - 0 runs, 2 hits, 0 errors, 2 left on base; Rochester 0 - Lehigh Valley 5
+[%T]	Bottom of the 6th - Lehigh Valley IronPigs batting - Pitching for Rochester Red Wings : RHP <a href="../players/player_36745.html">Matt Sauer</a>
+[%B]	Batting: RHB <a href="../players/player_23372.html">Nick Madrigal</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 89S, EV 88.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_37012.html">Chas McCormick</a>
+[%N]	0-0: Foul Ball, location: 5FF
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Flyball, 89S, EV 88.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_23838.html">Justin Connell</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Foul Ball, location: 5SF
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_36811.html">Blake Hunt</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 23FF
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out looking
+[%F]	Bottom of the 6th over - 0 runs, 1 hit, 0 errors, 1 left on base; Rochester 0 - Lehigh Valley 5
+[%T]	Top of the 7th - Rochester Red Wings batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_42271.html">Myles Janson</a>
+[%B]	Batting: SHB <a href="../players/player_38613.html">Trey Lipscomb</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_25555.html">Ryan Ward</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  <b>SOLO HOME RUN</b>  (Flyball, 89XD, EV 102.5 MPH), Distance : 409 ft
+[%B]	Batting: RHB <a href="../players/player_37915.html">Ronaiker Palma</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 25F
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_19526.html">Abraham Toro</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LM, EV 90.0 MPH)
+[%F]	Top of the 7th over - 1 run, 1 hit, 0 errors, 0 left on base; Rochester 1 - Lehigh Valley 5
+[%T]	Bottom of the 7th - Lehigh Valley IronPigs batting - Pitching for Rochester Red Wings : RHP <a href="../players/player_36745.html">Matt Sauer</a>
+[%B]	Batting: RHB <a href="../players/player_26844.html">Miguel Rojas</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LD, EV 96.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_37965.html">Johan Rojas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>DOUBLE</b>  (Flyball, 8LD, EV 96.3 MPH)
+[%B]	Pinch Runner at 2nd <a href="../players/player_49533.html">Hao-Yu Lee</a>: 
+[%B]	Batting: RHB <a href="../players/player_18535.html">Stuart Fairchild</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_24264.html">Jake Alu</a>
+[%N]	0-0: Ball
+[%N]	Passed Ball!
+[%N]	<a href="../players/player_49533.html">Hao-Yu Lee</a> to third
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out swinging
+[%F]	Bottom of the 7th over - 0 runs, 1 hit, 0 errors, 1 left on base; Rochester 1 - Lehigh Valley 5
+[%T]	Top of the 8th - Rochester Red Wings batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_42271.html">Myles Janson</a>
+[%B]	Now in CF: <a href="../players/player_31631.html">Tony Kemp</a>
+[%B]	Batting: RHB <a href="../players/player_22176.html">Alexander Canario</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_30628.html">Joey Meneses</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 7LDF
+[%N]	1-2: Ground out 5-3 (Groundball, 56S, EV 61.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_23792.html">Robert Hassell III</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Foul Ball, location: 7LMF
+[%N]	3-2: Strikes out swinging
+[%F]	Top of the 8th over - 0 runs, 0 hits, 0 errors, 0 left on base; Rochester 1 - Lehigh Valley 5
+[%T]	Bottom of the 8th - Lehigh Valley IronPigs batting - Pitching for Rochester Red Wings : RHP <a href="../players/player_36745.html">Matt Sauer</a>
+[%B]	Batting: RHB <a href="../players/player_39197.html">Jose Ramos</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 3FF
+[%N]	1-1: Foul Ball, location: 5F
+[%N]	1-2: Foul Ball, location: 5DF
+[%N]	1-2: Foul Ball, location: 7LDF
+[%N]	1-2: Foul Ball, location: 2LF
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 56D, EV 99.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_23372.html">Nick Madrigal</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_39197.html">Jose Ramos</a> to second
+[%N]	2-0:  Fly out, F2  (Popup, 3SF, EV 78.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_37012.html">Chas McCormick</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 9LMF
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_23838.html">Justin Connell</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 7LMF
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_36811.html">Blake Hunt</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 6MS, EV 86.3 MPH) (infield hit)
+[%N]	<a href="../players/player_39197.html">Jose Ramos</a> to third
+[%N]	<a href="../players/player_37012.html">Chas McCormick</a> to second
+[%B]	Pitching: RHP <a href="../players/player_29358.html">Archie Bradley</a>
+[%B]	Batting: RHB <a href="../players/player_26844.html">Miguel Rojas</a>
+[%N]	0-0: Ball
+[%N]	Wild Pitch!
+[%N]	<b><a href="../players/player_39197.html">Jose Ramos</a> scores</b>
+[%N]	<a href="../players/player_37012.html">Chas McCormick</a> to third
+[%N]	<a href="../players/player_36811.html">Blake Hunt</a> to second
+[%N]	1-0: Foul Ball, location: 7LMF
+[%N]	1-1: Called Strike
+[%N]	1-2:  Fly out, F8  (Line Drive, 8RS, EV 103.8 MPH)
+[%F]	Bottom of the 8th over - 1 run, 2 hits, 0 errors, 2 left on base; Rochester 1 - Lehigh Valley 6
+[%T]	Top of the 9th - Rochester Red Wings batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_42271.html">Myles Janson</a>
+[%B]	Batting: RHB <a href="../players/player_22436.html">Brendan Rodgers</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_37643.html">Rainer Nunez</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6, EV 88.8 MPH)
+[%B]	Batting: SHB <a href="../players/player_38613.html">Trey Lipscomb</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ground out 5-3 (Groundball, 56, EV 85.6 MPH)
+[%F]	Top of the 9th over - 0 runs, 0 hits, 0 errors, 0 left on base; Rochester 1 - Lehigh Valley 6

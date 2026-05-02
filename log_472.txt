@@ -1,0 +1,398 @@
+[%T]	Top of the 1st - Durham Bulls batting - Pitching for Scranton WB RailRiders : RHP <a href="../players/player_1404.html">Clayton Beeter</a>
+[%B]	Pitching: RHP <a href="../players/player_1404.html">Clayton Beeter</a>
+[%B]	Batting: LHB <a href="../players/player_45631.html">Chandler Simpson</a>
+[%N]	0-0: Foul Ball, location: 7LSF
+[%N]	0-1: Ground out 4-3 (Groundball, 4, EV 86.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_48939.html">Jadher Areinamo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 3FF
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F8  (Flyball, 8RD, EV 104.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_24677.html">Bo Naylor</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 25F
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 1st over - 0 runs, 0 hits, 0 errors, 0 left on base; Durham 0 - Scranton WB 0
+[%T]	Bottom of the 1st - Scranton WB RailRiders batting - Pitching for Durham Bulls : RHP <a href="../players/player_38812.html">Eduar Segovia</a>
+[%B]	Pitching: RHP <a href="../players/player_38812.html">Eduar Segovia</a>
+[%B]	Batting: SHB <a href="../players/player_39215.html">Alexander Vargas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Ground out 6-3 (Groundball, 6, EV 96.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_40521.html">Jared Serna</a>
+[%N]	0-0: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_40628.html">Brett Barrera</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 6MD, EV 98.1 MPH)
+[%N]	<a href="../players/player_40521.html">Jared Serna</a> to second
+[%B]	Batting: LHB <a href="../players/player_23790.html">Spencer Jones</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 7LMF
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 3F
+[%N]	1-2: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_40521.html">Jared Serna</a> to third
+[%N]	<a href="../players/player_40628.html">Brett Barrera</a> to second
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_39029.html">Agustin Ramirez</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 9LDF
+[%N]	0-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_19280.html">Jeisson Rosario</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Foul Ball, location: 7LSF
+[%N]	3-2: Strikes out looking
+[%F]	Bottom of the 1st over - 0 runs, 1 hit, 0 errors, 3 left on base; Durham 0 - Scranton WB 0
+[%T]	Top of the 2nd - Durham Bulls batting - Pitching for Scranton WB RailRiders : RHP <a href="../players/player_1404.html">Clayton Beeter</a>
+[%B]	Batting: RHB <a href="../players/player_22512.html">Jonathan India</a>
+[%N]	0-0: Foul Ball, location: 5F
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 3SF
+[%N]	1-2: Foul Ball, location: 7LSFF
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 3SF
+[%N]	3-2: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_40325.html">Lizandro Rodriguez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Grounds into double play, 3-6-1 (Groundball, 3, EV 83.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_41021.html">Edwin Barragan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out looking
+[%F]	Top of the 2nd over - 0 runs, 0 hits, 0 errors, 0 left on base; Durham 0 - Scranton WB 0
+[%T]	Bottom of the 2nd - Scranton WB RailRiders batting - Pitching for Durham Bulls : RHP <a href="../players/player_38812.html">Eduar Segovia</a>
+[%B]	Batting: LHB <a href="../players/player_42759.html">Daury Arias</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F8  (Line Drive, 8LM, EV 93.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_46669.html">Beau Brewer</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 7LSF
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 3DF
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_36783.html">Luis Garcia</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Flyball, 89S, EV 85.0 MPH)
+[%B]	Batting: SHB <a href="../players/player_39215.html">Alexander Vargas</a>
+[%N]	0-0: Foul Ball, location: 5F
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 34D, EV 96.3 MPH)
+[%N]	<a href="../players/player_46669.html">Beau Brewer</a> to second
+[%B]	Batting: RHB <a href="../players/player_40521.html">Jared Serna</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 5F
+[%N]	2-2:  <b>3-RUN HOME RUN</b>  (Flyball, 78XD, EV 98.8 MPH), Distance : 390 ft
+[%B]	Batting: RHB <a href="../players/player_40628.html">Brett Barrera</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out swinging
+[%F]	Bottom of the 2nd over - 3 runs, 2 hits, 0 errors, 0 left on base; Durham 0 - Scranton WB 3
+[%T]	Top of the 3rd - Durham Bulls batting - Pitching for Scranton WB RailRiders : RHP <a href="../players/player_1404.html">Clayton Beeter</a>
+[%B]	Batting: RHB <a href="../players/player_41037.html">Arison Jimenez</a>
+[%N]	0-0: Foul Ball, location: 23F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_38953.html">Shane Sasaki</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 5F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 9LDF
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_47672.html">Carson Williams</a>
+[%N]	0-0:  Fly out, F4  (Popup, 34S, EV 73.1 MPH)
+[%F]	Top of the 3rd over - 0 runs, 0 hits, 0 errors, 0 left on base; Durham 0 - Scranton WB 3
+[%T]	Bottom of the 3rd - Scranton WB RailRiders batting - Pitching for Durham Bulls : RHP <a href="../players/player_38812.html">Eduar Segovia</a>
+[%B]	Batting: LHB <a href="../players/player_23790.html">Spencer Jones</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2:  <b>SOLO HOME RUN</b>  (Flyball, 9LD, EV 96.3 MPH), Distance : 338 ft
+[%B]	Batting: RHB <a href="../players/player_39029.html">Agustin Ramirez</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Line Drive, 9, EV 94.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_19280.html">Jeisson Rosario</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 25F
+[%N]	1-1: Ground out 4-3 (Groundball, 4, EV 91.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_42759.html">Daury Arias</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F8  (Flyball, 8LD, EV 106.9 MPH)
+[%F]	Bottom of the 3rd over - 1 run, 1 hit, 0 errors, 0 left on base; Durham 0 - Scranton WB 4
+[%T]	Top of the 4th - Durham Bulls batting - Pitching for Scranton WB RailRiders : RHP <a href="../players/player_1404.html">Clayton Beeter</a>
+[%B]	Batting: LHB <a href="../players/player_45631.html">Chandler Simpson</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 89S, EV 110.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_48939.html">Jadher Areinamo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	<a href="../players/player_45631.html">Chandler Simpson</a> steals 2nd base
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Ground out 5-3 (Groundball, 5L, EV 78.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_24677.html">Bo Naylor</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 23F
+[%N]	1-2: Foul Ball, location: 7LSF
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_22512.html">Jonathan India</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 9LMF
+[%N]	1-2: Foul Ball, location: 3F
+[%N]	1-2: Foul Ball, location: 23F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 5FF
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_40325.html">Lizandro Rodriguez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Called Strike
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_45631.html">Chandler Simpson</a> to third
+[%N]	<a href="../players/player_22512.html">Jonathan India</a> to second
+[%B]	Batting: RHB <a href="../players/player_41021.html">Edwin Barragan</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 89M, EV 89.4 MPH)
+[%F]	Top of the 4th over - 0 runs, 1 hit, 0 errors, 3 left on base; Durham 0 - Scranton WB 4
+[%T]	Bottom of the 4th - Scranton WB RailRiders batting - Pitching for Durham Bulls : RHP <a href="../players/player_38812.html">Eduar Segovia</a>
+[%B]	Batting: RHB <a href="../players/player_46669.html">Beau Brewer</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 56, EV 84.4 MPH)
+[%B]	Batting: SHB <a href="../players/player_36783.html">Luis Garcia</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F3  (Popup, 3SF, EV 72.5 MPH)
+[%B]	Batting: SHB <a href="../players/player_39215.html">Alexander Vargas</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out looking
+[%F]	Bottom of the 4th over - 0 runs, 0 hits, 0 errors, 0 left on base; Durham 0 - Scranton WB 4
+[%T]	Top of the 5th - Durham Bulls batting - Pitching for Scranton WB RailRiders : RHP <a href="../players/player_1404.html">Clayton Beeter</a>
+[%B]	Batting: RHB <a href="../players/player_41037.html">Arison Jimenez</a>
+[%N]	0-0: Foul Ball, location: 3SF
+[%N]	0-1: Foul Ball, location: 9LMF
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_38953.html">Shane Sasaki</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 6D, EV 95.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_47672.html">Carson Williams</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_38953.html">Shane Sasaki</a> steals 2nd base
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 5DF
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_45631.html">Chandler Simpson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 25F
+[%N]	1-2: Reached on error, E6 (Groundball, 6, EV 80.0 MPH)
+[%N]	<a href="../players/player_38953.html">Shane Sasaki</a> to third
+[%B]	Pitching: RHP <a href="../players/player_41873.html">Ruben Castillo</a>
+[%B]	Batting: RHB <a href="../players/player_48939.html">Jadher Areinamo</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 78S, EV 90.6 MPH)
+[%N]	<b><a href="../players/player_38953.html">Shane Sasaki</a> scores</b>
+[%N]	<a href="../players/player_45631.html">Chandler Simpson</a> to second
+[%B]	Batting: LHB <a href="../players/player_24677.html">Bo Naylor</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ground out U3 (Groundball, 3L, EV 93.1 MPH)
+[%F]	Top of the 5th over - 1 run, 2 hits, 1 error, 2 left on base; Durham 1 - Scranton WB 4
+[%T]	Bottom of the 5th - Scranton WB RailRiders batting - Pitching for Durham Bulls : RHP <a href="../players/player_38812.html">Eduar Segovia</a>
+[%B]	Batting: RHB <a href="../players/player_40521.html">Jared Serna</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 5-3 (Groundball, 56, EV 100.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_40628.html">Brett Barrera</a>
+[%N]	0-0:  Fly out, F3  (Popup, 3SF, EV 80.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_23790.html">Spencer Jones</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 5F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Flyball, 78M, EV 91.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_39029.html">Agustin Ramirez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 5th over - 0 runs, 1 hit, 0 errors, 1 left on base; Durham 1 - Scranton WB 4
+[%T]	Top of the 6th - Durham Bulls batting - Pitching for Scranton WB RailRiders : RHP <a href="../players/player_41873.html">Ruben Castillo</a>
+[%B]	Batting: RHB <a href="../players/player_22512.html">Jonathan India</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_40325.html">Lizandro Rodriguez</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Flyball, 78S, EV 93.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_41021.html">Edwin Barragan</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 9LSF
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 89M, EV 111.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_41037.html">Arison Jimenez</a>
+[%N]	0-0: <b>DOUBLE</b>  (Flyball, 78D, EV 91.9 MPH)
+[%N]	<a href="../players/player_41021.html">Edwin Barragan</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw by CF</b>
+[%B]	Pinch Runner at 2nd <a href="../players/player_36784.html">Antonio Cabello</a>: 
+[%B]	Batting: RHB <a href="../players/player_38953.html">Shane Sasaki</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9, EV 91.9 MPH)
+[%F]	Top of the 6th over - 1 run, 2 hits, 0 errors, 1 left on base; Durham 2 - Scranton WB 4
+[%T]	Bottom of the 6th - Scranton WB RailRiders batting - Pitching for Durham Bulls : RHP <a href="../players/player_38812.html">Eduar Segovia</a>
+[%B]	Now in RF: <a href="../players/player_36784.html">Antonio Cabello</a>
+[%B]	Batting: LHB <a href="../players/player_19280.html">Jeisson Rosario</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_42759.html">Daury Arias</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F8  (Flyball, 8RS, EV 96.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_46669.html">Beau Brewer</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F7  (Line Drive, 78M, EV 90.0 MPH)
+[%F]	Bottom of the 6th over - 0 runs, 0 hits, 0 errors, 0 left on base; Durham 2 - Scranton WB 4
+[%T]	Top of the 7th - Durham Bulls batting - Pitching for Scranton WB RailRiders : RHP <a href="../players/player_41873.html">Ruben Castillo</a>
+[%B]	Batting: RHB <a href="../players/player_47672.html">Carson Williams</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 5F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_45631.html">Chandler Simpson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F3  (Popup, 34, EV 58.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_48939.html">Jadher Areinamo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 25F
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 78S, EV 93.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_24677.html">Bo Naylor</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 7LDF
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 7th over - 0 runs, 1 hit, 0 errors, 1 left on base; Durham 2 - Scranton WB 4
+[%T]	Bottom of the 7th - Scranton WB RailRiders batting - Pitching for Durham Bulls : RHP <a href="../players/player_38812.html">Eduar Segovia</a>
+[%B]	Pitching: RHP <a href="../players/player_25109.html">JJ Goss</a>
+[%B]	Batting: SHB <a href="../players/player_36783.html">Luis Garcia</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out U3 (Groundball, 3L, EV 102.5 MPH)
+[%B]	Batting: SHB <a href="../players/player_39215.html">Alexander Vargas</a>
+[%N]	0-0: Foul Ball, location: 5F
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_40521.html">Jared Serna</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 6D, EV 107.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_40628.html">Brett Barrera</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1:  <b>2-RUN HOME RUN</b>  (Line Drive, 78XD, EV 102.5 MPH), Distance : 393 ft
+[%B]	Batting: LHB <a href="../players/player_23790.html">Spencer Jones</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 7LMF
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Foul Ball, location: 7LSF
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 7th over - 2 runs, 2 hits, 0 errors, 0 left on base; Durham 2 - Scranton WB 6
+[%T]	Top of the 8th - Durham Bulls batting - Pitching for Scranton WB RailRiders : RHP <a href="../players/player_41873.html">Ruben Castillo</a>
+[%B]	Batting: RHB <a href="../players/player_22512.html">Jonathan India</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_40325.html">Lizandro Rodriguez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_41021.html">Edwin Barragan</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F4  (Line Drive, 4D, EV 65.6 MPH)
+[%F]	Top of the 8th over - 0 runs, 0 hits, 0 errors, 0 left on base; Durham 2 - Scranton WB 6
+[%T]	Bottom of the 8th - Scranton WB RailRiders batting - Pitching for Durham Bulls : RHP <a href="../players/player_25109.html">JJ Goss</a>
+[%B]	Batting: RHB <a href="../players/player_39029.html">Agustin Ramirez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ground out 5-3 (Groundball, 5S, EV 86.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_19280.html">Jeisson Rosario</a>
+[%N]	0-0: Foul Ball, location: 7LMF
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_42759.html">Daury Arias</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out looking
+[%F]	Bottom of the 8th over - 0 runs, 0 hits, 0 errors, 0 left on base; Durham 2 - Scranton WB 6
+[%T]	Top of the 9th - Durham Bulls batting - Pitching for Scranton WB RailRiders : RHP <a href="../players/player_41873.html">Ruben Castillo</a>
+[%B]	Batting: RHB <a href="../players/player_36784.html">Antonio Cabello</a>
+[%N]	0-0: Foul Ball, location: 7LDF
+[%N]	0-1: Ground out 5-3 (Groundball, 5, EV 93.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_38953.html">Shane Sasaki</a>
+[%N]	0-0: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_47672.html">Carson Williams</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Grounds into double play, 6-4-3 (Groundball, 6, EV 103.1 MPH)
+[%F]	Top of the 9th over - 0 runs, 0 hits, 0 errors, 0 left on base; Durham 2 - Scranton WB 6
