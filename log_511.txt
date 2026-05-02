@@ -1,0 +1,341 @@
+[%T]	Top of the 1st - Indianapolis Indians batting - Pitching for Omaha Storm Chasers : RHP <a href="../players/player_23420.html">Mick Abel</a>
+[%B]	Pitching: RHP <a href="../players/player_23420.html">Mick Abel</a>
+[%B]	Batting: LHB <a href="../players/player_40636.html">Tsung-Che Cheng</a>
+[%N]	0-0:  Fly out, F6  (Popup, 6, EV 59.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_24030.html">Dylan Crews</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ground out 5-3 (Groundball, 5, EV 80.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_39004.html">Eduardo Garcia</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 4MD, EV 99.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_38835.html">Malcom Nuñez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ground out 1-3 (Groundball, 15S, EV 70.6 MPH)
+[%F]	Top of the 1st over - 0 runs, 1 hit, 0 errors, 1 left on base; Indianapolis 0 - Omaha 0
+[%T]	Bottom of the 1st - Omaha Storm Chasers batting - Pitching for Indianapolis Indians : LHP <a href="../players/player_50651.html">Inmer Lobo</a>
+[%B]	Pitching: LHP <a href="../players/player_50651.html">Inmer Lobo</a>
+[%B]	Batting: RHB <a href="../players/player_36252.html">Nate Eaton</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 7LSF
+[%N]	1-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_46411.html">Javier Vaz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 5SF
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 6MD, EV 100.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_36868.html">Osleivis Basabe</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F8  (Flyball, 8RD, EV 105.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_22509.html">Nathan Martorella</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out swinging
+[%F]	Bottom of the 1st over - 0 runs, 1 hit, 0 errors, 1 left on base; Indianapolis 0 - Omaha 0
+[%T]	Top of the 2nd - Indianapolis Indians batting - Pitching for Omaha Storm Chasers : RHP <a href="../players/player_23420.html">Mick Abel</a>
+[%B]	Batting: RHB <a href="../players/player_38671.html">Jared Triolo</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 5F
+[%N]	0-2: Foul Ball, location: 9LDF
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_41388.html">Aaron Zavala</a>
+[%N]	0-0: Foul Ball, location: 9LMF
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F9  (Flyball, 9, EV 88.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_40245.html">Yerlin Confidan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Foul Ball, location: 5DF
+[%N]	3-2: Strikes out looking
+[%F]	Top of the 2nd over - 0 runs, 0 hits, 0 errors, 0 left on base; Indianapolis 0 - Omaha 0
+[%T]	Bottom of the 2nd - Omaha Storm Chasers batting - Pitching for Indianapolis Indians : LHP <a href="../players/player_50651.html">Inmer Lobo</a>
+[%B]	Batting: RHB <a href="../players/player_44462.html">Vance Honeycutt</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6, EV 87.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_38772.html">Jean Ramirez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_45323.html">Sammy Sass</a>
+[%N]	0-0:  <b>SOLO HOME RUN</b>  (Flyball, 78XD, EV 101.9 MPH), Distance : 411 ft
+[%B]	Batting: LHB <a href="../players/player_22117.html">Enrique Valdez</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 78M, EV 84.4 MPH)
+[%F]	Bottom of the 2nd over - 1 run, 1 hit, 0 errors, 0 left on base; Indianapolis 0 - Omaha 1
+[%T]	Top of the 3rd - Indianapolis Indians batting - Pitching for Omaha Storm Chasers : RHP <a href="../players/player_23420.html">Mick Abel</a>
+[%B]	Batting: LHB <a href="../players/player_25122.html">Matt Fraizer</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 7S, EV 99.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_38361.html">Vinny Capra</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	<a href="../players/player_25122.html">Matt Fraizer</a> is caught stealing 2nd base 2-4
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F9  (Flyball, 89S, EV 86.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_40636.html">Tsung-Che Cheng</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 9LDF
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 4MD, EV 101.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_24030.html">Dylan Crews</a>
+[%N]	Pickoff Throw to First - Out! 1-3
+[%F]	Top of the 3rd over - 0 runs, 2 hits, 0 errors, 0 left on base; Indianapolis 0 - Omaha 1
+[%T]	Bottom of the 3rd - Omaha Storm Chasers batting - Pitching for Indianapolis Indians : LHP <a href="../players/player_50651.html">Inmer Lobo</a>
+[%B]	Batting: LHB <a href="../players/player_40332.html">Erick Peña</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_36252.html">Nate Eaton</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Flyball, 7LS, EV 87.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_46411.html">Javier Vaz</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2RF
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 5SF
+[%N]	2-2: <b>DOUBLE</b>  (Line Drive, 78M, EV 98.8 MPH)
+[%N]	<a href="../players/player_36252.html">Nate Eaton</a> to third
+[%B]	Batting: RHB <a href="../players/player_36868.html">Osleivis Basabe</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2:  Fly out, F3  (Line Drive, 3, EV 71.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_22509.html">Nathan Martorella</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 23F
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 7S, EV 96.3 MPH)
+[%N]	<b><a href="../players/player_36252.html">Nate Eaton</a> scores</b>
+[%N]	<a href="../players/player_46411.html">Javier Vaz</a> to third
+[%B]	Batting: RHB <a href="../players/player_44462.html">Vance Honeycutt</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 23FF
+[%N]	2-2:  <b>3-RUN HOME RUN</b>  (Flyball, 78XD, EV 98.8 MPH), Distance : 394 ft
+[%B]	Batting: LHB <a href="../players/player_38772.html">Jean Ramirez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 5-3 (Groundball, 56S, EV 71.9 MPH)
+[%F]	Bottom of the 3rd over - 4 runs, 4 hits, 0 errors, 0 left on base; Indianapolis 0 - Omaha 5
+[%T]	Top of the 4th - Indianapolis Indians batting - Pitching for Omaha Storm Chasers : RHP <a href="../players/player_23420.html">Mick Abel</a>
+[%B]	Batting: RHB <a href="../players/player_24030.html">Dylan Crews</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ground out 6-3 (Groundball, 6, EV 84.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_39004.html">Eduardo Garcia</a>
+[%N]	0-0: Foul Ball, location: 3F
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F8  (Flyball, 8LM, EV 90.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_38835.html">Malcom Nuñez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 9LDF
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 4th over - 0 runs, 0 hits, 0 errors, 0 left on base; Indianapolis 0 - Omaha 5
+[%T]	Bottom of the 4th - Omaha Storm Chasers batting - Pitching for Indianapolis Indians : LHP <a href="../players/player_50651.html">Inmer Lobo</a>
+[%B]	Batting: RHB <a href="../players/player_45323.html">Sammy Sass</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 6-3 (Groundball, 6, EV 83.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_22117.html">Enrique Valdez</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out looking and he ARGUES THE CALL AND IS TOSSED!
+[%B]	Batting: LHB <a href="../players/player_40332.html">Erick Peña</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F6  (Line Drive, 6, EV 66.9 MPH)
+[%F]	Bottom of the 4th over - 0 runs, 0 hits, 0 errors, 0 left on base; Indianapolis 0 - Omaha 5
+[%T]	Top of the 5th - Indianapolis Indians batting - Pitching for Omaha Storm Chasers : RHP <a href="../players/player_23420.html">Mick Abel</a>
+[%B]	Now at 3B: <a href="../players/player_37668.html">Herard Gonzalez</a>
+[%B]	Batting: RHB <a href="../players/player_38671.html">Jared Triolo</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 5FF
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 9LDF
+[%N]	1-2: Ground out 4-3 (Groundball, 4, EV 97.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_41388.html">Aaron Zavala</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Flyball, 56D, EV 91.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_40245.html">Yerlin Confidan</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F9  (Flyball, 9S, EV 93.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_25122.html">Matt Fraizer</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1:  <b>2-RUN HOME RUN</b>  (Flyball, 9LD, EV 91.9 MPH), Distance : 328 ft
+[%B]	Batting: RHB <a href="../players/player_38361.html">Vinny Capra</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out looking
+[%F]	Top of the 5th over - 2 runs, 2 hits, 0 errors, 0 left on base; Indianapolis 2 - Omaha 5
+[%T]	Bottom of the 5th - Omaha Storm Chasers batting - Pitching for Indianapolis Indians : LHP <a href="../players/player_50651.html">Inmer Lobo</a>
+[%B]	Batting: RHB <a href="../players/player_36252.html">Nate Eaton</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%B]	Pitching: RHP <a href="../players/player_44823.html">Eduardo Zapata</a>
+[%B]	Batting: LHB <a href="../players/player_46411.html">Javier Vaz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1:  <b>2-RUN HOME RUN</b>  (Line Drive, 9LD, EV 96.3 MPH), Distance : 346 ft
+[%B]	Batting: RHB <a href="../players/player_36868.html">Osleivis Basabe</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 3DF
+[%N]	2-1: Ball
+[%N]	3-1: <b>SINGLE</b>  (Line Drive, 8LS, EV 86.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_22509.html">Nathan Martorella</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_44462.html">Vance Honeycutt</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_38772.html">Jean Ramirez</a>
+[%N]	0-0: Fielders Choice at 2nd, 5-4 (Groundball, 56, EV 106.3 MPH)
+[%F]	Bottom of the 5th over - 2 runs, 2 hits, 0 errors, 1 left on base; Indianapolis 2 - Omaha 7
+[%T]	Top of the 6th - Indianapolis Indians batting - Pitching for Omaha Storm Chasers : RHP <a href="../players/player_23420.html">Mick Abel</a>
+[%B]	Batting: LHB <a href="../players/player_40636.html">Tsung-Che Cheng</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F6  (Popup, 6, EV 81.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_24030.html">Dylan Crews</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LD, EV 98.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_39004.html">Eduardo Garcia</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Flyball, 7LS, EV 86.3 MPH)
+[%F]	Top of the 6th over - 0 runs, 0 hits, 0 errors, 0 left on base; Indianapolis 2 - Omaha 7
+[%T]	Bottom of the 6th - Omaha Storm Chasers batting - Pitching for Indianapolis Indians : RHP <a href="../players/player_44823.html">Eduardo Zapata</a>
+[%B]	Batting: RHB <a href="../players/player_45323.html">Sammy Sass</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1:  Fly out, F7  (Flyball, 7S, EV 84.4 MPH)
+[%B]	Batting: SHB <a href="../players/player_37668.html">Herard Gonzalez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_40332.html">Erick Peña</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 7LDF
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 8RS, EV 95.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_36252.html">Nate Eaton</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 7LDF
+[%N]	1-1: Fielders Choice at 2nd, 5-4 (Groundball, 5, EV 103.8 MPH)
+[%F]	Bottom of the 6th over - 0 runs, 1 hit, 0 errors, 1 left on base; Indianapolis 2 - Omaha 7
+[%T]	Top of the 7th - Indianapolis Indians batting - Pitching for Omaha Storm Chasers : RHP <a href="../players/player_23420.html">Mick Abel</a>
+[%B]	Batting: RHB <a href="../players/player_38835.html">Malcom Nuñez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 9LSF
+[%N]	1-1: Foul Ball, location: 7LDF
+[%N]	1-2:  Fly out, F8  (Flyball, 78M, EV 76.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_38671.html">Jared Triolo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 8RXD, EV 94.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_41388.html">Aaron Zavala</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ground out U3 (Groundball, 3, EV 101.9 MPH)
+[%F]	Top of the 7th over - 0 runs, 0 hits, 0 errors, 0 left on base; Indianapolis 2 - Omaha 7
+[%T]	Bottom of the 7th - Omaha Storm Chasers batting - Pitching for Indianapolis Indians : RHP <a href="../players/player_44823.html">Eduardo Zapata</a>
+[%B]	Batting: LHB <a href="../players/player_46411.html">Javier Vaz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 3F
+[%N]	1-1: Foul Ball, location: 2RF
+[%N]	1-2: Reached on error, E5 (Groundball, 5S, EV 69.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_36868.html">Osleivis Basabe</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ground out 6-3 (Groundball, 6, EV 98.1 MPH)
+[%N]	<a href="../players/player_46411.html">Javier Vaz</a> to third
+[%B]	Batting: LHB <a href="../players/player_22509.html">Nathan Martorella</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F3  (Line Drive, 3L, EV 73.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_44462.html">Vance Honeycutt</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 9LDF
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 7th over - 0 runs, 0 hits, 1 error, 1 left on base; Indianapolis 2 - Omaha 7
+[%T]	Top of the 8th - Indianapolis Indians batting - Pitching for Omaha Storm Chasers : RHP <a href="../players/player_23420.html">Mick Abel</a>
+[%B]	Batting: LHB <a href="../players/player_40245.html">Yerlin Confidan</a>
+[%N]	0-0: Ground out U3 (Groundball, 34, EV 83.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_25122.html">Matt Fraizer</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Flyball, 89M, EV 88.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_38361.html">Vinny Capra</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>DOUBLE</b>  (Groundball, 3L, EV 107.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_40636.html">Tsung-Che Cheng</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 7LMF
+[%N]	1-2: Foul Ball, location: 3F
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 8th over - 0 runs, 1 hit, 0 errors, 1 left on base; Indianapolis 2 - Omaha 7
+[%T]	Bottom of the 8th - Omaha Storm Chasers batting - Pitching for Indianapolis Indians : RHP <a href="../players/player_44823.html">Eduardo Zapata</a>
+[%B]	Batting: LHB <a href="../players/player_38772.html">Jean Ramirez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 4-3 (Groundball, 4M, EV 96.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_45323.html">Sammy Sass</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F7  (Flyball, 7D, EV 82.5 MPH)
+[%B]	Batting: SHB <a href="../players/player_37668.html">Herard Gonzalez</a>
+[%N]	0-0: Ground out 6-3 (Groundball, P, EV 76.9 MPH)
+[%F]	Bottom of the 8th over - 0 runs, 0 hits, 0 errors, 0 left on base; Indianapolis 2 - Omaha 7
+[%T]	Top of the 9th - Indianapolis Indians batting - Pitching for Omaha Storm Chasers : RHP <a href="../players/player_23420.html">Mick Abel</a>
+[%B]	Batting: RHB <a href="../players/player_24030.html">Dylan Crews</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Pitching: RHP <a href="../players/player_23921.html">Victor Vodnik</a>
+[%B]	Batting: RHB <a href="../players/player_39004.html">Eduardo Garcia</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1:  Fly out, F3  (Line Drive, 34D, EV 74.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_38835.html">Malcom Nuñez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 23F
+[%N]	0-2: Strikes out swinging
+[%F]	Top of the 9th over - 0 runs, 0 hits, 0 errors, 0 left on base; Indianapolis 2 - Omaha 7

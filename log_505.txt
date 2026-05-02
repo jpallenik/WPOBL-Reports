@@ -1,0 +1,445 @@
+[%T]	Top of the 1st - Buffalo Bisons batting - Pitching for Rochester Red Wings : RHP <a href="../players/player_20886.html">Alec Kisena</a>
+[%B]	Pitching: RHP <a href="../players/player_20886.html">Alec Kisena</a>
+[%B]	Batting: LHB <a href="../players/player_48328.html">J.J. Wetherholt</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F6  (Popup, 6, EV 78.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_24221.html">Justyn-Henry Malloy</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6, EV 106.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_41146.html">Robert Robertis</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Ground out 6-3 (Groundball, 6, EV 80.6 MPH)
+[%F]	Top of the 1st over - 0 runs, 0 hits, 0 errors, 0 left on base; Buffalo 0 - Rochester 0
+[%T]	Bottom of the 1st - Rochester Red Wings batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_36930.html">Alejandro Melean</a>
+[%B]	Pitching: RHP <a href="../players/player_36930.html">Alejandro Melean</a>
+[%B]	Batting: LHB <a href="../players/player_23792.html">Robert Hassell III</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_22436.html">Brendan Rodgers</a>
+[%N]	0-0: Foul Ball, location: 25F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F7  (Flyball, 7LM, EV 80.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_39065.html">Jeremy De La Rosa</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 3-1 (Groundball, 34S, EV 85.6 MPH)
+[%F]	Bottom of the 1st over - 0 runs, 0 hits, 0 errors, 0 left on base; Buffalo 0 - Rochester 0
+[%T]	Top of the 2nd - Buffalo Bisons batting - Pitching for Rochester Red Wings : RHP <a href="../players/player_20886.html">Alec Kisena</a>
+[%B]	Batting: LHB <a href="../players/player_1033.html">Alex Verdugo</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 6MD, EV 96.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_47832.html">Jaden Rudd</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_21777.html">Francisco Acuña</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_1033.html">Alex Verdugo</a> steals 2nd base
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Swinging Strike
+[%N]	3-2:  Fly out, F7  (Flyball, 7D, EV 83.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_39072.html">Yoander Rivero</a>
+[%N]	0-0: Foul Ball, location: 2RF
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 5F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 5-3 (Groundball, 56, EV 84.4 MPH)
+[%F]	Top of the 2nd over - 0 runs, 1 hit, 0 errors, 1 left on base; Buffalo 0 - Rochester 0
+[%T]	Bottom of the 2nd - Rochester Red Wings batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_36930.html">Alejandro Melean</a>
+[%B]	Batting: RHB <a href="../players/player_38613.html">Trey Lipscomb</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 6-3 (Groundball, 6, EV 84.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_25555.html">Ryan Ward</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 25FF
+[%N]	1-2: Foul Ball, location: 7LSF
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_37915.html">Ronaiker Palma</a>
+[%N]	0-0:  <b>SOLO HOME RUN</b>  (Line Drive, 9LD, EV 97.5 MPH), Distance : 340 ft
+[%B]	Batting: SHB <a href="../players/player_19526.html">Abraham Toro</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F8  (Flyball, 8RD, EV 107.5 MPH)
+[%F]	Bottom of the 2nd over - 1 run, 1 hit, 0 errors, 0 left on base; Buffalo 0 - Rochester 1
+[%T]	Top of the 3rd - Buffalo Bisons batting - Pitching for Rochester Red Wings : RHP <a href="../players/player_20886.html">Alec Kisena</a>
+[%B]	Batting: RHB <a href="../players/player_36429.html">Will Banfield</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_25369.html">Stephen Alemais</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9, EV 89.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_48328.html">J.J. Wetherholt</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: <b>SINGLE</b>  (Line Drive, 8RS, EV 103.1 MPH)
+[%N]	<a href="../players/player_36429.html">Will Banfield</a> to second
+[%B]	Batting: RHB <a href="../players/player_24221.html">Justyn-Henry Malloy</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_41146.html">Robert Robertis</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ground out 1-3 (Groundball, 15S, EV 63.1 MPH)
+[%F]	Top of the 3rd over - 0 runs, 1 hit, 0 errors, 2 left on base; Buffalo 0 - Rochester 1
+[%T]	Bottom of the 3rd - Rochester Red Wings batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_36930.html">Alejandro Melean</a>
+[%B]	Batting: LHB <a href="../players/player_31794.html">Matt Thaiss</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Flyball, 8RS, EV 98.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_37643.html">Rainer Nunez</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_31794.html">Matt Thaiss</a> steals 2nd base
+[%N]	1-0: Foul Ball, location: 25F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 5SF
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_23792.html">Robert Hassell III</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 34, EV 88.8 MPH)
+[%N]	<a href="../players/player_31794.html">Matt Thaiss</a> to third
+[%B]	Batting: RHB <a href="../players/player_22436.html">Brendan Rodgers</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Flyball, 8LD, EV 90.6 MPH)
+[%F]	Bottom of the 3rd over - 0 runs, 1 hit, 0 errors, 1 left on base; Buffalo 0 - Rochester 1
+[%T]	Top of the 4th - Buffalo Bisons batting - Pitching for Rochester Red Wings : RHP <a href="../players/player_20886.html">Alec Kisena</a>
+[%B]	Batting: LHB <a href="../players/player_1033.html">Alex Verdugo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 23FF
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 4MD, EV 110.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_47832.html">Jaden Rudd</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_1033.html">Alex Verdugo</a> to second
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: <b>TRIPLE</b>  (Line Drive, 78XD, EV 103.8 MPH)
+[%N]	<b><a href="../players/player_1033.html">Alex Verdugo</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_21777.html">Francisco Acuña</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4, EV 98.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_39072.html">Yoander Rivero</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: <b>SINGLE</b>  (Groundball, 6MD, EV 106.3 MPH)
+[%N]	<b><a href="../players/player_47832.html">Jaden Rudd</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_36429.html">Will Banfield</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F4  (Line Drive, 34D, EV 69.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_25369.html">Stephen Alemais</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Flyball, 9, EV 90.0 MPH)
+[%F]	Top of the 4th over - 2 runs, 3 hits, 0 errors, 1 left on base; Buffalo 2 - Rochester 1
+[%T]	Bottom of the 4th - Rochester Red Wings batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_36930.html">Alejandro Melean</a>
+[%B]	Batting: LHB <a href="../players/player_39065.html">Jeremy De La Rosa</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 6-3 (Groundball, 6, EV 85.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_38613.html">Trey Lipscomb</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 9LMF
+[%N]	1-1:  Fly out, F8  (Line Drive, 8LD, EV 98.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_25555.html">Ryan Ward</a>
+[%N]	0-0:  <b>SOLO HOME RUN</b>  (Flyball, 89XD, EV 98.1 MPH), Distance : 398 ft
+[%B]	Batting: RHB <a href="../players/player_37915.html">Ronaiker Palma</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 9LMF
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 6MD, EV 96.3 MPH)
+[%B]	Batting: SHB <a href="../players/player_19526.html">Abraham Toro</a>
+[%N]	0-0:  Fly out, F3  (Popup, 34S, EV 78.8 MPH)
+[%F]	Bottom of the 4th over - 1 run, 2 hits, 0 errors, 1 left on base; Buffalo 2 - Rochester 2
+[%T]	Top of the 5th - Buffalo Bisons batting - Pitching for Rochester Red Wings : RHP <a href="../players/player_20886.html">Alec Kisena</a>
+[%B]	Batting: LHB <a href="../players/player_48328.html">J.J. Wetherholt</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 5F
+[%N]	2-1: Ball
+[%N]	3-1: Ground out 1-3 (Groundball, P, EV 71.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_24221.html">Justyn-Henry Malloy</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 5-3 (Groundball, 56S, EV 80.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_41146.html">Robert Robertis</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 7LMF
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 4MD, EV 105.0 MPH) (infield hit)
+[%B]	Batting: LHB <a href="../players/player_1033.html">Alex Verdugo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_41146.html">Robert Robertis</a> to second
+[%B]	Batting: LHB <a href="../players/player_47832.html">Jaden Rudd</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 5th over - 0 runs, 1 hit, 0 errors, 2 left on base; Buffalo 2 - Rochester 2
+[%T]	Bottom of the 5th - Rochester Red Wings batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_36930.html">Alejandro Melean</a>
+[%B]	Batting: LHB <a href="../players/player_31794.html">Matt Thaiss</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Called Strike
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 4MD, EV 97.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_37643.html">Rainer Nunez</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Flyball, 7D, EV 107.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_23792.html">Robert Hassell III</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F6  (Line Drive, 6D, EV 65.0 MPH)
+[%N]	Lined into DP, 6-3 (Line Drive, 6D, EV 65.0 MPH)
+[%F]	Bottom of the 5th over - 0 runs, 1 hit, 0 errors, 0 left on base; Buffalo 2 - Rochester 2
+[%T]	Top of the 6th - Buffalo Bisons batting - Pitching for Rochester Red Wings : RHP <a href="../players/player_20886.html">Alec Kisena</a>
+[%B]	Batting: RHB <a href="../players/player_21777.html">Francisco Acuña</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 5FF
+[%N]	1-2:  Fly out, F8  (Line Drive, 8RD, EV 86.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_39072.html">Yoander Rivero</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F6  (Line Drive, 6, EV 66.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_36429.html">Will Banfield</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Groundball, 6D, EV 96.9 MPH)
+[%B]	Pitching: RHP <a href="../players/player_36745.html">Matt Sauer</a>
+[%B]	Batting: RHB <a href="../players/player_25369.html">Stephen Alemais</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 9LDF
+[%N]	0-2: <b>SINGLE</b>  (Line Drive, 9LS, EV 106.9 MPH)
+[%N]	<a href="../players/player_36429.html">Will Banfield</a> to second
+[%B]	Batting: LHB <a href="../players/player_48328.html">J.J. Wetherholt</a>
+[%N]	0-0: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_36429.html">Will Banfield</a> to third
+[%N]	<a href="../players/player_25369.html">Stephen Alemais</a> to second
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 8LS, EV 110.6 MPH)
+[%N]	<b><a href="../players/player_36429.html">Will Banfield</a> scores</b>
+[%N]	<a href="../players/player_25369.html">Stephen Alemais</a> to third
+[%B]	Batting: RHB <a href="../players/player_24221.html">Justyn-Henry Malloy</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 56D, EV 94.4 MPH)
+[%N]	<b><a href="../players/player_25369.html">Stephen Alemais</a> scores</b>
+[%N]	<a href="../players/player_48328.html">J.J. Wetherholt</a> to second
+[%B]	Batting: LHB <a href="../players/player_41146.html">Robert Robertis</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 56, EV 93.8 MPH)
+[%N]	<a href="../players/player_48328.html">J.J. Wetherholt</a> to third
+[%N]	<a href="../players/player_24221.html">Justyn-Henry Malloy</a> to second
+[%B]	Batting: LHB <a href="../players/player_1033.html">Alex Verdugo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Called Strike
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 9LM, EV 95.0 MPH)
+[%N]	<b><a href="../players/player_48328.html">J.J. Wetherholt</a> scores</b>
+[%N]	<a href="../players/player_24221.html">Justyn-Henry Malloy</a> to third
+[%N]	<a href="../players/player_41146.html">Robert Robertis</a> to second
+[%N]	<b><a href="../players/player_24221.html">Justyn-Henry Malloy</a> scores</b>
+[%N]	<a href="../players/player_41146.html">Robert Robertis</a> to third
+[%B]	Pitching: RHP <a href="../players/player_29358.html">Archie Bradley</a>
+[%B]	Batting: LHB <a href="../players/player_47832.html">Jaden Rudd</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 78S, EV 98.1 MPH)
+[%N]	<b><a href="../players/player_41146.html">Robert Robertis</a> scores</b>
+[%N]	<a href="../players/player_1033.html">Alex Verdugo</a> to second
+[%B]	Batting: RHB <a href="../players/player_21777.html">Francisco Acuña</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 34D, EV 103.1 MPH)
+[%N]	<a href="../players/player_1033.html">Alex Verdugo</a> to third
+[%N]	<a href="../players/player_47832.html">Jaden Rudd</a> to second
+[%B]	Batting: RHB <a href="../players/player_39072.html">Yoander Rivero</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Line Drive, 9S, EV 96.3 MPH)
+[%F]	Top of the 6th over - 5 runs, 8 hits, 0 errors, 3 left on base; Buffalo 7 - Rochester 2
+[%T]	Bottom of the 6th - Rochester Red Wings batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_36930.html">Alejandro Melean</a>
+[%B]	Batting: RHB <a href="../players/player_22436.html">Brendan Rodgers</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 5-3 (Groundball, 56, EV 85.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_39065.html">Jeremy De La Rosa</a>
+[%N]	0-0: Foul Ball, location: 9LSF
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 9LMF
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 1-3 (Groundball, 34S, EV 65.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_38613.html">Trey Lipscomb</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2LF
+[%N]	0-2: <b>SINGLE</b>  (Flyball, 5D, EV 90.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_25555.html">Ryan Ward</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F8  (Flyball, 8RD, EV 105.6 MPH)
+[%F]	Bottom of the 6th over - 0 runs, 1 hit, 0 errors, 1 left on base; Buffalo 7 - Rochester 2
+[%T]	Top of the 7th - Buffalo Bisons batting - Pitching for Rochester Red Wings : RHP <a href="../players/player_29358.html">Archie Bradley</a>
+[%B]	Batting: RHB <a href="../players/player_36429.html">Will Banfield</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 5-3 (Groundball, 56S, EV 85.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_25369.html">Stephen Alemais</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8RD, EV 104.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_48328.html">J.J. Wetherholt</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2RF
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 7th over - 0 runs, 0 hits, 0 errors, 0 left on base; Buffalo 7 - Rochester 2
+[%T]	Bottom of the 7th - Rochester Red Wings batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_36930.html">Alejandro Melean</a>
+[%B]	Batting: RHB <a href="../players/player_37915.html">Ronaiker Palma</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Flyball, 89M, EV 76.3 MPH)
+[%B]	Batting: SHB <a href="../players/player_19526.html">Abraham Toro</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F9  (Line Drive, 9S, EV 99.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_31794.html">Matt Thaiss</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: <b>SINGLE</b>  (Line Drive, 78S, EV 86.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_37643.html">Rainer Nunez</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2:  <b>2-RUN HOME RUN</b>  (Flyball, 7LD, EV 93.1 MPH), Distance : 355 ft
+[%B]	Batting: LHB <a href="../players/player_23792.html">Robert Hassell III</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9D, EV 111.3 MPH)
+[%F]	Bottom of the 7th over - 2 runs, 2 hits, 0 errors, 0 left on base; Buffalo 7 - Rochester 4
+[%T]	Top of the 8th - Buffalo Bisons batting - Pitching for Rochester Red Wings : RHP <a href="../players/player_29358.html">Archie Bradley</a>
+[%B]	Batting: RHB <a href="../players/player_24221.html">Justyn-Henry Malloy</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 9LDF
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 56, EV 98.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_41146.html">Robert Robertis</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 34D, EV 82.5 MPH)
+[%N]	<a href="../players/player_24221.html">Justyn-Henry Malloy</a> to second
+[%B]	Batting: LHB <a href="../players/player_1033.html">Alex Verdugo</a>
+[%N]	0-0: <b>DOUBLE</b>  (Groundball, 3L, EV 106.3 MPH)
+[%N]	<b><a href="../players/player_24221.html">Justyn-Henry Malloy</a> scores</b>
+[%N]	<a href="../players/player_41146.html">Robert Robertis</a> to third
+[%B]	Batting: LHB <a href="../players/player_47832.html">Jaden Rudd</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 7LSF
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 5F
+[%N]	1-2: Foul Ball, location: 7LMF
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_21777.html">Francisco Acuña</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ground out U3 (Groundball, 3, EV 100.6 MPH)
+[%N]	<b><a href="../players/player_41146.html">Robert Robertis</a> scores</b>
+[%N]	<a href="../players/player_1033.html">Alex Verdugo</a> to third
+[%B]	Batting: RHB <a href="../players/player_39072.html">Yoander Rivero</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Line Drive, 8LM, EV 82.5 MPH)
+[%F]	Top of the 8th over - 2 runs, 3 hits, 0 errors, 1 left on base; Buffalo 9 - Rochester 4
+[%T]	Bottom of the 8th - Rochester Red Wings batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_36930.html">Alejandro Melean</a>
+[%B]	Batting: RHB <a href="../players/player_22436.html">Brendan Rodgers</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 78S, EV 87.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_39065.html">Jeremy De La Rosa</a>
+[%N]	0-0: Foul Ball, location: 9LSFF
+[%N]	0-1: Fielders Choice at 2nd, 4-6 (Groundball, 4, EV 90.0 MPH)
+[%B]	Pitching: RHP <a href="../players/player_34632.html">Yonny Chirinos</a>
+[%B]	Batting: RHB <a href="../players/player_38613.html">Trey Lipscomb</a>
+[%N]	0-0:  Fly out, F3  (Popup, 3F, EV 79.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_25555.html">Ryan Ward</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F6  (Flyball, 6D, EV 90.6 MPH)
+[%F]	Bottom of the 8th over - 0 runs, 1 hit, 0 errors, 1 left on base; Buffalo 9 - Rochester 4
+[%T]	Top of the 9th - Buffalo Bisons batting - Pitching for Rochester Red Wings : RHP <a href="../players/player_29358.html">Archie Bradley</a>
+[%B]	Batting: RHB <a href="../players/player_36429.html">Will Banfield</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 6-3 (Groundball, 6S, EV 85.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_25369.html">Stephen Alemais</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_48328.html">J.J. Wetherholt</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 4-3 (Groundball, 4, EV 82.5 MPH)
+[%F]	Top of the 9th over - 0 runs, 0 hits, 0 errors, 0 left on base; Buffalo 9 - Rochester 4
+[%T]	Bottom of the 9th - Rochester Red Wings batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_34632.html">Yonny Chirinos</a>
+[%B]	Batting: RHB <a href="../players/player_37915.html">Ronaiker Palma</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 9LDF
+[%N]	3-2: Foul Ball, location: 25FF
+[%N]	3-2: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_19526.html">Abraham Toro</a>
+[%N]	0-0: Foul Ball, location: 3FF
+[%N]	0-1: Ball
+[%N]	1-1: Fielders Choice at 2nd, U6 (Groundball, 4MD, EV 100.0 MPH)
+[%B]	Pitching: LHP <a href="../players/player_23552.html">Cooper Benson</a>
+[%B]	Batting: LHB <a href="../players/player_31794.html">Matt Thaiss</a>
+[%N]	0-0:  <b>2-RUN HOME RUN</b>  (Flyball, 8LXD, EV 111.3 MPH), Distance : 415 ft
+[%B]	Batting: RHB <a href="../players/player_37643.html">Rainer Nunez</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 78S, EV 96.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_23792.html">Robert Hassell III</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 4D, EV 99.4 MPH)
+[%N]	<a href="../players/player_37643.html">Rainer Nunez</a> to second
+[%B]	Pitching: RHP <a href="../players/player_41544.html">T.J. Brock</a>
+[%B]	Batting: RHB <a href="../players/player_22436.html">Brendan Rodgers</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Ground out U3 (Groundball, 34S, EV 72.5 MPH)
+[%N]	<a href="../players/player_37643.html">Rainer Nunez</a> to third
+[%N]	<a href="../players/player_23792.html">Robert Hassell III</a> to second
+[%B]	Batting: LHB <a href="../players/player_39065.html">Jeremy De La Rosa</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 25F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F8  (Flyball, 8LD, EV 109.4 MPH)
+[%F]	Bottom of the 9th over - 2 runs, 3 hits, 0 errors, 2 left on base; Buffalo 9 - Rochester 6

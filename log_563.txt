@@ -1,0 +1,374 @@
+[%T]	Top of the 1st - Nashville Sounds batting - Pitching for Charlotte Knights : RHP <a href="../players/player_23301.html">Slade Cecconi</a>
+[%B]	Pitching: RHP <a href="../players/player_23301.html">Slade Cecconi</a>
+[%B]	Batting: RHB <a href="../players/player_48948.html">Miguel Bleis</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_38703.html">Will Brennan</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 9LSF
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_39259.html">Jesus Parra</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ground out 5-3 (Groundball, 56S, EV 92.5 MPH)
+[%F]	Top of the 1st over - 0 runs, 0 hits, 0 errors, 0 left on base; Nashville 0 - Charlotte 0
+[%T]	Bottom of the 1st - Charlotte Knights batting - Pitching for Nashville Sounds : RHP <a href="../players/player_40406.html">Stiven Cruz</a>
+[%B]	Pitching: RHP <a href="../players/player_40406.html">Stiven Cruz</a>
+[%B]	Batting: RHB <a href="../players/player_42915.html">Javier Mora</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 3F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_45551.html">Shawn Goosenberg</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F7  (Line Drive, 7D, EV 96.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_36655.html">Oscar Colás</a>
+[%N]	0-0:  Fly out, F8  (Line Drive, 89M, EV 94.4 MPH)
+[%F]	Bottom of the 1st over - 0 runs, 0 hits, 0 errors, 0 left on base; Nashville 0 - Charlotte 0
+[%T]	Top of the 2nd - Nashville Sounds batting - Pitching for Charlotte Knights : RHP <a href="../players/player_23301.html">Slade Cecconi</a>
+[%B]	Batting: LHB <a href="../players/player_1741.html">Darrien Miller</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 25F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 1-3 (Groundball, 15S, EV 66.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_38112.html">Felix Valerio</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Reached on error, E1 (Groundball, 25, EV 71.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_46589.html">Ajay Sczepkowski</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2:  Fly out, F9  (Flyball, 9, EV 80.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_40423.html">Jheremy Vargas</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 5F
+[%N]	1-2: Ground out 6-3 (Groundball, 6S, EV 93.1 MPH)
+[%F]	Top of the 2nd over - 0 runs, 0 hits, 1 error, 1 left on base; Nashville 0 - Charlotte 0
+[%T]	Bottom of the 2nd - Charlotte Knights batting - Pitching for Nashville Sounds : RHP <a href="../players/player_40406.html">Stiven Cruz</a>
+[%B]	Batting: RHB <a href="../players/player_46035.html">Alsander Womack</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2:  Fly out, F7  (Flyball, 78M, EV 93.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_37370.html">Loidel Chapelli</a>
+[%N]	0-0: Foul Ball, location: 7LSF
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 89S, EV 105.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_33971.html">Seiya Suzuki</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 9LMF
+[%N]	0-2: Ball
+[%N]	<a href="../players/player_37370.html">Loidel Chapelli</a> steals 2nd base
+[%N]	1-2:  <b>2-RUN HOME RUN</b>  (Flyball, 78XD, EV 110.0 MPH), Distance : 406 ft
+[%B]	Batting: RHB <a href="../players/player_31894.html">Jorge Mateo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_36078.html">Dasan Brown</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 9LMF
+[%N]	0-2: Strikes out looking
+[%F]	Bottom of the 2nd over - 2 runs, 2 hits, 0 errors, 0 left on base; Nashville 0 - Charlotte 2
+[%T]	Top of the 3rd - Nashville Sounds batting - Pitching for Charlotte Knights : RHP <a href="../players/player_23301.html">Slade Cecconi</a>
+[%B]	Batting: SHB <a href="../players/player_49415.html">Kaylan Nicasia</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_48935.html">Gregory Barrios</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: <b>DOUBLE</b>  (Groundball, 5L, EV 106.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_48948.html">Miguel Bleis</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_38703.html">Will Brennan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 5F
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 6D, EV 98.8 MPH)
+[%N]	<a href="../players/player_48935.html">Gregory Barrios</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by CF to home</b>
+[%B]	Batting: RHB <a href="../players/player_39259.html">Jesus Parra</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_38703.html">Will Brennan</a> steals 2nd base
+[%N]	0-1: Foul Ball, location: 5FF
+[%N]	0-2: Foul Ball, location: 5DF
+[%N]	0-2: Strikes out looking
+[%F]	Top of the 3rd over - 1 run, 2 hits, 0 errors, 1 left on base; Nashville 1 - Charlotte 2
+[%T]	Bottom of the 3rd - Charlotte Knights batting - Pitching for Nashville Sounds : RHP <a href="../players/player_40406.html">Stiven Cruz</a>
+[%B]	Batting: RHB <a href="../players/player_30840.html">Tomás Nido</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 9LMF
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 9LMF
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F7  (Flyball, 78XD, EV 110.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_42915.html">Javier Mora</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: <b>DOUBLE</b>  (Line Drive, 9LM, EV 86.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_45551.html">Shawn Goosenberg</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>DOUBLE</b>  (Flyball, 8LXD, EV 110.6 MPH)
+[%N]	<b><a href="../players/player_42915.html">Javier Mora</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_36655.html">Oscar Colás</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 25F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 9LMFF
+[%N]	3-2:  <b>2-RUN HOME RUN</b>  (Flyball, 78XD, EV 98.1 MPH), Distance : 404 ft
+[%B]	Batting: RHB <a href="../players/player_46035.html">Alsander Womack</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 23F
+[%N]	1-2: Foul Ball, location: 9LSF
+[%N]	1-2: Foul Ball, location: 23F
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 6-3 (Groundball, 6, EV 88.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_37370.html">Loidel Chapelli</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out looking
+[%F]	Bottom of the 3rd over - 3 runs, 3 hits, 0 errors, 0 left on base; Nashville 1 - Charlotte 5
+[%T]	Top of the 4th - Nashville Sounds batting - Pitching for Charlotte Knights : RHP <a href="../players/player_23301.html">Slade Cecconi</a>
+[%B]	Batting: LHB <a href="../players/player_1741.html">Darrien Miller</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ground out 6-3 (Groundball, 6M, EV 101.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_38112.html">Felix Valerio</a>
+[%N]	0-0: Foul Ball, location: 9LSFF
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_46589.html">Ajay Sczepkowski</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6, EV 88.8 MPH)
+[%F]	Top of the 4th over - 0 runs, 0 hits, 0 errors, 0 left on base; Nashville 1 - Charlotte 5
+[%T]	Bottom of the 4th - Charlotte Knights batting - Pitching for Nashville Sounds : RHP <a href="../players/player_40406.html">Stiven Cruz</a>
+[%B]	Batting: RHB <a href="../players/player_33971.html">Seiya Suzuki</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 23F
+[%N]	1-1: Ground out 5-3 (Groundball, 5S, EV 88.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_31894.html">Jorge Mateo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1:  Fly out, F7  (Flyball, 7LSF, EV 87.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_36078.html">Dasan Brown</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 7LMF
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F9  (Flyball, 89S, EV 90.0 MPH)
+[%F]	Bottom of the 4th over - 0 runs, 0 hits, 0 errors, 0 left on base; Nashville 1 - Charlotte 5
+[%T]	Top of the 5th - Nashville Sounds batting - Pitching for Charlotte Knights : RHP <a href="../players/player_23301.html">Slade Cecconi</a>
+[%B]	Batting: RHB <a href="../players/player_40423.html">Jheremy Vargas</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2:  Fly out, F9  (Line Drive, 9S, EV 96.9 MPH)
+[%B]	Batting: SHB <a href="../players/player_49415.html">Kaylan Nicasia</a>
+[%N]	0-0: Foul Ball, location: 23F
+[%N]	0-1: Foul Ball, location: 2RF
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 7LDF
+[%N]	2-2: Foul Ball, location: 7LMF
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_48935.html">Gregory Barrios</a>
+[%N]	0-0:  Fly out, F2  (Popup, 23F, EV 83.1 MPH)
+[%F]	Top of the 5th over - 0 runs, 0 hits, 0 errors, 0 left on base; Nashville 1 - Charlotte 5
+[%T]	Bottom of the 5th - Charlotte Knights batting - Pitching for Nashville Sounds : RHP <a href="../players/player_40406.html">Stiven Cruz</a>
+[%B]	Batting: RHB <a href="../players/player_30840.html">Tomás Nido</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 9LMF
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_42915.html">Javier Mora</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: <b>DOUBLE</b>  (Line Drive, 7LD, EV 110.0 MPH)
+[%B]	Pitching: RHP <a href="../players/player_262.html">Ryan Hawks</a>
+[%B]	Batting: RHB <a href="../players/player_45551.html">Shawn Goosenberg</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F6  (Popup, 6M, EV 60.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_36655.html">Oscar Colás</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2:  Fly out, F9  (Line Drive, 9, EV 98.1 MPH)
+[%F]	Bottom of the 5th over - 0 runs, 1 hit, 0 errors, 1 left on base; Nashville 1 - Charlotte 5
+[%T]	Top of the 6th - Nashville Sounds batting - Pitching for Charlotte Knights : RHP <a href="../players/player_23301.html">Slade Cecconi</a>
+[%B]	Batting: RHB <a href="../players/player_48948.html">Miguel Bleis</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 3FF
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ground out 5-3 (Groundball, 56, EV 91.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_38703.html">Will Brennan</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6, EV 103.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_39259.html">Jesus Parra</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 4-3 (Groundball, 4M, EV 108.8 MPH)
+[%F]	Top of the 6th over - 0 runs, 0 hits, 0 errors, 0 left on base; Nashville 1 - Charlotte 5
+[%T]	Bottom of the 6th - Charlotte Knights batting - Pitching for Nashville Sounds : RHP <a href="../players/player_262.html">Ryan Hawks</a>
+[%B]	Batting: RHB <a href="../players/player_46035.html">Alsander Womack</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 7LDF
+[%N]	1-1: Foul Ball, location: 9LSF
+[%N]	1-2: Ball
+[%N]	2-2: <b>DOUBLE</b>  (Flyball, 8LXD, EV 107.5 MPH)
+[%B]	DELAY
+[%N]	Rain delay of 19 minutes in the 6th inning. 
+[%B]	Batting: LHB <a href="../players/player_37370.html">Loidel Chapelli</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 1-3 (Groundball, 13, EV 65.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_33971.html">Seiya Suzuki</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 4MD, EV 106.3 MPH)
+[%N]	<a href="../players/player_46035.html">Alsander Womack</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by CF to home</b>
+[%N]	<a href="../players/player_33971.html">Seiya Suzuki</a> to second
+[%B]	Batting: RHB <a href="../players/player_31894.html">Jorge Mateo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F7  (Flyball, 7D, EV 94.4 MPH)
+[%N]	Runner from 2nd tags up, OUT at 3rd! 7-5
+[%F]	Bottom of the 6th over - 1 run, 2 hits, 0 errors, 0 left on base; Nashville 1 - Charlotte 6
+[%T]	Top of the 7th - Nashville Sounds batting - Pitching for Charlotte Knights : RHP <a href="../players/player_23301.html">Slade Cecconi</a>
+[%B]	Batting: LHB <a href="../players/player_1741.html">Darrien Miller</a>
+[%N]	0-0: Ball
+[%N]	1-0: Reached on error, E4 (Groundball, 4, EV 85.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_38112.html">Felix Valerio</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F9  (Line Drive, 9, EV 106.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_46589.html">Ajay Sczepkowski</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 8LS, EV 105.6 MPH)
+[%N]	<a href="../players/player_1741.html">Darrien Miller</a> to second
+[%B]	Batting: RHB <a href="../players/player_40423.html">Jheremy Vargas</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F5  (Popup, 56S, EV 83.8 MPH)
+[%B]	Batting: SHB <a href="../players/player_49415.html">Kaylan Nicasia</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out looking
+[%F]	Top of the 7th over - 0 runs, 1 hit, 1 error, 2 left on base; Nashville 1 - Charlotte 6
+[%T]	Bottom of the 7th - Charlotte Knights batting - Pitching for Nashville Sounds : RHP <a href="../players/player_262.html">Ryan Hawks</a>
+[%B]	Batting: RHB <a href="../players/player_36078.html">Dasan Brown</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_30840.html">Tomás Nido</a>
+[%N]	0-0: Foul Ball, location: 9LDF
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 6-3 (Groundball, 6, EV 82.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_42915.html">Javier Mora</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 7LDF
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out swinging
+[%F]	Bottom of the 7th over - 0 runs, 0 hits, 0 errors, 0 left on base; Nashville 1 - Charlotte 6
+[%T]	Top of the 8th - Nashville Sounds batting - Pitching for Charlotte Knights : RHP <a href="../players/player_23301.html">Slade Cecconi</a>
+[%B]	Pitching: RHP <a href="../players/player_46727.html">Magnus Ellerts</a>
+[%B]	Batting: RHB <a href="../players/player_48935.html">Gregory Barrios</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_48948.html">Miguel Bleis</a>
+[%N]	0-0: Foul Ball, location: 7LSF
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_38703.html">Will Brennan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out 4-3 (Groundball, 4S, EV 86.3 MPH)
+[%F]	Top of the 8th over - 0 runs, 0 hits, 0 errors, 0 left on base; Nashville 1 - Charlotte 6
+[%T]	Bottom of the 8th - Charlotte Knights batting - Pitching for Nashville Sounds : RHP <a href="../players/player_262.html">Ryan Hawks</a>
+[%B]	Batting: RHB <a href="../players/player_45551.html">Shawn Goosenberg</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F8  (Flyball, 89M, EV 90.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_36655.html">Oscar Colás</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: <b>SINGLE</b>  (Groundball, 6MD, EV 103.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_46035.html">Alsander Womack</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 3FF
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 78M, EV 98.1 MPH)
+[%N]	<a href="../players/player_36655.html">Oscar Colás</a> to second
+[%B]	Batting: LHB <a href="../players/player_37370.html">Loidel Chapelli</a>
+[%N]	0-0:  Fly out, F6  (Popup, 6MS, EV 71.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_33971.html">Seiya Suzuki</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 5FF
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Ground out 4-3 (Groundball, 4S, EV 80.0 MPH)
+[%F]	Bottom of the 8th over - 0 runs, 2 hits, 0 errors, 2 left on base; Nashville 1 - Charlotte 6
+[%T]	Top of the 9th - Nashville Sounds batting - Pitching for Charlotte Knights : RHP <a href="../players/player_46727.html">Magnus Ellerts</a>
+[%B]	Batting: RHB <a href="../players/player_39259.html">Jesus Parra</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 9LSF
+[%N]	1-1: Foul Ball, location: 25F
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_1741.html">Darrien Miller</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2:  Fly out, F9  (Flyball, 9S, EV 83.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_38112.html">Felix Valerio</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_46589.html">Ajay Sczepkowski</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Fielders Choice at 2nd, U6 (Groundball, 6M, EV 107.5 MPH)
+[%F]	Top of the 9th over - 0 runs, 0 hits, 0 errors, 1 left on base; Nashville 1 - Charlotte 6

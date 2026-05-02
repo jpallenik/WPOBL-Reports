@@ -1,0 +1,376 @@
+[%T]	Top of the 1st - Rochester Red Wings batting - Pitching for Scranton WB RailRiders : RHP <a href="../players/player_1588.html">Jhony Brito</a>
+[%B]	Pitching: RHP <a href="../players/player_1588.html">Jhony Brito</a>
+[%B]	Batting: SHB <a href="../players/player_22131.html">Ronny Mauricio</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F8  (Flyball, 8LM, EV 93.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_45896.html">Ryan Ignoffo</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 56D, EV 105.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_39065.html">Jeremy De La Rosa</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 25F
+[%N]	3-2: Grounds into double play, 5-4-3 (Groundball, 56, EV 86.9 MPH)
+[%F]	Top of the 1st over - 0 runs, 1 hit, 0 errors, 0 left on base; Rochester 0 - Scranton WB 0
+[%T]	Bottom of the 1st - Scranton WB RailRiders batting - Pitching for Rochester Red Wings : RHP <a href="../players/player_23156.html">Deivi García</a>
+[%B]	Pitching: RHP <a href="../players/player_23156.html">Deivi García</a>
+[%B]	Batting: SHB <a href="../players/player_39215.html">Alexander Vargas</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 4D, EV 96.3 MPH)
+[%B]	Batting: SHB <a href="../players/player_40405.html">Brenny Escanio</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Flyball, 8RS, EV 92.5 MPH)
+[%N]	<a href="../players/player_39215.html">Alexander Vargas</a> to second
+[%B]	Batting: SHB <a href="../players/player_40329.html">Jasson Domínguez</a>
+[%N]	0-0: Foul Ball, location: 3F
+[%N]	0-1: Fielders Choice at 2nd, 4-6 (Groundball, 4, EV 82.5 MPH)
+[%N]	<a href="../players/player_39215.html">Alexander Vargas</a> to third
+[%B]	Batting: RHB <a href="../players/player_40628.html">Brett Barrera</a>
+[%N]	0-0: Foul Ball, location: 25F
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F8  (Line Drive, 8LD, EV 95.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_42759.html">Daury Arias</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 3FF
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F5  (Line Drive, 56, EV 67.5 MPH)
+[%F]	Bottom of the 1st over - 0 runs, 2 hits, 0 errors, 2 left on base; Rochester 0 - Scranton WB 0
+[%T]	Top of the 2nd - Rochester Red Wings batting - Pitching for Scranton WB RailRiders : RHP <a href="../players/player_1588.html">Jhony Brito</a>
+[%B]	Batting: RHB <a href="../players/player_38613.html">Trey Lipscomb</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 78M, EV 94.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_25555.html">Ryan Ward</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 23F
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_40300.html">Manuel Sequera</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 9LMF
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_23792.html">Robert Hassell III</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 34D, EV 101.9 MPH)
+[%N]	<a href="../players/player_38613.html">Trey Lipscomb</a> to second
+[%N]	Runner from 2nd tries for 3rd, OUT! 9-3-5
+[%F]	Top of the 2nd over - 0 runs, 2 hits, 0 errors, 1 left on base; Rochester 0 - Scranton WB 0
+[%T]	Bottom of the 2nd - Scranton WB RailRiders batting - Pitching for Rochester Red Wings : RHP <a href="../players/player_23156.html">Deivi García</a>
+[%B]	Batting: RHB <a href="../players/player_39029.html">Agustin Ramirez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_40521.html">Jared Serna</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Flyball, 8RD, EV 102.5 MPH)
+[%B]	Batting: SHB <a href="../players/player_36783.html">Luis Garcia</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out looking
+[%F]	Bottom of the 2nd over - 0 runs, 0 hits, 0 errors, 0 left on base; Rochester 0 - Scranton WB 0
+[%T]	Top of the 3rd - Rochester Red Wings batting - Pitching for Scranton WB RailRiders : RHP <a href="../players/player_1588.html">Jhony Brito</a>
+[%B]	Batting: LHB <a href="../players/player_31794.html">Matt Thaiss</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 89S, EV 108.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_29055.html">Pedro Severino</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1:  Fly out, F4  (Popup, 4, EV 50.6 MPH)
+[%B]	Batting: SHB <a href="../players/player_22131.html">Ronny Mauricio</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 6M, EV 100.6 MPH) (infield hit)
+[%N]	<a href="../players/player_31794.html">Matt Thaiss</a> to second
+[%B]	Batting: RHB <a href="../players/player_45896.html">Ryan Ignoffo</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 3SF
+[%N]	0-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_39065.html">Jeremy De La Rosa</a>
+[%N]	0-0:  Fly out, F3  (Line Drive, 34, EV 71.9 MPH)
+[%F]	Top of the 3rd over - 0 runs, 2 hits, 0 errors, 2 left on base; Rochester 0 - Scranton WB 0
+[%T]	Bottom of the 3rd - Scranton WB RailRiders batting - Pitching for Rochester Red Wings : RHP <a href="../players/player_23156.html">Deivi García</a>
+[%B]	Batting: RHB <a href="../players/player_36456.html">Jackson Lyon</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 7LSF
+[%N]	1-1:  Fly out, F4  (Popup, 4M, EV 69.4 MPH)
+[%B]	Batting: SHB <a href="../players/player_39215.html">Alexander Vargas</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_40405.html">Brenny Escanio</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1:  Fly out, F4  (Popup, 4, EV 72.5 MPH)
+[%F]	Bottom of the 3rd over - 0 runs, 0 hits, 0 errors, 0 left on base; Rochester 0 - Scranton WB 0
+[%T]	Top of the 4th - Rochester Red Wings batting - Pitching for Scranton WB RailRiders : RHP <a href="../players/player_1588.html">Jhony Brito</a>
+[%B]	Batting: RHB <a href="../players/player_38613.html">Trey Lipscomb</a>
+[%N]	0-0: <b>DOUBLE</b>  (Line Drive, 3D, EV 95.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_25555.html">Ryan Ward</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ground out 4-3 (Groundball, 4, EV 84.4 MPH)
+[%N]	<a href="../players/player_38613.html">Trey Lipscomb</a> to third
+[%B]	Batting: RHB <a href="../players/player_40300.html">Manuel Sequera</a>
+[%N]	0-0:  Fly out, F6  (Popup, 6, EV 51.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_23792.html">Robert Hassell III</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F6  (Line Drive, 6, EV 62.5 MPH)
+[%F]	Top of the 4th over - 0 runs, 1 hit, 0 errors, 1 left on base; Rochester 0 - Scranton WB 0
+[%T]	Bottom of the 4th - Scranton WB RailRiders batting - Pitching for Rochester Red Wings : RHP <a href="../players/player_23156.html">Deivi García</a>
+[%B]	Batting: SHB <a href="../players/player_40329.html">Jasson Domínguez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 2-3 (Groundball, 2R, EV 65.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_40628.html">Brett Barrera</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 5F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 5DF
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_42759.html">Daury Arias</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 34D, EV 96.3 MPH)
+[%N]	<a href="../players/player_40628.html">Brett Barrera</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw by RF made at trailing runner, OUT! 9-3-6
+[%B]	Batting: RHB <a href="../players/player_39029.html">Agustin Ramirez</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LM, EV 78.8 MPH)
+[%F]	Bottom of the 4th over - 0 runs, 1 hit, 0 errors, 1 left on base; Rochester 0 - Scranton WB 0
+[%T]	Top of the 5th - Rochester Red Wings batting - Pitching for Scranton WB RailRiders : RHP <a href="../players/player_1588.html">Jhony Brito</a>
+[%B]	Batting: LHB <a href="../players/player_31794.html">Matt Thaiss</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 7LDF
+[%N]	2-1: Called Strike
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 34D, EV 110.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_29055.html">Pedro Severino</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_22131.html">Ronny Mauricio</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 5SF
+[%N]	1-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_45896.html">Ryan Ignoffo</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Line Drive, 9LM, EV 92.5 MPH)
+[%N]	<a href="../players/player_31794.html">Matt Thaiss</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by RF to trailing runner, OUT at third! 9-3-5</b>
+[%F]	Top of the 5th over - 1 run, 2 hits, 0 errors, 0 left on base; Rochester 1 - Scranton WB 0
+[%T]	Bottom of the 5th - Scranton WB RailRiders batting - Pitching for Rochester Red Wings : RHP <a href="../players/player_23156.html">Deivi García</a>
+[%B]	Batting: RHB <a href="../players/player_40521.html">Jared Serna</a>
+[%N]	0-0: Ball
+[%N]	1-0: Hit by Pitch
+[%B]	Batting: SHB <a href="../players/player_36783.html">Luis Garcia</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 34, EV 102.5 MPH)
+[%N]	<a href="../players/player_40521.html">Jared Serna</a> to second
+[%B]	Batting: RHB <a href="../players/player_36456.html">Jackson Lyon</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2:  Fly out, F9  (Line Drive, 9S, EV 90.6 MPH)
+[%B]	Batting: SHB <a href="../players/player_39215.html">Alexander Vargas</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 89D, EV 91.3 MPH)
+[%F]	Bottom of the 5th over - 0 runs, 0 hits, 0 errors, 1 left on base; Rochester 1 - Scranton WB 0
+[%T]	Top of the 6th - Rochester Red Wings batting - Pitching for Scranton WB RailRiders : RHP <a href="../players/player_1588.html">Jhony Brito</a>
+[%B]	Batting: LHB <a href="../players/player_39065.html">Jeremy De La Rosa</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LM, EV 96.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_38613.html">Trey Lipscomb</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 6-3 (Groundball, 6, EV 87.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_25555.html">Ryan Ward</a>
+[%N]	0-0:  Fly out, F6  (Popup, 6M, EV 70.0 MPH)
+[%F]	Top of the 6th over - 0 runs, 0 hits, 0 errors, 0 left on base; Rochester 1 - Scranton WB 0
+[%T]	Bottom of the 6th - Scranton WB RailRiders batting - Pitching for Rochester Red Wings : RHP <a href="../players/player_23156.html">Deivi García</a>
+[%B]	Batting: SHB <a href="../players/player_40405.html">Brenny Escanio</a>
+[%N]	0-0: Foul Ball, location: 23F
+[%N]	0-1: <b>SINGLE</b>  (Flyball, 4D, EV 92.5 MPH)
+[%B]	Batting: SHB <a href="../players/player_40329.html">Jasson Domínguez</a>
+[%N]	0-0: Hit by Pitch
+[%N]	<a href="../players/player_40405.html">Brenny Escanio</a> to second
+[%B]	Batting: RHB <a href="../players/player_40628.html">Brett Barrera</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 9LSFF
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F9  (Flyball, 9S, EV 89.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_42759.html">Daury Arias</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: <b>SINGLE</b>  (Groundball, 56D, EV 101.3 MPH)
+[%N]	<a href="../players/player_40405.html">Brenny Escanio</a> to third
+[%N]	<a href="../players/player_40329.html">Jasson Domínguez</a> to second
+[%B]	Batting: RHB <a href="../players/player_39029.html">Agustin Ramirez</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Line Drive, 7S, EV 96.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_40521.html">Jared Serna</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 9LMF
+[%N]	1-2:  Fly out, F8  (Line Drive, 8RM, EV 90.6 MPH)
+[%F]	Bottom of the 6th over - 0 runs, 2 hits, 0 errors, 3 left on base; Rochester 1 - Scranton WB 0
+[%T]	Top of the 7th - Rochester Red Wings batting - Pitching for Scranton WB RailRiders : RHP <a href="../players/player_1588.html">Jhony Brito</a>
+[%B]	Batting: RHB <a href="../players/player_40300.html">Manuel Sequera</a>
+[%N]	0-0: Reached on error, E4 (Groundball, 4, EV 77.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_23792.html">Robert Hassell III</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 9LSFF
+[%N]	0-2: <b>SINGLE</b>  (Groundball, 6MD, EV 99.4 MPH)
+[%N]	<a href="../players/player_40300.html">Manuel Sequera</a> to second
+[%B]	Batting: LHB <a href="../players/player_31794.html">Matt Thaiss</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ground out U3 (Groundball, 3, EV 88.8 MPH)
+[%N]	<a href="../players/player_40300.html">Manuel Sequera</a> to third
+[%N]	<a href="../players/player_23792.html">Robert Hassell III</a> to second
+[%B]	Batting: RHB <a href="../players/player_29055.html">Pedro Severino</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Hit by Pitch
+[%B]	Batting: SHB <a href="../players/player_22131.html">Ronny Mauricio</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 7LSF
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_45896.html">Ryan Ignoffo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F9  (Flyball, 9, EV 80.0 MPH)
+[%F]	Top of the 7th over - 0 runs, 1 hit, 1 error, 3 left on base; Rochester 1 - Scranton WB 0
+[%T]	Bottom of the 7th - Scranton WB RailRiders batting - Pitching for Rochester Red Wings : RHP <a href="../players/player_23156.html">Deivi García</a>
+[%B]	Batting: SHB <a href="../players/player_36783.html">Luis Garcia</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 3F
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F7  (Line Drive, 7S, EV 91.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_36456.html">Jackson Lyon</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 13S, EV 72.5 MPH) (infield hit)
+[%B]	Pitching: RHP <a href="../players/player_19948.html">José Soriano</a>
+[%B]	Batting: SHB <a href="../players/player_39215.html">Alexander Vargas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 7LMF
+[%N]	1-2:  Fly out, F8  (Line Drive, 8LM, EV 92.5 MPH)
+[%B]	Batting: SHB <a href="../players/player_40405.html">Brenny Escanio</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F7  (Flyball, 78D, EV 85.6 MPH)
+[%F]	Bottom of the 7th over - 0 runs, 1 hit, 0 errors, 1 left on base; Rochester 1 - Scranton WB 0
+[%T]	Top of the 8th - Rochester Red Wings batting - Pitching for Scranton WB RailRiders : RHP <a href="../players/player_1588.html">Jhony Brito</a>
+[%B]	Batting: LHB <a href="../players/player_39065.html">Jeremy De La Rosa</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 9LDF
+[%N]	0-2: Foul Ball, location: 7LDF
+[%N]	0-2: Ball
+[%N]	1-2: Ground out U3 (Groundball, 34, EV 83.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_38613.html">Trey Lipscomb</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 5-3 (Groundball, 5S, EV 63.1 MPH)
+[%B]	Pitching: RHP <a href="../players/player_365.html">Scott Effross</a>
+[%B]	Batting: LHB <a href="../players/player_25555.html">Ryan Ward</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1:  Fly out, F9  (Flyball, 9, EV 95.6 MPH)
+[%F]	Top of the 8th over - 0 runs, 0 hits, 0 errors, 0 left on base; Rochester 1 - Scranton WB 0
+[%T]	Bottom of the 8th - Scranton WB RailRiders batting - Pitching for Rochester Red Wings : RHP <a href="../players/player_19948.html">José Soriano</a>
+[%B]	Batting: SHB <a href="../players/player_40329.html">Jasson Domínguez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 3FF
+[%N]	2-2:  Fly out, F4  (Popup, 34D, EV 66.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_40628.html">Brett Barrera</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 3FF
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 3F
+[%N]	2-2: Strikes out swinging
+[%B]	Pitching: LHP <a href="../players/player_22068.html">Sean Doolittle</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_38127.html">Angel Rojas</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 8RS, EV 106.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_39029.html">Agustin Ramirez</a>
+[%N]	0-0: Foul Ball, location: 9LDF
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F9  (Line Drive, 9, EV 90.6 MPH)
+[%F]	Bottom of the 8th over - 0 runs, 1 hit, 0 errors, 1 left on base; Rochester 1 - Scranton WB 0
+[%T]	Top of the 9th - Rochester Red Wings batting - Pitching for Scranton WB RailRiders : RHP <a href="../players/player_365.html">Scott Effross</a>
+[%B]	Now in LF: <a href="../players/player_22362.html">Mauro Bonifacio</a>
+[%B]	Batting: RHB <a href="../players/player_40300.html">Manuel Sequera</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8RXD, EV 96.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_23792.html">Robert Hassell III</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9LD, EV 95.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_31794.html">Matt Thaiss</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 5SF
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 9th over - 0 runs, 0 hits, 0 errors, 0 left on base; Rochester 1 - Scranton WB 0
+[%T]	Bottom of the 9th - Scranton WB RailRiders batting - Pitching for Rochester Red Wings : LHP <a href="../players/player_22068.html">Sean Doolittle</a>
+[%B]	Pitching: LHP <a href="../players/player_45314.html">Drew Sommers</a>
+[%B]	Batting: RHB <a href="../players/player_40521.html">Jared Serna</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 5SF
+[%N]	0-2: Ground out 4-3 (Groundball, 34S, EV 85.0 MPH)
+[%B]	Batting: SHB <a href="../players/player_36783.html">Luis Garcia</a>
+[%N]	0-0:  Fly out, F2  (Popup, 23F, EV 86.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_36456.html">Jackson Lyon</a>
+[%N]	0-0: Foul Ball, location: 23F
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F4  (Popup, 4, EV 58.1 MPH)
+[%F]	Bottom of the 9th over - 0 runs, 0 hits, 0 errors, 0 left on base; Rochester 1 - Scranton WB 0

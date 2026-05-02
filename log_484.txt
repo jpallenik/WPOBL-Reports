@@ -1,0 +1,381 @@
+[%T]	Top of the 1st - Lehigh Valley IronPigs batting - Pitching for St. Paul Saints : RHP <a href="../players/player_41200.html">Dylan Lesko</a>
+[%B]	Pitching: RHP <a href="../players/player_41200.html">Dylan Lesko</a>
+[%B]	Batting: RHB <a href="../players/player_37965.html">Johan Rojas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1:  Fly out, F8  (Flyball, 8LD, EV 97.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_25702.html">Dalton Rushing</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_49533.html">Hao-Yu Lee</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Reached on error, E6 (Groundball, 4M, EV 86.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_18535.html">Stuart Fairchild</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	<a href="../players/player_49533.html">Hao-Yu Lee</a> is caught stealing 2nd base 2-4
+[%F]	Top of the 1st over - 0 runs, 0 hits, 1 error, 0 left on base; Lehigh Valley 0 - St. Paul 0
+[%T]	Bottom of the 1st - St. Paul Saints batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_49198.html">Evan Sweeting</a>
+[%B]	Pitching: RHP <a href="../players/player_49198.html">Evan Sweeting</a>
+[%B]	Batting: RHB <a href="../players/player_43862.html">Tanner Schobel</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 3F
+[%N]	2-2:  Fly out, F8  (Line Drive, 8RM, EV 105.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_31853.html">Roy Morales</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F5  (Line Drive, 56, EV 70.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_48899.html">Samuel Zavala</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_212.html">Fernando Tatis Jr.</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 34D, EV 105.0 MPH)
+[%N]	<a href="../players/player_48899.html">Samuel Zavala</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw by RF made to third
+[%N]	<a href="../players/player_212.html">Fernando Tatis Jr.</a> to second
+[%B]	Batting: LHB <a href="../players/player_36113.html">MJ Melendez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 5FF
+[%N]	2-2: Foul Ball, location: 2LF
+[%N]	2-2: Foul Ball, location: 5SF
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out looking
+[%F]	Bottom of the 1st over - 0 runs, 1 hit, 0 errors, 2 left on base; Lehigh Valley 0 - St. Paul 0
+[%T]	Top of the 2nd - Lehigh Valley IronPigs batting - Pitching for St. Paul Saints : RHP <a href="../players/player_41200.html">Dylan Lesko</a>
+[%B]	Batting: RHB <a href="../players/player_18535.html">Stuart Fairchild</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 6-3 (Groundball, 6MS, EV 77.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_24264.html">Jake Alu</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 7S, EV 90.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_39197.html">Jose Ramos</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F5  (Popup, 5DF, EV 53.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_37012.html">Chas McCormick</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	<a href="../players/player_24264.html">Jake Alu</a> is caught stealing 2nd base 2-4
+[%F]	Top of the 2nd over - 0 runs, 1 hit, 0 errors, 0 left on base; Lehigh Valley 0 - St. Paul 0
+[%T]	Bottom of the 2nd - St. Paul Saints batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_49198.html">Evan Sweeting</a>
+[%B]	Batting: RHB <a href="../players/player_48217.html">Mike Sirota</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Foul Ball, location: 25FF
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F9  (Flyball, 9LSF, EV 81.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_38672.html">Anthony Prato</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F3  (Popup, 23F, EV 85.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_23631.html">Trevor Larnach</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Line Drive, 8RM, EV 100.0 MPH)
+[%F]	Bottom of the 2nd over - 0 runs, 0 hits, 0 errors, 0 left on base; Lehigh Valley 0 - St. Paul 0
+[%T]	Top of the 3rd - Lehigh Valley IronPigs batting - Pitching for St. Paul Saints : RHP <a href="../players/player_41200.html">Dylan Lesko</a>
+[%B]	Batting: RHB <a href="../players/player_37012.html">Chas McCormick</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_23372.html">Nick Madrigal</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F6  (Popup, P, EV 77.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_31631.html">Tony Kemp</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 2-3 (Groundball, 15S, EV 60.0 MPH)
+[%F]	Top of the 3rd over - 0 runs, 0 hits, 0 errors, 0 left on base; Lehigh Valley 0 - St. Paul 0
+[%T]	Bottom of the 3rd - St. Paul Saints batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_49198.html">Evan Sweeting</a>
+[%B]	Batting: RHB <a href="../players/player_36447.html">Mikey Perez</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Flyball, 5D, EV 93.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_43862.html">Tanner Schobel</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Grounds into double play, 6-4-3 (Groundball, 6, EV 88.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_31853.html">Roy Morales</a>
+[%N]	0-0:  Fly out, F9  (Line Drive, 9S, EV 70.6 MPH)
+[%F]	Bottom of the 3rd over - 0 runs, 1 hit, 0 errors, 0 left on base; Lehigh Valley 0 - St. Paul 0
+[%T]	Top of the 4th - Lehigh Valley IronPigs batting - Pitching for St. Paul Saints : RHP <a href="../players/player_41200.html">Dylan Lesko</a>
+[%B]	Batting: RHB <a href="../players/player_37965.html">Johan Rojas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 9LSF
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_25702.html">Dalton Rushing</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 78D, EV 84.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_49533.html">Hao-Yu Lee</a>
+[%N]	0-0:  Fly out, F5  (Popup, 5S, EV 80.0 MPH)
+[%F]	Top of the 4th over - 0 runs, 0 hits, 0 errors, 0 left on base; Lehigh Valley 0 - St. Paul 0
+[%T]	Bottom of the 4th - St. Paul Saints batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_49198.html">Evan Sweeting</a>
+[%B]	Batting: LHB <a href="../players/player_48899.html">Samuel Zavala</a>
+[%N]	0-0: Foul Ball, location: 23FF
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_212.html">Fernando Tatis Jr.</a>
+[%N]	0-0: Foul Ball, location: 3SF
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_36113.html">MJ Melendez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out swinging
+[%F]	Bottom of the 4th over - 0 runs, 0 hits, 0 errors, 0 left on base; Lehigh Valley 0 - St. Paul 0
+[%T]	Top of the 5th - Lehigh Valley IronPigs batting - Pitching for St. Paul Saints : RHP <a href="../players/player_41200.html">Dylan Lesko</a>
+[%B]	Batting: RHB <a href="../players/player_18535.html">Stuart Fairchild</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 4D, EV 101.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_24264.html">Jake Alu</a>
+[%N]	0-0: Ball
+[%N]	1-0: Grounds into double play, 4-6-3 (Groundball, 4, EV 98.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_39197.html">Jose Ramos</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 5th over - 0 runs, 1 hit, 0 errors, 0 left on base; Lehigh Valley 0 - St. Paul 0
+[%T]	Bottom of the 5th - St. Paul Saints batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_49198.html">Evan Sweeting</a>
+[%B]	Batting: RHB <a href="../players/player_48217.html">Mike Sirota</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 5L, EV 80.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_38672.html">Anthony Prato</a>
+[%N]	0-0: Foul Ball, location: 9LSF
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 3F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 3SF
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_23631.html">Trevor Larnach</a>
+[%N]	0-0: Grounds into double play, 1-6-3 (Groundball, 23, EV 66.3 MPH)
+[%F]	Bottom of the 5th over - 0 runs, 1 hit, 0 errors, 0 left on base; Lehigh Valley 0 - St. Paul 0
+[%T]	Top of the 6th - Lehigh Valley IronPigs batting - Pitching for St. Paul Saints : RHP <a href="../players/player_41200.html">Dylan Lesko</a>
+[%B]	Batting: RHB <a href="../players/player_37012.html">Chas McCormick</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_23372.html">Nick Madrigal</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 8RD, EV 98.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_31631.html">Tony Kemp</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8RM, EV 76.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_37965.html">Johan Rojas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F7  (Flyball, 7, EV 97.5 MPH)
+[%F]	Top of the 6th over - 0 runs, 0 hits, 0 errors, 1 left on base; Lehigh Valley 0 - St. Paul 0
+[%T]	Bottom of the 6th - St. Paul Saints batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_49198.html">Evan Sweeting</a>
+[%B]	Batting: RHB <a href="../players/player_36447.html">Mikey Perez</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 4D, EV 104.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_43862.html">Tanner Schobel</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 7LMF
+[%N]	0-2: Foul Ball, location: 7LSF
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_31853.html">Roy Morales</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 23FF
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_48899.html">Samuel Zavala</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%F]	Bottom of the 6th over - 0 runs, 1 hit, 0 errors, 1 left on base; Lehigh Valley 0 - St. Paul 0
+[%T]	Top of the 7th - Lehigh Valley IronPigs batting - Pitching for St. Paul Saints : RHP <a href="../players/player_41200.html">Dylan Lesko</a>
+[%B]	Batting: LHB <a href="../players/player_25702.html">Dalton Rushing</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 5SF
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_49533.html">Hao-Yu Lee</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 6MD, EV 108.1 MPH)
+[%N]	<a href="../players/player_25702.html">Dalton Rushing</a> to second
+[%B]	Batting: RHB <a href="../players/player_18535.html">Stuart Fairchild</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Flyball, 8RM, EV 95.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_24264.html">Jake Alu</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_39197.html">Jose Ramos</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 5F
+[%N]	1-1: Fielders Choice at 2nd, 6-4 (Groundball, 6, EV 103.8 MPH)
+[%F]	Top of the 7th over - 0 runs, 1 hit, 0 errors, 2 left on base; Lehigh Valley 0 - St. Paul 0
+[%T]	Bottom of the 7th - St. Paul Saints batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_49198.html">Evan Sweeting</a>
+[%B]	Batting: RHB <a href="../players/player_212.html">Fernando Tatis Jr.</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_36113.html">MJ Melendez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 23F
+[%N]	3-2: Ground out 2-3 (Groundball, 15S, EV 63.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_48217.html">Mike Sirota</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6, EV 110.0 MPH)
+[%F]	Bottom of the 7th over - 0 runs, 0 hits, 0 errors, 0 left on base; Lehigh Valley 0 - St. Paul 0
+[%T]	Top of the 8th - Lehigh Valley IronPigs batting - Pitching for St. Paul Saints : RHP <a href="../players/player_41200.html">Dylan Lesko</a>
+[%B]	Batting: RHB <a href="../players/player_37012.html">Chas McCormick</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 5, EV 88.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_23372.html">Nick Madrigal</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 4MD, EV 99.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_31631.html">Tony Kemp</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 4D, EV 103.8 MPH)
+[%N]	<a href="../players/player_23372.html">Nick Madrigal</a> to second
+[%B]	Batting: RHB <a href="../players/player_37965.html">Johan Rojas</a>
+[%N]	0-0: Foul Ball, location: 25F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2RF
+[%N]	1-2: Foul Ball, location: 5DF
+[%N]	1-2: Reached on error, E5 (Groundball, P, EV 85.6 MPH)
+[%N]	<a href="../players/player_23372.html">Nick Madrigal</a> to third
+[%N]	<a href="../players/player_31631.html">Tony Kemp</a> to second
+[%B]	Batting: LHB <a href="../players/player_25702.html">Dalton Rushing</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 25FF
+[%N]	0-2: Hit by Pitch
+[%N]	<b><a href="../players/player_23372.html">Nick Madrigal</a> scores</b>
+[%N]	<a href="../players/player_31631.html">Tony Kemp</a> to third
+[%N]	<a href="../players/player_37965.html">Johan Rojas</a> to second
+[%B]	Batting: RHB <a href="../players/player_49533.html">Hao-Yu Lee</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 25F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F8  (Line Drive, 8RS, EV 93.1 MPH)
+[%B]	Pitching: RHP <a href="../players/player_1113.html">Landen Roupp</a>
+[%B]	Batting: RHB <a href="../players/player_18535.html">Stuart Fairchild</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%F]	Top of the 8th over - 1 run, 2 hits, 1 error, 3 left on base; Lehigh Valley 1 - St. Paul 0
+[%T]	Bottom of the 8th - St. Paul Saints batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_49198.html">Evan Sweeting</a>
+[%B]	Now at 1B: <a href="../players/player_31915.html">Brandon Dixon</a>
+[%B]	Batting: RHB <a href="../players/player_38672.html">Anthony Prato</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 6MD, EV 106.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_23631.html">Trevor Larnach</a>
+[%N]	0-0: Fielders Choice at 2nd, 4-6 (Groundball, 34, EV 103.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_36447.html">Mikey Perez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_43862.html">Tanner Schobel</a>
+[%N]	0-0:  Fly out, F2  (Popup, 2LF, EV 88.1 MPH)
+[%F]	Bottom of the 8th over - 0 runs, 1 hit, 0 errors, 1 left on base; Lehigh Valley 1 - St. Paul 0
+[%T]	Top of the 9th - Lehigh Valley IronPigs batting - Pitching for St. Paul Saints : RHP <a href="../players/player_1113.html">Landen Roupp</a>
+[%B]	Batting: LHB <a href="../players/player_24264.html">Jake Alu</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_39197.html">Jose Ramos</a>
+[%N]	0-0:  <b>SOLO HOME RUN</b>  (Flyball, 9LD, EV 94.4 MPH), Distance : 352 ft
+[%B]	Batting: RHB <a href="../players/player_37012.html">Chas McCormick</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_23372.html">Nick Madrigal</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 5-3 (Groundball, 56S, EV 90.0 MPH)
+[%F]	Top of the 9th over - 1 run, 1 hit, 0 errors, 0 left on base; Lehigh Valley 2 - St. Paul 0
+[%T]	Bottom of the 9th - St. Paul Saints batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_49198.html">Evan Sweeting</a>
+[%B]	Pitching: RHP <a href="../players/player_19292.html">Francisco Morales</a>
+[%B]	Batting: RHB <a href="../players/player_31853.html">Roy Morales</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 4MD, EV 98.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_48899.html">Samuel Zavala</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 25F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 78S, EV 91.3 MPH)
+[%N]	<a href="../players/player_31853.html">Roy Morales</a> to second
+[%B]	Batting: RHB <a href="../players/player_212.html">Fernando Tatis Jr.</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 9LSF
+[%N]	0-2: <b>TRIPLE</b>  (Flyball, 8RXD, EV 91.3 MPH)
+[%N]	<b><a href="../players/player_31853.html">Roy Morales</a> scores</b>
+[%N]	<b><a href="../players/player_48899.html">Samuel Zavala</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_36113.html">MJ Melendez</a>
+[%N]	0-0: Intentional Walk
+[%B]	Batting: RHB <a href="../players/player_48217.html">Mike Sirota</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F8  (Line Drive, 8LS, EV 86.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_38672.html">Anthony Prato</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 25FF
+[%N]	1-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_23631.html">Trevor Larnach</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_36113.html">MJ Melendez</a> to second
+[%B]	Batting: RHB <a href="../players/player_36447.html">Mikey Perez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 23FF
+[%N]	0-2: Foul Ball, location: 25F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	Wild Pitch!
+[%N]	<b><a href="../players/player_212.html">Fernando Tatis Jr.</a> scores</b>
+[%F]	Bottom of the 9th over - 3 runs, 3 hits, 0 errors, 2 left on base; Lehigh Valley 2 - St. Paul 3

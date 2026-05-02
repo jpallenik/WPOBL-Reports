@@ -1,0 +1,408 @@
+[%T]	Top of the 1st - Toledo Mud Hens batting - Pitching for Louisville Bats : LHP <a href="../players/player_37543.html">Omar Cruz</a>
+[%B]	Pitching: LHP <a href="../players/player_37543.html">Omar Cruz</a>
+[%B]	Batting: LHB <a href="../players/player_19254.html">Kerry Carpenter</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F7  (Line Drive, 7S, EV 95.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_30352.html">Travis Jankowski</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7LM, EV 98.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_18706.html">Andre Lipcius</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F4  (Popup, 3D, EV 73.1 MPH)
+[%F]	Top of the 1st over - 0 runs, 0 hits, 0 errors, 0 left on base; Toledo 0 - Louisville 0
+[%T]	Bottom of the 1st - Louisville Bats batting - Pitching for Toledo Mud Hens : RHP <a href="../players/player_45313.html">Troy Melton</a>
+[%B]	Pitching: RHP <a href="../players/player_45313.html">Troy Melton</a>
+[%B]	Batting: LHB <a href="../players/player_44684.html">Cam Collier</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1:  <b>SOLO HOME RUN</b>  (Flyball, 89XD, EV 98.8 MPH), Distance : 398 ft
+[%B]	Batting: RHB <a href="../players/player_18502.html">James Beard</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_37558.html">Derwin Barreto</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: <b>SINGLE</b>  (Line Drive, 6D, EV 95.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_23807.html">Nicholas Northcut</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Grounds into double play, 4-6-3 (Groundball, 34D, EV 95.0 MPH)
+[%F]	Bottom of the 1st over - 1 run, 2 hits, 0 errors, 0 left on base; Toledo 0 - Louisville 1
+[%T]	Top of the 2nd - Toledo Mud Hens batting - Pitching for Louisville Bats : LHP <a href="../players/player_37543.html">Omar Cruz</a>
+[%B]	Batting: RHB <a href="../players/player_25310.html">Ryan Kreidler</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Flyball, 9S, EV 96.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_815.html">Mario Feliciano</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: <b>DOUBLE</b>  (Line Drive, 78D, EV 111.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_30362.html">C.J. Hinojosa</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Line Drive, 7S, EV 96.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_23090.html">Dominic Canzone</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ground out 4-3 (Groundball, 4, EV 101.3 MPH)
+[%F]	Top of the 2nd over - 0 runs, 1 hit, 0 errors, 1 left on base; Toledo 0 - Louisville 1
+[%T]	Bottom of the 2nd - Louisville Bats batting - Pitching for Toledo Mud Hens : RHP <a href="../players/player_45313.html">Troy Melton</a>
+[%B]	Batting: LHB <a href="../players/player_23804.html">Tyler Callihan</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1:  Fly out, F8  (Line Drive, 8LD, EV 96.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_1691.html">Moisés Castillo</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F2  (Popup, 2LF, EV 86.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_1102.html">Logan Tanner</a>
+[%N]	0-0: Foul Ball, location: 9LMF
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out looking
+[%F]	Bottom of the 2nd over - 0 runs, 0 hits, 0 errors, 0 left on base; Toledo 0 - Louisville 1
+[%T]	Top of the 3rd - Toledo Mud Hens batting - Pitching for Louisville Bats : LHP <a href="../players/player_37543.html">Omar Cruz</a>
+[%B]	Batting: RHB <a href="../players/player_1309.html">Peyton Graham</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_36336.html">Alec Bohm</a>
+[%N]	0-0: Foul Ball, location: 23FF
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging <b>wild pitch, reaches first!</b>
+[%B]	Batting: LHB <a href="../players/player_19254.html">Kerry Carpenter</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Fielders Choice at 2nd, 4-6 (Groundball, 4, EV 93.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_30352.html">Travis Jankowski</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1:  <b>2-RUN HOME RUN</b>  (Line Drive, 78XD, EV 99.4 MPH), Distance : 396 ft
+[%B]	Batting: RHB <a href="../players/player_18706.html">Andre Lipcius</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 6-3 (Groundball, 6, EV 83.1 MPH)
+[%F]	Top of the 3rd over - 2 runs, 1 hit, 0 errors, 0 left on base; Toledo 2 - Louisville 1
+[%T]	Bottom of the 3rd - Louisville Bats batting - Pitching for Toledo Mud Hens : RHP <a href="../players/player_45313.html">Troy Melton</a>
+[%B]	Batting: SHB <a href="../players/player_40241.html">Johnny Ascanio</a>
+[%N]	0-0: Foul Ball, location: 7LDF
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_39124.html">Elio Prado</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_44684.html">Cam Collier</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out looking
+[%F]	Bottom of the 3rd over - 0 runs, 0 hits, 0 errors, 0 left on base; Toledo 2 - Louisville 1
+[%T]	Top of the 4th - Toledo Mud Hens batting - Pitching for Louisville Bats : LHP <a href="../players/player_37543.html">Omar Cruz</a>
+[%B]	Batting: RHB <a href="../players/player_25310.html">Ryan Kreidler</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 9LDF
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 3F
+[%N]	2-2:  Fly out, F7  (Flyball, 7LS, EV 88.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_815.html">Mario Feliciano</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 5FF
+[%N]	2-2: Ground out 3-1 (Groundball, 34S, EV 84.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_30362.html">C.J. Hinojosa</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 4th over - 0 runs, 0 hits, 0 errors, 0 left on base; Toledo 2 - Louisville 1
+[%T]	Bottom of the 4th - Louisville Bats batting - Pitching for Toledo Mud Hens : RHP <a href="../players/player_45313.html">Troy Melton</a>
+[%B]	Batting: RHB <a href="../players/player_18502.html">James Beard</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_37558.html">Derwin Barreto</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 7LSF
+[%N]	1-1:  Fly out, F4  (Line Drive, 4, EV 70.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_23807.html">Nicholas Northcut</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 56S, EV 70.6 MPH)
+[%F]	Bottom of the 4th over - 0 runs, 0 hits, 0 errors, 0 left on base; Toledo 2 - Louisville 1
+[%T]	Top of the 5th - Toledo Mud Hens batting - Pitching for Louisville Bats : LHP <a href="../players/player_37543.html">Omar Cruz</a>
+[%B]	Batting: LHB <a href="../players/player_23090.html">Dominic Canzone</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Flyball, 8LD, EV 106.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_1309.html">Peyton Graham</a>
+[%N]	0-0:  Fly out, F8  (Line Drive, 8LM, EV 99.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_36336.html">Alec Bohm</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Foul Ball, location: 9LSF
+[%N]	3-2: Foul Ball, location: 5F
+[%N]	3-2: Foul Ball, location: 5FF
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 56D, EV 96.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_19254.html">Kerry Carpenter</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 34D, EV 110.0 MPH)
+[%N]	<a href="../players/player_36336.html">Alec Bohm</a> to second
+[%B]	Batting: LHB <a href="../players/player_30352.html">Travis Jankowski</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F6  (Popup, 6S, EV 66.3 MPH)
+[%F]	Top of the 5th over - 0 runs, 2 hits, 0 errors, 2 left on base; Toledo 2 - Louisville 1
+[%T]	Bottom of the 5th - Louisville Bats batting - Pitching for Toledo Mud Hens : RHP <a href="../players/player_45313.html">Troy Melton</a>
+[%B]	Batting: LHB <a href="../players/player_23804.html">Tyler Callihan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ground out U3 (Groundball, 3, EV 102.5 MPH)
+[%B]	DELAY
+[%N]	Rain delay of 15 minutes in the 5th inning. 
+[%B]	Batting: RHB <a href="../players/player_1691.html">Moisés Castillo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 25F
+[%N]	1-2: Strikes out swinging, 2-3 out at first.
+[%B]	Batting: RHB <a href="../players/player_1102.html">Logan Tanner</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 7LSF
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 5-3 (Groundball, 56S, EV 86.3 MPH)
+[%F]	Bottom of the 5th over - 0 runs, 0 hits, 0 errors, 0 left on base; Toledo 2 - Louisville 1
+[%T]	Top of the 6th - Toledo Mud Hens batting - Pitching for Louisville Bats : LHP <a href="../players/player_37543.html">Omar Cruz</a>
+[%B]	Batting: RHB <a href="../players/player_18706.html">Andre Lipcius</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: <b>SINGLE</b>  (Groundball, 6MD, EV 106.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_25310.html">Ryan Kreidler</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Grounds into double play, 6-4-3 (Groundball, 6, EV 103.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_815.html">Mario Feliciano</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LXD, EV 110.6 MPH)
+[%F]	Top of the 6th over - 0 runs, 1 hit, 0 errors, 0 left on base; Toledo 2 - Louisville 1
+[%T]	Bottom of the 6th - Louisville Bats batting - Pitching for Toledo Mud Hens : RHP <a href="../players/player_45313.html">Troy Melton</a>
+[%B]	Batting: SHB <a href="../players/player_40241.html">Johnny Ascanio</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 23F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_39124.html">Elio Prado</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 5, EV 89.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_44684.html">Cam Collier</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 25F
+[%N]	2-2: Fielders Choice at 2nd, 1-6 (Groundball, 13S, EV 61.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_18502.html">James Beard</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F8  (Line Drive, 8LM, EV 91.3 MPH)
+[%F]	Bottom of the 6th over - 0 runs, 1 hit, 0 errors, 1 left on base; Toledo 2 - Louisville 1
+[%T]	Top of the 7th - Toledo Mud Hens batting - Pitching for Louisville Bats : LHP <a href="../players/player_37543.html">Omar Cruz</a>
+[%B]	Batting: RHB <a href="../players/player_30362.html">C.J. Hinojosa</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: <b>DOUBLE</b>  (Flyball, 78XD, EV 92.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_23090.html">Dominic Canzone</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 78M, EV 95.0 MPH)
+[%N]	<a href="../players/player_30362.html">C.J. Hinojosa</a> to third
+[%B]	Batting: RHB <a href="../players/player_1309.html">Peyton Graham</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 9LMF
+[%N]	2-2: Foul Ball, location: 5FF
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_36336.html">Alec Bohm</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F6  (Line Drive, 6, EV 71.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_19254.html">Kerry Carpenter</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 7S, EV 105.0 MPH)
+[%N]	<b><a href="../players/player_30362.html">C.J. Hinojosa</a> scores</b>
+[%N]	<a href="../players/player_23090.html">Dominic Canzone</a> to second
+[%B]	Pitching: RHP <a href="../players/player_39597.html">Zach Maxwell</a>
+[%B]	Batting: LHB <a href="../players/player_30352.html">Travis Jankowski</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Hit by Pitch
+[%N]	<a href="../players/player_23090.html">Dominic Canzone</a> to third
+[%N]	<a href="../players/player_19254.html">Kerry Carpenter</a> to second
+[%B]	Batting: RHB <a href="../players/player_18706.html">Andre Lipcius</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 9LDF
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 7th over - 1 run, 3 hits, 0 errors, 3 left on base; Toledo 3 - Louisville 1
+[%T]	Bottom of the 7th - Louisville Bats batting - Pitching for Toledo Mud Hens : RHP <a href="../players/player_45313.html">Troy Melton</a>
+[%B]	Batting: SHB <a href="../players/player_37558.html">Derwin Barreto</a>
+[%N]	0-0: Foul Ball, location: 7LMF
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ground out 4-3 (Groundball, 4, EV 91.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_23807.html">Nicholas Northcut</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 9LDF
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 4MD, EV 107.5 MPH)
+[%B]	Pitching: LHP <a href="../players/player_12182.html">Andrew Misiaszek</a>
+[%B]	Batting: LHB <a href="../players/player_23804.html">Tyler Callihan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 7LDF
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 6M, EV 89.4 MPH) (infield hit)
+[%N]	<a href="../players/player_23807.html">Nicholas Northcut</a> to second
+[%B]	Batting: RHB <a href="../players/player_1691.html">Moisés Castillo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Grounds into double play, 6-4-3 (Groundball, 6, EV 108.1 MPH)
+[%F]	Bottom of the 7th over - 0 runs, 2 hits, 0 errors, 1 left on base; Toledo 3 - Louisville 1
+[%T]	Top of the 8th - Toledo Mud Hens batting - Pitching for Louisville Bats : RHP <a href="../players/player_39597.html">Zach Maxwell</a>
+[%B]	Batting: RHB <a href="../players/player_25310.html">Ryan Kreidler</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 23FF
+[%N]	1-2: Foul Ball, location: 23F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_815.html">Mario Feliciano</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 6MD, EV 104.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_30362.html">C.J. Hinojosa</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 9LSF
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_23090.html">Dominic Canzone</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 25F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging
+[%F]	Top of the 8th over - 0 runs, 1 hit, 0 errors, 1 left on base; Toledo 3 - Louisville 1
+[%T]	Bottom of the 8th - Louisville Bats batting - Pitching for Toledo Mud Hens : LHP <a href="../players/player_12182.html">Andrew Misiaszek</a>
+[%B]	Batting: RHB <a href="../players/player_1102.html">Logan Tanner</a>
+[%N]	0-0: Foul Ball, location: 5F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 3SF
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 25F
+[%N]	2-2: Foul Ball, location: 9LSF
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 3SF
+[%N]	2-2: Foul Ball, location: 7LMF
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_40241.html">Johnny Ascanio</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_39124.html">Elio Prado</a>
+[%N]	0-0: Foul Ball, location: 25F
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 7LSF
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 25F
+[%N]	3-2: Strikes out swinging
+[%F]	Bottom of the 8th over - 0 runs, 0 hits, 0 errors, 0 left on base; Toledo 3 - Louisville 1
+[%T]	Top of the 9th - Toledo Mud Hens batting - Pitching for Louisville Bats : RHP <a href="../players/player_39597.html">Zach Maxwell</a>
+[%B]	Pitching: RHP <a href="../players/player_37649.html">Adrian Hernandez</a>
+[%B]	Batting: RHB <a href="../players/player_1309.html">Peyton Graham</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 6-3 (Groundball, 6S, EV 67.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_36336.html">Alec Bohm</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_19254.html">Kerry Carpenter</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 4MD, EV 95.0 MPH)
+[%N]	<a href="../players/player_36336.html">Alec Bohm</a> to second
+[%B]	Batting: LHB <a href="../players/player_30352.html">Travis Jankowski</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 3SF
+[%N]	0-2: Fielders Choice at 2nd, 6-4 (Groundball, 6M, EV 88.1 MPH)
+[%N]	<a href="../players/player_36336.html">Alec Bohm</a> to third
+[%B]	Batting: RHB <a href="../players/player_18706.html">Andre Lipcius</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Foul Ball, location: 3F
+[%N]	3-2: Foul Ball, location: 3SF
+[%N]	3-2: Ground out 6-3 (Groundball, 56, EV 83.8 MPH)
+[%F]	Top of the 9th over - 0 runs, 1 hit, 0 errors, 2 left on base; Toledo 3 - Louisville 1
+[%T]	Bottom of the 9th - Louisville Bats batting - Pitching for Toledo Mud Hens : LHP <a href="../players/player_12182.html">Andrew Misiaszek</a>
+[%B]	Pitching: RHP <a href="../players/player_23695.html">Luis Medina</a>
+[%B]	Now in LF: <a href="../players/player_39000.html">Jose De La Cruz</a>
+[%B]	Batting: LHB <a href="../players/player_44684.html">Cam Collier</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1:  Fly out, F4  (Line Drive, 4, EV 90.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_18502.html">James Beard</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2LF
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 3SF
+[%N]	1-2:  Fly out, F6  (Popup, 6, EV 70.0 MPH)
+[%B]	Batting: SHB <a href="../players/player_37558.html">Derwin Barreto</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 6MD, EV 98.1 MPH)
+[%B]	Pitching: LHP <a href="../players/player_38629.html">Luke Little</a>
+[%B]	Batting: RHB <a href="../players/player_23807.html">Nicholas Northcut</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out swinging
+[%F]	Bottom of the 9th over - 0 runs, 1 hit, 0 errors, 1 left on base; Toledo 3 - Louisville 1

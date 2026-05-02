@@ -1,0 +1,445 @@
+[%T]	Top of the 1st - Columbus Clippers batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_36732.html">CJ Van Eyk</a>
+[%B]	Pitching: RHP <a href="../players/player_36732.html">CJ Van Eyk</a>
+[%B]	Batting: RHB <a href="../players/player_32197.html">Thairo Estrada</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 9LDF
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F7  (Flyball, 7S, EV 80.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_24870.html">Milan Tolentino</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 4-3 (Groundball, 34, EV 109.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_22108.html">Yainer Diaz</a>
+[%N]	0-0:  Fly out, F4  (Popup, 34S, EV 70.0 MPH)
+[%F]	Top of the 1st over - 0 runs, 0 hits, 0 errors, 0 left on base; Columbus 0 - Buffalo 0
+[%T]	Bottom of the 1st - Buffalo Bisons batting - Pitching for Columbus Clippers : RHP <a href="../players/player_38033.html">Braunny Munoz</a>
+[%B]	Pitching: RHP <a href="../players/player_38033.html">Braunny Munoz</a>
+[%B]	Batting: RHB <a href="../players/player_41206.html">Druw Jones</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 23FF
+[%N]	2-1: Foul Ball, location: 9LSF
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_39072.html">Yoander Rivero</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F2  (Popup, 13S, EV 86.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_47832.html">Jaden Rudd</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 9LDF
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%F]	Bottom of the 1st over - 0 runs, 0 hits, 0 errors, 0 left on base; Columbus 0 - Buffalo 0
+[%T]	Top of the 2nd - Columbus Clippers batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_36732.html">CJ Van Eyk</a>
+[%B]	Batting: LHB <a href="../players/player_41641.html">Chase DeLauter</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 4-3 (Groundball, 4, EV 86.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_45366.html">Pres Cavenaugh</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F8  (Flyball, 8RXD, EV 92.5 MPH)
+[%B]	Batting: SHB <a href="../players/player_36870.html">Aaron Bracho</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2RF
+[%N]	2-2: Foul Ball, location: 7LSF
+[%N]	2-2: Foul Ball, location: 3FF
+[%N]	2-2: Foul Ball, location: 5SF
+[%N]	2-2: <b>SINGLE</b>  (Flyball, 8LS, EV 91.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_36768.html">Johnathan Rodriguez</a>
+[%N]	0-0:  <b>2-RUN HOME RUN</b>  (Flyball, 89XD, EV 101.3 MPH), Distance : 399 ft
+[%B]	Batting: RHB <a href="../players/player_23950.html">Joey Bart</a>
+[%N]	0-0: Foul Ball, location: 3FF
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 89S, EV 90.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_38995.html">Gabriel Rodriguez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F9  (Flyball, 9D, EV 98.1 MPH)
+[%F]	Top of the 2nd over - 2 runs, 3 hits, 0 errors, 1 left on base; Columbus 2 - Buffalo 0
+[%T]	Bottom of the 2nd - Buffalo Bisons batting - Pitching for Columbus Clippers : RHP <a href="../players/player_38033.html">Braunny Munoz</a>
+[%B]	Batting: LHB <a href="../players/player_48328.html">J.J. Wetherholt</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F8  (Flyball, 78S, EV 74.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_26156.html">Damiano Palmegiani</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 5FF
+[%N]	1-2: Hit by Pitch
+[%B]	Batting: LHB <a href="../players/player_45096.html">Michael Turconi</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	<a href="../players/player_26156.html">Damiano Palmegiani</a> is caught stealing 2nd base 2-6
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ground out U3 (Groundball, 3D, EV 100.6 MPH)
+[%F]	Bottom of the 2nd over - 0 runs, 0 hits, 0 errors, 0 left on base; Columbus 2 - Buffalo 0
+[%T]	Top of the 3rd - Columbus Clippers batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_36732.html">CJ Van Eyk</a>
+[%B]	Batting: RHB <a href="../players/player_32197.html">Thairo Estrada</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 9LMF
+[%N]	0-2: Hit by Pitch
+[%B]	Batting: LHB <a href="../players/player_24870.html">Milan Tolentino</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	Passed Ball!
+[%N]	<a href="../players/player_32197.html">Thairo Estrada</a> to second
+[%N]	3-0: Called Strike
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2:  <b>2-RUN HOME RUN</b>  (Flyball, 89XD, EV 105.0 MPH), Distance : 401 ft
+[%B]	Batting: RHB <a href="../players/player_22108.html">Yainer Diaz</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 7S, EV 105.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_41641.html">Chase DeLauter</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 8RD, EV 94.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_45366.html">Pres Cavenaugh</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: <b>SINGLE</b>  (Groundball, 6MD, EV 96.9 MPH)
+[%N]	<a href="../players/player_22108.html">Yainer Diaz</a> to second
+[%B]	Batting: SHB <a href="../players/player_36870.html">Aaron Bracho</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 78S, EV 97.5 MPH)
+[%N]	<a href="../players/player_22108.html">Yainer Diaz</a> to third
+[%N]	<a href="../players/player_45366.html">Pres Cavenaugh</a> to second
+[%B]	Batting: RHB <a href="../players/player_36768.html">Johnathan Rodriguez</a>
+[%N]	0-0:  Fly out, F1  (Line Drive, P, EV 66.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_23950.html">Joey Bart</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 3rd over - 2 runs, 4 hits, 0 errors, 3 left on base; Columbus 4 - Buffalo 0
+[%T]	Bottom of the 3rd - Buffalo Bisons batting - Pitching for Columbus Clippers : RHP <a href="../players/player_38033.html">Braunny Munoz</a>
+[%B]	Batting: RHB <a href="../players/player_21777.html">Francisco Acuña</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Flyball, 9LM, EV 88.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_36429.html">Will Banfield</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 34D, EV 101.3 MPH)
+[%N]	<a href="../players/player_21777.html">Francisco Acuña</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw by RF made to third
+[%B]	Batting: RHB <a href="../players/player_25369.html">Stephen Alemais</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7, EV 91.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_41206.html">Druw Jones</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 5F
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_39072.html">Yoander Rivero</a>
+[%N]	0-0: Fielders Choice at 2nd, 6-4 (Groundball, 6, EV 104.4 MPH)
+[%F]	Bottom of the 3rd over - 0 runs, 2 hits, 0 errors, 2 left on base; Columbus 4 - Buffalo 0
+[%T]	Top of the 4th - Columbus Clippers batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_36732.html">CJ Van Eyk</a>
+[%B]	Batting: RHB <a href="../players/player_38995.html">Gabriel Rodriguez</a>
+[%N]	0-0:  <b>SOLO HOME RUN</b>  (Flyball, 8RXD, EV 102.5 MPH), Distance : 416 ft
+[%B]	Pitching: RHP <a href="../players/player_34632.html">Yonny Chirinos</a>
+[%B]	Batting: RHB <a href="../players/player_32197.html">Thairo Estrada</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 9LDF
+[%N]	0-2: Ground out 6-3 (Groundball, 6, EV 85.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_24870.html">Milan Tolentino</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 3F
+[%N]	1-2: Foul Ball, location: 23F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 4MD, EV 106.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_22108.html">Yainer Diaz</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>DOUBLE</b>  (Flyball, 78D, EV 103.8 MPH)
+[%N]	<a href="../players/player_24870.html">Milan Tolentino</a> to third
+[%B]	Batting: LHB <a href="../players/player_41641.html">Chase DeLauter</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 4MD, EV 96.9 MPH)
+[%N]	<b><a href="../players/player_24870.html">Milan Tolentino</a> scores</b>
+[%N]	<a href="../players/player_22108.html">Yainer Diaz</a> to third
+[%B]	Batting: LHB <a href="../players/player_45366.html">Pres Cavenaugh</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LM, EV 92.5 MPH)
+[%N]	Runner from 3rd tags up, OUT at HOME! 8-2
+[%F]	Top of the 4th over - 2 runs, 4 hits, 0 errors, 1 left on base; Columbus 6 - Buffalo 0
+[%T]	Bottom of the 4th - Buffalo Bisons batting - Pitching for Columbus Clippers : RHP <a href="../players/player_38033.html">Braunny Munoz</a>
+[%B]	Batting: LHB <a href="../players/player_47832.html">Jaden Rudd</a>
+[%N]	0-0: Foul Ball, location: 23FF
+[%N]	0-1: Foul Ball, location: 25FF
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_48328.html">J.J. Wetherholt</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 6-3 (Groundball, 6, EV 88.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_26156.html">Damiano Palmegiani</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 4MD, EV 107.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_45096.html">Michael Turconi</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%F]	Bottom of the 4th over - 0 runs, 1 hit, 0 errors, 1 left on base; Columbus 6 - Buffalo 0
+[%T]	Top of the 5th - Columbus Clippers batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_34632.html">Yonny Chirinos</a>
+[%B]	Batting: SHB <a href="../players/player_36870.html">Aaron Bracho</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 7LDF
+[%N]	0-2: Ball
+[%N]	1-2:  <b>SOLO HOME RUN</b>  (Flyball, 78XD, EV 101.3 MPH), Distance : 399 ft
+[%B]	Batting: RHB <a href="../players/player_36768.html">Johnathan Rodriguez</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 8RS, EV 92.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_23950.html">Joey Bart</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 78M, EV 96.3 MPH)
+[%N]	<a href="../players/player_36768.html">Johnathan Rodriguez</a> to second
+[%N]	<a href="../players/player_36768.html">Johnathan Rodriguez</a> to third
+[%B]	Batting: RHB <a href="../players/player_38995.html">Gabriel Rodriguez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Grounds into double play, 6-4-3 (Groundball, 6, EV 86.3 MPH)
+[%N]	<b><a href="../players/player_36768.html">Johnathan Rodriguez</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_32197.html">Thairo Estrada</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F3  (Popup, 3F, EV 59.4 MPH)
+[%F]	Top of the 5th over - 2 runs, 3 hits, 0 errors, 0 left on base; Columbus 8 - Buffalo 0
+[%T]	Bottom of the 5th - Buffalo Bisons batting - Pitching for Columbus Clippers : RHP <a href="../players/player_38033.html">Braunny Munoz</a>
+[%B]	Batting: RHB <a href="../players/player_21777.html">Francisco Acuña</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Foul Ball, location: 5F
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_36429.html">Will Banfield</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ground out 5-3 (Groundball, 5, EV 85.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_25369.html">Stephen Alemais</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F4  (Popup, 4D, EV 66.9 MPH)
+[%F]	Bottom of the 5th over - 0 runs, 0 hits, 0 errors, 0 left on base; Columbus 8 - Buffalo 0
+[%T]	Top of the 6th - Columbus Clippers batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_34632.html">Yonny Chirinos</a>
+[%B]	Batting: LHB <a href="../players/player_24870.html">Milan Tolentino</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 9LSF
+[%N]	2-1: <b>DOUBLE</b>  (Line Drive, 7LM, EV 100.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_22108.html">Yainer Diaz</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 23FF
+[%N]	0-2: Foul Ball, location: 5SF
+[%N]	0-2: <b>DOUBLE</b>  (Line Drive, 7LD, EV 111.3 MPH)
+[%N]	<b><a href="../players/player_24870.html">Milan Tolentino</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_41641.html">Chase DeLauter</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 34D, EV 102.5 MPH)
+[%N]	<a href="../players/player_22108.html">Yainer Diaz</a> to third
+[%B]	Batting: LHB <a href="../players/player_45366.html">Pres Cavenaugh</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Line Drive, 89M, EV 91.3 MPH)
+[%B]	Batting: SHB <a href="../players/player_36870.html">Aaron Bracho</a>
+[%N]	0-0: Foul Ball, location: 7LMF
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2:  Fly out, F7  (Flyball, 7S, EV 90.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_36768.html">Johnathan Rodriguez</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 9LDF
+[%N]	1-2: Strikes out looking
+[%F]	Top of the 6th over - 1 run, 3 hits, 0 errors, 2 left on base; Columbus 9 - Buffalo 0
+[%T]	Bottom of the 6th - Buffalo Bisons batting - Pitching for Columbus Clippers : RHP <a href="../players/player_38033.html">Braunny Munoz</a>
+[%B]	Batting: RHB <a href="../players/player_41206.html">Druw Jones</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 78M, EV 93.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_39072.html">Yoander Rivero</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 9LS, EV 96.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_47832.html">Jaden Rudd</a>
+[%N]	0-0: Grounds into double play, 4-6-3 (Groundball, 4, EV 90.0 MPH)
+[%F]	Bottom of the 6th over - 0 runs, 1 hit, 0 errors, 0 left on base; Columbus 9 - Buffalo 0
+[%T]	Top of the 7th - Columbus Clippers batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_34632.html">Yonny Chirinos</a>
+[%B]	Batting: RHB <a href="../players/player_23950.html">Joey Bart</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 3FF
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F5  (Line Drive, 56, EV 65.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_38995.html">Gabriel Rodriguez</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 5SF
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F7  (Flyball, 7LM, EV 95.0 MPH)
+[%B]	Pinch Hitting: LHB <a href="../players/player_47828.html">Jake Fox</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 5SF
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%F]	Top of the 7th over - 0 runs, 0 hits, 0 errors, 0 left on base; Columbus 9 - Buffalo 0
+[%T]	Bottom of the 7th - Buffalo Bisons batting - Pitching for Columbus Clippers : RHP <a href="../players/player_38033.html">Braunny Munoz</a>
+[%B]	Now at 2B: <a href="../players/player_47828.html">Jake Fox</a>
+[%B]	Batting: LHB <a href="../players/player_48328.html">J.J. Wetherholt</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 4D, EV 94.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_26156.html">Damiano Palmegiani</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 5D, EV 105.0 MPH)
+[%N]	<a href="../players/player_48328.html">J.J. Wetherholt</a> to second
+[%N]	<a href="../players/player_48328.html">J.J. Wetherholt</a> to third
+[%B]	Batting: LHB <a href="../players/player_45096.html">Michael Turconi</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 9LS, EV 98.8 MPH)
+[%N]	<b><a href="../players/player_48328.html">J.J. Wetherholt</a> scores</b>
+[%N]	<a href="../players/player_26156.html">Damiano Palmegiani</a> to second
+[%B]	Batting: RHB <a href="../players/player_21777.html">Francisco Acuña</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 25F
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_36429.html">Will Banfield</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Swinging Strike
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_26156.html">Damiano Palmegiani</a> to third
+[%N]	<a href="../players/player_45096.html">Michael Turconi</a> to second
+[%B]	Pinch Hitting: LHB <a href="../players/player_24114.html">Tyler Keenan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_41206.html">Druw Jones</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 5FF
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 5F
+[%N]	2-2:  <b>GRAND SLAM HOME RUN</b>  (Flyball, 8LXD, EV 108.8 MPH), Distance : 424 ft
+[%B]	Pitching: RHP <a href="../players/player_19922.html">James Karinchak</a>
+[%B]	Batting: RHB <a href="../players/player_39072.html">Yoander Rivero</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%F]	Bottom of the 7th over - 5 runs, 4 hits, 0 errors, 0 left on base; Columbus 9 - Buffalo 5
+[%T]	Top of the 8th - Columbus Clippers batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_34632.html">Yonny Chirinos</a>
+[%B]	Pitching: LHP <a href="../players/player_38319.html">Alex Vesia</a>
+[%B]	Now at 1B: <a href="../players/player_24114.html">Tyler Keenan</a>
+[%B]	Now at 3B: <a href="../players/player_48328.html">J.J. Wetherholt</a>
+[%B]	Now at SS: <a href="../players/player_21777.html">Francisco Acuña</a>
+[%B]	Now in RF: <a href="../players/player_47832.html">Jaden Rudd</a>
+[%B]	Batting: LHB <a href="../players/player_24870.html">Milan Tolentino</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 3D, EV 106.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_22108.html">Yainer Diaz</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_24870.html">Milan Tolentino</a> is caught stealing 2nd base 2-4
+[%N]	1-0: Swinging Strike
+[%N]	1-1: <b>DOUBLE</b>  (Groundball, 5L, EV 96.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_41641.html">Chase DeLauter</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Flyball, 9, EV 83.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_45366.html">Pres Cavenaugh</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F7  (Flyball, 78M, EV 88.8 MPH)
+[%F]	Top of the 8th over - 0 runs, 2 hits, 0 errors, 1 left on base; Columbus 9 - Buffalo 5
+[%T]	Bottom of the 8th - Buffalo Bisons batting - Pitching for Columbus Clippers : RHP <a href="../players/player_19922.html">James Karinchak</a>
+[%B]	Batting: LHB <a href="../players/player_47832.html">Jaden Rudd</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 25F
+[%N]	1-2:  Fly out, F8  (Flyball, 8LM, EV 89.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_48328.html">J.J. Wetherholt</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 9S, EV 105.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_26156.html">Damiano Palmegiani</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_48328.html">J.J. Wetherholt</a> to second
+[%B]	Batting: LHB <a href="../players/player_45096.html">Michael Turconi</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: <b>SINGLE</b>  (Flyball, 78S, EV 91.9 MPH)
+[%N]	<a href="../players/player_48328.html">J.J. Wetherholt</a> to third
+[%N]	<a href="../players/player_26156.html">Damiano Palmegiani</a> to second
+[%B]	Batting: RHB <a href="../players/player_21777.html">Francisco Acuña</a>
+[%N]	0-0: Grounds into fielders choice 1-2 (Groundball, 13S, EV 67.5 MPH)
+[%N]	<a href="../players/player_26156.html">Damiano Palmegiani</a> to third
+[%N]	<a href="../players/player_45096.html">Michael Turconi</a> to second
+[%B]	Batting: RHB <a href="../players/player_36429.html">Will Banfield</a>
+[%N]	0-0: Foul Ball, location: 5F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out swinging
+[%F]	Bottom of the 8th over - 0 runs, 2 hits, 0 errors, 3 left on base; Columbus 9 - Buffalo 5
+[%T]	Top of the 9th - Columbus Clippers batting - Pitching for Buffalo Bisons : LHP <a href="../players/player_38319.html">Alex Vesia</a>
+[%B]	Batting: SHB <a href="../players/player_36870.html">Aaron Bracho</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ground out 6-3 (Groundball, 6, EV 83.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_36768.html">Johnathan Rodriguez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 5SF
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_23950.html">Joey Bart</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Flyball, 7D, EV 85.6 MPH)
+[%F]	Top of the 9th over - 0 runs, 0 hits, 0 errors, 0 left on base; Columbus 9 - Buffalo 5
+[%T]	Bottom of the 9th - Buffalo Bisons batting - Pitching for Columbus Clippers : RHP <a href="../players/player_19922.html">James Karinchak</a>
+[%B]	Batting: LHB <a href="../players/player_24114.html">Tyler Keenan</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 7LDF
+[%N]	3-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_41206.html">Druw Jones</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 56, EV 79.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_39072.html">Yoander Rivero</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Line Drive, 7S, EV 94.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_47832.html">Jaden Rudd</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F9  (Line Drive, 9S, EV 97.5 MPH)
+[%F]	Bottom of the 9th over - 0 runs, 1 hit, 0 errors, 1 left on base; Columbus 9 - Buffalo 5

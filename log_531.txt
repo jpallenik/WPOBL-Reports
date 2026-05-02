@@ -1,0 +1,404 @@
+[%T]	Top of the 1st - Worcester Red Sox batting - Pitching for Nashville Sounds : LHP <a href="../players/player_40985.html">Josh Hartle</a>
+[%B]	Pitching: LHP <a href="../players/player_40985.html">Josh Hartle</a>
+[%B]	Batting: LHB <a href="../players/player_36955.html">Wilyer Abreu</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 7LMF
+[%N]	2-2:  <b>SOLO HOME RUN</b>  (Flyball, 89XD, EV 101.3 MPH), Distance : 397 ft
+[%B]	Batting: RHB <a href="../players/player_21455.html">Kevin Newman</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 9LMF
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F2  (Popup, 3SF, EV 78.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_32282.html">Eloy Jiménez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 7S, EV 86.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_40960.html">Chase Meidroth</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Line Drive, 9LM, EV 90.6 MPH)
+[%N]	<a href="../players/player_32282.html">Eloy Jiménez</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw by RF made at trailing runner, OUT! 9-3-6
+[%B]	Batting: RHB <a href="../players/player_41195.html">Damon Keith</a>
+[%N]	0-0: Foul Ball, location: 3DF
+[%N]	0-1:  <b>2-RUN HOME RUN</b>  (Flyball, 7D, EV 96.3 MPH), Distance : 367 ft
+[%B]	Batting: RHB <a href="../players/player_33564.html">Jose Siri</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 5SF
+[%N]	1-2: Ground out 5-3 (Groundball, 56S, EV 66.9 MPH)
+[%F]	Top of the 1st over - 3 runs, 4 hits, 0 errors, 0 left on base; Worcester 3 - Nashville 0
+[%T]	Bottom of the 1st - Nashville Sounds batting - Pitching for Worcester Red Sox : RHP <a href="../players/player_37438.html">Brayan Bello</a>
+[%B]	Pitching: RHP <a href="../players/player_37438.html">Brayan Bello</a>
+[%B]	Batting: LHB <a href="../players/player_38703.html">Will Brennan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 34D, EV 96.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_48935.html">Gregory Barrios</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 2L, EV 68.1 MPH) (infield hit)
+[%N]	<a href="../players/player_38703.html">Will Brennan</a> to second
+[%B]	Batting: LHB <a href="../players/player_1741.html">Darrien Miller</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_38703.html">Will Brennan</a> to third
+[%N]	<a href="../players/player_48935.html">Gregory Barrios</a> to second
+[%B]	Batting: LHB <a href="../players/player_42537.html">Caden Grice</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_41191.html">CJ Kayfus</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 4MD, EV 101.3 MPH)
+[%N]	<b><a href="../players/player_38703.html">Will Brennan</a> scores</b>
+[%N]	<a href="../players/player_48935.html">Gregory Barrios</a> to third
+[%N]	<a href="../players/player_1741.html">Darrien Miller</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by CF to trailing runner, OUT at third! 8-3-5</b>
+[%B]	Batting: RHB <a href="../players/player_46589.html">Ajay Sczepkowski</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2:  Fly out, F7  (Flyball, 7, EV 90.0 MPH)
+[%F]	Bottom of the 1st over - 2 runs, 3 hits, 0 errors, 1 left on base; Worcester 3 - Nashville 2
+[%T]	Top of the 2nd - Worcester Red Sox batting - Pitching for Nashville Sounds : LHP <a href="../players/player_40985.html">Josh Hartle</a>
+[%B]	Batting: RHB <a href="../players/player_40234.html">Lyonell James</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out looking
+[%B]	Batting: SHB <a href="../players/player_37741.html">Gilberto Jimenez</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 8LS, EV 99.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_43655.html">Reagan Burford</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_37741.html">Gilberto Jimenez</a> steals 2nd base
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_36955.html">Wilyer Abreu</a>
+[%N]	0-0: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_37741.html">Gilberto Jimenez</a> to third
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 7LMF
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out looking
+[%F]	Top of the 2nd over - 0 runs, 1 hit, 0 errors, 1 left on base; Worcester 3 - Nashville 2
+[%T]	Bottom of the 2nd - Nashville Sounds batting - Pitching for Worcester Red Sox : RHP <a href="../players/player_37438.html">Brayan Bello</a>
+[%B]	Batting: RHB <a href="../players/player_26574.html">Micah Bello</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ground out 6-3 (Groundball, 6, EV 82.5 MPH)
+[%B]	Batting: SHB <a href="../players/player_49415.html">Kaylan Nicasia</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2:  Fly out, F8  (Flyball, 8LD, EV 108.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_46722.html">Ben Nippolt</a>
+[%N]	0-0:  Fly out, F8  (Line Drive, 8LS, EV 105.6 MPH)
+[%F]	Bottom of the 2nd over - 0 runs, 0 hits, 0 errors, 0 left on base; Worcester 3 - Nashville 2
+[%T]	Top of the 3rd - Worcester Red Sox batting - Pitching for Nashville Sounds : LHP <a href="../players/player_40985.html">Josh Hartle</a>
+[%B]	Batting: RHB <a href="../players/player_21455.html">Kevin Newman</a>
+[%N]	0-0: Ball
+[%N]	1-0: Reached on error, E5 (Groundball, 56S, EV 76.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_32282.html">Eloy Jiménez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 7LMFF
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 3D, EV 96.9 MPH)
+[%N]	<a href="../players/player_21455.html">Kevin Newman</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw by RF made to third
+[%B]	Batting: RHB <a href="../players/player_40960.html">Chase Meidroth</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Fielders Choice at 2nd, 6-4 (Groundball, 6, EV 103.1 MPH)
+[%N]	<b><a href="../players/player_21455.html">Kevin Newman</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_41195.html">Damon Keith</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: <b>SINGLE</b>  (Groundball, 56, EV 105.6 MPH)
+[%N]	<a href="../players/player_40960.html">Chase Meidroth</a> to second
+[%B]	Batting: RHB <a href="../players/player_33564.html">Jose Siri</a>
+[%N]	0-0:  Fly out, F6  (Line Drive, 6, EV 66.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_40234.html">Lyonell James</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out U3 (Groundball, 34, EV 88.8 MPH)
+[%F]	Top of the 3rd over - 1 run, 2 hits, 1 error, 2 left on base; Worcester 4 - Nashville 2
+[%T]	Bottom of the 3rd - Nashville Sounds batting - Pitching for Worcester Red Sox : RHP <a href="../players/player_37438.html">Brayan Bello</a>
+[%B]	Batting: LHB <a href="../players/player_38703.html">Will Brennan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 3F
+[%N]	2-2:  Fly out, F9  (Flyball, 9S, EV 84.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_48935.html">Gregory Barrios</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4, EV 80.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_1741.html">Darrien Miller</a>
+[%N]	0-0: Foul Ball, location: 25F
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F8  (Line Drive, 8RS, EV 90.6 MPH)
+[%F]	Bottom of the 3rd over - 0 runs, 0 hits, 0 errors, 0 left on base; Worcester 4 - Nashville 2
+[%T]	Top of the 4th - Worcester Red Sox batting - Pitching for Nashville Sounds : LHP <a href="../players/player_40985.html">Josh Hartle</a>
+[%B]	Batting: SHB <a href="../players/player_37741.html">Gilberto Jimenez</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 7S, EV 103.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_43655.html">Reagan Burford</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 34D, EV 96.9 MPH)
+[%N]	<a href="../players/player_37741.html">Gilberto Jimenez</a> to second
+[%B]	Batting: LHB <a href="../players/player_36955.html">Wilyer Abreu</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Fielders Choice at 2nd, 4-6 (Groundball, 4M, EV 88.8 MPH)
+[%N]	<a href="../players/player_37741.html">Gilberto Jimenez</a> to third
+[%B]	Batting: RHB <a href="../players/player_21455.html">Kevin Newman</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 4MD, EV 102.5 MPH)
+[%N]	<b><a href="../players/player_37741.html">Gilberto Jimenez</a> scores</b>
+[%N]	<a href="../players/player_36955.html">Wilyer Abreu</a> to second
+[%B]	Batting: RHB <a href="../players/player_32282.html">Eloy Jiménez</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LXD, EV 103.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_40960.html">Chase Meidroth</a>
+[%N]	0-0: <b>DOUBLE</b>  (Flyball, 8LXD, EV 103.1 MPH)
+[%N]	<b><a href="../players/player_36955.html">Wilyer Abreu</a> scores</b>
+[%N]	<a href="../players/player_21455.html">Kevin Newman</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw by CF</b>
+[%B]	Pitching: RHP <a href="../players/player_262.html">Ryan Hawks</a>
+[%B]	Batting: RHB <a href="../players/player_41195.html">Damon Keith</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2:  Fly out, F8  (Flyball, 8LD, EV 102.5 MPH)
+[%F]	Top of the 4th over - 3 runs, 4 hits, 0 errors, 1 left on base; Worcester 7 - Nashville 2
+[%T]	Bottom of the 4th - Nashville Sounds batting - Pitching for Worcester Red Sox : RHP <a href="../players/player_37438.html">Brayan Bello</a>
+[%B]	Batting: LHB <a href="../players/player_42537.html">Caden Grice</a>
+[%N]	0-0: Foul Ball, location: 7LMF
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_41191.html">CJ Kayfus</a>
+[%N]	0-0: Foul Ball, location: 7LMF
+[%N]	0-1: Foul Ball, location: 3FF
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 9LMF
+[%N]	1-2:  Fly out, F6  (Popup, 15, EV 71.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_46589.html">Ajay Sczepkowski</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%F]	Bottom of the 4th over - 0 runs, 0 hits, 0 errors, 0 left on base; Worcester 7 - Nashville 2
+[%T]	Top of the 5th - Worcester Red Sox batting - Pitching for Nashville Sounds : RHP <a href="../players/player_262.html">Ryan Hawks</a>
+[%B]	Batting: RHB <a href="../players/player_33564.html">Jose Siri</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ground out 5-3 (Groundball, 56S, EV 68.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_40234.html">Lyonell James</a>
+[%N]	0-0:  Fly out, F4  (Popup, 3DF, EV 46.9 MPH)
+[%B]	Batting: SHB <a href="../players/player_37741.html">Gilberto Jimenez</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: <b>SINGLE</b>  (Line Drive, 5D, EV 98.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_43655.html">Reagan Burford</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 5F
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 5th over - 0 runs, 1 hit, 0 errors, 1 left on base; Worcester 7 - Nashville 2
+[%T]	Bottom of the 5th - Nashville Sounds batting - Pitching for Worcester Red Sox : RHP <a href="../players/player_37438.html">Brayan Bello</a>
+[%B]	Batting: RHB <a href="../players/player_26574.html">Micah Bello</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 25F
+[%N]	2-2: Strikes out looking
+[%B]	Batting: SHB <a href="../players/player_49415.html">Kaylan Nicasia</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2:  <b>SOLO HOME RUN</b>  (Flyball, 9D, EV 94.4 MPH), Distance : 366 ft
+[%B]	Batting: LHB <a href="../players/player_46722.html">Ben Nippolt</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 6-3 (Groundball, 56D, EV 83.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_38703.html">Will Brennan</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ground out 6-3 (Groundball, 6, EV 87.5 MPH)
+[%F]	Bottom of the 5th over - 1 run, 1 hit, 0 errors, 0 left on base; Worcester 7 - Nashville 3
+[%T]	Top of the 6th - Worcester Red Sox batting - Pitching for Nashville Sounds : RHP <a href="../players/player_262.html">Ryan Hawks</a>
+[%B]	Batting: LHB <a href="../players/player_36955.html">Wilyer Abreu</a>
+[%N]	0-0: Foul Ball, location: 23F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 34D, EV 104.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_21455.html">Kevin Newman</a>
+[%N]	0-0:  Fly out, F7  (Line Drive, 7, EV 90.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_32282.html">Eloy Jiménez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F8  (Flyball, 8RM, EV 87.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_40960.html">Chase Meidroth</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 7LSF
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 7S, EV 98.1 MPH)
+[%N]	<a href="../players/player_36955.html">Wilyer Abreu</a> to second
+[%B]	Batting: RHB <a href="../players/player_41195.html">Damon Keith</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 5-3 (Groundball, 56S, EV 78.8 MPH)
+[%F]	Top of the 6th over - 0 runs, 2 hits, 0 errors, 2 left on base; Worcester 7 - Nashville 3
+[%T]	Bottom of the 6th - Nashville Sounds batting - Pitching for Worcester Red Sox : RHP <a href="../players/player_37438.html">Brayan Bello</a>
+[%B]	Batting: RHB <a href="../players/player_48935.html">Gregory Barrios</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_1741.html">Darrien Miller</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_42537.html">Caden Grice</a>
+[%N]	0-0: Ball
+[%N]	1-0:  <b>SOLO HOME RUN</b>  (Flyball, 89XD, EV 99.4 MPH), Distance : 420 ft
+[%B]	Batting: LHB <a href="../players/player_41191.html">CJ Kayfus</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 6th over - 1 run, 1 hit, 0 errors, 0 left on base; Worcester 7 - Nashville 4
+[%T]	Top of the 7th - Worcester Red Sox batting - Pitching for Nashville Sounds : RHP <a href="../players/player_262.html">Ryan Hawks</a>
+[%B]	Batting: RHB <a href="../players/player_33564.html">Jose Siri</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 5-3 (Groundball, 56, EV 106.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_40234.html">Lyonell James</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1:  Fly out, F4  (Popup, 34D, EV 65.6 MPH)
+[%B]	Batting: SHB <a href="../players/player_37741.html">Gilberto Jimenez</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4M, EV 98.8 MPH)
+[%F]	Top of the 7th over - 0 runs, 0 hits, 0 errors, 0 left on base; Worcester 7 - Nashville 4
+[%T]	Bottom of the 7th - Nashville Sounds batting - Pitching for Worcester Red Sox : RHP <a href="../players/player_37438.html">Brayan Bello</a>
+[%B]	Batting: RHB <a href="../players/player_46589.html">Ajay Sczepkowski</a>
+[%N]	0-0: Foul Ball, location: 9LMF
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 6MD, EV 96.3 MPH)
+[%B]	Pitching: RHP <a href="../players/player_24842.html">Josh Winder</a>
+[%B]	Batting: RHB <a href="../players/player_26574.html">Micah Bello</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 9LSF
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_49415.html">Kaylan Nicasia</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 4MD, EV 97.5 MPH)
+[%N]	<a href="../players/player_46589.html">Ajay Sczepkowski</a> to second
+[%B]	Batting: LHB <a href="../players/player_46722.html">Ben Nippolt</a>
+[%N]	0-0: Foul Ball, location: 25FF
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Grounds into double play, 1-4-3 (Groundball, 15S, EV 69.4 MPH)
+[%F]	Bottom of the 7th over - 0 runs, 2 hits, 0 errors, 1 left on base; Worcester 7 - Nashville 4
+[%T]	Top of the 8th - Worcester Red Sox batting - Pitching for Nashville Sounds : RHP <a href="../players/player_262.html">Ryan Hawks</a>
+[%B]	Batting: RHB <a href="../players/player_43655.html">Reagan Burford</a>
+[%N]	0-0: Foul Ball, location: 9LMF
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 3FF
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_36955.html">Wilyer Abreu</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  <b>SOLO HOME RUN</b>  (Flyball, 8RXD, EV 101.9 MPH), Distance : 427 ft
+[%B]	Batting: RHB <a href="../players/player_21455.html">Kevin Newman</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 1-3 (Groundball, 34S, EV 75.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_32282.html">Eloy Jiménez</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 6M, EV 96.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_40960.html">Chase Meidroth</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 9LDF
+[%N]	1-2: Foul Ball, location: 2LF
+[%N]	1-2:  Fly out, F8  (Flyball, 8LD, EV 106.3 MPH)
+[%F]	Top of the 8th over - 1 run, 2 hits, 0 errors, 1 left on base; Worcester 8 - Nashville 4
+[%T]	Bottom of the 8th - Nashville Sounds batting - Pitching for Worcester Red Sox : RHP <a href="../players/player_24842.html">Josh Winder</a>
+[%B]	Batting: LHB <a href="../players/player_38703.html">Will Brennan</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 6-3 (Groundball, 6M, EV 105.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_48935.html">Gregory Barrios</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 5-3 (Groundball, 56, EV 86.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_1741.html">Darrien Miller</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 25F
+[%N]	1-1: Ground out 4-3 (Groundball, 4, EV 82.5 MPH)
+[%F]	Bottom of the 8th over - 0 runs, 0 hits, 0 errors, 0 left on base; Worcester 8 - Nashville 4
+[%T]	Top of the 9th - Worcester Red Sox batting - Pitching for Nashville Sounds : RHP <a href="../players/player_262.html">Ryan Hawks</a>
+[%B]	Batting: RHB <a href="../players/player_41195.html">Damon Keith</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 5DF
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_33564.html">Jose Siri</a>
+[%N]	0-0: Foul Ball, location: 9LMF
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 6D, EV 103.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_40234.html">Lyonell James</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 23FF
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: <b>SINGLE</b>  (Flyball, 8LS, EV 90.6 MPH)
+[%N]	<a href="../players/player_33564.html">Jose Siri</a> to second
+[%B]	Pitching: RHP <a href="../players/player_49528.html">Anthony Perez</a>
+[%B]	Batting: SHB <a href="../players/player_37741.html">Gilberto Jimenez</a>
+[%N]	0-0: Called Strike
+[%N]	Passed Ball!
+[%N]	<a href="../players/player_33564.html">Jose Siri</a> to third
+[%N]	<a href="../players/player_40234.html">Lyonell James</a> to second
+[%N]	0-1: Foul Ball, location: 3F
+[%N]	0-2: Ground out 5-3 (Groundball, 56S, EV 88.8 MPH)
+[%N]	<b><a href="../players/player_33564.html">Jose Siri</a> scores</b>
+[%N]	<a href="../players/player_40234.html">Lyonell James</a> to third
+[%B]	Batting: RHB <a href="../players/player_43655.html">Reagan Burford</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 3F
+[%N]	0-2: Strikes out looking
+[%F]	Top of the 9th over - 1 run, 2 hits, 0 errors, 1 left on base; Worcester 9 - Nashville 4
+[%T]	Bottom of the 9th - Nashville Sounds batting - Pitching for Worcester Red Sox : RHP <a href="../players/player_24842.html">Josh Winder</a>
+[%B]	Batting: LHB <a href="../players/player_42537.html">Caden Grice</a>
+[%N]	0-0:  Fly out, F3  (Popup, 3F, EV 62.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_41191.html">CJ Kayfus</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out 4-3 (Groundball, 4, EV 80.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_46589.html">Ajay Sczepkowski</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F4  (Line Drive, 4M, EV 71.3 MPH)
+[%F]	Bottom of the 9th over - 0 runs, 0 hits, 0 errors, 0 left on base; Worcester 9 - Nashville 4

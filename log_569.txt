@@ -1,0 +1,506 @@
+[%T]	Top of the 1st - Durham Bulls batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_40596.html">Max Carlson</a>
+[%B]	Pitching: RHP <a href="../players/player_40596.html">Max Carlson</a>
+[%B]	Batting: LHB <a href="../players/player_45631.html">Chandler Simpson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 4-3 (Groundball, 34D, EV 106.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_25848.html">Mickey Moniak</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 23F
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_22512.html">Jonathan India</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 7LSF
+[%N]	2-2: Ground out 1-3 (Groundball, 15S, EV 68.1 MPH)
+[%F]	Top of the 1st over - 0 runs, 0 hits, 0 errors, 0 left on base; Durham 0 - Lehigh Valley 0
+[%T]	Bottom of the 1st - Lehigh Valley IronPigs batting - Pitching for Durham Bulls : RHP <a href="../players/player_38812.html">Eduar Segovia</a>
+[%B]	Pitching: RHP <a href="../players/player_38812.html">Eduar Segovia</a>
+[%B]	Batting: LHB <a href="../players/player_37682.html">Diego Hernandez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F8  (Line Drive, 8LD, EV 95.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_18535.html">Stuart Fairchild</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 9LDF
+[%N]	2-2: Foul Ball, location: 23F
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_39197.html">Jose Ramos</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 5F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F7  (Line Drive, 7, EV 91.3 MPH)
+[%F]	Bottom of the 1st over - 0 runs, 0 hits, 0 errors, 0 left on base; Durham 0 - Lehigh Valley 0
+[%T]	Top of the 2nd - Durham Bulls batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_40596.html">Max Carlson</a>
+[%B]	Batting: LHB <a href="../players/player_19590.html">Luke Raley</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 3FF
+[%N]	0-2:  Fly out, F9  (Flyball, 89S, EV 76.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_24677.html">Bo Naylor</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9D, EV 96.3 MPH)
+[%B]	Batting: SHB <a href="../players/player_40325.html">Lizandro Rodriguez</a>
+[%N]	0-0: <b>DOUBLE</b>  (Line Drive, 9LD, EV 106.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_41021.html">Edwin Barragan</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F9  (Flyball, 9LS, EV 94.4 MPH)
+[%F]	Top of the 2nd over - 0 runs, 1 hit, 0 errors, 1 left on base; Durham 0 - Lehigh Valley 0
+[%T]	Bottom of the 2nd - Lehigh Valley IronPigs batting - Pitching for Durham Bulls : RHP <a href="../players/player_38812.html">Eduar Segovia</a>
+[%B]	Batting: RHB <a href="../players/player_39099.html">Alexeis Azuaje</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out U3 (Groundball, 34, EV 105.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_25554.html">Eduardo Torrealba</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: <b>DOUBLE</b>  (Line Drive, 9LM, EV 95.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_23838.html">Justin Connell</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Line Drive, 8RM, EV 101.3 MPH)
+[%B]	Batting: SHB <a href="../players/player_37773.html">Reivaj Garcia</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	Passed Ball!
+[%N]	<a href="../players/player_25554.html">Eduardo Torrealba</a> to third
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 2nd over - 0 runs, 1 hit, 0 errors, 1 left on base; Durham 0 - Lehigh Valley 0
+[%T]	Top of the 3rd - Durham Bulls batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_40596.html">Max Carlson</a>
+[%B]	Batting: LHB <a href="../players/player_42579.html">Michael Robertson</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 7S, EV 93.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_47672.html">Carson Williams</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Flyball, 78D, EV 103.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_45631.html">Chandler Simpson</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_25848.html">Mickey Moniak</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	<a href="../players/player_42579.html">Michael Robertson</a> steals 2nd base
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out looking
+[%F]	Top of the 3rd over - 0 runs, 1 hit, 0 errors, 1 left on base; Durham 0 - Lehigh Valley 0
+[%T]	Bottom of the 3rd - Lehigh Valley IronPigs batting - Pitching for Durham Bulls : RHP <a href="../players/player_38812.html">Eduar Segovia</a>
+[%B]	Batting: RHB <a href="../players/player_23372.html">Nick Madrigal</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_36811.html">Blake Hunt</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 25FF
+[%N]	0-2:  Fly out, F7  (Line Drive, 7, EV 94.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_37682.html">Diego Hernandez</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8RD, EV 110.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_18535.html">Stuart Fairchild</a>
+[%N]	0-0: Hit by Pitch
+[%N]	<a href="../players/player_23372.html">Nick Madrigal</a> to second
+[%B]	Batting: RHB <a href="../players/player_39197.html">Jose Ramos</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 5FF
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%F]	Bottom of the 3rd over - 0 runs, 0 hits, 0 errors, 2 left on base; Durham 0 - Lehigh Valley 0
+[%T]	Top of the 4th - Durham Bulls batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_40596.html">Max Carlson</a>
+[%B]	Batting: RHB <a href="../players/player_22512.html">Jonathan India</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 7LMFF
+[%N]	1-2:  Fly out, F9  (Flyball, 9, EV 80.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_19590.html">Luke Raley</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_24677.html">Bo Naylor</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 7LDF
+[%N]	0-2:  Fly out, F7  (Flyball, 7D, EV 91.3 MPH)
+[%F]	Top of the 4th over - 0 runs, 0 hits, 0 errors, 0 left on base; Durham 0 - Lehigh Valley 0
+[%T]	Bottom of the 4th - Lehigh Valley IronPigs batting - Pitching for Durham Bulls : RHP <a href="../players/player_38812.html">Eduar Segovia</a>
+[%B]	Batting: RHB <a href="../players/player_39099.html">Alexeis Azuaje</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Ground out 5-3 (Groundball, 56, EV 104.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_25554.html">Eduardo Torrealba</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 3FF
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F4  (Popup, 34S, EV 71.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_23838.html">Justin Connell</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1:  Fly out, F4  (Popup, 4, EV 71.9 MPH)
+[%F]	Bottom of the 4th over - 0 runs, 0 hits, 0 errors, 0 left on base; Durham 0 - Lehigh Valley 0
+[%T]	Top of the 5th - Durham Bulls batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_40596.html">Max Carlson</a>
+[%B]	Batting: SHB <a href="../players/player_40325.html">Lizandro Rodriguez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ground out 4-3 (Groundball, 4, EV 76.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_41021.html">Edwin Barragan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 4MD, EV 103.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_42579.html">Michael Robertson</a>
+[%N]	0-0: Sac Bunt to 2L - play at first, batter OUT! 2-3
+[%N]	<a href="../players/player_41021.html">Edwin Barragan</a> to second
+[%B]	Batting: RHB <a href="../players/player_47672.html">Carson Williams</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F6  (Popup, 6M, EV 52.5 MPH)
+[%F]	Top of the 5th over - 0 runs, 1 hit, 0 errors, 1 left on base; Durham 0 - Lehigh Valley 0
+[%T]	Bottom of the 5th - Lehigh Valley IronPigs batting - Pitching for Durham Bulls : RHP <a href="../players/player_38812.html">Eduar Segovia</a>
+[%B]	Batting: SHB <a href="../players/player_37773.html">Reivaj Garcia</a>
+[%N]	0-0: Foul Ball, location: 7LMF
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 7LSF
+[%N]	0-2: <b>DOUBLE</b>  (Groundball, 5L, EV 103.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_23372.html">Nick Madrigal</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F9  (Flyball, 9LS, EV 80.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_36811.html">Blake Hunt</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F7  (Flyball, 7S, EV 86.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_37682.html">Diego Hernandez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2:  Fly out, F4  (Popup, 4S, EV 79.4 MPH)
+[%F]	Bottom of the 5th over - 0 runs, 1 hit, 0 errors, 1 left on base; Durham 0 - Lehigh Valley 0
+[%T]	Top of the 6th - Durham Bulls batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_40596.html">Max Carlson</a>
+[%B]	Batting: LHB <a href="../players/player_45631.html">Chandler Simpson</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 56D, EV 103.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_25848.html">Mickey Moniak</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_45631.html">Chandler Simpson</a> steals 2nd base
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 5DF
+[%N]	0-2: Ground out U3 (Groundball, 3L, EV 106.9 MPH)
+[%N]	<a href="../players/player_45631.html">Chandler Simpson</a> to third
+[%B]	Batting: RHB <a href="../players/player_22512.html">Jonathan India</a>
+[%N]	0-0: Ball
+[%N]	1-0: Fielders Choice at home, 5-2 (Groundball, 56S, EV 91.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_19590.html">Luke Raley</a>
+[%N]	0-0: Foul Ball, location: 3FF
+[%N]	0-1: Ball
+[%N]	<a href="../players/player_22512.html">Jonathan India</a> steals 2nd base
+[%N]	1-1: Foul Ball, location: 23F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_22512.html">Jonathan India</a> to third
+[%N]	3-2: Strikes out swinging
+[%F]	Top of the 6th over - 0 runs, 1 hit, 0 errors, 1 left on base; Durham 0 - Lehigh Valley 0
+[%T]	Bottom of the 6th - Lehigh Valley IronPigs batting - Pitching for Durham Bulls : RHP <a href="../players/player_38812.html">Eduar Segovia</a>
+[%B]	Batting: RHB <a href="../players/player_18535.html">Stuart Fairchild</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_39197.html">Jose Ramos</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_39099.html">Alexeis Azuaje</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F8  (Flyball, 78M, EV 83.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_25554.html">Eduardo Torrealba</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_18535.html">Stuart Fairchild</a> to second
+[%B]	Batting: RHB <a href="../players/player_23838.html">Justin Connell</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F9  (Flyball, 9LS, EV 89.4 MPH)
+[%F]	Bottom of the 6th over - 0 runs, 0 hits, 0 errors, 2 left on base; Durham 0 - Lehigh Valley 0
+[%T]	Top of the 7th - Durham Bulls batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_40596.html">Max Carlson</a>
+[%B]	Batting: LHB <a href="../players/player_24677.html">Bo Naylor</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  <b>SOLO HOME RUN</b>  (Flyball, 78XD, EV 102.5 MPH), Distance : 425 ft
+[%B]	Batting: SHB <a href="../players/player_40325.html">Lizandro Rodriguez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F9  (Flyball, 9S, EV 90.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_41021.html">Edwin Barragan</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 7LMFF
+[%N]	0-2:  Fly out, F7  (Line Drive, 5D, EV 73.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_42579.html">Michael Robertson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Foul Ball, location: 23FF
+[%N]	3-2: <b>DOUBLE</b>  (Flyball, 78XD, EV 105.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_47672.html">Carson Williams</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 56D, EV 102.5 MPH)
+[%N]	<a href="../players/player_42579.html">Michael Robertson</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by LF to home</b>
+[%N]	<a href="../players/player_47672.html">Carson Williams</a> to second
+[%B]	Batting: LHB <a href="../players/player_45631.html">Chandler Simpson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 7LMF
+[%N]	0-2: Ball
+[%N]	Balk!
+[%N]	<a href="../players/player_47672.html">Carson Williams</a> to third
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 4MD, EV 103.1 MPH)
+[%N]	<b><a href="../players/player_47672.html">Carson Williams</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_25848.html">Mickey Moniak</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 56S, EV 82.5 MPH)
+[%F]	Top of the 7th over - 3 runs, 4 hits, 0 errors, 1 left on base; Durham 3 - Lehigh Valley 0
+[%T]	Bottom of the 7th - Lehigh Valley IronPigs batting - Pitching for Durham Bulls : RHP <a href="../players/player_38812.html">Eduar Segovia</a>
+[%B]	Batting: SHB <a href="../players/player_37773.html">Reivaj Garcia</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F8  (Line Drive, 8RS, EV 99.4 MPH)
+[%B]	Pitching: RHP <a href="../players/player_39156.html">Francis Rivera</a>
+[%B]	Batting: RHB <a href="../players/player_23372.html">Nick Madrigal</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F7  (Flyball, 7, EV 96.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_36811.html">Blake Hunt</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_37682.html">Diego Hernandez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Foul Ball, location: 5F
+[%N]	3-2: Foul Ball, location: 25F
+[%N]	3-2:  <b>2-RUN HOME RUN</b>  (Line Drive, 8LXD, EV 110.0 MPH), Distance : 428 ft
+[%B]	Batting: RHB <a href="../players/player_18535.html">Stuart Fairchild</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 6-3 (Groundball, 6, EV 77.5 MPH)
+[%F]	Bottom of the 7th over - 2 runs, 1 hit, 0 errors, 0 left on base; Durham 3 - Lehigh Valley 2
+[%T]	Top of the 8th - Durham Bulls batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_40596.html">Max Carlson</a>
+[%B]	Batting: RHB <a href="../players/player_22512.html">Jonathan India</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2LF
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 78S, EV 100.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_19590.html">Luke Raley</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Grounds into double play, 1-6-3 (Groundball, 13, EV 70.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_24677.html">Bo Naylor</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  <b>SOLO HOME RUN</b>  (Flyball, 89XD, EV 103.8 MPH), Distance : 414 ft
+[%B]	Pitching: RHP <a href="../players/player_25967.html">Connor Phillips</a>
+[%B]	Batting: SHB <a href="../players/player_40325.html">Lizandro Rodriguez</a>
+[%N]	0-0: Foul Ball, location: 3FF
+[%N]	0-1: Foul Ball, location: 7LMF
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 8th over - 1 run, 2 hits, 0 errors, 0 left on base; Durham 4 - Lehigh Valley 2
+[%T]	Bottom of the 8th - Lehigh Valley IronPigs batting - Pitching for Durham Bulls : RHP <a href="../players/player_39156.html">Francis Rivera</a>
+[%B]	Batting: RHB <a href="../players/player_39197.html">Jose Ramos</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Flyball, 89XD, EV 108.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_39099.html">Alexeis Azuaje</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 23FF
+[%N]	1-2:  Fly out, F3  (Popup, 3F, EV 78.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_25554.html">Eduardo Torrealba</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Flyball, 7LD, EV 108.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_23838.html">Justin Connell</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LD, EV 93.1 MPH)
+[%F]	Bottom of the 8th over - 0 runs, 1 hit, 0 errors, 1 left on base; Durham 4 - Lehigh Valley 2
+[%T]	Top of the 9th - Durham Bulls batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_25967.html">Connor Phillips</a>
+[%B]	Pitching: RHP <a href="../players/player_31585.html">Austin Voth</a>
+[%B]	Pinch Hitting: LHB <a href="../players/player_1315.html">Reggie Crawford</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_42579.html">Michael Robertson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F6  (Line Drive, 6, EV 68.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_47672.html">Carson Williams</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 7S, EV 101.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_45631.html">Chandler Simpson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 6M, EV 90.0 MPH) (infield hit)
+[%N]	<a href="../players/player_47672.html">Carson Williams</a> to second
+[%B]	Pitching: LHP <a href="../players/player_32380.html">Tyler Alexander</a>
+[%B]	Batting: LHB <a href="../players/player_25848.html">Mickey Moniak</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 78M, EV 90.0 MPH)
+[%N]	<a href="../players/player_47672.html">Carson Williams</a> to third
+[%N]	<a href="../players/player_45631.html">Chandler Simpson</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by LF to home</b>
+[%N]	<a href="../players/player_45631.html">Chandler Simpson</a> to third
+[%N]	<a href="../players/player_25848.html">Mickey Moniak</a> to second
+[%B]	Batting: RHB <a href="../players/player_22512.html">Jonathan India</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F7  (Line Drive, 7, EV 93.8 MPH)
+[%F]	Top of the 9th over - 1 run, 3 hits, 0 errors, 2 left on base; Durham 5 - Lehigh Valley 2
+[%T]	Bottom of the 9th - Lehigh Valley IronPigs batting - Pitching for Durham Bulls : RHP <a href="../players/player_39156.html">Francis Rivera</a>
+[%B]	Pitching: RHP <a href="../players/player_42830.html">Alexander Alberto</a>
+[%B]	Now at 3B: <a href="../players/player_48939.html">Jadher Areinamo</a>
+[%B]	Batting: SHB <a href="../players/player_37773.html">Reivaj Garcia</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 7LSF
+[%N]	1-2: Foul Ball, location: 3FF
+[%N]	1-2: <b>DOUBLE</b>  (Groundball, 3L, EV 95.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_23372.html">Nick Madrigal</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 5F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F9  (Flyball, 89M, EV 91.9 MPH)
+[%B]	Pinch Hitting: LHB <a href="../players/player_31631.html">Tony Kemp</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 5FF
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_37682.html">Diego Hernandez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 6M, EV 103.8 MPH) (infield hit)
+[%N]	<a href="../players/player_37773.html">Reivaj Garcia</a> to third
+[%B]	Batting: RHB <a href="../players/player_18535.html">Stuart Fairchild</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Line Drive, 9LS, EV 100.6 MPH)
+[%N]	<b><a href="../players/player_37773.html">Reivaj Garcia</a> scores</b>
+[%N]	<a href="../players/player_37682.html">Diego Hernandez</a> to third
+[%B]	Batting: RHB <a href="../players/player_39197.html">Jose Ramos</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 23FF
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: <b>DOUBLE</b>  (Flyball, 78D, EV 96.9 MPH)
+[%N]	<b><a href="../players/player_37682.html">Diego Hernandez</a> scores</b>
+[%N]	<b><a href="../players/player_18535.html">Stuart Fairchild</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_39099.html">Alexeis Azuaje</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F5  (Popup, 56S, EV 80.0 MPH)
+[%F]	Bottom of the 9th over - 3 runs, 4 hits, 0 errors, 1 left on base; Durham 5 - Lehigh Valley 5
+[%T]	Top of the 10th - Durham Bulls batting - Pitching for Lehigh Valley IronPigs : LHP <a href="../players/player_32380.html">Tyler Alexander</a>
+[%B]	Jonathan India starts the inning at 2nd base.
+[%B]	Now at C: <a href="../players/player_25702.html">Dalton Rushing</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_36784.html">Antonio Cabello</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 9LMF
+[%N]	0-2: Hit by Pitch
+[%B]	Batting: LHB <a href="../players/player_24677.html">Bo Naylor</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 25F
+[%N]	1-2:  Fly out, F9  (Line Drive, 9, EV 93.1 MPH)
+[%B]	Pitching: RHP <a href="../players/player_35433.html">Connor Overton</a>
+[%B]	Batting: SHB <a href="../players/player_40325.html">Lizandro Rodriguez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>DOUBLE</b>  (Groundball, 3L, EV 104.4 MPH)
+[%N]	<b><a href="../players/player_22512.html">Jonathan India</a> scores</b>
+[%N]	<a href="../players/player_36784.html">Antonio Cabello</a> to third
+[%B]	Batting: RHB <a href="../players/player_48939.html">Jadher Areinamo</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 4MD, EV 108.8 MPH)
+[%N]	<b><a href="../players/player_36784.html">Antonio Cabello</a> scores</b>
+[%N]	<a href="../players/player_40325.html">Lizandro Rodriguez</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by CF to home</b>
+[%B]	Batting: LHB <a href="../players/player_42579.html">Michael Robertson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ground out U3 (Groundball, 3S, EV 67.5 MPH)
+[%N]	<a href="../players/player_48939.html">Jadher Areinamo</a> to second
+[%B]	Batting: RHB <a href="../players/player_47672.html">Carson Williams</a>
+[%N]	0-0: Reached on error, E5 (Groundball, 5, EV 90.6 MPH)
+[%N]	<a href="../players/player_48939.html">Jadher Areinamo</a> to third
+[%B]	Batting: LHB <a href="../players/player_45631.html">Chandler Simpson</a>
+[%N]	0-0: Foul Ball, location: 7LSF
+[%N]	0-1: Foul Ball, location: 5DF
+[%N]	0-2: Foul Ball, location: 5DF
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F8  (Line Drive, 8LS, EV 98.1 MPH)
+[%F]	Top of the 10th over - 3 runs, 2 hits, 1 error, 2 left on base; Durham 8 - Lehigh Valley 5
+[%T]	Bottom of the 10th - Lehigh Valley IronPigs batting - Pitching for Durham Bulls : RHP <a href="../players/player_42830.html">Alexander Alberto</a>
+[%B]	Alexeis Azuaje starts the inning at 2nd base.
+[%B]	Pitching: RHP <a href="../players/player_40121.html">Marcus Johnson</a>
+[%B]	Now at 1B: <a href="../players/player_40325.html">Lizandro Rodriguez</a>
+[%B]	Now at 2B: <a href="../players/player_45631.html">Chandler Simpson</a>
+[%B]	Now in LF: <a href="../players/player_38953.html">Shane Sasaki</a>
+[%B]	Batting: RHB <a href="../players/player_25554.html">Eduardo Torrealba</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 9LSF
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F6  (Line Drive, 6MD, EV 96.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_23838.html">Justin Connell</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F8  (Flyball, 78D, EV 91.3 MPH)
+[%B]	Batting: SHB <a href="../players/player_37773.html">Reivaj Garcia</a>
+[%N]	0-0: Foul Ball, location: 25F
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 5F
+[%N]	2-2: Ground out U3 (Groundball, 34, EV 106.9 MPH)
+[%F]	Bottom of the 10th over - 0 runs, 0 hits, 0 errors, 1 left on base; Durham 8 - Lehigh Valley 5

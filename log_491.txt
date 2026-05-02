@@ -1,0 +1,423 @@
+[%T]	Top of the 1st - Norfolk Tides batting - Pitching for Durham Bulls : RHP <a href="../players/player_40665.html">Ryan Hagenow</a>
+[%B]	Pitching: RHP <a href="../players/player_40665.html">Ryan Hagenow</a>
+[%B]	Batting: LHB <a href="../players/player_840.html">Terrin Vavra</a>
+[%N]	0-0: Foul Ball, location: 25FF
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2:  Fly out, F5  (Popup, 6S, EV 70.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_48747.html">Anderson De Los Santos</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 8RD, EV 81.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_37368.html">César Prieto</a>
+[%N]	0-0: Foul Ball, location: 7LSF
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 4-3 (Groundball, 4, EV 82.5 MPH)
+[%F]	Top of the 1st over - 0 runs, 0 hits, 0 errors, 0 left on base; Norfolk 0 - Durham 0
+[%T]	Bottom of the 1st - Durham Bulls batting - Pitching for Norfolk Tides : RHP <a href="../players/player_40210.html">Edgar Portes</a>
+[%B]	Pitching: RHP <a href="../players/player_40210.html">Edgar Portes</a>
+[%B]	Batting: LHB <a href="../players/player_45631.html">Chandler Simpson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 7LSF
+[%N]	0-2: Ground out 5-3 (Groundball, 5, EV 78.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_48939.html">Jadher Areinamo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 1-3 (Groundball, 13S, EV 73.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_24677.html">Bo Naylor</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Ground out 4-3 (Groundball, 4, EV 86.3 MPH)
+[%F]	Bottom of the 1st over - 0 runs, 0 hits, 0 errors, 0 left on base; Norfolk 0 - Durham 0
+[%T]	Top of the 2nd - Norfolk Tides batting - Pitching for Durham Bulls : RHP <a href="../players/player_40665.html">Ryan Hagenow</a>
+[%B]	Batting: LHB <a href="../players/player_25207.html">Heston Kjerstad</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F9  (Line Drive, 9, EV 106.9 MPH)
+[%B]	Batting: SHB <a href="../players/player_35386.html">Carter Young</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7, EV 91.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_25035.html">Hudson Haskin</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 2nd over - 0 runs, 0 hits, 0 errors, 0 left on base; Norfolk 0 - Durham 0
+[%T]	Bottom of the 2nd - Durham Bulls batting - Pitching for Norfolk Tides : RHP <a href="../players/player_40210.html">Edgar Portes</a>
+[%B]	Batting: RHB <a href="../players/player_22512.html">Jonathan India</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 8LS, EV 95.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_25848.html">Mickey Moniak</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 7LSF
+[%N]	1-1: <b>DOUBLE</b>  (Flyball, 8RXD, EV 105.0 MPH)
+[%N]	<a href="../players/player_22512.html">Jonathan India</a> to third
+[%B]	Batting: SHB <a href="../players/player_40325.html">Lizandro Rodriguez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 3F
+[%N]	2-2: Foul Ball, location: 7LMF
+[%N]	2-2: <b>DOUBLE</b>  (Line Drive, 7LS, EV 98.8 MPH)
+[%N]	<b><a href="../players/player_22512.html">Jonathan India</a> scores</b>
+[%N]	<b><a href="../players/player_25848.html">Mickey Moniak</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_1315.html">Reggie Crawford</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2RF
+[%N]	3-2:  Fly out, F8  (Flyball, 8LXD, EV 99.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_40672.html">Liam Hicks</a>
+[%N]	0-0:  Fly out, F5  (Popup, 5, EV 78.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_47672.html">Carson Williams</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6, EV 80.0 MPH)
+[%F]	Bottom of the 2nd over - 2 runs, 3 hits, 0 errors, 1 left on base; Norfolk 0 - Durham 2
+[%T]	Top of the 3rd - Norfolk Tides batting - Pitching for Durham Bulls : RHP <a href="../players/player_40665.html">Ryan Hagenow</a>
+[%B]	Batting: SHB <a href="../players/player_45026.html">Reed Trimble</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 9LDF
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_40444.html">Victor González</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Ground out 5-3 (Groundball, 56, EV 106.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_1664.html">Silas Ardoin</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 8RS, EV 90.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_840.html">Terrin Vavra</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Reaches on Catchers interference
+[%N]	<a href="../players/player_1664.html">Silas Ardoin</a> to second
+[%B]	Batting: RHB <a href="../players/player_48747.html">Anderson De Los Santos</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ground out 3-1 (Groundball, 34, EV 88.8 MPH)
+[%F]	Top of the 3rd over - 0 runs, 1 hit, 1 error, 2 left on base; Norfolk 0 - Durham 2
+[%T]	Bottom of the 3rd - Durham Bulls batting - Pitching for Norfolk Tides : RHP <a href="../players/player_40210.html">Edgar Portes</a>
+[%B]	Batting: LHB <a href="../players/player_45631.html">Chandler Simpson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_48939.html">Jadher Areinamo</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 6MS, EV 71.3 MPH) (infield hit)
+[%N]	<a href="../players/player_45631.html">Chandler Simpson</a> to second
+[%B]	Batting: LHB <a href="../players/player_24677.html">Bo Naylor</a>
+[%N]	0-0:  Fly out, F6  (Popup, 6D, EV 61.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_22512.html">Jonathan India</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 6D, EV 101.3 MPH)
+[%N]	<a href="../players/player_45631.html">Chandler Simpson</a> to third
+[%N]	<a href="../players/player_48939.html">Jadher Areinamo</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by LF to home</b>
+[%B]	Batting: LHB <a href="../players/player_25848.html">Mickey Moniak</a>
+[%N]	0-0: Grounds into double play, 3-6-3 (Groundball, 23, EV 86.9 MPH)
+[%F]	Bottom of the 3rd over - 1 run, 2 hits, 0 errors, 1 left on base; Norfolk 0 - Durham 3
+[%T]	Top of the 4th - Norfolk Tides batting - Pitching for Durham Bulls : RHP <a href="../players/player_40665.html">Ryan Hagenow</a>
+[%B]	Batting: LHB <a href="../players/player_37368.html">César Prieto</a>
+[%N]	0-0: <b>DOUBLE</b>  (Line Drive, 9LS, EV 103.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_25207.html">Heston Kjerstad</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Ground out 6-3 (Groundball, 6M, EV 90.6 MPH)
+[%N]	<a href="../players/player_37368.html">César Prieto</a> to third
+[%B]	Batting: SHB <a href="../players/player_35386.html">Carter Young</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 23F
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 56, EV 76.3 MPH)
+[%N]	<b><a href="../players/player_37368.html">César Prieto</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_25035.html">Hudson Haskin</a>
+[%N]	0-0: Ball
+[%N]	1-0: Grounds into double play, 6-4-3 (Groundball, 6, EV 101.3 MPH)
+[%F]	Top of the 4th over - 1 run, 2 hits, 0 errors, 0 left on base; Norfolk 1 - Durham 3
+[%T]	Bottom of the 4th - Durham Bulls batting - Pitching for Norfolk Tides : RHP <a href="../players/player_40210.html">Edgar Portes</a>
+[%B]	Batting: SHB <a href="../players/player_40325.html">Lizandro Rodriguez</a>
+[%N]	0-0: Foul Ball, location: 3F
+[%N]	0-1: Ground out 5-3 (Groundball, 56, EV 109.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_1315.html">Reggie Crawford</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 4-3 (Groundball, 4, EV 99.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_40672.html">Liam Hicks</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F9  (Flyball, 9D, EV 95.0 MPH)
+[%F]	Bottom of the 4th over - 0 runs, 0 hits, 0 errors, 0 left on base; Norfolk 1 - Durham 3
+[%T]	Top of the 5th - Norfolk Tides batting - Pitching for Durham Bulls : RHP <a href="../players/player_40665.html">Ryan Hagenow</a>
+[%B]	Batting: SHB <a href="../players/player_45026.html">Reed Trimble</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_40444.html">Victor González</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Flyball, 9S, EV 88.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_1664.html">Silas Ardoin</a>
+[%N]	0-0: Foul Ball, location: 2LF
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 4MD, EV 95.0 MPH)
+[%N]	<a href="../players/player_45026.html">Reed Trimble</a> to second
+[%B]	Batting: LHB <a href="../players/player_840.html">Terrin Vavra</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_45026.html">Reed Trimble</a> to third
+[%N]	<a href="../players/player_1664.html">Silas Ardoin</a> to second
+[%B]	Batting: RHB <a href="../players/player_48747.html">Anderson De Los Santos</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Grounds into fielders choice 6-2 (Groundball, 56S, EV 61.3 MPH)
+[%N]	<a href="../players/player_1664.html">Silas Ardoin</a> to third
+[%N]	<a href="../players/player_840.html">Terrin Vavra</a> to second
+[%B]	Batting: LHB <a href="../players/player_37368.html">César Prieto</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  <b>GRAND SLAM HOME RUN</b>  (Flyball, 7D, EV 95.0 MPH), Distance : 363 ft
+[%B]	Batting: LHB <a href="../players/player_25207.html">Heston Kjerstad</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 9LSFF
+[%N]	1-1: Foul Ball, location: 7LMF
+[%N]	1-2:  Fly out, F9  (Flyball, 89S, EV 89.4 MPH)
+[%F]	Top of the 5th over - 4 runs, 2 hits, 0 errors, 0 left on base; Norfolk 5 - Durham 3
+[%T]	Bottom of the 5th - Durham Bulls batting - Pitching for Norfolk Tides : RHP <a href="../players/player_40210.html">Edgar Portes</a>
+[%B]	Batting: RHB <a href="../players/player_47672.html">Carson Williams</a>
+[%N]	0-0:  Fly out, F6  (Popup, P, EV 75.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_45631.html">Chandler Simpson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 4MD, EV 98.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_48939.html">Jadher Areinamo</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_45631.html">Chandler Simpson</a> steals 2nd base
+[%N]	1-0: Foul Ball, location: 5FF
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 9LMF
+[%N]	2-2: Ball
+[%N]	3-2: Hit by Pitch
+[%B]	Batting: LHB <a href="../players/player_24677.html">Bo Naylor</a>
+[%N]	0-0: Foul Ball, location: 7LMF
+[%N]	0-1: Ball
+[%N]	<a href="../players/player_45631.html">Chandler Simpson</a> steals 3rd base
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 3F
+[%N]	2-2: Foul Ball, location: 3F
+[%N]	2-2: Foul Ball, location: 3F
+[%N]	2-2: Foul Ball, location: 7LDF
+[%N]	2-2:  <b>3-RUN HOME RUN</b>  (Flyball, 7D, EV 98.8 MPH), Distance : 372 ft
+[%B]	Pitching: RHP <a href="../players/player_40204.html">Randy Berigüete</a>
+[%B]	Batting: RHB <a href="../players/player_22512.html">Jonathan India</a>
+[%N]	0-0: Foul Ball, location: 23F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Reached on error, E6 (Groundball, 56, EV 95.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_25848.html">Mickey Moniak</a>
+[%N]	0-0: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_22512.html">Jonathan India</a> to third
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Called Strike
+[%N]	2-2:  Fly out, F7  (Flyball, 7D, EV 99.4 MPH)
+[%N]	<b>Runner from 3rd tags up, SCORES, no throw by LF</b>
+[%B]	Batting: SHB <a href="../players/player_40325.html">Lizandro Rodriguez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 5-3 (Groundball, 56, EV 83.8 MPH)
+[%F]	Bottom of the 5th over - 4 runs, 2 hits, 1 error, 0 left on base; Norfolk 5 - Durham 7
+[%T]	Top of the 6th - Norfolk Tides batting - Pitching for Durham Bulls : RHP <a href="../players/player_40665.html">Ryan Hagenow</a>
+[%B]	Batting: SHB <a href="../players/player_35386.html">Carter Young</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 3F
+[%N]	1-1: Ground out 6-3 (Groundball, 6, EV 83.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_25035.html">Hudson Haskin</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 56S, EV 76.3 MPH)
+[%B]	Batting: SHB <a href="../players/player_45026.html">Reed Trimble</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 34D, EV 106.9 MPH)
+[%B]	Pinch Hitting: LHB <a href="../players/player_42049.html">Xavier Isaac</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 4-3 (Groundball, 13, EV 90.0 MPH)
+[%F]	Top of the 6th over - 0 runs, 1 hit, 0 errors, 1 left on base; Norfolk 5 - Durham 7
+[%T]	Bottom of the 6th - Durham Bulls batting - Pitching for Norfolk Tides : RHP <a href="../players/player_40204.html">Randy Berigüete</a>
+[%B]	Now at 3B: <a href="../players/player_41229.html">Adam Crampton</a>
+[%B]	Batting: LHB <a href="../players/player_1315.html">Reggie Crawford</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 3FF
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_40672.html">Liam Hicks</a>
+[%N]	0-0: Ground out 4-3 (Groundball, P, EV 88.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_47672.html">Carson Williams</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 9LSF
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 6th over - 0 runs, 0 hits, 0 errors, 0 left on base; Norfolk 5 - Durham 7
+[%T]	Top of the 7th - Norfolk Tides batting - Pitching for Durham Bulls : RHP <a href="../players/player_40665.html">Ryan Hagenow</a>
+[%B]	Pitching: RHP <a href="../players/player_39156.html">Francis Rivera</a>
+[%B]	Now at 1B: <a href="../players/player_22512.html">Jonathan India</a>
+[%B]	Now in CF: <a href="../players/player_38953.html">Shane Sasaki</a>
+[%B]	Now in RF: <a href="../players/player_36784.html">Antonio Cabello</a>
+[%B]	Batting: RHB <a href="../players/player_1664.html">Silas Ardoin</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 3FF
+[%N]	0-2: <b>TRIPLE</b>  (Flyball, 89XD, EV 102.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_840.html">Terrin Vavra</a>
+[%N]	0-0: Foul Ball, location: 7LDF
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 3DF
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 3FF
+[%N]	3-2:  Fly out, F8  (Flyball, 8LS, EV 80.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_48747.html">Anderson De Los Santos</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 7S, EV 97.5 MPH)
+[%N]	<b><a href="../players/player_1664.html">Silas Ardoin</a> scores</b>
+[%B]	Pitching: LHP <a href="../players/player_49598.html">Egory Manuela</a>
+[%B]	Batting: LHB <a href="../players/player_37368.html">César Prieto</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F9  (Line Drive, 9, EV 94.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_25207.html">Heston Kjerstad</a>
+[%N]	0-0: Foul Ball, location: 5SF
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F8  (Flyball, 8RM, EV 96.9 MPH)
+[%F]	Top of the 7th over - 1 run, 2 hits, 0 errors, 1 left on base; Norfolk 6 - Durham 7
+[%T]	Bottom of the 7th - Durham Bulls batting - Pitching for Norfolk Tides : RHP <a href="../players/player_40204.html">Randy Berigüete</a>
+[%B]	Pitching: LHP <a href="../players/player_40976.html">Philip Abner</a>
+[%B]	Batting: LHB <a href="../players/player_45631.html">Chandler Simpson</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 9LS, EV 105.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_48939.html">Jadher Areinamo</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 6MS, EV 70.0 MPH) (infield hit)
+[%N]	<a href="../players/player_45631.html">Chandler Simpson</a> to second
+[%B]	Batting: LHB <a href="../players/player_24677.html">Bo Naylor</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Foul Ball, location: 3DF
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_22512.html">Jonathan India</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1:  Fly out, F8  (Flyball, 8LM, EV 78.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_36784.html">Antonio Cabello</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 4MD, EV 96.3 MPH)
+[%N]	<a href="../players/player_45631.html">Chandler Simpson</a> to third
+[%N]	<a href="../players/player_48939.html">Jadher Areinamo</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by CF to home</b>
+[%B]	Batting: SHB <a href="../players/player_40325.html">Lizandro Rodriguez</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 34D, EV 108.8 MPH)
+[%N]	<a href="../players/player_48939.html">Jadher Areinamo</a> to third
+[%N]	<a href="../players/player_36784.html">Antonio Cabello</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by RF to home</b>
+[%B]	Batting: RHB <a href="../players/player_38953.html">Shane Sasaki</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out swinging
+[%F]	Bottom of the 7th over - 2 runs, 4 hits, 0 errors, 2 left on base; Norfolk 6 - Durham 9
+[%T]	Top of the 8th - Norfolk Tides batting - Pitching for Durham Bulls : LHP <a href="../players/player_49598.html">Egory Manuela</a>
+[%B]	Pitching: RHP <a href="../players/player_39396.html">Edgardo Henriquez</a>
+[%B]	Batting: SHB <a href="../players/player_35386.html">Carter Young</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 5SF
+[%N]	1-1: Foul Ball, location: 5F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: <b>DOUBLE</b>  (Flyball, 78XD, EV 104.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_25035.html">Hudson Haskin</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 9LMF
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 6MD, EV 110.0 MPH) (infield hit)
+[%N]	<a href="../players/player_35386.html">Carter Young</a> to third
+[%B]	Batting: SHB <a href="../players/player_45026.html">Reed Trimble</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_41229.html">Adam Crampton</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 9LDF
+[%N]	2-2: Grounds into double play, 4-6-3 (Groundball, 34, EV 103.8 MPH)
+[%F]	Top of the 8th over - 0 runs, 2 hits, 0 errors, 1 left on base; Norfolk 6 - Durham 9
+[%T]	Bottom of the 8th - Durham Bulls batting - Pitching for Norfolk Tides : LHP <a href="../players/player_40976.html">Philip Abner</a>
+[%B]	Batting: RHB <a href="../players/player_41021.html">Edwin Barragan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_47672.html">Carson Williams</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_45631.html">Chandler Simpson</a>
+[%N]	0-0: Fielders Choice at 2nd, 4-6 (Groundball, 4D, EV 101.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_48939.html">Jadher Areinamo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F8  (Line Drive, 8RD, EV 83.1 MPH)
+[%F]	Bottom of the 8th over - 0 runs, 0 hits, 0 errors, 1 left on base; Norfolk 6 - Durham 9
+[%T]	Top of the 9th - Norfolk Tides batting - Pitching for Durham Bulls : RHP <a href="../players/player_39396.html">Edgardo Henriquez</a>
+[%B]	Pitching: RHP <a href="../players/player_42830.html">Alexander Alberto</a>
+[%B]	Batting: RHB <a href="../players/player_1664.html">Silas Ardoin</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 78M, EV 92.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_840.html">Terrin Vavra</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 7LDF
+[%N]	0-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_48747.html">Anderson De Los Santos</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_37368.html">César Prieto</a>
+[%N]	0-0: Foul Ball, location: 7LDF
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F9  (Line Drive, 34D, EV 68.8 MPH)
+[%F]	Top of the 9th over - 0 runs, 1 hit, 0 errors, 1 left on base; Norfolk 6 - Durham 9

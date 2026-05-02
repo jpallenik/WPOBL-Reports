@@ -1,0 +1,447 @@
+[%T]	Top of the 1st - Iowa Cubs batting - Pitching for Columbus Clippers : RHP <a href="../players/player_38033.html">Braunny Munoz</a>
+[%B]	Pitching: RHP <a href="../players/player_38033.html">Braunny Munoz</a>
+[%B]	Batting: RHB <a href="../players/player_36936.html">Leo Jiménez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 7LDF
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 4MD, EV 96.3 MPH)
+[%B]	Batting: SHB <a href="../players/player_181.html">Greg Allen</a>
+[%N]	0-0: Ball
+[%N]	1-0: Sac Bunt to 15S - play at first, batter OUT! 1-3
+[%N]	<a href="../players/player_36936.html">Leo Jiménez</a> to second
+[%B]	Batting: RHB <a href="../players/player_39161.html">Bryan Ramos</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 89S, EV 90.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_26659.html">Matt Mervis</a>
+[%N]	0-0: Ground out U3 (Groundball, 34S, EV 85.0 MPH)
+[%F]	Top of the 1st over - 0 runs, 1 hit, 0 errors, 1 left on base; Iowa 0 - Columbus 0
+[%T]	Bottom of the 1st - Columbus Clippers batting - Pitching for Iowa Cubs : RHP <a href="../players/player_28790.html">Merrill Kelly</a>
+[%B]	Pitching: RHP <a href="../players/player_28790.html">Merrill Kelly</a>
+[%B]	Batting: LHB <a href="../players/player_47828.html">Jake Fox</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_24870.html">Milan Tolentino</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Groundball, 34D, EV 95.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_22108.html">Yainer Diaz</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 78S, EV 106.3 MPH)
+[%N]	<a href="../players/player_24870.html">Milan Tolentino</a> to second
+[%B]	Batting: LHB <a href="../players/player_41641.html">Chase DeLauter</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 9LSF
+[%N]	1-2: Foul Ball, location: 3F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_45366.html">Pres Cavenaugh</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 34, EV 96.3 MPH)
+[%N]	<a href="../players/player_24870.html">Milan Tolentino</a> to third
+[%N]	<a href="../players/player_22108.html">Yainer Diaz</a> to second
+[%N]	Runner from 3rd tries for Home, throw by RF and OUT! 9-3-2
+[%F]	Bottom of the 1st over - 0 runs, 3 hits, 0 errors, 2 left on base; Iowa 0 - Columbus 0
+[%T]	Top of the 2nd - Iowa Cubs batting - Pitching for Columbus Clippers : RHP <a href="../players/player_38033.html">Braunny Munoz</a>
+[%B]	Batting: SHB <a href="../players/player_36761.html">Ivan Johnson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_36877.html">Luis Verdugo</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 9S, EV 101.3 MPH)
+[%N]	<a href="../players/player_36761.html">Ivan Johnson</a> to second
+[%B]	Batting: LHB <a href="../players/player_796.html">Corey Rosier</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 7LMF
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_36761.html">Ivan Johnson</a> to third
+[%N]	<a href="../players/player_36877.html">Luis Verdugo</a> to second
+[%B]	Batting: RHB <a href="../players/player_38164.html">Pablo Aliendo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_44471.html">Will Taylor</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>DOUBLE</b>  (Flyball, 7LM, EV 103.1 MPH)
+[%N]	<b><a href="../players/player_36761.html">Ivan Johnson</a> scores</b>
+[%N]	<b><a href="../players/player_36877.html">Luis Verdugo</a> scores</b>
+[%N]	<a href="../players/player_796.html">Corey Rosier</a> to third
+[%B]	Batting: RHB <a href="../players/player_36936.html">Leo Jiménez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 9LDF
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F8  (Flyball, 78M, EV 93.1 MPH)
+[%B]	Batting: SHB <a href="../players/player_181.html">Greg Allen</a>
+[%N]	0-0: Ball
+[%N]	1-0:  <b>3-RUN HOME RUN</b>  (Flyball, 7LD, EV 100.0 MPH), Distance : 373 ft
+[%B]	Batting: RHB <a href="../players/player_39161.html">Bryan Ramos</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 7LS, EV 99.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_26659.html">Matt Mervis</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_39161.html">Bryan Ramos</a> steals 2nd base
+[%N]	0-1:  Fly out, F4  (Popup, 34, EV 53.8 MPH)
+[%F]	Top of the 2nd over - 5 runs, 4 hits, 0 errors, 1 left on base; Iowa 5 - Columbus 0
+[%T]	Bottom of the 2nd - Columbus Clippers batting - Pitching for Iowa Cubs : RHP <a href="../players/player_28790.html">Merrill Kelly</a>
+[%B]	Batting: SHB <a href="../players/player_36870.html">Aaron Bracho</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F4  (Line Drive, 4D, EV 65.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_36768.html">Johnathan Rodriguez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 5-3 (Groundball, 5, EV 83.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_38995.html">Gabriel Rodriguez</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out swinging
+[%F]	Bottom of the 2nd over - 0 runs, 0 hits, 0 errors, 0 left on base; Iowa 5 - Columbus 0
+[%T]	Top of the 3rd - Iowa Cubs batting - Pitching for Columbus Clippers : RHP <a href="../players/player_38033.html">Braunny Munoz</a>
+[%B]	Batting: SHB <a href="../players/player_36761.html">Ivan Johnson</a>
+[%N]	0-0: Ball
+[%N]	1-0:  <b>SOLO HOME RUN</b>  (Line Drive, 9D, EV 99.4 MPH), Distance : 397 ft
+[%B]	Batting: RHB <a href="../players/player_36877.html">Luis Verdugo</a>
+[%N]	0-0: Foul Ball, location: 9LSF
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 5-3 (Groundball, 15, EV 77.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_796.html">Corey Rosier</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Ground out 6-3 (Groundball, 6, EV 100.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_38164.html">Pablo Aliendo</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 4S, EV 73.8 MPH) (infield hit)
+[%B]	Batting: RHB <a href="../players/player_44471.html">Will Taylor</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1:  Fly out, F9  (Flyball, 9, EV 89.4 MPH)
+[%F]	Top of the 3rd over - 1 run, 2 hits, 0 errors, 1 left on base; Iowa 6 - Columbus 0
+[%T]	Bottom of the 3rd - Columbus Clippers batting - Pitching for Iowa Cubs : RHP <a href="../players/player_28790.html">Merrill Kelly</a>
+[%B]	Batting: RHB <a href="../players/player_23950.html">Joey Bart</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F4  (Line Drive, 34, EV 68.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_47828.html">Jake Fox</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 6D, EV 95.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_24870.html">Milan Tolentino</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 34D, EV 99.4 MPH)
+[%N]	<a href="../players/player_47828.html">Jake Fox</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw by RF made at trailing runner, OUT! 9-3-6
+[%B]	Batting: RHB <a href="../players/player_22108.html">Yainer Diaz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 9LMF
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Reached on error, E8 (Flyball, 8RD, EV 91.9 MPH)
+[%N]	<b><a href="../players/player_47828.html">Jake Fox</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_41641.html">Chase DeLauter</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F4  (Line Drive, 4M, EV 66.3 MPH)
+[%F]	Bottom of the 3rd over - 1 run, 2 hits, 1 error, 1 left on base; Iowa 6 - Columbus 1
+[%T]	Top of the 4th - Iowa Cubs batting - Pitching for Columbus Clippers : RHP <a href="../players/player_38033.html">Braunny Munoz</a>
+[%B]	Batting: RHB <a href="../players/player_36936.html">Leo Jiménez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out looking
+[%B]	Batting: SHB <a href="../players/player_181.html">Greg Allen</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_39161.html">Bryan Ramos</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F9  (Flyball, 89M, EV 82.5 MPH)
+[%F]	Top of the 4th over - 0 runs, 0 hits, 0 errors, 0 left on base; Iowa 6 - Columbus 1
+[%T]	Bottom of the 4th - Columbus Clippers batting - Pitching for Iowa Cubs : RHP <a href="../players/player_28790.html">Merrill Kelly</a>
+[%B]	Batting: LHB <a href="../players/player_45366.html">Pres Cavenaugh</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out looking
+[%B]	Batting: SHB <a href="../players/player_36870.html">Aaron Bracho</a>
+[%N]	0-0: Foul Ball, location: 25FF
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 9LDF
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_36768.html">Johnathan Rodriguez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  <b>SOLO HOME RUN</b>  (Flyball, 89XD, EV 107.5 MPH), Distance : 398 ft
+[%B]	Batting: RHB <a href="../players/player_38995.html">Gabriel Rodriguez</a>
+[%N]	0-0: Foul Ball, location: 5FF
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 3F
+[%N]	1-2: Ground out 6-3 (Groundball, 6, EV 78.8 MPH)
+[%F]	Bottom of the 4th over - 1 run, 1 hit, 0 errors, 0 left on base; Iowa 6 - Columbus 2
+[%T]	Top of the 5th - Iowa Cubs batting - Pitching for Columbus Clippers : RHP <a href="../players/player_38033.html">Braunny Munoz</a>
+[%B]	Batting: LHB <a href="../players/player_26659.html">Matt Mervis</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_36761.html">Ivan Johnson</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 13, EV 78.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_36877.html">Luis Verdugo</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 9LMF
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 5th over - 0 runs, 0 hits, 0 errors, 0 left on base; Iowa 6 - Columbus 2
+[%T]	Bottom of the 5th - Columbus Clippers batting - Pitching for Iowa Cubs : RHP <a href="../players/player_28790.html">Merrill Kelly</a>
+[%B]	Batting: RHB <a href="../players/player_23950.html">Joey Bart</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 9LDF
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_47828.html">Jake Fox</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 56D, EV 96.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_24870.html">Milan Tolentino</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 6MD, EV 101.3 MPH)
+[%N]	<a href="../players/player_47828.html">Jake Fox</a> to second
+[%B]	Batting: RHB <a href="../players/player_22108.html">Yainer Diaz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_41641.html">Chase DeLauter</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_47828.html">Jake Fox</a> to third
+[%N]	<a href="../players/player_24870.html">Milan Tolentino</a> to second
+[%N]	2-0: <b>SINGLE</b>  (Line Drive, 4D, EV 94.4 MPH)
+[%N]	<b><a href="../players/player_47828.html">Jake Fox</a> scores</b>
+[%N]	<a href="../players/player_24870.html">Milan Tolentino</a> to third
+[%N]	Runner from 3rd tries for Home, throw by CF and OUT! 8-3-2
+[%F]	Bottom of the 5th over - 1 run, 3 hits, 0 errors, 1 left on base; Iowa 6 - Columbus 3
+[%T]	Top of the 6th - Iowa Cubs batting - Pitching for Columbus Clippers : RHP <a href="../players/player_38033.html">Braunny Munoz</a>
+[%B]	Pitching: RHP <a href="../players/player_35960.html">Kevin Ginkel</a>
+[%B]	Batting: LHB <a href="../players/player_796.html">Corey Rosier</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4, EV 98.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_38164.html">Pablo Aliendo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 56D, EV 96.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_44471.html">Will Taylor</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 5FF
+[%N]	1-1:  Fly out, F9  (Flyball, 89S, EV 92.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_36936.html">Leo Jiménez</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 9LMF
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_38164.html">Pablo Aliendo</a> to second
+[%B]	Batting: SHB <a href="../players/player_181.html">Greg Allen</a>
+[%N]	0-0: Foul Ball, location: 25F
+[%N]	0-1:  Fly out, F9  (Line Drive, 9S, EV 85.6 MPH)
+[%F]	Top of the 6th over - 0 runs, 1 hit, 0 errors, 2 left on base; Iowa 6 - Columbus 3
+[%T]	Bottom of the 6th - Columbus Clippers batting - Pitching for Iowa Cubs : RHP <a href="../players/player_28790.html">Merrill Kelly</a>
+[%B]	Batting: LHB <a href="../players/player_45366.html">Pres Cavenaugh</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8RXD, EV 98.1 MPH)
+[%B]	Batting: SHB <a href="../players/player_36870.html">Aaron Bracho</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 7LSF
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_36768.html">Johnathan Rodriguez</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F9  (Flyball, 9D, EV 97.5 MPH)
+[%F]	Bottom of the 6th over - 0 runs, 0 hits, 0 errors, 0 left on base; Iowa 6 - Columbus 3
+[%T]	Top of the 7th - Iowa Cubs batting - Pitching for Columbus Clippers : RHP <a href="../players/player_35960.html">Kevin Ginkel</a>
+[%B]	Batting: RHB <a href="../players/player_39161.html">Bryan Ramos</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 78S, EV 90.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_26659.html">Matt Mervis</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 7LDF
+[%N]	1-1: Ball
+[%N]	2-1: <b>DOUBLE</b>  (Flyball, 8RXD, EV 99.4 MPH)
+[%N]	<a href="../players/player_39161.html">Bryan Ramos</a> to third
+[%B]	Batting: SHB <a href="../players/player_36761.html">Ivan Johnson</a>
+[%N]	0-0: Intentional Walk
+[%B]	Batting: RHB <a href="../players/player_36877.html">Luis Verdugo</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F8  (Flyball, 78S, EV 95.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_796.html">Corey Rosier</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 7LSF
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 34, EV 103.8 MPH)
+[%N]	<b><a href="../players/player_39161.html">Bryan Ramos</a> scores</b>
+[%N]	<a href="../players/player_26659.html">Matt Mervis</a> to third
+[%N]	<a href="../players/player_36761.html">Ivan Johnson</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by RF to home</b>
+[%B]	Batting: RHB <a href="../players/player_38164.html">Pablo Aliendo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 23FF
+[%N]	0-2: Ball
+[%N]	1-2: Grounds into double play, 6-4-3 (Groundball, 6, EV 110.0 MPH)
+[%F]	Top of the 7th over - 2 runs, 3 hits, 0 errors, 1 left on base; Iowa 8 - Columbus 3
+[%T]	Bottom of the 7th - Columbus Clippers batting - Pitching for Iowa Cubs : RHP <a href="../players/player_28790.html">Merrill Kelly</a>
+[%B]	Batting: RHB <a href="../players/player_38995.html">Gabriel Rodriguez</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6, EV 100.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_23950.html">Joey Bart</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_47828.html">Jake Fox</a>
+[%N]	0-0: Foul Ball, location: 7LSF
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 6-3 (Groundball, 56D, EV 109.4 MPH)
+[%F]	Bottom of the 7th over - 0 runs, 0 hits, 0 errors, 0 left on base; Iowa 8 - Columbus 3
+[%T]	Top of the 8th - Iowa Cubs batting - Pitching for Columbus Clippers : RHP <a href="../players/player_35960.html">Kevin Ginkel</a>
+[%B]	Batting: RHB <a href="../players/player_44471.html">Will Taylor</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Flyball, 9LS, EV 88.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_36936.html">Leo Jiménez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 7LMF
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_181.html">Greg Allen</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F2  (Popup, 3SF, EV 74.4 MPH)
+[%F]	Top of the 8th over - 0 runs, 0 hits, 0 errors, 0 left on base; Iowa 8 - Columbus 3
+[%T]	Bottom of the 8th - Columbus Clippers batting - Pitching for Iowa Cubs : RHP <a href="../players/player_28790.html">Merrill Kelly</a>
+[%B]	Pitching: RHP <a href="../players/player_50764.html">Jose Rodriguez</a>
+[%B]	Batting: LHB <a href="../players/player_24870.html">Milan Tolentino</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LS, EV 86.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_22108.html">Yainer Diaz</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 5DF
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 9LSF
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 4MD, EV 101.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_41641.html">Chase DeLauter</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Hit by Pitch
+[%N]	<a href="../players/player_22108.html">Yainer Diaz</a> to second
+[%B]	Batting: LHB <a href="../players/player_45366.html">Pres Cavenaugh</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 23F
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_36870.html">Aaron Bracho</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 78M, EV 103.8 MPH)
+[%N]	<a href="../players/player_22108.html">Yainer Diaz</a> to third
+[%N]	<a href="../players/player_41641.html">Chase DeLauter</a> to second
+[%B]	Batting: RHB <a href="../players/player_36768.html">Johnathan Rodriguez</a>
+[%N]	0-0: Fielders Choice at 2nd, 6-4 (Groundball, 56, EV 86.9 MPH)
+[%F]	Bottom of the 8th over - 0 runs, 2 hits, 0 errors, 3 left on base; Iowa 8 - Columbus 3
+[%T]	Top of the 9th - Iowa Cubs batting - Pitching for Columbus Clippers : RHP <a href="../players/player_35960.html">Kevin Ginkel</a>
+[%B]	Batting: RHB <a href="../players/player_39161.html">Bryan Ramos</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 9LMF
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 1-3 (Groundball, 15S, EV 69.4 MPH)
+[%B]	Pitching: RHP <a href="../players/player_19903.html">Trevor Stephan</a>
+[%B]	Batting: LHB <a href="../players/player_26659.html">Matt Mervis</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_36761.html">Ivan Johnson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_36877.html">Luis Verdugo</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out looking
+[%F]	Top of the 9th over - 0 runs, 0 hits, 0 errors, 1 left on base; Iowa 8 - Columbus 3
+[%T]	Bottom of the 9th - Columbus Clippers batting - Pitching for Iowa Cubs : RHP <a href="../players/player_50764.html">Jose Rodriguez</a>
+[%B]	Batting: RHB <a href="../players/player_38995.html">Gabriel Rodriguez</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 9LSF
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 9LSF
+[%N]	2-2: Strikes out swinging, 2-3 out at first.
+[%B]	Batting: RHB <a href="../players/player_23950.html">Joey Bart</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 3SF
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_47828.html">Jake Fox</a>
+[%N]	0-0: Foul Ball, location: 7LSF
+[%N]	0-1: Foul Ball, location: 9LDF
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F7  (Flyball, 7, EV 88.8 MPH)
+[%F]	Bottom of the 9th over - 0 runs, 0 hits, 0 errors, 0 left on base; Iowa 8 - Columbus 3
