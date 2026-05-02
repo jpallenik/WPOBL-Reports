@@ -1,0 +1,484 @@
+[%T]	Top of the 1st - New Hampshire Fisher Cats batting - Pitching for Reading Fightin Phils : RHP <a href="../players/player_25055.html">Griff McGarry</a>
+[%B]	Pitching: RHP <a href="../players/player_25055.html">Griff McGarry</a>
+[%B]	Batting: RHB <a href="../players/player_42610.html">Manuel Beltré</a>
+[%N]	0-0: Foul Ball, location: 9LSF
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_44478.html">T.J. White</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 5F
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_39192.html">Alex De Jesus</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Fielders Choice at 2nd, 5-4 (Groundball, 5, EV 90.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_1724.html">Roberto Álvarez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_39192.html">Alex De Jesus</a> to second
+[%B]	Batting: LHB <a href="../players/player_37779.html">Diowill Burgos</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 89S, EV 106.9 MPH)
+[%N]	<a href="../players/player_39192.html">Alex De Jesus</a> to third
+[%N]	<a href="../players/player_1724.html">Roberto Álvarez</a> to second
+[%B]	Batting: RHB <a href="../players/player_25732.html">Glenn Santiago</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 5F
+[%N]	1-2: Foul Ball, location: 3FF
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out looking
+[%F]	Top of the 1st over - 0 runs, 1 hit, 0 errors, 3 left on base; New Hampshire 0 - Reading 0
+[%T]	Bottom of the 1st - Reading Fightin Phils batting - Pitching for New Hampshire Fisher Cats : RHP <a href="../players/player_22508.html">Cade Horton</a>
+[%B]	Pitching: RHP <a href="../players/player_22508.html">Cade Horton</a>
+[%B]	Batting: RHB <a href="../players/player_42922.html">Yhoswar Garcia</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 5-3 (Groundball, 56, EV 86.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_48872.html">Rayne Doncon</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  <b>SOLO HOME RUN</b>  (Flyball, 8RXD, EV 111.3 MPH), Distance : 445 ft
+[%B]	Batting: LHB <a href="../players/player_48405.html">Jordan Viars</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_48175.html">Jace Avina</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 25FF
+[%N]	1-2:  <b>SOLO HOME RUN</b>  (Line Drive, 78XD, EV 106.3 MPH), Distance : 393 ft
+[%B]	Batting: RHB <a href="../players/player_37647.html">Antonio Dominguez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_37707.html">Diego Maican</a>
+[%N]	0-0: Foul Ball, location: 9LMF
+[%N]	0-1: Called Strike
+[%N]	<a href="../players/player_37647.html">Antonio Dominguez</a> steals 2nd base
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 9LMF
+[%N]	1-2: Foul Ball, location: 3F
+[%N]	1-2:  Fly out, F7  (Flyball, 7LM, EV 88.8 MPH)
+[%F]	Bottom of the 1st over - 2 runs, 2 hits, 0 errors, 1 left on base; New Hampshire 0 - Reading 2
+[%T]	Top of the 2nd - New Hampshire Fisher Cats batting - Pitching for Reading Fightin Phils : RHP <a href="../players/player_25055.html">Griff McGarry</a>
+[%B]	Batting: RHB <a href="../players/player_48307.html">Cam Clayton</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F8  (Flyball, 8LM, EV 92.5 MPH)
+[%B]	Batting: SHB <a href="../players/player_40544.html">Anthony Morales</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 3FF
+[%N]	1-2: Foul Ball, location: 25F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 5SF
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_39060.html">Jhonny Melenciano</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 7LDF
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Foul Ball, location: 5SF
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_42610.html">Manuel Beltré</a>
+[%N]	0-0: Foul Ball, location: 3FF
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F3  (Popup, 13, EV 78.8 MPH)
+[%F]	Top of the 2nd over - 0 runs, 0 hits, 0 errors, 1 left on base; New Hampshire 0 - Reading 2
+[%T]	Bottom of the 2nd - Reading Fightin Phils batting - Pitching for New Hampshire Fisher Cats : RHP <a href="../players/player_22508.html">Cade Horton</a>
+[%B]	Batting: RHB <a href="../players/player_50511.html">José Dariel Puig</a>
+[%N]	0-0: Hit by Pitch
+[%B]	Batting: LHB <a href="../players/player_40639.html">Randy Vásquez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Grounds into double play, 4-6-3 (Groundball, 4, EV 100.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_45969.html">Warren Laster</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Flyball, 7, EV 95.0 MPH)
+[%F]	Bottom of the 2nd over - 0 runs, 0 hits, 0 errors, 0 left on base; New Hampshire 0 - Reading 2
+[%T]	Top of the 3rd - New Hampshire Fisher Cats batting - Pitching for Reading Fightin Phils : RHP <a href="../players/player_25055.html">Griff McGarry</a>
+[%B]	Batting: SHB <a href="../players/player_44478.html">T.J. White</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_39192.html">Alex De Jesus</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_1724.html">Roberto Álvarez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Called Strike
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_44478.html">T.J. White</a> to second
+[%B]	Batting: LHB <a href="../players/player_37779.html">Diowill Burgos</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 5SF
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_25732.html">Glenn Santiago</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2LF
+[%N]	2-1: Fielders Choice at 3rd, U5 (Groundball, 5L, EV 84.4 MPH)
+[%F]	Top of the 3rd over - 0 runs, 0 hits, 0 errors, 1 left on base; New Hampshire 0 - Reading 2
+[%T]	Bottom of the 3rd - Reading Fightin Phils batting - Pitching for New Hampshire Fisher Cats : RHP <a href="../players/player_22508.html">Cade Horton</a>
+[%B]	Batting: RHB <a href="../players/player_42922.html">Yhoswar Garcia</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Reached on error, E5 (Groundball, 5, EV 84.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_48872.html">Rayne Doncon</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Ball
+[%N]	3-1: <b>SINGLE</b>  (Line Drive, 7S, EV 94.4 MPH)
+[%N]	<a href="../players/player_42922.html">Yhoswar Garcia</a> to second
+[%B]	Batting: LHB <a href="../players/player_48405.html">Jordan Viars</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_42922.html">Yhoswar Garcia</a> to third
+[%N]	<a href="../players/player_48872.html">Rayne Doncon</a> to second
+[%B]	Batting: RHB <a href="../players/player_48175.html">Jace Avina</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 3F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<b><a href="../players/player_42922.html">Yhoswar Garcia</a> scores</b>
+[%N]	<a href="../players/player_48872.html">Rayne Doncon</a> to third
+[%N]	<a href="../players/player_48405.html">Jordan Viars</a> to second
+[%B]	Batting: RHB <a href="../players/player_37647.html">Antonio Dominguez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%N]	<b><a href="../players/player_48872.html">Rayne Doncon</a> scores</b>
+[%N]	<a href="../players/player_48405.html">Jordan Viars</a> to third
+[%N]	<a href="../players/player_48175.html">Jace Avina</a> to second
+[%B]	Batting: RHB <a href="../players/player_37707.html">Diego Maican</a>
+[%N]	0-0: Reached on error, E4 (Groundball, 4, EV 86.3 MPH)
+[%N]	<b><a href="../players/player_48405.html">Jordan Viars</a> scores</b>
+[%N]	<a href="../players/player_48175.html">Jace Avina</a> to third
+[%N]	<a href="../players/player_37647.html">Antonio Dominguez</a> to second
+[%B]	Batting: RHB <a href="../players/player_50511.html">José Dariel Puig</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Flyball, 5D, EV 91.9 MPH)
+[%N]	<b><a href="../players/player_48175.html">Jace Avina</a> scores</b>
+[%N]	<a href="../players/player_37647.html">Antonio Dominguez</a> to third
+[%N]	<a href="../players/player_37707.html">Diego Maican</a> to second
+[%B]	Pitching: RHP <a href="../players/player_41720.html">Devereaux Harrison</a>
+[%B]	Batting: LHB <a href="../players/player_40639.html">Randy Vásquez</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9, EV 93.8 MPH)
+[%N]	<b>Runner from 3rd tags up, SCORES, throw by RF</b>
+[%B]	Batting: LHB <a href="../players/player_45969.html">Warren Laster</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_42922.html">Yhoswar Garcia</a>
+[%N]	0-0: Foul Ball, location: 5F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out looking
+[%F]	Bottom of the 3rd over - 5 runs, 2 hits, 2 errors, 2 left on base; New Hampshire 0 - Reading 7
+[%T]	Top of the 4th - New Hampshire Fisher Cats batting - Pitching for Reading Fightin Phils : RHP <a href="../players/player_25055.html">Griff McGarry</a>
+[%B]	Batting: RHB <a href="../players/player_48307.html">Cam Clayton</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4, EV 80.6 MPH)
+[%B]	Batting: SHB <a href="../players/player_40544.html">Anthony Morales</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_39060.html">Jhonny Melenciano</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9, EV 76.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_42610.html">Manuel Beltré</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 23F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Ground out 4-3 (Groundball, 4, EV 87.5 MPH)
+[%F]	Top of the 4th over - 0 runs, 0 hits, 0 errors, 1 left on base; New Hampshire 0 - Reading 7
+[%T]	Bottom of the 4th - Reading Fightin Phils batting - Pitching for New Hampshire Fisher Cats : RHP <a href="../players/player_41720.html">Devereaux Harrison</a>
+[%B]	Batting: RHB <a href="../players/player_48872.html">Rayne Doncon</a>
+[%N]	0-0: <b>DOUBLE</b>  (Flyball, 78XD, EV 91.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_48405.html">Jordan Viars</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 34D, EV 103.1 MPH)
+[%N]	<a href="../players/player_48872.html">Rayne Doncon</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by RF to home</b>
+[%N]	<a href="../players/player_48405.html">Jordan Viars</a> to second
+[%B]	Batting: RHB <a href="../players/player_48175.html">Jace Avina</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: <b>DOUBLE</b>  (Line Drive, 89D, EV 97.5 MPH)
+[%N]	<b><a href="../players/player_48405.html">Jordan Viars</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_37647.html">Antonio Dominguez</a>
+[%N]	0-0: Ground out U3 (Groundball, 23, EV 84.4 MPH)
+[%N]	<a href="../players/player_48175.html">Jace Avina</a> to third
+[%B]	Batting: RHB <a href="../players/player_37707.html">Diego Maican</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>DOUBLE</b>  (Flyball, 7LD, EV 101.3 MPH)
+[%N]	<b><a href="../players/player_48175.html">Jace Avina</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_50511.html">José Dariel Puig</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>DOUBLE</b>  (Flyball, 78D, EV 108.1 MPH)
+[%N]	<b><a href="../players/player_37707.html">Diego Maican</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_40639.html">Randy Vásquez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 5FF
+[%N]	1-2: Foul Ball, location: 3F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_45969.html">Warren Laster</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_42922.html">Yhoswar Garcia</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_50511.html">José Dariel Puig</a> to third
+[%N]	<a href="../players/player_40639.html">Randy Vásquez</a> to second
+[%B]	Batting: RHB <a href="../players/player_48872.html">Rayne Doncon</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 9LSF
+[%N]	0-2: Strikes out swinging
+[%F]	Bottom of the 4th over - 4 runs, 5 hits, 0 errors, 3 left on base; New Hampshire 0 - Reading 11
+[%T]	Top of the 5th - New Hampshire Fisher Cats batting - Pitching for Reading Fightin Phils : RHP <a href="../players/player_25055.html">Griff McGarry</a>
+[%B]	Batting: SHB <a href="../players/player_44478.html">T.J. White</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F9  (Flyball, 9D, EV 81.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_39192.html">Alex De Jesus</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Pitching: RHP <a href="../players/player_44145.html">Ty Cummings</a>
+[%B]	Batting: RHB <a href="../players/player_1724.html">Roberto Álvarez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Reached on error, E6 (Groundball, 6M, EV 81.9 MPH)
+[%N]	<a href="../players/player_39192.html">Alex De Jesus</a> to second
+[%B]	Batting: LHB <a href="../players/player_37779.html">Diowill Burgos</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Foul Ball, location: 25F
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_39192.html">Alex De Jesus</a> to third
+[%N]	<a href="../players/player_1724.html">Roberto Álvarez</a> to second
+[%B]	Batting: RHB <a href="../players/player_25732.html">Glenn Santiago</a>
+[%N]	0-0: <b>DOUBLE</b>  (Line Drive, 7LM, EV 106.9 MPH)
+[%N]	<b><a href="../players/player_39192.html">Alex De Jesus</a> scores</b>
+[%N]	<b><a href="../players/player_1724.html">Roberto Álvarez</a> scores</b>
+[%N]	<a href="../players/player_37779.html">Diowill Burgos</a> to third
+[%B]	Batting: RHB <a href="../players/player_48307.html">Cam Clayton</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6, EV 101.9 MPH)
+[%N]	<b><a href="../players/player_37779.html">Diowill Burgos</a> scores</b>
+[%B]	Batting: SHB <a href="../players/player_40544.html">Anthony Morales</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 7LDF
+[%N]	0-2: Strikes out swinging
+[%F]	Top of the 5th over - 3 runs, 1 hit, 1 error, 1 left on base; New Hampshire 3 - Reading 11
+[%T]	Bottom of the 5th - Reading Fightin Phils batting - Pitching for New Hampshire Fisher Cats : RHP <a href="../players/player_41720.html">Devereaux Harrison</a>
+[%B]	Batting: LHB <a href="../players/player_48405.html">Jordan Viars</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_48175.html">Jace Avina</a>
+[%N]	0-0: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_37647.html">Antonio Dominguez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_37707.html">Diego Maican</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F3  (Popup, 3F, EV 78.1 MPH)
+[%F]	Bottom of the 5th over - 0 runs, 0 hits, 0 errors, 1 left on base; New Hampshire 3 - Reading 11
+[%T]	Top of the 6th - New Hampshire Fisher Cats batting - Pitching for Reading Fightin Phils : RHP <a href="../players/player_44145.html">Ty Cummings</a>
+[%B]	Batting: LHB <a href="../players/player_39060.html">Jhonny Melenciano</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 7LSF
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_42610.html">Manuel Beltré</a>
+[%N]	0-0: Ball
+[%N]	1-0: Reached on error, E8 (Flyball, 8RD, EV 102.5 MPH)
+[%B]	Batting: SHB <a href="../players/player_44478.html">T.J. White</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 25F
+[%N]	1-1:  Fly out, F3  (Line Drive, 3L, EV 70.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_39192.html">Alex De Jesus</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out swinging
+[%F]	Top of the 6th over - 0 runs, 0 hits, 1 error, 1 left on base; New Hampshire 3 - Reading 11
+[%T]	Bottom of the 6th - Reading Fightin Phils batting - Pitching for New Hampshire Fisher Cats : RHP <a href="../players/player_41720.html">Devereaux Harrison</a>
+[%B]	Batting: RHB <a href="../players/player_50511.html">José Dariel Puig</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_40639.html">Randy Vásquez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Pitching: RHP <a href="../players/player_43691.html">Hollis Fanning</a>
+[%B]	Batting: LHB <a href="../players/player_45969.html">Warren Laster</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 3F
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F7  (Line Drive, 7, EV 103.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_42922.html">Yhoswar Garcia</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F6  (Popup, 6M, EV 61.3 MPH)
+[%F]	Bottom of the 6th over - 0 runs, 0 hits, 0 errors, 1 left on base; New Hampshire 3 - Reading 11
+[%T]	Top of the 7th - New Hampshire Fisher Cats batting - Pitching for Reading Fightin Phils : RHP <a href="../players/player_44145.html">Ty Cummings</a>
+[%B]	Batting: RHB <a href="../players/player_1724.html">Roberto Álvarez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 9LDF
+[%N]	1-2: Ground out 5-3 (Groundball, 5D, EV 110.0 MPH)
+[%B]	Pinch Hitting: RHB <a href="../players/player_19082.html">Jalen Battles</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 5-3 (Groundball, 56S, EV 76.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_25732.html">Glenn Santiago</a>
+[%N]	0-0: Foul Ball, location: 9LMF
+[%N]	0-1: Foul Ball, location: 3FF
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 7th over - 0 runs, 0 hits, 0 errors, 0 left on base; New Hampshire 3 - Reading 11
+[%T]	Bottom of the 7th - Reading Fightin Phils batting - Pitching for New Hampshire Fisher Cats : RHP <a href="../players/player_43691.html">Hollis Fanning</a>
+[%B]	Now in LF: <a href="../players/player_49942.html">Roque Salinas</a>
+[%B]	Batting: RHB <a href="../players/player_48872.html">Rayne Doncon</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F7  (Flyball, 78S, EV 98.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_48405.html">Jordan Viars</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4, EV 85.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_48175.html">Jace Avina</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out looking
+[%F]	Bottom of the 7th over - 0 runs, 0 hits, 0 errors, 0 left on base; New Hampshire 3 - Reading 11
+[%T]	Top of the 8th - New Hampshire Fisher Cats batting - Pitching for Reading Fightin Phils : RHP <a href="../players/player_44145.html">Ty Cummings</a>
+[%B]	Batting: RHB <a href="../players/player_48307.html">Cam Clayton</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 7LMF
+[%N]	0-2: Foul Ball, location: 5FF
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out looking
+[%B]	Batting: SHB <a href="../players/player_40544.html">Anthony Morales</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_39060.html">Jhonny Melenciano</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 8th over - 0 runs, 0 hits, 0 errors, 0 left on base; New Hampshire 3 - Reading 11
+[%T]	Bottom of the 8th - Reading Fightin Phils batting - Pitching for New Hampshire Fisher Cats : RHP <a href="../players/player_43691.html">Hollis Fanning</a>
+[%B]	Batting: RHB <a href="../players/player_37647.html">Antonio Dominguez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 3FF
+[%N]	1-2:  Fly out, F2  (Popup, 2RF, EV 86.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_37707.html">Diego Maican</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: <b>DOUBLE</b>  (Flyball, 8RXD, EV 93.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_50511.html">José Dariel Puig</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 9LSF
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F8  (Flyball, 8LM, EV 83.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_40639.html">Randy Vásquez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out looking
+[%F]	Bottom of the 8th over - 0 runs, 1 hit, 0 errors, 1 left on base; New Hampshire 3 - Reading 11
+[%T]	Top of the 9th - New Hampshire Fisher Cats batting - Pitching for Reading Fightin Phils : RHP <a href="../players/player_44145.html">Ty Cummings</a>
+[%B]	Batting: RHB <a href="../players/player_42610.html">Manuel Beltré</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out 6-3 (Groundball, P, EV 88.1 MPH)
+[%B]	Batting: SHB <a href="../players/player_44478.html">T.J. White</a>
+[%N]	0-0: Foul Ball, location: 5DF
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_39192.html">Alex De Jesus</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2RF
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%F]	Top of the 9th over - 0 runs, 0 hits, 0 errors, 0 left on base; New Hampshire 3 - Reading 11

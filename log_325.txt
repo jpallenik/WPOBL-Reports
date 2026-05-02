@@ -1,0 +1,396 @@
+[%T]	Top of the 1st - Scranton WB RailRiders batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_36930.html">Alejandro Melean</a>
+[%B]	Pitching: RHP <a href="../players/player_36930.html">Alejandro Melean</a>
+[%B]	Batting: LHB <a href="../players/player_20634.html">Kameron Misner</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 3SF
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_40521.html">Jared Serna</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_40628.html">Brett Barrera</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F7  (Flyball, 7S, EV 85.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_23790.html">Spencer Jones</a>
+[%N]	0-0: Foul Ball, location: 9LMFF
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%F]	Top of the 1st over - 0 runs, 0 hits, 0 errors, 1 left on base; Scranton WB 0 - Buffalo 0
+[%T]	Bottom of the 1st - Buffalo Bisons batting - Pitching for Scranton WB RailRiders : RHP <a href="../players/player_1588.html">Jhony Brito</a>
+[%B]	Pitching: RHP <a href="../players/player_1588.html">Jhony Brito</a>
+[%B]	Batting: LHB <a href="../players/player_48328.html">J.J. Wetherholt</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 78M, EV 103.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_38909.html">Chris Newell</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 3F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_41146.html">Robert Robertis</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 7LMF
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_48328.html">J.J. Wetherholt</a> to second
+[%B]	Batting: RHB <a href="../players/player_24221.html">Justyn-Henry Malloy</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: <b>DOUBLE</b>  (Line Drive, 7LD, EV 101.3 MPH)
+[%N]	<b><a href="../players/player_48328.html">J.J. Wetherholt</a> scores</b>
+[%N]	<a href="../players/player_41146.html">Robert Robertis</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, no throw by LF</b>
+[%B]	Batting: LHB <a href="../players/player_47832.html">Jaden Rudd</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 5FF
+[%N]	1-2: Ground out 6-3 (Groundball, 6, EV 85.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_21777.html">Francisco Acuña</a>
+[%N]	0-0: Foul Ball, location: 5FF
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F4  (Line Drive, 4MD, EV 93.8 MPH)
+[%F]	Bottom of the 1st over - 2 runs, 2 hits, 0 errors, 1 left on base; Scranton WB 0 - Buffalo 2
+[%T]	Top of the 2nd - Scranton WB RailRiders batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_36930.html">Alejandro Melean</a>
+[%B]	Batting: RHB <a href="../players/player_38127.html">Angel Rojas</a>
+[%N]	0-0: <b>DOUBLE</b>  (Line Drive, 7LD, EV 105.6 MPH)
+[%B]	Batting: SHB <a href="../players/player_40405.html">Brenny Escanio</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 9LDF
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_39029.html">Agustin Ramirez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out looking
+[%B]	Batting: SHB <a href="../players/player_36783.html">Luis Garcia</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_36456.html">Jackson Lyon</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 3FF
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%F]	Top of the 2nd over - 0 runs, 1 hit, 0 errors, 2 left on base; Scranton WB 0 - Buffalo 2
+[%T]	Bottom of the 2nd - Buffalo Bisons batting - Pitching for Scranton WB RailRiders : RHP <a href="../players/player_1588.html">Jhony Brito</a>
+[%B]	Batting: LHB <a href="../players/player_45096.html">Michael Turconi</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 7LDF
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ground out 4-3 (Groundball, 4, EV 83.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_25369.html">Stephen Alemais</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 6MD, EV 98.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_36429.html">Will Banfield</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	<a href="../players/player_25369.html">Stephen Alemais</a> steals 2nd base
+[%N]	1-1: Foul Ball, location: 5F
+[%N]	1-2:  Fly out, F8  (Flyball, 8LXD, EV 101.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_48328.html">J.J. Wetherholt</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Hit by Pitch
+[%B]	Batting: LHB <a href="../players/player_38909.html">Chris Newell</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 8RS, EV 85.6 MPH)
+[%N]	<a href="../players/player_25369.html">Stephen Alemais</a> to third
+[%N]	<a href="../players/player_48328.html">J.J. Wetherholt</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by CF to home</b>
+[%B]	Batting: LHB <a href="../players/player_41146.html">Robert Robertis</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out swinging
+[%F]	Bottom of the 2nd over - 1 run, 2 hits, 0 errors, 2 left on base; Scranton WB 0 - Buffalo 3
+[%T]	Top of the 3rd - Scranton WB RailRiders batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_36930.html">Alejandro Melean</a>
+[%B]	Batting: LHB <a href="../players/player_20634.html">Kameron Misner</a>
+[%N]	0-0: Foul Ball, location: 9LDF
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 23F
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_40521.html">Jared Serna</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9LS, EV 72.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_40628.html">Brett Barrera</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 3F
+[%N]	0-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_23790.html">Spencer Jones</a>
+[%N]	0-0:  Fly out, F8  (Line Drive, 8RS, EV 90.6 MPH)
+[%F]	Top of the 3rd over - 0 runs, 0 hits, 0 errors, 1 left on base; Scranton WB 0 - Buffalo 3
+[%T]	Bottom of the 3rd - Buffalo Bisons batting - Pitching for Scranton WB RailRiders : RHP <a href="../players/player_1588.html">Jhony Brito</a>
+[%B]	Batting: RHB <a href="../players/player_24221.html">Justyn-Henry Malloy</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_47832.html">Jaden Rudd</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Grounds into double play, 5-4-3 (Groundball, 56, EV 84.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_21777.html">Francisco Acuña</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 89M, EV 81.9 MPH)
+[%F]	Bottom of the 3rd over - 0 runs, 0 hits, 0 errors, 0 left on base; Scranton WB 0 - Buffalo 3
+[%T]	Top of the 4th - Scranton WB RailRiders batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_36930.html">Alejandro Melean</a>
+[%B]	Batting: RHB <a href="../players/player_38127.html">Angel Rojas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_40405.html">Brenny Escanio</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_39029.html">Agustin Ramirez</a>
+[%N]	0-0: Foul Ball, location: 3DF
+[%N]	0-1: Foul Ball, location: 9LDF
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Grounds into double play, 4-6-3 (Groundball, 4, EV 109.4 MPH)
+[%F]	Top of the 4th over - 0 runs, 0 hits, 0 errors, 0 left on base; Scranton WB 0 - Buffalo 3
+[%T]	Bottom of the 4th - Buffalo Bisons batting - Pitching for Scranton WB RailRiders : RHP <a href="../players/player_1588.html">Jhony Brito</a>
+[%B]	Batting: LHB <a href="../players/player_45096.html">Michael Turconi</a>
+[%N]	0-0: Foul Ball, location: 9LMF
+[%N]	0-1: Foul Ball, location: 23FF
+[%N]	0-2:  Fly out, F9  (Line Drive, 9S, EV 101.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_25369.html">Stephen Alemais</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ground out U3 (Groundball, 3S, EV 73.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_36429.html">Will Banfield</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 4th over - 0 runs, 0 hits, 0 errors, 0 left on base; Scranton WB 0 - Buffalo 3
+[%T]	Top of the 5th - Scranton WB RailRiders batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_36930.html">Alejandro Melean</a>
+[%B]	Batting: SHB <a href="../players/player_36783.html">Luis Garcia</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 4S, EV 65.0 MPH) (infield hit)
+[%B]	Batting: RHB <a href="../players/player_36456.html">Jackson Lyon</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_20634.html">Kameron Misner</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 3F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_40521.html">Jared Serna</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_36783.html">Luis Garcia</a> is caught stealing 2nd base 2-4
+[%F]	Top of the 5th over - 0 runs, 1 hit, 0 errors, 0 left on base; Scranton WB 0 - Buffalo 3
+[%T]	Bottom of the 5th - Buffalo Bisons batting - Pitching for Scranton WB RailRiders : RHP <a href="../players/player_1588.html">Jhony Brito</a>
+[%B]	Batting: LHB <a href="../players/player_48328.html">J.J. Wetherholt</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 8RXD, EV 97.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_38909.html">Chris Newell</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2LF
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ground out 4-3 (Groundball, 4, EV 78.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_41146.html">Robert Robertis</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 78M, EV 88.8 MPH)
+[%F]	Bottom of the 5th over - 0 runs, 0 hits, 0 errors, 0 left on base; Scranton WB 0 - Buffalo 3
+[%T]	Top of the 6th - Scranton WB RailRiders batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_36930.html">Alejandro Melean</a>
+[%B]	Batting: RHB <a href="../players/player_40521.html">Jared Serna</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 7LMF
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 5F
+[%N]	3-2: <b>SINGLE</b>  (Line Drive, 5D, EV 105.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_40628.html">Brett Barrera</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 25F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_23790.html">Spencer Jones</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Fielders Choice at 2nd, 4-6 (Groundball, 4, EV 84.4 MPH)
+[%B]	Pitching: RHP <a href="../players/player_35771.html">Hagen Danner</a>
+[%B]	Batting: RHB <a href="../players/player_38127.html">Angel Rojas</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 6th over - 0 runs, 1 hit, 0 errors, 1 left on base; Scranton WB 0 - Buffalo 3
+[%T]	Bottom of the 6th - Buffalo Bisons batting - Pitching for Scranton WB RailRiders : RHP <a href="../players/player_1588.html">Jhony Brito</a>
+[%B]	Batting: RHB <a href="../players/player_24221.html">Justyn-Henry Malloy</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 7LSF
+[%N]	1-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_47832.html">Jaden Rudd</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Ground out 6-3 (Groundball, 6MD, EV 101.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_21777.html">Francisco Acuña</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1:  Fly out, F8  (Flyball, 8RD, EV 89.4 MPH)
+[%F]	Bottom of the 6th over - 0 runs, 0 hits, 0 errors, 0 left on base; Scranton WB 0 - Buffalo 3
+[%T]	Top of the 7th - Scranton WB RailRiders batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_35771.html">Hagen Danner</a>
+[%B]	Batting: SHB <a href="../players/player_40405.html">Brenny Escanio</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Line Drive, 8LM, EV 85.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_39029.html">Agustin Ramirez</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 56, EV 85.6 MPH)
+[%B]	Batting: SHB <a href="../players/player_36783.html">Luis Garcia</a>
+[%N]	0-0: Foul Ball, location: 7LMF
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 7LMF
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 7th over - 0 runs, 0 hits, 0 errors, 0 left on base; Scranton WB 0 - Buffalo 3
+[%T]	Bottom of the 7th - Buffalo Bisons batting - Pitching for Scranton WB RailRiders : RHP <a href="../players/player_1588.html">Jhony Brito</a>
+[%B]	Batting: LHB <a href="../players/player_45096.html">Michael Turconi</a>
+[%N]	0-0: Foul Ball, location: 7LSF
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 3DF
+[%N]	2-2: Hit by Pitch
+[%B]	Pitching: RHP <a href="../players/player_49562.html">Kevin Aparicio</a>
+[%B]	Batting: RHB <a href="../players/player_25369.html">Stephen Alemais</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Grounds into double play, 5-4-3 (Groundball, 56S, EV 85.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_36429.html">Will Banfield</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F8  (Flyball, 78M, EV 95.6 MPH)
+[%F]	Bottom of the 7th over - 0 runs, 0 hits, 0 errors, 0 left on base; Scranton WB 0 - Buffalo 3
+[%T]	Top of the 8th - Scranton WB RailRiders batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_35771.html">Hagen Danner</a>
+[%B]	Batting: RHB <a href="../players/player_36456.html">Jackson Lyon</a>
+[%N]	0-0: Foul Ball, location: 5FF
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_20634.html">Kameron Misner</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 23F
+[%N]	2-2:  Fly out, F3  (Popup, 34, EV 60.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_40521.html">Jared Serna</a>
+[%N]	0-0: Foul Ball, location: 25FF
+[%N]	0-1:  Fly out, F8  (Flyball, 8LS, EV 93.8 MPH)
+[%F]	Top of the 8th over - 0 runs, 0 hits, 0 errors, 0 left on base; Scranton WB 0 - Buffalo 3
+[%T]	Bottom of the 8th - Buffalo Bisons batting - Pitching for Scranton WB RailRiders : RHP <a href="../players/player_49562.html">Kevin Aparicio</a>
+[%B]	Batting: LHB <a href="../players/player_48328.html">J.J. Wetherholt</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_38909.html">Chris Newell</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Foul Ball, location: 3FF
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_41146.html">Robert Robertis</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: <b>SINGLE</b>  (Line Drive, 7S, EV 91.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_24221.html">Justyn-Henry Malloy</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  <b>2-RUN HOME RUN</b>  (Line Drive, 7D, EV 96.9 MPH), Distance : 375 ft
+[%B]	Batting: LHB <a href="../players/player_47832.html">Jaden Rudd</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  <b>SOLO HOME RUN</b>  (Line Drive, 7D, EV 97.5 MPH), Distance : 369 ft
+[%B]	Batting: RHB <a href="../players/player_21777.html">Francisco Acuña</a>
+[%N]	0-0: Foul Ball, location: 3DF
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F9  (Flyball, 9LMF, EV 100.6 MPH)
+[%F]	Bottom of the 8th over - 3 runs, 3 hits, 0 errors, 0 left on base; Scranton WB 0 - Buffalo 6
+[%T]	Top of the 9th - Scranton WB RailRiders batting - Pitching for Buffalo Bisons : RHP <a href="../players/player_35771.html">Hagen Danner</a>
+[%B]	Batting: RHB <a href="../players/player_40628.html">Brett Barrera</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_23790.html">Spencer Jones</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 4, EV 96.3 MPH) (infield hit)
+[%B]	Batting: RHB <a href="../players/player_38127.html">Angel Rojas</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2RF
+[%N]	1-2: Foul Ball, location: 5FF
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 8RS, EV 98.1 MPH)
+[%N]	<a href="../players/player_23790.html">Spencer Jones</a> to second
+[%B]	Pitching: RHP <a href="../players/player_38094.html">Jiorgeny Casimiri</a>
+[%B]	Batting: SHB <a href="../players/player_40405.html">Brenny Escanio</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_39029.html">Agustin Ramirez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 9LDF
+[%N]	1-2: Reached on error, E6 (Groundball, 56, EV 103.8 MPH)
+[%N]	<a href="../players/player_23790.html">Spencer Jones</a> to third
+[%N]	<a href="../players/player_38127.html">Angel Rojas</a> to second
+[%B]	Batting: SHB <a href="../players/player_36783.html">Luis Garcia</a>
+[%N]	0-0: Foul Ball, location: 5SF
+[%N]	0-1:  Fly out, F8  (Line Drive, 8RS, EV 85.6 MPH)
+[%F]	Top of the 9th over - 0 runs, 2 hits, 1 error, 3 left on base; Scranton WB 0 - Buffalo 6

@@ -1,0 +1,479 @@
+[%T]	Top of the 1st - Harrisburg Senators batting - Pitching for Akron RubberDucks : RHP <a href="../players/player_50783.html">Jogly Garcia</a>
+[%B]	Pitching: RHP <a href="../players/player_50783.html">Jogly Garcia</a>
+[%B]	Batting: LHB <a href="../players/player_37517.html">Christopher De La Cruz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 7LMF
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_24017.html">Brady House</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 9LSF
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_40347.html">Roismar Quintana</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 9LSFF
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Fielders Choice at 2nd, 6-4 (Groundball, 6, EV 80.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_41159.html">Jac Caglianone</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 4MD, EV 98.1 MPH)
+[%N]	<a href="../players/player_40347.html">Roismar Quintana</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw by CF made to third
+[%B]	Batting: RHB <a href="../players/player_36804.html">Miguel Hiraldo</a>
+[%N]	0-0: Foul Ball, location: 7LSF
+[%N]	0-1: Foul Ball, location: 9LMF
+[%N]	0-2: Foul Ball, location: 2RF
+[%N]	0-2: Fielders Choice at 2nd, 6-4 (Groundball, 6, EV 83.8 MPH)
+[%F]	Top of the 1st over - 0 runs, 1 hit, 0 errors, 2 left on base; Harrisburg 0 - Akron 0
+[%T]	Bottom of the 1st - Akron RubberDucks batting - Pitching for Harrisburg Senators : RHP <a href="../players/player_36745.html">Matt Sauer</a>
+[%B]	Pitching: RHP <a href="../players/player_36745.html">Matt Sauer</a>
+[%B]	Batting: LHB <a href="../players/player_46566.html">Joe Lampe</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 34D, EV 98.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_41834.html">Isaiah Greene</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Sac Bunt to 15 - play at first, batter OUT! 1-3
+[%N]	<a href="../players/player_46566.html">Joe Lampe</a> to second
+[%B]	Batting: RHB <a href="../players/player_42300.html">Trevon Dabney</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F4  (Popup, 4S, EV 75.0 MPH)
+[%B]	Batting: SHB <a href="../players/player_40251.html">Juan Benjamin</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2:  <b>2-RUN HOME RUN</b>  (Flyball, 78XD, EV 99.4 MPH), Distance : 387 ft
+[%B]	Batting: LHB <a href="../players/player_39894.html">Wuilfredo Antunez</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Flyball, 78S, EV 91.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_19000.html">David Fry</a>
+[%N]	0-0: <b>DOUBLE</b>  (Flyball, 89XD, EV 108.8 MPH)
+[%N]	<a href="../players/player_39894.html">Wuilfredo Antunez</a> to third
+[%B]	Batting: SHB <a href="../players/player_38442.html">Tyresse Turner</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	Wild Pitch!
+[%N]	<b><a href="../players/player_39894.html">Wuilfredo Antunez</a> scores</b>
+[%N]	<a href="../players/player_19000.html">David Fry</a> to third
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Ground out 4-3 (Groundball, 4, EV 90.0 MPH)
+[%F]	Bottom of the 1st over - 3 runs, 4 hits, 0 errors, 1 left on base; Harrisburg 0 - Akron 3
+[%T]	Top of the 2nd - Harrisburg Senators batting - Pitching for Akron RubberDucks : RHP <a href="../players/player_50783.html">Jogly Garcia</a>
+[%B]	Batting: SHB <a href="../players/player_37514.html">Viandel Pena</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: <b>SINGLE</b>  (Line Drive, 6D, EV 98.8 MPH)
+[%B]	Batting: SHB <a href="../players/player_38760.html">Ronny Simon</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Fielders Choice at 2nd, 3-6 (Groundball, 34, EV 85.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_40348.html">Eliesel Santana</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_38760.html">Ronny Simon</a> steals 2nd base
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 5FF
+[%N]	0-2:  Fly out, F4  (Popup, 34, EV 73.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_44507.html">Adriel Calderon</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 4MS, EV 83.8 MPH)
+[%F]	Top of the 2nd over - 0 runs, 1 hit, 0 errors, 1 left on base; Harrisburg 0 - Akron 3
+[%T]	Bottom of the 2nd - Akron RubberDucks batting - Pitching for Harrisburg Senators : RHP <a href="../players/player_36745.html">Matt Sauer</a>
+[%B]	Batting: SHB <a href="../players/player_24115.html">Yordys Valdes</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 23F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_48858.html">Jesus Montilla</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_46566.html">Joe Lampe</a>
+[%N]	0-0: Foul Ball, location: 5SF
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 6S, EV 72.5 MPH) (infield hit)
+[%B]	Batting: LHB <a href="../players/player_41834.html">Isaiah Greene</a>
+[%N]	0-0:  Fly out, F7  (Flyball, 7, EV 77.5 MPH)
+[%F]	Bottom of the 2nd over - 0 runs, 1 hit, 0 errors, 1 left on base; Harrisburg 0 - Akron 3
+[%T]	Top of the 3rd - Harrisburg Senators batting - Pitching for Akron RubberDucks : RHP <a href="../players/player_50783.html">Jogly Garcia</a>
+[%B]	Batting: LHB <a href="../players/player_37517.html">Christopher De La Cruz</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 3F
+[%N]	1-2: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_24017.html">Brady House</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_37517.html">Christopher De La Cruz</a> to second
+[%B]	Batting: RHB <a href="../players/player_40347.html">Roismar Quintana</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 3F
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_41159.html">Jac Caglianone</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_37517.html">Christopher De La Cruz</a> steals 3rd base
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_36804.html">Miguel Hiraldo</a>
+[%N]	0-0: Foul Ball, location: 5F
+[%N]	0-1:  Fly out, F9  (Flyball, 9D, EV 91.9 MPH)
+[%F]	Top of the 3rd over - 0 runs, 0 hits, 0 errors, 2 left on base; Harrisburg 0 - Akron 3
+[%T]	Bottom of the 3rd - Akron RubberDucks batting - Pitching for Harrisburg Senators : RHP <a href="../players/player_36745.html">Matt Sauer</a>
+[%B]	Batting: RHB <a href="../players/player_42300.html">Trevon Dabney</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 7LSF
+[%N]	2-1: Foul Ball, location: 5SF
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_40251.html">Juan Benjamin</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: <b>SINGLE</b>  (Line Drive, 78M, EV 95.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_39894.html">Wuilfredo Antunez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 7LSFF
+[%N]	3-2: Foul Ball, location: 9LDF
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_40251.html">Juan Benjamin</a> to second
+[%B]	Batting: RHB <a href="../players/player_19000.html">David Fry</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2RF
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_38442.html">Tyresse Turner</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out swinging
+[%F]	Bottom of the 3rd over - 0 runs, 1 hit, 0 errors, 2 left on base; Harrisburg 0 - Akron 3
+[%T]	Top of the 4th - Harrisburg Senators batting - Pitching for Akron RubberDucks : RHP <a href="../players/player_50783.html">Jogly Garcia</a>
+[%B]	Batting: SHB <a href="../players/player_37514.html">Viandel Pena</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 8LS, EV 98.1 MPH)
+[%B]	Batting: SHB <a href="../players/player_38760.html">Ronny Simon</a>
+[%N]	0-0: Bunt missed!
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 7LSF
+[%N]	1-2: Foul Ball, location: 5F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_40348.html">Eliesel Santana</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 9LDF
+[%N]	1-2: Foul Ball, location: 9LDF
+[%N]	1-2: Foul Ball, location: 9LMF
+[%N]	1-2: Foul Ball, location: 3F
+[%N]	1-2:  Fly out, F8  (Flyball, 8RXD, EV 104.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_44507.html">Adriel Calderon</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	Pickoff Throw to First - Out! 1-3 CS
+[%F]	Top of the 4th over - 0 runs, 1 hit, 0 errors, 0 left on base; Harrisburg 0 - Akron 3
+[%T]	Bottom of the 4th - Akron RubberDucks batting - Pitching for Harrisburg Senators : RHP <a href="../players/player_36745.html">Matt Sauer</a>
+[%B]	Batting: SHB <a href="../players/player_24115.html">Yordys Valdes</a>
+[%N]	0-0: Foul Ball, location: 7LDF
+[%N]	0-1: Called Strike
+[%N]	0-2:  Fly out, F9  (Flyball, 9, EV 87.5 MPH)
+[%B]	Batting: SHB <a href="../players/player_48858.html">Jesus Montilla</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Flyball, 8RS, EV 92.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_46566.html">Joe Lampe</a>
+[%N]	0-0: Fielders Choice at 2nd, 4-6 (Groundball, 4S, EV 81.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_41834.html">Isaiah Greene</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4, EV 101.3 MPH)
+[%F]	Bottom of the 4th over - 0 runs, 1 hit, 0 errors, 1 left on base; Harrisburg 0 - Akron 3
+[%T]	Top of the 5th - Harrisburg Senators batting - Pitching for Akron RubberDucks : RHP <a href="../players/player_50783.html">Jogly Garcia</a>
+[%B]	Batting: LHB <a href="../players/player_44507.html">Adriel Calderon</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_37517.html">Christopher De La Cruz</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 7LMF
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_24017.html">Brady House</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 25F
+[%N]	0-2: <b>SINGLE</b>  (Groundball, 34D, EV 97.5 MPH)
+[%N]	<a href="../players/player_44507.html">Adriel Calderon</a> to second
+[%B]	Batting: RHB <a href="../players/player_40347.html">Roismar Quintana</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 3SF
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_41159.html">Jac Caglianone</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out swinging
+[%F]	Top of the 5th over - 0 runs, 1 hit, 0 errors, 2 left on base; Harrisburg 0 - Akron 3
+[%T]	Bottom of the 5th - Akron RubberDucks batting - Pitching for Harrisburg Senators : RHP <a href="../players/player_36745.html">Matt Sauer</a>
+[%B]	Batting: RHB <a href="../players/player_42300.html">Trevon Dabney</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 9LMF
+[%N]	0-2: Foul Ball, location: 2LF
+[%N]	0-2: <b>SINGLE</b>  (Groundball, 56S, EV 66.9 MPH) (infield hit)
+[%B]	Batting: SHB <a href="../players/player_40251.html">Juan Benjamin</a>
+[%N]	0-0: Hit by Pitch
+[%N]	<a href="../players/player_42300.html">Trevon Dabney</a> to second
+[%B]	Batting: LHB <a href="../players/player_39894.html">Wuilfredo Antunez</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Line Drive, 9, EV 98.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_19000.html">David Fry</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 3FF
+[%N]	3-2: Foul Ball, location: 25F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F8  (Flyball, 8LM, EV 98.8 MPH)
+[%B]	Batting: SHB <a href="../players/player_38442.html">Tyresse Turner</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_42300.html">Trevon Dabney</a> to third
+[%N]	<a href="../players/player_40251.html">Juan Benjamin</a> to second
+[%B]	Batting: SHB <a href="../players/player_24115.html">Yordys Valdes</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out U3 (Groundball, 3S, EV 88.1 MPH)
+[%F]	Bottom of the 5th over - 0 runs, 1 hit, 0 errors, 3 left on base; Harrisburg 0 - Akron 3
+[%T]	Top of the 6th - Harrisburg Senators batting - Pitching for Akron RubberDucks : RHP <a href="../players/player_50783.html">Jogly Garcia</a>
+[%B]	Batting: RHB <a href="../players/player_36804.html">Miguel Hiraldo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 56D, EV 96.3 MPH)
+[%B]	Batting: SHB <a href="../players/player_37514.html">Viandel Pena</a>
+[%N]	0-0: Ball
+[%N]	1-0: Bunted foul
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 7LSF
+[%N]	2-2: Foul Ball, location: 23F
+[%N]	2-2: Foul Ball, location: 7LDF
+[%N]	2-2:  Fly out, F7  (Line Drive, 7S, EV 100.0 MPH)
+[%B]	Pitching: RHP <a href="../players/player_38048.html">Rafael Feliz</a>
+[%B]	Batting: SHB <a href="../players/player_38760.html">Ronny Simon</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_40348.html">Eliesel Santana</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	<a href="../players/player_36804.html">Miguel Hiraldo</a> steals 2nd base
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 6th over - 0 runs, 1 hit, 0 errors, 1 left on base; Harrisburg 0 - Akron 3
+[%T]	Bottom of the 6th - Akron RubberDucks batting - Pitching for Harrisburg Senators : RHP <a href="../players/player_36745.html">Matt Sauer</a>
+[%B]	Batting: SHB <a href="../players/player_48858.html">Jesus Montilla</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_46566.html">Joe Lampe</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 7LSF
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 89M, EV 95.6 MPH)
+[%B]	Pitching: RHP <a href="../players/player_37556.html">Bryan Caceres</a>
+[%B]	Batting: LHB <a href="../players/player_41834.html">Isaiah Greene</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_46566.html">Joe Lampe</a> to second
+[%B]	Batting: RHB <a href="../players/player_42300.html">Trevon Dabney</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	<a href="../players/player_46566.html">Joe Lampe</a> steals 3rd base
+[%N]	<a href="../players/player_41834.html">Isaiah Greene</a> to second
+[%N]	1-1:  Fly out, F5  (Popup, 5S, EV 71.3 MPH)
+[%B]	Batting: SHB <a href="../players/player_40251.html">Juan Benjamin</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_39894.html">Wuilfredo Antunez</a>
+[%N]	0-0: <b>TRIPLE</b>  (Flyball, 9D, EV 96.9 MPH)
+[%N]	<b><a href="../players/player_46566.html">Joe Lampe</a> scores</b>
+[%N]	<b><a href="../players/player_41834.html">Isaiah Greene</a> scores</b>
+[%N]	<b><a href="../players/player_40251.html">Juan Benjamin</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_19000.html">David Fry</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>DOUBLE</b>  (Line Drive, 3D, EV 98.8 MPH)
+[%N]	<b><a href="../players/player_39894.html">Wuilfredo Antunez</a> scores</b>
+[%B]	Batting: SHB <a href="../players/player_38442.html">Tyresse Turner</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 34D, EV 107.5 MPH)
+[%N]	<a href="../players/player_19000.html">David Fry</a> to third
+[%B]	Pitching: LHP <a href="../players/player_40342.html">Pablo Aldonis</a>
+[%B]	Batting: SHB <a href="../players/player_24115.html">Yordys Valdes</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>DOUBLE</b>  (Line Drive, 9LM, EV 103.8 MPH)
+[%N]	<b><a href="../players/player_19000.html">David Fry</a> scores</b>
+[%N]	<a href="../players/player_38442.html">Tyresse Turner</a> to third
+[%B]	Batting: SHB <a href="../players/player_48858.html">Jesus Montilla</a>
+[%N]	0-0: Foul Ball, location: 7LMF
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 2RF
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_46566.html">Joe Lampe</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F9  (Flyball, 9, EV 85.6 MPH)
+[%F]	Bottom of the 6th over - 5 runs, 5 hits, 0 errors, 3 left on base; Harrisburg 0 - Akron 8
+[%T]	Top of the 7th - Harrisburg Senators batting - Pitching for Akron RubberDucks : RHP <a href="../players/player_38048.html">Rafael Feliz</a>
+[%B]	Batting: LHB <a href="../players/player_44507.html">Adriel Calderon</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4, EV 92.5 MPH)
+[%B]	Pinch Hitting: LHB <a href="../players/player_41139.html">Nolan Schanuel</a>
+[%N]	0-0: Foul Ball, location: 3F
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_24017.html">Brady House</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 23F
+[%N]	3-2: Foul Ball, location: 5DF
+[%N]	3-2: Strikes out looking
+[%F]	Top of the 7th over - 0 runs, 0 hits, 0 errors, 0 left on base; Harrisburg 0 - Akron 8
+[%T]	Bottom of the 7th - Akron RubberDucks batting - Pitching for Harrisburg Senators : LHP <a href="../players/player_40342.html">Pablo Aldonis</a>
+[%B]	Now in LF: <a href="../players/player_41139.html">Nolan Schanuel</a>
+[%B]	Batting: LHB <a href="../players/player_41834.html">Isaiah Greene</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 7LDF
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F7  (Line Drive, 56D, EV 66.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_42300.html">Trevon Dabney</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 5SF
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_40251.html">Juan Benjamin</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 3F
+[%N]	1-1:  Fly out, F8  (Flyball, 89D, EV 92.5 MPH)
+[%F]	Bottom of the 7th over - 0 runs, 0 hits, 0 errors, 0 left on base; Harrisburg 0 - Akron 8
+[%T]	Top of the 8th - Harrisburg Senators batting - Pitching for Akron RubberDucks : RHP <a href="../players/player_38048.html">Rafael Feliz</a>
+[%B]	Batting: RHB <a href="../players/player_40347.html">Roismar Quintana</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Foul Ball, location: 3F
+[%N]	2-2: <b>DOUBLE</b>  (Flyball, 8LXD, EV 108.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_41159.html">Jac Caglianone</a>
+[%N]	0-0: Foul Ball, location: 7LMF
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 6D, EV 96.9 MPH)
+[%N]	<a href="../players/player_40347.html">Roismar Quintana</a> to third
+[%B]	Batting: RHB <a href="../players/player_36804.html">Miguel Hiraldo</a>
+[%N]	0-0: Foul Ball, location: 9LMF
+[%N]	0-1: Foul Ball, location: 9LMF
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out looking
+[%B]	Batting: SHB <a href="../players/player_37514.html">Viandel Pena</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_38760.html">Ronny Simon</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F6  (Popup, 15S, EV 80.6 MPH)
+[%F]	Top of the 8th over - 0 runs, 2 hits, 0 errors, 2 left on base; Harrisburg 0 - Akron 8
+[%T]	Bottom of the 8th - Akron RubberDucks batting - Pitching for Harrisburg Senators : LHP <a href="../players/player_40342.html">Pablo Aldonis</a>
+[%B]	Batting: LHB <a href="../players/player_39894.html">Wuilfredo Antunez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2LF
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_19000.html">David Fry</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F7  (Flyball, 7, EV 84.4 MPH)
+[%B]	Batting: SHB <a href="../players/player_38442.html">Tyresse Turner</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_24115.html">Yordys Valdes</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2:  Fly out, F7  (Flyball, 7D, EV 96.9 MPH)
+[%F]	Bottom of the 8th over - 0 runs, 0 hits, 0 errors, 1 left on base; Harrisburg 0 - Akron 8
+[%T]	Top of the 9th - Harrisburg Senators batting - Pitching for Akron RubberDucks : RHP <a href="../players/player_38048.html">Rafael Feliz</a>
+[%B]	Batting: RHB <a href="../players/player_40348.html">Eliesel Santana</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 3F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_44507.html">Adriel Calderon</a>
+[%N]	0-0: Foul Ball, location: 5SF
+[%N]	0-1: Called Strike
+[%N]	0-2: Grounds into double play, 6-4-3 (Groundball, 6, EV 85.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_41139.html">Nolan Schanuel</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 25FF
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging <b>passed ball, reaches first!</b>
+[%B]	Batting: RHB <a href="../players/player_24017.html">Brady House</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ground out 5-3 (Groundball, 5S, EV 87.5 MPH)
+[%F]	Top of the 9th over - 0 runs, 0 hits, 0 errors, 1 left on base; Harrisburg 0 - Akron 8

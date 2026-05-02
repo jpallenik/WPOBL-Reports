@@ -1,0 +1,463 @@
+[%T]	Top of the 1st - Binghamton Rumble Ponies batting - Pitching for New Hampshire Fisher Cats : RHP <a href="../players/player_22508.html">Cade Horton</a>
+[%B]	Pitching: RHP <a href="../players/player_22508.html">Cade Horton</a>
+[%B]	Batting: LHB <a href="../players/player_24794.html">Kevin Kendall</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 5FF
+[%N]	0-2: Strikes out looking
+[%B]	Batting: SHB <a href="../players/player_23704.html">Jonathan Araúz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F8  (Flyball, 8LD, EV 110.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_30210.html">Jose Peraza</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 6MD, EV 107.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_50583.html">Yordis Perera</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out looking
+[%F]	Top of the 1st over - 0 runs, 1 hit, 0 errors, 1 left on base; Binghamton 0 - New Hampshire 0
+[%T]	Bottom of the 1st - New Hampshire Fisher Cats batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_21243.html">Oscar Rojas</a>
+[%B]	Pitching: RHP <a href="../players/player_21243.html">Oscar Rojas</a>
+[%B]	Batting: RHB <a href="../players/player_42610.html">Manuel Beltré</a>
+[%N]	0-0: Foul Ball, location: 9LMF
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_44478.html">T.J. White</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_39192.html">Alex De Jesus</a>
+[%N]	0-0:  <b>SOLO HOME RUN</b>  (Flyball, 78XD, EV 103.8 MPH), Distance : 418 ft
+[%B]	Batting: RHB <a href="../players/player_1724.html">Roberto Álvarez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Groundball, 4MD, EV 99.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_37779.html">Diowill Burgos</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 4-3 (Groundball, 4D, EV 101.3 MPH)
+[%F]	Bottom of the 1st over - 1 run, 2 hits, 0 errors, 1 left on base; Binghamton 0 - New Hampshire 1
+[%T]	Top of the 2nd - Binghamton Rumble Ponies batting - Pitching for New Hampshire Fisher Cats : RHP <a href="../players/player_22508.html">Cade Horton</a>
+[%B]	Batting: SHB <a href="../players/player_49936.html">Willy Fañas</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 5-3 (Groundball, 56, EV 90.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_39035.html">Victor Bericoto</a>
+[%N]	0-0: Ground out 1-3 (Groundball, 13S, EV 62.5 MPH)
+[%B]	Batting: SHB <a href="../players/player_40474.html">Eric Santana</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 7LSF
+[%N]	1-2: Foul Ball, location: 7LDF
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 2nd over - 0 runs, 0 hits, 0 errors, 0 left on base; Binghamton 0 - New Hampshire 1
+[%T]	Bottom of the 2nd - New Hampshire Fisher Cats batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_21243.html">Oscar Rojas</a>
+[%B]	Batting: RHB <a href="../players/player_48307.html">Cam Clayton</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 34D, EV 103.1 MPH)
+[%B]	Batting: SHB <a href="../players/player_40544.html">Anthony Morales</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	Pickoff Throw to First - Out! 1-3 CS
+[%N]	0-2: Ground out 1-3 (Groundball, 15S, EV 71.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_49942.html">Roque Salinas</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LM, EV 86.9 MPH)
+[%F]	Bottom of the 2nd over - 0 runs, 1 hit, 0 errors, 0 left on base; Binghamton 0 - New Hampshire 1
+[%T]	Top of the 3rd - Binghamton Rumble Ponies batting - Pitching for New Hampshire Fisher Cats : RHP <a href="../players/player_22508.html">Cade Horton</a>
+[%B]	Batting: RHB <a href="../players/player_43826.html">Carter Trice</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_49036.html">Jose Melendez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Bunted foul
+[%N]	2-2: Ball
+[%N]	3-2: Grounds into double play, 6-4-3 (Groundball, 56, EV 100.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_24794.html">Kevin Kendall</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_23704.html">Jonathan Araúz</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	<a href="../players/player_24794.html">Kevin Kendall</a> steals 2nd base
+[%N]	2-1: Ball
+[%N]	3-1:  <b>2-RUN HOME RUN</b>  (Flyball, 8LXD, EV 112.5 MPH), Distance : 445 ft
+[%B]	Batting: RHB <a href="../players/player_30210.html">Jose Peraza</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 7LSF
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F9  (Flyball, 9S, EV 95.0 MPH)
+[%F]	Top of the 3rd over - 2 runs, 1 hit, 0 errors, 0 left on base; Binghamton 2 - New Hampshire 1
+[%T]	Bottom of the 3rd - New Hampshire Fisher Cats batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_21243.html">Oscar Rojas</a>
+[%B]	Batting: LHB <a href="../players/player_39060.html">Jhonny Melenciano</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_42610.html">Manuel Beltré</a>
+[%N]	0-0: Ball
+[%N]	1-0: Hit by Pitch
+[%B]	Batting: SHB <a href="../players/player_44478.html">T.J. White</a>
+[%N]	0-0: Foul Ball, location: 9LSF
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: <b>SINGLE</b>  (Line Drive, 89S, EV 100.0 MPH)
+[%N]	<a href="../players/player_42610.html">Manuel Beltré</a> to second
+[%B]	Batting: RHB <a href="../players/player_39192.html">Alex De Jesus</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F7  (Flyball, 7D, EV 88.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_1724.html">Roberto Álvarez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Flyball, 5D, EV 90.6 MPH)
+[%N]	<a href="../players/player_42610.html">Manuel Beltré</a> to third
+[%N]	<a href="../players/player_44478.html">T.J. White</a> to second
+[%B]	Batting: LHB <a href="../players/player_37779.html">Diowill Burgos</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 5SF
+[%N]	1-2: Strikes out looking
+[%F]	Bottom of the 3rd over - 0 runs, 2 hits, 0 errors, 3 left on base; Binghamton 2 - New Hampshire 1
+[%T]	Top of the 4th - Binghamton Rumble Ponies batting - Pitching for New Hampshire Fisher Cats : RHP <a href="../players/player_22508.html">Cade Horton</a>
+[%B]	Batting: RHB <a href="../players/player_50583.html">Yordis Perera</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F6  (Line Drive, 6, EV 69.4 MPH)
+[%B]	Batting: SHB <a href="../players/player_49936.html">Willy Fañas</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_39035.html">Victor Bericoto</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%F]	Top of the 4th over - 0 runs, 0 hits, 0 errors, 0 left on base; Binghamton 2 - New Hampshire 1
+[%T]	Bottom of the 4th - New Hampshire Fisher Cats batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_21243.html">Oscar Rojas</a>
+[%B]	Batting: RHB <a href="../players/player_48307.html">Cam Clayton</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Flyball, 34D, EV 93.8 MPH)
+[%B]	Batting: SHB <a href="../players/player_40544.html">Anthony Morales</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 78S, EV 99.4 MPH)
+[%N]	<a href="../players/player_48307.html">Cam Clayton</a> to second
+[%B]	Batting: LHB <a href="../players/player_49942.html">Roque Salinas</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Grounds into double play, 6-4-3 (Groundball, 6, EV 106.3 MPH)
+[%N]	<a href="../players/player_48307.html">Cam Clayton</a> to third
+[%B]	Batting: LHB <a href="../players/player_39060.html">Jhonny Melenciano</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 25FF
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%F]	Bottom of the 4th over - 0 runs, 2 hits, 0 errors, 1 left on base; Binghamton 2 - New Hampshire 1
+[%T]	Top of the 5th - Binghamton Rumble Ponies batting - Pitching for New Hampshire Fisher Cats : RHP <a href="../players/player_22508.html">Cade Horton</a>
+[%B]	Batting: SHB <a href="../players/player_40474.html">Eric Santana</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 23F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_43826.html">Carter Trice</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_40474.html">Eric Santana</a> to second
+[%B]	Batting: RHB <a href="../players/player_49036.html">Jose Melendez</a>
+[%N]	0-0: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_40474.html">Eric Santana</a> to third
+[%N]	<a href="../players/player_43826.html">Carter Trice</a> to second
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_24794.html">Kevin Kendall</a>
+[%N]	0-0: Grounds into fielders choice 3-2 (Groundball, 3S, EV 85.6 MPH)
+[%N]	<a href="../players/player_43826.html">Carter Trice</a> to third
+[%N]	<a href="../players/player_49036.html">Jose Melendez</a> to second
+[%B]	Batting: SHB <a href="../players/player_23704.html">Jonathan Araúz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 6MD, EV 108.8 MPH)
+[%N]	<b><a href="../players/player_43826.html">Carter Trice</a> scores</b>
+[%N]	<a href="../players/player_49036.html">Jose Melendez</a> to third
+[%N]	<a href="../players/player_24794.html">Kevin Kendall</a> to second
+[%B]	Batting: RHB <a href="../players/player_30210.html">Jose Peraza</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 9LDF
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<b><a href="../players/player_49036.html">Jose Melendez</a> scores</b>
+[%N]	<a href="../players/player_24794.html">Kevin Kendall</a> to third
+[%N]	<a href="../players/player_23704.html">Jonathan Araúz</a> to second
+[%B]	Batting: RHB <a href="../players/player_50583.html">Yordis Perera</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 7LD, EV 97.5 MPH)
+[%N]	<b><a href="../players/player_24794.html">Kevin Kendall</a> scores</b>
+[%N]	<b><a href="../players/player_23704.html">Jonathan Araúz</a> scores</b>
+[%N]	<a href="../players/player_30210.html">Jose Peraza</a> to third
+[%B]	Pitching: RHP <a href="../players/player_46821.html">Brendan Collins</a>
+[%B]	Batting: SHB <a href="../players/player_49936.html">Willy Fañas</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 3F
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_39035.html">Victor Bericoto</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 5-3 (Groundball, 56, EV 95.0 MPH)
+[%F]	Top of the 5th over - 4 runs, 2 hits, 0 errors, 2 left on base; Binghamton 6 - New Hampshire 1
+[%T]	Bottom of the 5th - New Hampshire Fisher Cats batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_21243.html">Oscar Rojas</a>
+[%B]	Batting: RHB <a href="../players/player_42610.html">Manuel Beltré</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4, EV 90.6 MPH)
+[%B]	Batting: SHB <a href="../players/player_44478.html">T.J. White</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 9LDF
+[%N]	2-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_39192.html">Alex De Jesus</a>
+[%N]	0-0: Foul Ball, location: 9LDF
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: <b>DOUBLE</b>  (Flyball, 8LXD, EV 104.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_1724.html">Roberto Álvarez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out looking
+[%F]	Bottom of the 5th over - 0 runs, 1 hit, 0 errors, 1 left on base; Binghamton 6 - New Hampshire 1
+[%T]	Top of the 6th - Binghamton Rumble Ponies batting - Pitching for New Hampshire Fisher Cats : RHP <a href="../players/player_46821.html">Brendan Collins</a>
+[%B]	Batting: SHB <a href="../players/player_40474.html">Eric Santana</a>
+[%N]	0-0: Foul Ball, location: 5F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 23F
+[%N]	1-2: Foul Ball, location: 7LSF
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_43826.html">Carter Trice</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 6, EV 100.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_49036.html">Jose Melendez</a>
+[%N]	0-0: Foul Ball, location: 3SF
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Fielders Choice at 2nd, 1-6 (Groundball, 13, EV 66.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_24794.html">Kevin Kendall</a>
+[%N]	0-0: Foul Ball, location: 25FF
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F6  (Line Drive, 56D, EV 73.8 MPH)
+[%F]	Top of the 6th over - 0 runs, 1 hit, 0 errors, 1 left on base; Binghamton 6 - New Hampshire 1
+[%T]	Bottom of the 6th - New Hampshire Fisher Cats batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_21243.html">Oscar Rojas</a>
+[%B]	Batting: LHB <a href="../players/player_37779.html">Diowill Burgos</a>
+[%N]	0-0: Foul Ball, location: 25F
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 6MS, EV 69.4 MPH) (infield hit)
+[%B]	Batting: RHB <a href="../players/player_48307.html">Cam Clayton</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2:  Fly out, F6  (Popup, 6MS, EV 68.8 MPH)
+[%B]	Batting: SHB <a href="../players/player_40544.html">Anthony Morales</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Foul Ball, location: 23F
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_37779.html">Diowill Burgos</a> to second
+[%B]	Batting: LHB <a href="../players/player_49942.html">Roque Salinas</a>
+[%N]	0-0:  Fly out, F8  (Line Drive, 8RM, EV 92.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_39060.html">Jhonny Melenciano</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 7LMF
+[%N]	2-1: Foul Ball, location: 7LDF
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out looking
+[%F]	Bottom of the 6th over - 0 runs, 1 hit, 0 errors, 2 left on base; Binghamton 6 - New Hampshire 1
+[%T]	Top of the 7th - Binghamton Rumble Ponies batting - Pitching for New Hampshire Fisher Cats : RHP <a href="../players/player_46821.html">Brendan Collins</a>
+[%B]	Batting: SHB <a href="../players/player_23704.html">Jonathan Araúz</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 9LDF
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: <b>TRIPLE</b>  (Flyball, 89XD, EV 99.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_30210.html">Jose Peraza</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>DOUBLE</b>  (Line Drive, 89M, EV 101.9 MPH)
+[%N]	<b><a href="../players/player_23704.html">Jonathan Araúz</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_50583.html">Yordis Perera</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_49936.html">Willy Fañas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Foul Ball, location: 3SF
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_39035.html">Victor Bericoto</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging
+[%F]	Top of the 7th over - 1 run, 2 hits, 0 errors, 1 left on base; Binghamton 7 - New Hampshire 1
+[%T]	Bottom of the 7th - New Hampshire Fisher Cats batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_21243.html">Oscar Rojas</a>
+[%B]	Batting: RHB <a href="../players/player_42610.html">Manuel Beltré</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Foul Ball, location: 7LSF
+[%N]	3-2:  Fly out, F2  (Popup, 13S, EV 85.0 MPH)
+[%B]	Batting: SHB <a href="../players/player_44478.html">T.J. White</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Pitching: RHP <a href="../players/player_37496.html">Robert Colina</a>
+[%B]	Batting: RHB <a href="../players/player_39192.html">Alex De Jesus</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1:  Fly out, F7  (Flyball, 78S, EV 98.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_1724.html">Roberto Álvarez</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_44478.html">T.J. White</a> steals 2nd base
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Foul Ball, location: 5F
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_37779.html">Diowill Burgos</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 23F
+[%N]	1-2: Strikes out swinging
+[%F]	Bottom of the 7th over - 0 runs, 0 hits, 0 errors, 2 left on base; Binghamton 7 - New Hampshire 1
+[%T]	Top of the 8th - Binghamton Rumble Ponies batting - Pitching for New Hampshire Fisher Cats : RHP <a href="../players/player_46821.html">Brendan Collins</a>
+[%B]	Batting: SHB <a href="../players/player_40474.html">Eric Santana</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 6D, EV 85.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_43826.html">Carter Trice</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 9LDF
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 7LSF
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%N]	<a href="../players/player_40474.html">Eric Santana</a> is caught stealing 2nd base 2-4
+[%N]	Batter strikes out.
+[%B]	Batting: RHB <a href="../players/player_49036.html">Jose Melendez</a>
+[%N]	0-0: Ground out 1-3 (Groundball, 34S, EV 70.6 MPH)
+[%F]	Top of the 8th over - 0 runs, 1 hit, 0 errors, 0 left on base; Binghamton 7 - New Hampshire 1
+[%T]	Bottom of the 8th - New Hampshire Fisher Cats batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_37496.html">Robert Colina</a>
+[%B]	Batting: RHB <a href="../players/player_48307.html">Cam Clayton</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>TRIPLE</b>  (Line Drive, 9LD, EV 105.0 MPH)
+[%B]	Batting: SHB <a href="../players/player_40544.html">Anthony Morales</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1:  <b>2-RUN HOME RUN</b>  (Flyball, 89XD, EV 106.9 MPH), Distance : 436 ft
+[%B]	Pitching: LHP <a href="../players/player_32392.html">Gabe Speier</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_25732.html">Glenn Santiago</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_39060.html">Jhonny Melenciano</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 5FF
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_42610.html">Manuel Beltré</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 6MD, EV 98.1 MPH)
+[%B]	Batting: SHB <a href="../players/player_44478.html">T.J. White</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 8th over - 2 runs, 3 hits, 0 errors, 1 left on base; Binghamton 7 - New Hampshire 3
+[%T]	Top of the 9th - Binghamton Rumble Ponies batting - Pitching for New Hampshire Fisher Cats : RHP <a href="../players/player_46821.html">Brendan Collins</a>
+[%B]	Pitching: RHP <a href="../players/player_1399.html">Kole Ramage</a>
+[%B]	Now in LF: <a href="../players/player_25732.html">Glenn Santiago</a>
+[%B]	Batting: LHB <a href="../players/player_24794.html">Kevin Kendall</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 5, EV 80.6 MPH)
+[%B]	Batting: SHB <a href="../players/player_23704.html">Jonathan Araúz</a>
+[%N]	0-0: Foul Ball, location: 25F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 1-3 (Groundball, P, EV 72.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_30210.html">Jose Peraza</a>
+[%N]	0-0:  Fly out, F9  (Line Drive, 9S, EV 100.0 MPH)
+[%F]	Top of the 9th over - 0 runs, 0 hits, 0 errors, 0 left on base; Binghamton 7 - New Hampshire 3
+[%T]	Bottom of the 9th - New Hampshire Fisher Cats batting - Pitching for Binghamton Rumble Ponies : LHP <a href="../players/player_32392.html">Gabe Speier</a>
+[%B]	Pitching: RHP <a href="../players/player_26129.html">William Woods</a>
+[%B]	Batting: RHB <a href="../players/player_39192.html">Alex De Jesus</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_1724.html">Roberto Álvarez</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 6MD, EV 100.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_37779.html">Diowill Burgos</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 25FF
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_48307.html">Cam Clayton</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9, EV 80.6 MPH)
+[%F]	Bottom of the 9th over - 0 runs, 1 hit, 0 errors, 1 left on base; Binghamton 7 - New Hampshire 3

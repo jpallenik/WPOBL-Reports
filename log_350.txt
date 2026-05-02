@@ -1,0 +1,352 @@
+[%T]	Top of the 1st - Nashville Sounds batting - Pitching for Norfolk Tides : LHP <a href="../players/player_23872.html">Drew Rom</a>
+[%B]	Pitching: LHP <a href="../players/player_23872.html">Drew Rom</a>
+[%B]	Batting: RHB <a href="../players/player_48948.html">Miguel Bleis</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 6-3 (Groundball, 6, EV 85.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_38703.html">Will Brennan</a>
+[%N]	0-0: Foul Ball, location: 7LSF
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 5DF
+[%N]	2-2: Ground out 6-3 (Groundball, 6, EV 107.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_38112.html">Felix Valerio</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9S, EV 87.5 MPH)
+[%F]	Top of the 1st over - 0 runs, 0 hits, 0 errors, 0 left on base; Nashville 0 - Norfolk 0
+[%T]	Bottom of the 1st - Norfolk Tides batting - Pitching for Nashville Sounds : RHP <a href="../players/player_39152.html">Luis Ortiz</a>
+[%B]	Pitching: RHP <a href="../players/player_39152.html">Luis Ortiz</a>
+[%B]	Batting: RHB <a href="../players/player_25035.html">Hudson Haskin</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_37368.html">César Prieto</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_25207.html">Heston Kjerstad</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Called Strike
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2:  Fly out, F8  (Line Drive, 8LM, EV 100.6 MPH)
+[%F]	Bottom of the 1st over - 0 runs, 0 hits, 0 errors, 0 left on base; Nashville 0 - Norfolk 0
+[%T]	Top of the 2nd - Nashville Sounds batting - Pitching for Norfolk Tides : LHP <a href="../players/player_23872.html">Drew Rom</a>
+[%B]	Batting: RHB <a href="../players/player_24804.html">Joey Wiemer</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LM, EV 97.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_42537.html">Caden Grice</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 8RS, EV 86.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_39259.html">Jesus Parra</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_45675.html">Matthew Wood</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_42537.html">Caden Grice</a> to second
+[%B]	Batting: RHB <a href="../players/player_40423.html">Jheremy Vargas</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out looking
+[%F]	Top of the 2nd over - 0 runs, 1 hit, 0 errors, 2 left on base; Nashville 0 - Norfolk 0
+[%T]	Bottom of the 2nd - Norfolk Tides batting - Pitching for Nashville Sounds : RHP <a href="../players/player_39152.html">Luis Ortiz</a>
+[%B]	Batting: SHB <a href="../players/player_35386.html">Carter Young</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 4MD, EV 97.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_48747.html">Anderson De Los Santos</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_42521.html">Collin Burns</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 4D, EV 96.9 MPH)
+[%N]	<a href="../players/player_35386.html">Carter Young</a> to second
+[%B]	Batting: SHB <a href="../players/player_45026.html">Reed Trimble</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 3F
+[%N]	2-2: Foul Ball, location: 23F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_35386.html">Carter Young</a> to third
+[%N]	<a href="../players/player_42521.html">Collin Burns</a> to second
+[%B]	Batting: RHB <a href="../players/player_40444.html">Victor González</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_1664.html">Silas Ardoin</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out swinging
+[%F]	Bottom of the 2nd over - 0 runs, 2 hits, 0 errors, 3 left on base; Nashville 0 - Norfolk 0
+[%T]	Top of the 3rd - Nashville Sounds batting - Pitching for Norfolk Tides : LHP <a href="../players/player_23872.html">Drew Rom</a>
+[%B]	Batting: RHB <a href="../players/player_48935.html">Gregory Barrios</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 25F
+[%N]	1-1:  Fly out, F8  (Flyball, 8RM, EV 86.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_48948.html">Miguel Bleis</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 6-3 (Groundball, 6, EV 85.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_38703.html">Will Brennan</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Reached on error, E6 (Groundball, 6, EV 100.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_38112.html">Felix Valerio</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 5F
+[%N]	1-1: Ground out 4-3 (Groundball, 4, EV 85.6 MPH)
+[%F]	Top of the 3rd over - 0 runs, 0 hits, 1 error, 1 left on base; Nashville 0 - Norfolk 0
+[%T]	Bottom of the 3rd - Norfolk Tides batting - Pitching for Nashville Sounds : RHP <a href="../players/player_39152.html">Luis Ortiz</a>
+[%B]	Batting: RHB <a href="../players/player_25035.html">Hudson Haskin</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 56, EV 77.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_37368.html">César Prieto</a>
+[%N]	0-0:  Fly out, F3  (Popup, 3SF, EV 80.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_25207.html">Heston Kjerstad</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out swinging
+[%F]	Bottom of the 3rd over - 0 runs, 0 hits, 0 errors, 0 left on base; Nashville 0 - Norfolk 0
+[%T]	Top of the 4th - Nashville Sounds batting - Pitching for Norfolk Tides : LHP <a href="../players/player_23872.html">Drew Rom</a>
+[%B]	Batting: RHB <a href="../players/player_24804.html">Joey Wiemer</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 5F
+[%N]	2-1:  Fly out, F9  (Line Drive, 9D, EV 90.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_42537.html">Caden Grice</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8RD, EV 86.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_39259.html">Jesus Parra</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  <b>SOLO HOME RUN</b>  (Flyball, 8RXD, EV 100.6 MPH), Distance : 423 ft
+[%B]	Batting: LHB <a href="../players/player_45675.html">Matthew Wood</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LM, EV 93.1 MPH)
+[%F]	Top of the 4th over - 1 run, 1 hit, 0 errors, 0 left on base; Nashville 1 - Norfolk 0
+[%T]	Bottom of the 4th - Norfolk Tides batting - Pitching for Nashville Sounds : RHP <a href="../players/player_39152.html">Luis Ortiz</a>
+[%B]	Batting: SHB <a href="../players/player_35386.html">Carter Young</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 7LSF
+[%N]	1-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_48747.html">Anderson De Los Santos</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 4-3 (Groundball, 4, EV 103.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_42521.html">Collin Burns</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Hit by Pitch
+[%B]	Batting: SHB <a href="../players/player_45026.html">Reed Trimble</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_42521.html">Collin Burns</a> steals 2nd base
+[%N]	0-1: Foul Ball, location: 7LMF
+[%N]	0-2: Strikes out swinging
+[%F]	Bottom of the 4th over - 0 runs, 0 hits, 0 errors, 1 left on base; Nashville 1 - Norfolk 0
+[%T]	Top of the 5th - Nashville Sounds batting - Pitching for Norfolk Tides : LHP <a href="../players/player_23872.html">Drew Rom</a>
+[%B]	Batting: RHB <a href="../players/player_40423.html">Jheremy Vargas</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 23F
+[%N]	3-2:  Fly out, F8  (Flyball, 89D, EV 88.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_48935.html">Gregory Barrios</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_48948.html">Miguel Bleis</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F7  (Line Drive, 7S, EV 88.8 MPH)
+[%F]	Top of the 5th over - 0 runs, 0 hits, 0 errors, 0 left on base; Nashville 1 - Norfolk 0
+[%T]	Bottom of the 5th - Norfolk Tides batting - Pitching for Nashville Sounds : RHP <a href="../players/player_39152.html">Luis Ortiz</a>
+[%B]	Batting: RHB <a href="../players/player_40444.html">Victor González</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2LF
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_1664.html">Silas Ardoin</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 9LMF
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 6-3 (Groundball, 6, EV 96.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_25035.html">Hudson Haskin</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: <b>SINGLE</b>  (Flyball, 56D, EV 88.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_37368.html">César Prieto</a>
+[%N]	0-0:  Fly out, F7  (Line Drive, 56D, EV 70.0 MPH)
+[%F]	Bottom of the 5th over - 0 runs, 1 hit, 0 errors, 1 left on base; Nashville 1 - Norfolk 0
+[%T]	Top of the 6th - Nashville Sounds batting - Pitching for Norfolk Tides : LHP <a href="../players/player_23872.html">Drew Rom</a>
+[%B]	Batting: LHB <a href="../players/player_38703.html">Will Brennan</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 23FF
+[%N]	0-2: Foul Ball, location: 9LMF
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 5-3 (Groundball, 56S, EV 70.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_38112.html">Felix Valerio</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_24804.html">Joey Wiemer</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Grounds into double play, 6-4-3 (Groundball, 6, EV 91.9 MPH)
+[%F]	Top of the 6th over - 0 runs, 0 hits, 0 errors, 0 left on base; Nashville 1 - Norfolk 0
+[%T]	Bottom of the 6th - Norfolk Tides batting - Pitching for Nashville Sounds : RHP <a href="../players/player_39152.html">Luis Ortiz</a>
+[%B]	Batting: LHB <a href="../players/player_25207.html">Heston Kjerstad</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 25F
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 34D, EV 96.3 MPH)
+[%B]	Batting: SHB <a href="../players/player_35386.html">Carter Young</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_48747.html">Anderson De Los Santos</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 6MD, EV 95.6 MPH)
+[%N]	<a href="../players/player_25207.html">Heston Kjerstad</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw by CF made to third
+[%N]	<a href="../players/player_48747.html">Anderson De Los Santos</a> to second
+[%B]	Batting: LHB <a href="../players/player_42521.html">Collin Burns</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 3D, EV 98.1 MPH)
+[%N]	<b><a href="../players/player_25207.html">Heston Kjerstad</a> scores</b>
+[%N]	<a href="../players/player_48747.html">Anderson De Los Santos</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by RF to home</b>
+[%B]	Batting: SHB <a href="../players/player_45026.html">Reed Trimble</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F9  (Flyball, 89S, EV 94.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_40444.html">Victor González</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 9LDF
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ground out 4-3 (Groundball, 34, EV 104.4 MPH)
+[%F]	Bottom of the 6th over - 2 runs, 3 hits, 0 errors, 1 left on base; Nashville 1 - Norfolk 2
+[%T]	Top of the 7th - Nashville Sounds batting - Pitching for Norfolk Tides : LHP <a href="../players/player_23872.html">Drew Rom</a>
+[%B]	Batting: LHB <a href="../players/player_42537.html">Caden Grice</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4M, EV 100.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_39259.html">Jesus Parra</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_45675.html">Matthew Wood</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 4MD, EV 104.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_40423.html">Jheremy Vargas</a>
+[%N]	0-0: Foul Ball, location: 9LDF
+[%N]	0-1: Swinging Strike
+[%N]	0-2:  Fly out, F7  (Flyball, 7D, EV 100.0 MPH)
+[%F]	Top of the 7th over - 0 runs, 1 hit, 0 errors, 1 left on base; Nashville 1 - Norfolk 2
+[%T]	Bottom of the 7th - Norfolk Tides batting - Pitching for Nashville Sounds : RHP <a href="../players/player_39152.html">Luis Ortiz</a>
+[%B]	Batting: RHB <a href="../players/player_1664.html">Silas Ardoin</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out looking
+[%B]	Pitching: RHP <a href="../players/player_49630.html">Dencer Geraldo</a>
+[%B]	Batting: RHB <a href="../players/player_25035.html">Hudson Haskin</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ground out 6-3 (Groundball, 6S, EV 65.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_37368.html">César Prieto</a>
+[%N]	0-0: Foul Ball, location: 7LMF
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2:  Fly out, F9  (Flyball, 9, EV 93.1 MPH)
+[%F]	Bottom of the 7th over - 0 runs, 0 hits, 0 errors, 0 left on base; Nashville 1 - Norfolk 2
+[%T]	Top of the 8th - Nashville Sounds batting - Pitching for Norfolk Tides : LHP <a href="../players/player_23872.html">Drew Rom</a>
+[%B]	Batting: RHB <a href="../players/player_48935.html">Gregory Barrios</a>
+[%N]	0-0:  Fly out, F1  (Line Drive, P, EV 73.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_48948.html">Miguel Bleis</a>
+[%N]	0-0: Foul Ball, location: 5F
+[%N]	0-1: Foul Ball, location: 9LDF
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 9LSF
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_38703.html">Will Brennan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Pitching: RHP <a href="../players/player_49127.html">Yaqui Rivera</a>
+[%B]	Batting: RHB <a href="../players/player_38112.html">Felix Valerio</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 5F
+[%N]	0-2: Foul Ball, location: 9LSF
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%F]	Top of the 8th over - 0 runs, 0 hits, 0 errors, 1 left on base; Nashville 1 - Norfolk 2
+[%T]	Bottom of the 8th - Norfolk Tides batting - Pitching for Nashville Sounds : RHP <a href="../players/player_49630.html">Dencer Geraldo</a>
+[%B]	Batting: LHB <a href="../players/player_25207.html">Heston Kjerstad</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 78S, EV 90.0 MPH)
+[%B]	Batting: SHB <a href="../players/player_35386.html">Carter Young</a>
+[%N]	0-0: Foul Ball, location: 7LMF
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 23F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_48747.html">Anderson De Los Santos</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F3  (Popup, 3S, EV 76.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_42521.html">Collin Burns</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out looking
+[%F]	Bottom of the 8th over - 0 runs, 1 hit, 0 errors, 1 left on base; Nashville 1 - Norfolk 2
+[%T]	Top of the 9th - Nashville Sounds batting - Pitching for Norfolk Tides : RHP <a href="../players/player_49127.html">Yaqui Rivera</a>
+[%B]	Pitching: LHP <a href="../players/player_36152.html">Mason Montgomery</a>
+[%B]	Now at 1B: <a href="../players/player_42049.html">Xavier Isaac</a>
+[%B]	Batting: RHB <a href="../players/player_24804.html">Joey Wiemer</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 9LMF
+[%N]	1-2: Strikes out swinging
+[%B]	Pinch Hitting: RHB <a href="../players/player_46589.html">Ajay Sczepkowski</a>
+[%N]	0-0:  Fly out, F9  (Line Drive, 9, EV 91.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_39259.html">Jesus Parra</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4, EV 102.5 MPH)
+[%F]	Top of the 9th over - 0 runs, 0 hits, 0 errors, 0 left on base; Nashville 1 - Norfolk 2

@@ -1,0 +1,361 @@
+[%T]	Top of the 1st - Akron RubberDucks batting - Pitching for Chesapeake Baysox : RHP <a href="../players/player_45514.html">Justin Armbruester</a>
+[%B]	Pitching: RHP <a href="../players/player_45514.html">Justin Armbruester</a>
+[%B]	Batting: LHB <a href="../players/player_46566.html">Joe Lampe</a>
+[%N]	0-0:  <b>SOLO HOME RUN</b>  (Flyball, 89XD, EV 103.1 MPH), Distance : 404 ft
+[%B]	Batting: SHB <a href="../players/player_40251.html">Juan Benjamin</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 9LSF
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2:  Fly out, F7  (Line Drive, 7D, EV 101.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_42300.html">Trevon Dabney</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 4-3 (Groundball, 4S, EV 88.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_50544.html">Jackson Feltner</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 7LDF
+[%N]	0-2: Ground out 1-3 (Groundball, P, EV 66.9 MPH)
+[%F]	Top of the 1st over - 1 run, 1 hit, 0 errors, 0 left on base; Akron 1 - Chesapeake 0
+[%T]	Bottom of the 1st - Chesapeake Baysox batting - Pitching for Akron RubberDucks : RHP <a href="../players/player_50783.html">Jogly Garcia</a>
+[%B]	Pitching: RHP <a href="../players/player_50783.html">Jogly Garcia</a>
+[%B]	Batting: RHB <a href="../players/player_36724.html">Adam Hall</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 5-3 (Groundball, 56S, EV 90.6 MPH)
+[%B]	Batting: SHB <a href="../players/player_24121.html">Alejo Lopez</a>
+[%N]	0-0:  Fly out, F7  (Line Drive, 7S, EV 93.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_42049.html">Xavier Isaac</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 4MD, EV 98.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_32454.html">Jack Mayfield</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 3SF
+[%N]	2-2: Ground out 1-3 (Groundball, 15S, EV 69.4 MPH)
+[%F]	Bottom of the 1st over - 0 runs, 1 hit, 0 errors, 1 left on base; Akron 1 - Chesapeake 0
+[%T]	Top of the 2nd - Akron RubberDucks batting - Pitching for Chesapeake Baysox : RHP <a href="../players/player_45514.html">Justin Armbruester</a>
+[%B]	Batting: LHB <a href="../players/player_40257.html">Luis Durango</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2:  Fly out, F9  (Line Drive, 9D, EV 107.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_19000.html">David Fry</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 6-3 (Groundball, 56, EV 88.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_39894.html">Wuilfredo Antunez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 3SF
+[%N]	2-1: Ball
+[%N]	3-1: <b>DOUBLE</b>  (Line Drive, 3D, EV 98.8 MPH)
+[%B]	Batting: SHB <a href="../players/player_40452.html">Jose Pastrano</a>
+[%N]	0-0: Foul Ball, location: 3F
+[%N]	0-1:  Fly out, F8  (Flyball, 8LD, EV 85.6 MPH)
+[%F]	Top of the 2nd over - 0 runs, 1 hit, 0 errors, 1 left on base; Akron 1 - Chesapeake 0
+[%T]	Bottom of the 2nd - Chesapeake Baysox batting - Pitching for Akron RubberDucks : RHP <a href="../players/player_50783.html">Jogly Garcia</a>
+[%B]	Batting: RHB <a href="../players/player_25309.html">Sheldon Neuse</a>
+[%N]	0-0:  Fly out, F3  (Popup, 3, EV 66.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_30366.html">Lewis Brinson</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, P, EV 87.5 MPH) (infield hit)
+[%B]	Batting: RHB <a href="../players/player_20401.html">Ramon Rodriguez</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Flyball, 78M, EV 90.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_36630.html">Davis Tavarez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 5-3 (Groundball, 56S, EV 86.9 MPH)
+[%F]	Bottom of the 2nd over - 0 runs, 1 hit, 0 errors, 1 left on base; Akron 1 - Chesapeake 0
+[%T]	Top of the 3rd - Akron RubberDucks batting - Pitching for Chesapeake Baysox : RHP <a href="../players/player_45514.html">Justin Armbruester</a>
+[%B]	Batting: SHB <a href="../players/player_48858.html">Jesus Montilla</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: <b>SINGLE</b>  (Line Drive, 4MD, EV 94.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_46566.html">Joe Lampe</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out looking
+[%B]	Batting: SHB <a href="../players/player_40251.html">Juan Benjamin</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F3  (Popup, 23, EV 85.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_42300.html">Trevon Dabney</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 34D, EV 106.3 MPH)
+[%N]	<a href="../players/player_48858.html">Jesus Montilla</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw by RF made at trailing runner, OUT! 9-3-6
+[%F]	Top of the 3rd over - 0 runs, 2 hits, 0 errors, 1 left on base; Akron 1 - Chesapeake 0
+[%T]	Bottom of the 3rd - Chesapeake Baysox batting - Pitching for Akron RubberDucks : RHP <a href="../players/player_50783.html">Jogly Garcia</a>
+[%B]	Batting: SHB <a href="../players/player_40212.html">Roberto Martínez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ground out 4-3 (Groundball, 4, EV 106.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_36724.html">Adam Hall</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1:  Fly out, F9  (Line Drive, 9, EV 92.5 MPH)
+[%B]	Batting: SHB <a href="../players/player_24121.html">Alejo Lopez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 4-3 (Groundball, 4, EV 96.3 MPH)
+[%F]	Bottom of the 3rd over - 0 runs, 0 hits, 0 errors, 0 left on base; Akron 1 - Chesapeake 0
+[%T]	Top of the 4th - Akron RubberDucks batting - Pitching for Chesapeake Baysox : RHP <a href="../players/player_45514.html">Justin Armbruester</a>
+[%B]	Batting: RHB <a href="../players/player_50544.html">Jackson Feltner</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Flyball, 7D, EV 108.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_40257.html">Luis Durango</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ground out 4-3 (Groundball, 34, EV 91.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_19000.html">David Fry</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: <b>DOUBLE</b>  (Flyball, 8LXD, EV 89.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_39894.html">Wuilfredo Antunez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out looking
+[%F]	Top of the 4th over - 0 runs, 1 hit, 0 errors, 1 left on base; Akron 1 - Chesapeake 0
+[%T]	Bottom of the 4th - Chesapeake Baysox batting - Pitching for Akron RubberDucks : RHP <a href="../players/player_50783.html">Jogly Garcia</a>
+[%B]	Batting: LHB <a href="../players/player_42049.html">Xavier Isaac</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 9LS, EV 100.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_32454.html">Jack Mayfield</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 3SF
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_42049.html">Xavier Isaac</a> to second
+[%B]	Batting: RHB <a href="../players/player_25309.html">Sheldon Neuse</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F9  (Flyball, 9D, EV 102.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_30366.html">Lewis Brinson</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Grounds into double play, 5-4-3 (Groundball, 25, EV 85.0 MPH)
+[%F]	Bottom of the 4th over - 0 runs, 1 hit, 0 errors, 1 left on base; Akron 1 - Chesapeake 0
+[%T]	Top of the 5th - Akron RubberDucks batting - Pitching for Chesapeake Baysox : RHP <a href="../players/player_45514.html">Justin Armbruester</a>
+[%B]	Batting: SHB <a href="../players/player_40452.html">Jose Pastrano</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_48858.html">Jesus Montilla</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Line Drive, 8RM, EV 104.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_46566.html">Joe Lampe</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Strikes out swinging, 2-3 out at first.
+[%F]	Top of the 5th over - 0 runs, 0 hits, 0 errors, 0 left on base; Akron 1 - Chesapeake 0
+[%T]	Bottom of the 5th - Chesapeake Baysox batting - Pitching for Akron RubberDucks : RHP <a href="../players/player_50783.html">Jogly Garcia</a>
+[%B]	Batting: RHB <a href="../players/player_20401.html">Ramon Rodriguez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 7LDF
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 8RS, EV 106.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_36630.html">Davis Tavarez</a>
+[%N]	0-0: Foul Ball, location: 9LSF
+[%N]	0-1: Ball
+[%N]	1-1: Bunted foul
+[%N]	1-2: Grounds into double play, 6-4-3 (Groundball, 6, EV 106.9 MPH)
+[%B]	Batting: SHB <a href="../players/player_40212.html">Roberto Martínez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 7LMFF
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 3SF
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 5th over - 0 runs, 1 hit, 0 errors, 0 left on base; Akron 1 - Chesapeake 0
+[%T]	Top of the 6th - Akron RubberDucks batting - Pitching for Chesapeake Baysox : RHP <a href="../players/player_45514.html">Justin Armbruester</a>
+[%B]	Batting: SHB <a href="../players/player_40251.html">Juan Benjamin</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 34D, EV 95.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_42300.html">Trevon Dabney</a>
+[%N]	0-0: Foul Ball, location: 25FF
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 7LSF
+[%N]	2-2: Grounds into double play, 6-4-3 (Groundball, 6, EV 103.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_50544.html">Jackson Feltner</a>
+[%N]	0-0: Foul Ball, location: 9LDF
+[%N]	0-1:  Fly out, F7  (Flyball, 7D, EV 100.6 MPH)
+[%F]	Top of the 6th over - 0 runs, 1 hit, 0 errors, 0 left on base; Akron 1 - Chesapeake 0
+[%T]	Bottom of the 6th - Chesapeake Baysox batting - Pitching for Akron RubberDucks : RHP <a href="../players/player_50783.html">Jogly Garcia</a>
+[%B]	Batting: RHB <a href="../players/player_36724.html">Adam Hall</a>
+[%N]	0-0: <b>TRIPLE</b>  (Line Drive, 7D, EV 100.0 MPH)
+[%B]	Batting: SHB <a href="../players/player_24121.html">Alejo Lopez</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 78M, EV 85.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_42049.html">Xavier Isaac</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 78D, EV 108.1 MPH)
+[%N]	<b><a href="../players/player_36724.html">Adam Hall</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_32454.html">Jack Mayfield</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 4MD, EV 96.9 MPH)
+[%N]	<a href="../players/player_42049.html">Xavier Isaac</a> to third
+[%B]	Batting: RHB <a href="../players/player_25309.html">Sheldon Neuse</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2:  Fly out, F7  (Flyball, 7, EV 93.1 MPH)
+[%N]	<b>Runner from 3rd tags up, SCORES, no throw by LF</b>
+[%B]	Batting: RHB <a href="../players/player_30366.html">Lewis Brinson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 25F
+[%N]	1-2: Strikes out swinging
+[%F]	Bottom of the 6th over - 2 runs, 3 hits, 0 errors, 1 left on base; Akron 1 - Chesapeake 2
+[%T]	Top of the 7th - Akron RubberDucks batting - Pitching for Chesapeake Baysox : RHP <a href="../players/player_45514.html">Justin Armbruester</a>
+[%B]	Batting: LHB <a href="../players/player_40257.html">Luis Durango</a>
+[%N]	0-0: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_19000.html">David Fry</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 4D, EV 107.5 MPH)
+[%N]	<a href="../players/player_40257.html">Luis Durango</a> to second
+[%B]	Batting: LHB <a href="../players/player_39894.html">Wuilfredo Antunez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Grounds into double play, 4-6-3 (Groundball, 4, EV 76.9 MPH)
+[%N]	<a href="../players/player_40257.html">Luis Durango</a> to third
+[%B]	Batting: SHB <a href="../players/player_40452.html">Jose Pastrano</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 3FF
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 7th over - 0 runs, 1 hit, 0 errors, 1 left on base; Akron 1 - Chesapeake 2
+[%T]	Bottom of the 7th - Chesapeake Baysox batting - Pitching for Akron RubberDucks : RHP <a href="../players/player_50783.html">Jogly Garcia</a>
+[%B]	Batting: RHB <a href="../players/player_20401.html">Ramon Rodriguez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 23FF
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_36630.html">Davis Tavarez</a>
+[%N]	0-0: Ball
+[%N]	Balk!
+[%N]	<a href="../players/player_20401.html">Ramon Rodriguez</a> to second
+[%N]	1-0: Bunt - Flyout to 15S! F1
+[%B]	Batting: SHB <a href="../players/player_40212.html">Roberto Martínez</a>
+[%N]	0-0:  Fly out, F7  (Line Drive, 7, EV 94.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_36724.html">Adam Hall</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 3D, EV 95.0 MPH)
+[%N]	<a href="../players/player_20401.html">Ramon Rodriguez</a> to third
+[%B]	Pitching: RHP <a href="../players/player_38696.html">Nick Mikolajchak</a>
+[%B]	Batting: SHB <a href="../players/player_24121.html">Alejo Lopez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Fielders Choice at 2nd, 6-4 (Groundball, 6, EV 84.4 MPH)
+[%F]	Bottom of the 7th over - 0 runs, 1 hit, 0 errors, 2 left on base; Akron 1 - Chesapeake 2
+[%T]	Top of the 8th - Akron RubberDucks batting - Pitching for Chesapeake Baysox : RHP <a href="../players/player_45514.html">Justin Armbruester</a>
+[%B]	Pinch Hitting: LHB <a href="../players/player_41834.html">Isaiah Greene</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F8  (Flyball, 89S, EV 83.1 MPH)
+[%B]	Pitching: LHP <a href="../players/player_36904.html">Bruce Zimmermann</a>
+[%B]	Batting: LHB <a href="../players/player_46566.html">Joe Lampe</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 9LMF
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F8  (Flyball, 8RD, EV 87.5 MPH)
+[%B]	Batting: SHB <a href="../players/player_40251.html">Juan Benjamin</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 9LDF
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 8th over - 0 runs, 0 hits, 0 errors, 0 left on base; Akron 1 - Chesapeake 2
+[%T]	Bottom of the 8th - Chesapeake Baysox batting - Pitching for Akron RubberDucks : RHP <a href="../players/player_38696.html">Nick Mikolajchak</a>
+[%B]	Now at SS: <a href="../players/player_24115.html">Yordys Valdes</a>
+[%B]	Batting: LHB <a href="../players/player_42049.html">Xavier Isaac</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1:  Fly out, F9  (Flyball, 9D, EV 89.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_32454.html">Jack Mayfield</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Called Strike
+[%N]	3-2:  Fly out, F8  (Flyball, 8RM, EV 86.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_25309.html">Sheldon Neuse</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_30366.html">Lewis Brinson</a>
+[%N]	0-0: <b>DOUBLE</b>  (Line Drive, 8RXD, EV 100.0 MPH)
+[%N]	<a href="../players/player_25309.html">Sheldon Neuse</a> to third
+[%B]	Batting: RHB <a href="../players/player_20401.html">Ramon Rodriguez</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2:  Fly out, F8  (Flyball, 78D, EV 97.5 MPH)
+[%F]	Bottom of the 8th over - 0 runs, 1 hit, 0 errors, 2 left on base; Akron 1 - Chesapeake 2
+[%T]	Top of the 9th - Akron RubberDucks batting - Pitching for Chesapeake Baysox : LHP <a href="../players/player_36904.html">Bruce Zimmermann</a>
+[%B]	Pitching: RHP <a href="../players/player_36206.html">Michel Baez</a>
+[%B]	Batting: RHB <a href="../players/player_42300.html">Trevon Dabney</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Line Drive, 8LD, EV 96.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_50544.html">Jackson Feltner</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_40257.html">Luis Durango</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Hit by Pitch
+[%N]	<a href="../players/player_50544.html">Jackson Feltner</a> to second
+[%B]	Batting: RHB <a href="../players/player_19000.html">David Fry</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Flyball, 78M, EV 95.0 MPH)
+[%N]	<a href="../players/player_50544.html">Jackson Feltner</a> to third
+[%N]	<a href="../players/player_40257.html">Luis Durango</a> to second
+[%B]	Batting: LHB <a href="../players/player_39894.html">Wuilfredo Antunez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_40452.html">Jose Pastrano</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F6  (Popup, 56D, EV 58.1 MPH)
+[%F]	Top of the 9th over - 0 runs, 1 hit, 0 errors, 3 left on base; Akron 1 - Chesapeake 2

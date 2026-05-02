@@ -1,0 +1,356 @@
+[%T]	Top of the 1st - Rochester Red Wings batting - Pitching for Jacksonville Jumbo Shrimp : LHP <a href="../players/player_40597.html">Dax Fulton</a>
+[%B]	Pitching: LHP <a href="../players/player_40597.html">Dax Fulton</a>
+[%B]	Batting: RHB <a href="../players/player_22436.html">Brendan Rodgers</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 25F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_39065.html">Jeremy De La Rosa</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 89D, EV 104.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_45896.html">Ryan Ignoffo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2:  Fly out, F8  (Flyball, 8RM, EV 90.6 MPH)
+[%B]	Batting: SHB <a href="../players/player_38613.html">Trey Lipscomb</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Line Drive, 8LS, EV 110.0 MPH)
+[%F]	Top of the 1st over - 0 runs, 1 hit, 0 errors, 1 left on base; Rochester 0 - Jacksonville 0
+[%T]	Bottom of the 1st - Jacksonville Jumbo Shrimp batting - Pitching for Rochester Red Wings : LHP <a href="../players/player_19264.html">Jake Bennett</a>
+[%B]	Pitching: LHP <a href="../players/player_19264.html">Jake Bennett</a>
+[%B]	Batting: LHB <a href="../players/player_44465.html">Kahlil Watson</a>
+[%N]	0-0: Foul Ball, location: 7LSF
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 13S, EV 63.8 MPH) (infield hit)
+[%B]	Batting: RHB <a href="../players/player_37484.html">Nelson Medina</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 6D, EV 88.1 MPH) (infield hit)
+[%N]	<a href="../players/player_44465.html">Kahlil Watson</a> to second
+[%B]	Batting: LHB <a href="../players/player_23231.html">Stephen Scott</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 9LSF
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_25624.html">Nick Solak</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_44465.html">Kahlil Watson</a> to third
+[%N]	<a href="../players/player_37484.html">Nelson Medina</a> to second
+[%B]	Batting: LHB <a href="../players/player_44916.html">Justin Janas</a>
+[%N]	0-0: Foul Ball, location: 9LSFF
+[%N]	0-1: Ball
+[%N]	1-1: Grounds into double play, 4-6-3 (Groundball, 34, EV 107.5 MPH)
+[%F]	Bottom of the 1st over - 0 runs, 2 hits, 0 errors, 2 left on base; Rochester 0 - Jacksonville 0
+[%T]	Top of the 2nd - Rochester Red Wings batting - Pitching for Jacksonville Jumbo Shrimp : LHP <a href="../players/player_40597.html">Dax Fulton</a>
+[%B]	Batting: RHB <a href="../players/player_37915.html">Ronaiker Palma</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F4  (Popup, 34S, EV 83.1 MPH)
+[%B]	Batting: SHB <a href="../players/player_19526.html">Abraham Toro</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_30628.html">Joey Meneses</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 6-3 (Groundball, 6, EV 80.6 MPH)
+[%F]	Top of the 2nd over - 0 runs, 0 hits, 0 errors, 0 left on base; Rochester 0 - Jacksonville 0
+[%T]	Bottom of the 2nd - Jacksonville Jumbo Shrimp batting - Pitching for Rochester Red Wings : LHP <a href="../players/player_19264.html">Jake Bennett</a>
+[%B]	Batting: RHB <a href="../players/player_37733.html">Yunior Garcia</a>
+[%N]	0-0: Foul Ball, location: 9LMF
+[%N]	0-1:  Fly out, F9  (Line Drive, 9S, EV 94.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_30583.html">Austin Nola</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 56D, EV 96.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_26026.html">Drew Gilbert</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 7LMF
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Fielders Choice at 2nd, 6-4 (Groundball, 6, EV 99.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_36431.html">Jordan Groshans</a>
+[%N]	0-0: Foul Ball, location: 5F
+[%N]	0-1: Hit by Pitch
+[%N]	<a href="../players/player_26026.html">Drew Gilbert</a> to second
+[%B]	Batting: LHB <a href="../players/player_44465.html">Kahlil Watson</a>
+[%N]	0-0: Foul Ball, location: 3DF
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2:  Fly out, F3  (Line Drive, 3, EV 66.3 MPH)
+[%F]	Bottom of the 2nd over - 0 runs, 1 hit, 0 errors, 2 left on base; Rochester 0 - Jacksonville 0
+[%T]	Top of the 3rd - Rochester Red Wings batting - Pitching for Jacksonville Jumbo Shrimp : LHP <a href="../players/player_40597.html">Dax Fulton</a>
+[%B]	Batting: LHB <a href="../players/player_25555.html">Ryan Ward</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: <b>SINGLE</b>  (Line Drive, 4MD, EV 98.1 MPH)
+[%B]	Batting: SHB <a href="../players/player_38760.html">Ronny Simon</a>
+[%N]	0-0: Grounds into double play, 6-4-3 (Groundball, 6, EV 91.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_22436.html">Brendan Rodgers</a>
+[%N]	0-0:  Fly out, F7  (Line Drive, 7, EV 91.3 MPH)
+[%F]	Top of the 3rd over - 0 runs, 1 hit, 0 errors, 0 left on base; Rochester 0 - Jacksonville 0
+[%T]	Bottom of the 3rd - Jacksonville Jumbo Shrimp batting - Pitching for Rochester Red Wings : LHP <a href="../players/player_19264.html">Jake Bennett</a>
+[%B]	Batting: RHB <a href="../players/player_37484.html">Nelson Medina</a>
+[%N]	0-0:  Fly out, F4  (Popup, 4S, EV 83.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_23231.html">Stephen Scott</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 7LDF
+[%N]	2-2: Ball
+[%N]	3-2: <b>DOUBLE</b>  (Line Drive, 5D, EV 98.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_25624.html">Nick Solak</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2RF
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 3F
+[%N]	2-2: Ground out 6-3 (Groundball, 6M, EV 105.0 MPH)
+[%N]	<a href="../players/player_23231.html">Stephen Scott</a> to third
+[%B]	Batting: LHB <a href="../players/player_44916.html">Justin Janas</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out looking
+[%F]	Bottom of the 3rd over - 0 runs, 1 hit, 0 errors, 1 left on base; Rochester 0 - Jacksonville 0
+[%T]	Top of the 4th - Rochester Red Wings batting - Pitching for Jacksonville Jumbo Shrimp : LHP <a href="../players/player_40597.html">Dax Fulton</a>
+[%B]	Batting: LHB <a href="../players/player_39065.html">Jeremy De La Rosa</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 4MD, EV 101.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_45896.html">Ryan Ignoffo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 7S, EV 88.1 MPH)
+[%N]	<a href="../players/player_39065.html">Jeremy De La Rosa</a> to second
+[%B]	Batting: SHB <a href="../players/player_38613.html">Trey Lipscomb</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Line Drive, 8LD, EV 93.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_37915.html">Ronaiker Palma</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 23F
+[%N]	1-2: Grounds into double play, 5-4-3 (Groundball, 56, EV 95.0 MPH)
+[%F]	Top of the 4th over - 0 runs, 2 hits, 0 errors, 1 left on base; Rochester 0 - Jacksonville 0
+[%T]	Bottom of the 4th - Jacksonville Jumbo Shrimp batting - Pitching for Rochester Red Wings : LHP <a href="../players/player_19264.html">Jake Bennett</a>
+[%B]	Batting: RHB <a href="../players/player_37733.html">Yunior Garcia</a>
+[%N]	0-0: Foul Ball, location: 3F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 3F
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_30583.html">Austin Nola</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 7LDF
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 5-3 (Groundball, 56, EV 95.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_26026.html">Drew Gilbert</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 34D, EV 105.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_36431.html">Jordan Groshans</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	<a href="../players/player_26026.html">Drew Gilbert</a> steals 2nd base
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Ground out U3 (Groundball, 34, EV 80.6 MPH)
+[%F]	Bottom of the 4th over - 0 runs, 1 hit, 0 errors, 1 left on base; Rochester 0 - Jacksonville 0
+[%T]	Top of the 5th - Rochester Red Wings batting - Pitching for Jacksonville Jumbo Shrimp : LHP <a href="../players/player_40597.html">Dax Fulton</a>
+[%B]	Batting: SHB <a href="../players/player_19526.html">Abraham Toro</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6MS, EV 82.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_30628.html">Joey Meneses</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 6, EV 78.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_25555.html">Ryan Ward</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 5FF
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 5th over - 0 runs, 0 hits, 0 errors, 0 left on base; Rochester 0 - Jacksonville 0
+[%T]	Bottom of the 5th - Jacksonville Jumbo Shrimp batting - Pitching for Rochester Red Wings : LHP <a href="../players/player_19264.html">Jake Bennett</a>
+[%B]	Batting: LHB <a href="../players/player_44465.html">Kahlil Watson</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 3FF
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_37484.html">Nelson Medina</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 56D, EV 105.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_23231.html">Stephen Scott</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Ground out U3 (Groundball, 34, EV 96.9 MPH)
+[%N]	<a href="../players/player_37484.html">Nelson Medina</a> to second
+[%B]	Batting: RHB <a href="../players/player_25624.html">Nick Solak</a>
+[%N]	0-0:  Fly out, F4  (Popup, 4M, EV 65.6 MPH)
+[%F]	Bottom of the 5th over - 0 runs, 1 hit, 0 errors, 1 left on base; Rochester 0 - Jacksonville 0
+[%T]	Top of the 6th - Rochester Red Wings batting - Pitching for Jacksonville Jumbo Shrimp : LHP <a href="../players/player_40597.html">Dax Fulton</a>
+[%B]	Batting: SHB <a href="../players/player_38760.html">Ronny Simon</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 3F
+[%N]	0-2: Ball
+[%N]	1-2:  Fly out, F2  (Popup, 2L, EV 90.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_22436.html">Brendan Rodgers</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 7S, EV 86.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_39065.html">Jeremy De La Rosa</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_45896.html">Ryan Ignoffo</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 7LSF
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 6th over - 0 runs, 1 hit, 0 errors, 1 left on base; Rochester 0 - Jacksonville 0
+[%T]	Bottom of the 6th - Jacksonville Jumbo Shrimp batting - Pitching for Rochester Red Wings : LHP <a href="../players/player_19264.html">Jake Bennett</a>
+[%B]	Batting: LHB <a href="../players/player_44916.html">Justin Janas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Ground out U3 (Groundball, 3S, EV 76.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_37733.html">Yunior Garcia</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 89XD, EV 89.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_30583.html">Austin Nola</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 6-3 (Groundball, 6, EV 94.4 MPH)
+[%F]	Bottom of the 6th over - 0 runs, 0 hits, 0 errors, 0 left on base; Rochester 0 - Jacksonville 0
+[%T]	Top of the 7th - Rochester Red Wings batting - Pitching for Jacksonville Jumbo Shrimp : LHP <a href="../players/player_40597.html">Dax Fulton</a>
+[%B]	Batting: SHB <a href="../players/player_38613.html">Trey Lipscomb</a>
+[%N]	0-0:  Fly out, F6  (Popup, 6, EV 61.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_37915.html">Ronaiker Palma</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Flyball, 8RXD, EV 98.8 MPH)
+[%B]	Batting: SHB <a href="../players/player_19526.html">Abraham Toro</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Foul Ball, location: 5F
+[%N]	2-2:  Fly out, F8  (Flyball, 78D, EV 108.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_30628.html">Joey Meneses</a>
+[%N]	0-0: Ground out 6-3 (Groundball, 56, EV 96.9 MPH)
+[%F]	Top of the 7th over - 0 runs, 1 hit, 0 errors, 1 left on base; Rochester 0 - Jacksonville 0
+[%T]	Bottom of the 7th - Jacksonville Jumbo Shrimp batting - Pitching for Rochester Red Wings : LHP <a href="../players/player_19264.html">Jake Bennett</a>
+[%B]	Batting: LHB <a href="../players/player_26026.html">Drew Gilbert</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ground out U3 (Groundball, 3, EV 91.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_36431.html">Jordan Groshans</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 5-3 (Groundball, 5, EV 77.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_44465.html">Kahlil Watson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 23FF
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 7LMF
+[%N]	3-2: Base on Balls
+[%B]	Pitching: RHP <a href="../players/player_19948.html">José Soriano</a>
+[%B]	Batting: RHB <a href="../players/player_37484.html">Nelson Medina</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 9LMF
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F6  (Line Drive, 6, EV 68.8 MPH)
+[%F]	Bottom of the 7th over - 0 runs, 0 hits, 0 errors, 1 left on base; Rochester 0 - Jacksonville 0
+[%T]	Top of the 8th - Rochester Red Wings batting - Pitching for Jacksonville Jumbo Shrimp : LHP <a href="../players/player_40597.html">Dax Fulton</a>
+[%B]	Batting: LHB <a href="../players/player_25555.html">Ryan Ward</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 25F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_38760.html">Ronny Simon</a>
+[%N]	0-0: Ground out U3 (Groundball, 34, EV 86.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_22436.html">Brendan Rodgers</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 7S, EV 101.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_39065.html">Jeremy De La Rosa</a>
+[%N]	0-0: Foul Ball, location: 3F
+[%N]	0-1: <b>DOUBLE</b>  (Line Drive, 78XD, EV 111.3 MPH)
+[%N]	<a href="../players/player_22436.html">Brendan Rodgers</a> to third
+[%B]	Batting: RHB <a href="../players/player_45896.html">Ryan Ignoffo</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ground out 6-3 (Groundball, 6S, EV 85.6 MPH)
+[%F]	Top of the 8th over - 0 runs, 2 hits, 0 errors, 2 left on base; Rochester 0 - Jacksonville 0
+[%T]	Bottom of the 8th - Jacksonville Jumbo Shrimp batting - Pitching for Rochester Red Wings : RHP <a href="../players/player_19948.html">José Soriano</a>
+[%B]	Pitching: LHP <a href="../players/player_36809.html">Seth Lonsway</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_111.html">Rhys Hoskins</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9LS, EV 91.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_25624.html">Nick Solak</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Hit by Pitch
+[%B]	Batting: LHB <a href="../players/player_44916.html">Justin Janas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: <b>DOUBLE</b>  (Flyball, 8LXD, EV 103.1 MPH)
+[%N]	<a href="../players/player_25624.html">Nick Solak</a> to third
+[%B]	Pitching: RHP <a href="../players/player_21731.html">Shane Baz</a>
+[%B]	Batting: RHB <a href="../players/player_37733.html">Yunior Garcia</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 9LDF
+[%N]	0-2:  Fly out, F8  (Flyball, 8RD, EV 91.3 MPH)
+[%N]	<b>Runner from 3rd tags up, SCORES, no throw by CF</b>
+[%B]	Batting: RHB <a href="../players/player_30583.html">Austin Nola</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 89S, EV 101.3 MPH)
+[%N]	<a href="../players/player_44916.html">Justin Janas</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by RF to home</b>
+[%B]	Batting: LHB <a href="../players/player_26026.html">Drew Gilbert</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8RD, EV 105.6 MPH)
+[%F]	Bottom of the 8th over - 2 runs, 2 hits, 0 errors, 1 left on base; Rochester 0 - Jacksonville 2
+[%T]	Top of the 9th - Rochester Red Wings batting - Pitching for Jacksonville Jumbo Shrimp : LHP <a href="../players/player_40597.html">Dax Fulton</a>
+[%B]	Pitching: RHP <a href="../players/player_24447.html">Nic Enright</a>
+[%B]	Now at 1B: <a href="../players/player_25624.html">Nick Solak</a>
+[%B]	Now at 2B: <a href="../players/player_24967.html">Addison Barger</a>
+[%B]	Batting: SHB <a href="../players/player_38613.html">Trey Lipscomb</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: <b>SINGLE</b>  (Flyball, 78M, EV 98.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_37915.html">Ronaiker Palma</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1:  Fly out, F8  (Flyball, 89M, EV 92.5 MPH)
+[%B]	Batting: SHB <a href="../players/player_19526.html">Abraham Toro</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 7LSF
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_30628.html">Joey Meneses</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Fielders Choice at 2nd, 5-4 (Groundball, 56, EV 102.5 MPH)
+[%F]	Top of the 9th over - 0 runs, 1 hit, 0 errors, 1 left on base; Rochester 0 - Jacksonville 2

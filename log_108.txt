@@ -1,0 +1,514 @@
+[%T]	Top of the 1st - Somerset Patriots batting - Pitching for Richmond Flying Squirrels : RHP <a href="../players/player_45600.html">Johnathan Harmon</a>
+[%B]	Pitching: RHP <a href="../players/player_45600.html">Johnathan Harmon</a>
+[%B]	Batting: SHB <a href="../players/player_38384.html">Mickey Gasper</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_50505.html">Santiago Gomez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 3F
+[%N]	1-1: Sac Bunt to P - play at second, runner safe!
+[%B]	Batting: LHB <a href="../players/player_31599.html">Austin Wells</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 3FF
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 7LDF
+[%N]	2-2:  <b>3-RUN HOME RUN</b>  (Flyball, 89XD, EV 108.1 MPH), Distance : 416 ft
+[%B]	Batting: LHB <a href="../players/player_19280.html">Jeisson Rosario</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 3-1 (Groundball, 34, EV 86.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_18465.html">Tayler Aguilar</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_39267.html">Dayro Perez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1:  Fly out, F7  (Flyball, 7, EV 91.9 MPH)
+[%F]	Top of the 1st over - 3 runs, 1 hit, 0 errors, 0 left on base; Somerset 3 - Richmond 0
+[%T]	Bottom of the 1st - Richmond Flying Squirrels batting - Pitching for Somerset Patriots : RHP <a href="../players/player_45785.html">Cam Schlittler</a>
+[%B]	Pitching: RHP <a href="../players/player_45785.html">Cam Schlittler</a>
+[%B]	Batting: LHB <a href="../players/player_40914.html">Wueslly Lespe</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1:  Fly out, F9  (Flyball, 89M, EV 82.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_44343.html">Javier Francisco</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_45833.html">Alden Mathes</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_40922.html">Onil Perez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 5F
+[%N]	2-1:  Fly out, F7  (Line Drive, 7S, EV 89.4 MPH)
+[%F]	Bottom of the 1st over - 0 runs, 0 hits, 0 errors, 1 left on base; Somerset 3 - Richmond 0
+[%T]	Top of the 2nd - Somerset Patriots batting - Pitching for Richmond Flying Squirrels : RHP <a href="../players/player_45600.html">Johnathan Harmon</a>
+[%B]	Batting: LHB <a href="../players/player_49691.html">Juan Sanchez</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_47521.html">Keiner Delgado</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_18497.html">Anthony Hall</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F9  (Flyball, 89M, EV 83.8 MPH)
+[%B]	Batting: SHB <a href="../players/player_38384.html">Mickey Gasper</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2:  <b>2-RUN HOME RUN</b>  (Flyball, 89XD, EV 98.1 MPH), Distance : 405 ft
+[%B]	Batting: RHB <a href="../players/player_50505.html">Santiago Gomez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2:  <b>SOLO HOME RUN</b>  (Flyball, 9D, EV 96.3 MPH), Distance : 357 ft
+[%B]	Batting: LHB <a href="../players/player_31599.html">Austin Wells</a>
+[%N]	0-0: Foul Ball, location: 9LSF
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 15, EV 74.4 MPH) (infield hit)
+[%B]	Batting: LHB <a href="../players/player_19280.html">Jeisson Rosario</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ground out 4-3 (Groundball, 4, EV 108.8 MPH)
+[%F]	Top of the 2nd over - 3 runs, 3 hits, 0 errors, 1 left on base; Somerset 6 - Richmond 0
+[%T]	Bottom of the 2nd - Richmond Flying Squirrels batting - Pitching for Somerset Patriots : RHP <a href="../players/player_45785.html">Cam Schlittler</a>
+[%B]	Batting: RHB <a href="../players/player_45574.html">Carmine Lane</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 3F
+[%N]	0-2: Foul Ball, location: 7LSF
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 23FF
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_48000.html">Donovan McIntyre</a>
+[%N]	0-0:  Fly out, F9  (Line Drive, 9, EV 100.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_22107.html">Edinson Renteria Jr.</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 7LSFF
+[%N]	2-1: Foul Ball, location: 5F
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 2nd over - 0 runs, 0 hits, 0 errors, 0 left on base; Somerset 6 - Richmond 0
+[%T]	Top of the 3rd - Somerset Patriots batting - Pitching for Richmond Flying Squirrels : RHP <a href="../players/player_45600.html">Johnathan Harmon</a>
+[%B]	Batting: LHB <a href="../players/player_18465.html">Tayler Aguilar</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 4S, EV 68.8 MPH) (infield hit)
+[%B]	Pitching: RHP <a href="../players/player_46715.html">Sam Bower</a>
+[%B]	Batting: RHB <a href="../players/player_39267.html">Dayro Perez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Fielders Choice at 2nd, 4-6 (Groundball, 34D, EV 96.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_49691.html">Juan Sanchez</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	<a href="../players/player_39267.html">Dayro Perez</a> steals 2nd base (no throw)
+[%N]	3-1: <b>SINGLE</b>  (Groundball, 6, EV 82.5 MPH)
+[%N]	<a href="../players/player_39267.html">Dayro Perez</a> to third
+[%B]	Batting: SHB <a href="../players/player_47521.html">Keiner Delgado</a>
+[%N]	0-0: Foul Ball, location: 25F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 7LMF
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	Wild Pitch!
+[%N]	<b><a href="../players/player_39267.html">Dayro Perez</a> scores</b>
+[%N]	<a href="../players/player_49691.html">Juan Sanchez</a> to second
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_18497.html">Anthony Hall</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%F]	Top of the 3rd over - 1 run, 2 hits, 0 errors, 1 left on base; Somerset 7 - Richmond 0
+[%T]	Bottom of the 3rd - Richmond Flying Squirrels batting - Pitching for Somerset Patriots : RHP <a href="../players/player_45785.html">Cam Schlittler</a>
+[%B]	Batting: LHB <a href="../players/player_41788.html">Clark Elliott</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 1-3 (Groundball, 15S, EV 70.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_45558.html">Adam Tellier</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_40914.html">Wueslly Lespe</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Foul Ball, location: 25F
+[%N]	2-2: Strikes out looking
+[%F]	Bottom of the 3rd over - 0 runs, 0 hits, 0 errors, 0 left on base; Somerset 7 - Richmond 0
+[%T]	Top of the 4th - Somerset Patriots batting - Pitching for Richmond Flying Squirrels : RHP <a href="../players/player_46715.html">Sam Bower</a>
+[%B]	Batting: SHB <a href="../players/player_38384.html">Mickey Gasper</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_50505.html">Santiago Gomez</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_31599.html">Austin Wells</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Line Drive, 8LS, EV 87.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_19280.html">Jeisson Rosario</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 4th over - 0 runs, 0 hits, 0 errors, 1 left on base; Somerset 7 - Richmond 0
+[%T]	Bottom of the 4th - Richmond Flying Squirrels batting - Pitching for Somerset Patriots : RHP <a href="../players/player_45785.html">Cam Schlittler</a>
+[%B]	Batting: RHB <a href="../players/player_44343.html">Javier Francisco</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_45833.html">Alden Mathes</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_40922.html">Onil Perez</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 8RS, EV 96.9 MPH)
+[%N]	<a href="../players/player_45833.html">Alden Mathes</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw by CF made to third
+[%B]	Batting: RHB <a href="../players/player_45574.html">Carmine Lane</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F5  (Popup, 5S, EV 83.1 MPH)
+[%B]	Batting: LHB <a href="../players/player_48000.html">Donovan McIntyre</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Foul Ball, location: 7LDF
+[%N]	3-2:  Fly out, F4  (Popup, 34, EV 57.5 MPH)
+[%F]	Bottom of the 4th over - 0 runs, 1 hit, 0 errors, 2 left on base; Somerset 7 - Richmond 0
+[%T]	Top of the 5th - Somerset Patriots batting - Pitching for Richmond Flying Squirrels : RHP <a href="../players/player_46715.html">Sam Bower</a>
+[%B]	Batting: LHB <a href="../players/player_18465.html">Tayler Aguilar</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 7LDF
+[%N]	0-2: Foul Ball, location: 7LSF
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_39267.html">Dayro Perez</a>
+[%N]	0-0: Foul Ball, location: 9LDF
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 9LMF
+[%N]	3-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_49691.html">Juan Sanchez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F8  (Line Drive, 8RS, EV 101.9 MPH)
+[%F]	Top of the 5th over - 0 runs, 0 hits, 0 errors, 0 left on base; Somerset 7 - Richmond 0
+[%T]	Bottom of the 5th - Richmond Flying Squirrels batting - Pitching for Somerset Patriots : RHP <a href="../players/player_45785.html">Cam Schlittler</a>
+[%B]	Batting: RHB <a href="../players/player_22107.html">Edinson Renteria Jr.</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 15S, EV 71.9 MPH) (infield hit)
+[%B]	Batting: LHB <a href="../players/player_41788.html">Clark Elliott</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 7LMF
+[%N]	1-2: Foul Ball, location: 3F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	Passed Ball!
+[%N]	<a href="../players/player_22107.html">Edinson Renteria Jr.</a> to second
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_45558.html">Adam Tellier</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 5SF
+[%N]	0-2: Ball
+[%N]	1-2: Reached on error, E6 (Groundball, 6, EV 108.1 MPH)
+[%N]	<a href="../players/player_22107.html">Edinson Renteria Jr.</a> to third
+[%N]	<a href="../players/player_41788.html">Clark Elliott</a> to second
+[%B]	Batting: LHB <a href="../players/player_40914.html">Wueslly Lespe</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 6MD, EV 100.0 MPH)
+[%N]	<b><a href="../players/player_22107.html">Edinson Renteria Jr.</a> scores</b>
+[%N]	<a href="../players/player_41788.html">Clark Elliott</a> to third
+[%N]	<a href="../players/player_45558.html">Adam Tellier</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by CF to home</b>
+[%N]	<a href="../players/player_45558.html">Adam Tellier</a> to third
+[%N]	<a href="../players/player_40914.html">Wueslly Lespe</a> to second
+[%B]	Batting: RHB <a href="../players/player_44343.html">Javier Francisco</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_45833.html">Alden Mathes</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Flyball, 7D, EV 101.3 MPH)
+[%N]	<b>Runner from 3rd tags up, SCORES, no throw by LF</b>
+[%B]	Batting: RHB <a href="../players/player_40922.html">Onil Perez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 5F
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_45574.html">Carmine Lane</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 34, EV 107.5 MPH)
+[%N]	<a href="../players/player_40914.html">Wueslly Lespe</a> to third
+[%N]	<a href="../players/player_44343.html">Javier Francisco</a> to second
+[%B]	Pitching: RHP <a href="../players/player_20196.html">KC Hunt</a>
+[%B]	Batting: LHB <a href="../players/player_48000.html">Donovan McIntyre</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 56S, EV 82.5 MPH)
+[%F]	Bottom of the 5th over - 3 runs, 3 hits, 1 error, 3 left on base; Somerset 7 - Richmond 3
+[%T]	Top of the 6th - Somerset Patriots batting - Pitching for Richmond Flying Squirrels : RHP <a href="../players/player_46715.html">Sam Bower</a>
+[%B]	Batting: SHB <a href="../players/player_47521.html">Keiner Delgado</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F3  (Popup, 3L, EV 76.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_18497.html">Anthony Hall</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_38384.html">Mickey Gasper</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_50505.html">Santiago Gomez</a>
+[%N]	0-0: Ground out 1-3 (Groundball, 13S, EV 71.3 MPH)
+[%F]	Top of the 6th over - 0 runs, 0 hits, 0 errors, 1 left on base; Somerset 7 - Richmond 3
+[%T]	Bottom of the 6th - Richmond Flying Squirrels batting - Pitching for Somerset Patriots : RHP <a href="../players/player_20196.html">KC Hunt</a>
+[%B]	Batting: RHB <a href="../players/player_22107.html">Edinson Renteria Jr.</a>
+[%N]	0-0: Foul Ball, location: 7LMFF
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_41788.html">Clark Elliott</a>
+[%N]	0-0:  Fly out, F7  (Line Drive, 7S, EV 94.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_45558.html">Adam Tellier</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 5FF
+[%N]	2-1: Foul Ball, location: 3F
+[%N]	2-2: Foul Ball, location: 3F
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2:  <b>SOLO HOME RUN</b>  (Flyball, 7D, EV 96.3 MPH), Distance : 368 ft
+[%B]	Batting: LHB <a href="../players/player_40914.html">Wueslly Lespe</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8RD, EV 93.8 MPH)
+[%F]	Bottom of the 6th over - 1 run, 1 hit, 0 errors, 0 left on base; Somerset 7 - Richmond 4
+[%T]	Top of the 7th - Somerset Patriots batting - Pitching for Richmond Flying Squirrels : RHP <a href="../players/player_46715.html">Sam Bower</a>
+[%B]	Batting: LHB <a href="../players/player_31599.html">Austin Wells</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 7LSF
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 7LSF
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_19280.html">Jeisson Rosario</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 7LDF
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 9S, EV 95.6 MPH)
+[%B]	Pitching: LHP <a href="../players/player_37487.html">Juan Sanchez</a>
+[%B]	Batting: LHB <a href="../players/player_18465.html">Tayler Aguilar</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_39267.html">Dayro Perez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F9  (Line Drive, 9S, EV 85.6 MPH)
+[%F]	Top of the 7th over - 0 runs, 1 hit, 0 errors, 1 left on base; Somerset 7 - Richmond 4
+[%T]	Bottom of the 7th - Richmond Flying Squirrels batting - Pitching for Somerset Patriots : RHP <a href="../players/player_20196.html">KC Hunt</a>
+[%B]	Batting: RHB <a href="../players/player_44343.html">Javier Francisco</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Base on Balls
+[%B]	Pitching: LHP <a href="../players/player_39411.html">Joel Valdez</a>
+[%B]	Batting: LHB <a href="../players/player_45833.html">Alden Mathes</a>
+[%N]	0-0:  Fly out, F6  (Popup, 6M, EV 51.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_40922.html">Onil Perez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_45574.html">Carmine Lane</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 56S, EV 70.0 MPH) (infield hit)
+[%N]	<a href="../players/player_44343.html">Javier Francisco</a> to second
+[%B]	Batting: LHB <a href="../players/player_48000.html">Donovan McIntyre</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 3DF
+[%N]	2-1: <b>SINGLE</b>  (Groundball, 4MD, EV 100.0 MPH)
+[%N]	<a href="../players/player_44343.html">Javier Francisco</a> to third
+[%N]	<a href="../players/player_45574.html">Carmine Lane</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by CF to home</b>
+[%N]	<a href="../players/player_45574.html">Carmine Lane</a> to third
+[%N]	<a href="../players/player_48000.html">Donovan McIntyre</a> to second
+[%B]	Now in LF: <a href="../players/player_39458.html">Kelvin Espino</a>
+[%B]	Now in CF: <a href="../players/player_19280.html">Jeisson Rosario</a>
+[%B]	Now in RF: <a href="../players/player_18465.html">Tayler Aguilar</a>
+[%B]	Batting: RHB <a href="../players/player_22107.html">Edinson Renteria Jr.</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out swinging
+[%F]	Bottom of the 7th over - 1 run, 2 hits, 0 errors, 2 left on base; Somerset 7 - Richmond 5
+[%T]	Top of the 8th - Somerset Patriots batting - Pitching for Richmond Flying Squirrels : LHP <a href="../players/player_37487.html">Juan Sanchez</a>
+[%B]	Batting: LHB <a href="../players/player_49691.html">Juan Sanchez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F9  (Flyball, 89D, EV 96.9 MPH)
+[%B]	Batting: SHB <a href="../players/player_47521.html">Keiner Delgado</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 4-3 (Groundball, 4, EV 101.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_39458.html">Kelvin Espino</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Pitching: RHP <a href="../players/player_39033.html">Roberto Monegro</a>
+[%B]	Batting: SHB <a href="../players/player_38384.html">Mickey Gasper</a>
+[%N]	0-0: Called Strike
+[%N]	<a href="../players/player_39458.html">Kelvin Espino</a> steals 2nd base
+[%N]	0-1: Foul Ball, location: 25F
+[%N]	0-2: Foul Ball, location: 3SF
+[%N]	0-2: Ball
+[%N]	Balk!
+[%N]	<a href="../players/player_39458.html">Kelvin Espino</a> to third
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%F]	Top of the 8th over - 0 runs, 0 hits, 0 errors, 1 left on base; Somerset 7 - Richmond 5
+[%T]	Bottom of the 8th - Richmond Flying Squirrels batting - Pitching for Somerset Patriots : LHP <a href="../players/player_39411.html">Joel Valdez</a>
+[%B]	Pitching: LHP <a href="../players/player_45932.html">Will Brian</a>
+[%B]	Batting: LHB <a href="../players/player_41788.html">Clark Elliott</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_45558.html">Adam Tellier</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Foul Ball, location: 9LDF
+[%N]	2-2: Ball
+[%N]	3-2: <b>SINGLE</b>  (Flyball, 4MD, EV 93.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_40914.html">Wueslly Lespe</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9D, EV 101.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_44343.html">Javier Francisco</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2:  Fly out, F3  (Popup, 3S, EV 65.0 MPH)
+[%F]	Bottom of the 8th over - 0 runs, 1 hit, 0 errors, 1 left on base; Somerset 7 - Richmond 5
+[%T]	Top of the 9th - Somerset Patriots batting - Pitching for Richmond Flying Squirrels : RHP <a href="../players/player_39033.html">Roberto Monegro</a>
+[%B]	Batting: RHB <a href="../players/player_50505.html">Santiago Gomez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  <b>SOLO HOME RUN</b>  (Flyball, 9D, EV 94.4 MPH), Distance : 364 ft
+[%B]	Batting: LHB <a href="../players/player_31599.html">Austin Wells</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_19280.html">Jeisson Rosario</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_18465.html">Tayler Aguilar</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: <b>DOUBLE</b>  (Line Drive, 78D, EV 102.5 MPH)
+[%N]	<a href="../players/player_19280.html">Jeisson Rosario</a> to third
+[%B]	Batting: RHB <a href="../players/player_39267.html">Dayro Perez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 9LSF
+[%N]	1-2: Foul Ball, location: 5DF
+[%N]	1-2: Strikes out looking
+[%B]	Batting: LHB <a href="../players/player_49691.html">Juan Sanchez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ground out 4-3 (Groundball, 4, EV 98.1 MPH)
+[%F]	Top of the 9th over - 1 run, 2 hits, 0 errors, 2 left on base; Somerset 8 - Richmond 5
+[%T]	Bottom of the 9th - Richmond Flying Squirrels batting - Pitching for Somerset Patriots : LHP <a href="../players/player_45932.html">Will Brian</a>
+[%B]	Pitching: RHP <a href="../players/player_41867.html">Franklin Corniel</a>
+[%B]	Batting: LHB <a href="../players/player_45833.html">Alden Mathes</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out 4-3 (Groundball, 34D, EV 101.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_40922.html">Onil Perez</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Flyball, 78XD, EV 101.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_45574.html">Carmine Lane</a>
+[%N]	0-0: Foul Ball, location: 2RF
+[%N]	0-1: Foul Ball, location: 3SF
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 5F
+[%N]	2-2: Foul Ball, location: 5FF
+[%N]	2-2: Foul Ball, location: 9LMF
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_48000.html">Donovan McIntyre</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 9th over - 0 runs, 1 hit, 0 errors, 1 left on base; Somerset 8 - Richmond 5

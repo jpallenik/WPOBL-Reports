@@ -1,0 +1,474 @@
+[%T]	Top of the 1st - Toledo Mud Hens batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_40596.html">Max Carlson</a>
+[%B]	Pitching: RHP <a href="../players/player_40596.html">Max Carlson</a>
+[%B]	Batting: RHB <a href="../players/player_132822.html">Seaver King</a>
+[%N]	0-0: Foul Ball, location: 7LSFF
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 5FF
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_18994.html">David Hensley</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_132822.html">Seaver King</a> steals 2nd base
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 5DF
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_36336.html">Alec Bohm</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F7  (Line Drive, 7S, EV 83.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_23484.html">Spencer Torkelson</a>
+[%N]	0-0: Foul Ball, location: 23F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 9LSF
+[%N]	2-2: Strikes out swinging
+[%F]	Top of the 1st over - 0 runs, 0 hits, 0 errors, 1 left on base; Toledo 0 - Lehigh Valley 0
+[%T]	Bottom of the 1st - Lehigh Valley IronPigs batting - Pitching for Toledo Mud Hens : RHP <a href="../players/player_31133.html">Domingo Germán</a>
+[%B]	Pitching: RHP <a href="../players/player_31133.html">Domingo Germán</a>
+[%B]	Batting: LHB <a href="../players/player_37682.html">Diego Hernandez</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 4MD, EV 98.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_24264.html">Jake Alu</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 3DF
+[%N]	1-1: Ball
+[%N]	2-1: Sac Bunt to P - play at first, batter safe!
+[%N]	<a href="../players/player_37682.html">Diego Hernandez</a> to second
+[%B]	Batting: RHB <a href="../players/player_49533.html">Hao-Yu Lee</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: <b>SINGLE</b>  (Groundball, 6MD, EV 105.0 MPH)
+[%N]	<a href="../players/player_37682.html">Diego Hernandez</a> to third
+[%N]	<a href="../players/player_24264.html">Jake Alu</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by CF to trailing runner, OUT at third! 8-3-5</b>
+[%B]	Batting: LHB <a href="../players/player_40245.html">Yerlin Confidan</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 3F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_24444.html">Marcell Ozuna</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out looking
+[%F]	Bottom of the 1st over - 1 run, 3 hits, 0 errors, 1 left on base; Toledo 0 - Lehigh Valley 1
+[%T]	Top of the 2nd - Toledo Mud Hens batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_40596.html">Max Carlson</a>
+[%B]	Batting: RHB <a href="../players/player_30362.html">C.J. Hinojosa</a>
+[%N]	0-0: Foul Ball, location: 2RF
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F8  (Flyball, 89S, EV 85.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_35283.html">Victor Robles</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 9LMF
+[%N]	0-2: Foul Ball, location: 25FF
+[%N]	0-2:  <b>SOLO HOME RUN</b>  (Flyball, 78XD, EV 99.4 MPH), Distance : 417 ft
+[%B]	Batting: RHB <a href="../players/player_25006.html">Nick Fortes</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F8  (Flyball, 8RM, EV 86.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_30352.html">Travis Jankowski</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 5FF
+[%N]	0-2: Strikes out swinging, 2-3 out at first.
+[%F]	Top of the 2nd over - 1 run, 1 hit, 0 errors, 0 left on base; Toledo 1 - Lehigh Valley 1
+[%T]	Bottom of the 2nd - Lehigh Valley IronPigs batting - Pitching for Toledo Mud Hens : RHP <a href="../players/player_31133.html">Domingo Germán</a>
+[%B]	Batting: LHB <a href="../players/player_25702.html">Dalton Rushing</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4, EV 101.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_23372.html">Nick Madrigal</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_37012.html">Chas McCormick</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Fielders Choice at 2nd, 6-4 (Groundball, 6, EV 99.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_36803.html">Roberto Chirinos</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 5FF
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 9LDF
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 2nd over - 0 runs, 0 hits, 0 errors, 1 left on base; Toledo 1 - Lehigh Valley 1
+[%T]	Top of the 3rd - Toledo Mud Hens batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_40596.html">Max Carlson</a>
+[%B]	Batting: RHB <a href="../players/player_39000.html">Jose De La Cruz</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Foul Ball, location: 25FF
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_132822.html">Seaver King</a>
+[%N]	0-0: Foul Ball, location: 7LSF
+[%N]	0-1: Foul Ball, location: 5F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 9LMF
+[%N]	2-2: Foul Ball, location: 5FF
+[%N]	2-2: Ground out U3 (Groundball, 3, EV 101.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_18994.html">David Hensley</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Foul Ball, location: 9LSF
+[%N]	1-2: Strikes out looking
+[%F]	Top of the 3rd over - 0 runs, 0 hits, 0 errors, 0 left on base; Toledo 1 - Lehigh Valley 1
+[%T]	Bottom of the 3rd - Lehigh Valley IronPigs batting - Pitching for Toledo Mud Hens : RHP <a href="../players/player_31133.html">Domingo Germán</a>
+[%B]	Batting: LHB <a href="../players/player_37682.html">Diego Hernandez</a>
+[%N]	0-0: Foul Ball, location: 3F
+[%N]	0-1: Ground out 4-3 (Groundball, 4, EV 81.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_24264.html">Jake Alu</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 7LDF
+[%N]	1-2: Foul Ball, location: 7LDF
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_49533.html">Hao-Yu Lee</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 9LSF
+[%N]	3-2: Ground out 1-3 (Groundball, 15S, EV 68.1 MPH)
+[%F]	Bottom of the 3rd over - 0 runs, 0 hits, 0 errors, 0 left on base; Toledo 1 - Lehigh Valley 1
+[%T]	Top of the 4th - Toledo Mud Hens batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_40596.html">Max Carlson</a>
+[%B]	Batting: RHB <a href="../players/player_36336.html">Alec Bohm</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LXD, EV 105.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_23484.html">Spencer Torkelson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 3DF
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 6-3 (Groundball, 6, EV 78.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_30362.html">C.J. Hinojosa</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2RF
+[%N]	0-2: Strikes out swinging
+[%F]	Top of the 4th over - 0 runs, 0 hits, 0 errors, 0 left on base; Toledo 1 - Lehigh Valley 1
+[%T]	Bottom of the 4th - Lehigh Valley IronPigs batting - Pitching for Toledo Mud Hens : RHP <a href="../players/player_31133.html">Domingo Germán</a>
+[%B]	Batting: LHB <a href="../players/player_40245.html">Yerlin Confidan</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 9LDF
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_24444.html">Marcell Ozuna</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 5SF
+[%N]	2-1: Foul Ball, location: 5F
+[%N]	2-2:  Fly out, F6  (Popup, 6M, EV 71.9 MPH)
+[%B]	Batting: LHB <a href="../players/player_25702.html">Dalton Rushing</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 5DF
+[%N]	1-2: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_23372.html">Nick Madrigal</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 34D, EV 98.1 MPH)
+[%N]	<a href="../players/player_25702.html">Dalton Rushing</a> to second
+[%B]	Batting: RHB <a href="../players/player_37012.html">Chas McCormick</a>
+[%N]	0-0: Foul Ball, location: 9LSF
+[%N]	0-1: Swinging Strike
+[%N]	0-2: <b>SINGLE</b>  (Line Drive, 78M, EV 91.3 MPH)
+[%N]	<a href="../players/player_25702.html">Dalton Rushing</a> to third
+[%N]	<a href="../players/player_23372.html">Nick Madrigal</a> to second
+[%B]	Batting: RHB <a href="../players/player_36803.html">Roberto Chirinos</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Flyball, 8RS, EV 88.8 MPH)
+[%N]	<b><a href="../players/player_25702.html">Dalton Rushing</a> scores</b>
+[%N]	<a href="../players/player_23372.html">Nick Madrigal</a> to third
+[%N]	<a href="../players/player_37012.html">Chas McCormick</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by CF to home</b>
+[%B]	Batting: LHB <a href="../players/player_37682.html">Diego Hernandez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Line Drive, 6D, EV 99.4 MPH)
+[%N]	<a href="../players/player_37012.html">Chas McCormick</a> to third
+[%N]	<a href="../players/player_36803.html">Roberto Chirinos</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by CF to home</b>
+[%N]	<a href="../players/player_36803.html">Roberto Chirinos</a> to third
+[%N]	<a href="../players/player_37682.html">Diego Hernandez</a> to second
+[%B]	Batting: LHB <a href="../players/player_24264.html">Jake Alu</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2:  <b>3-RUN HOME RUN</b>  (Flyball, 89XD, EV 106.9 MPH), Distance : 418 ft
+[%B]	Pitching: RHP <a href="../players/player_25066.html">Reese Olson</a>
+[%B]	Batting: RHB <a href="../players/player_49533.html">Hao-Yu Lee</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ground out 5-3 (Groundball, 5, EV 78.8 MPH)
+[%F]	Bottom of the 4th over - 6 runs, 5 hits, 0 errors, 0 left on base; Toledo 1 - Lehigh Valley 7
+[%T]	Top of the 5th - Toledo Mud Hens batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_40596.html">Max Carlson</a>
+[%B]	Batting: RHB <a href="../players/player_35283.html">Victor Robles</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>SINGLE</b>  (Line Drive, 34, EV 96.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_25006.html">Nick Fortes</a>
+[%N]	0-0: Foul Ball, location: 9LSF
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_35283.html">Victor Robles</a> to second
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_30352.html">Travis Jankowski</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Foul Ball, location: 3F
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_39000.html">Jose De La Cruz</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out looking
+[%F]	Top of the 5th over - 0 runs, 1 hit, 0 errors, 1 left on base; Toledo 1 - Lehigh Valley 7
+[%T]	Bottom of the 5th - Lehigh Valley IronPigs batting - Pitching for Toledo Mud Hens : RHP <a href="../players/player_25066.html">Reese Olson</a>
+[%B]	Batting: LHB <a href="../players/player_40245.html">Yerlin Confidan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 3DF
+[%N]	1-1: Foul Ball, location: 5DF
+[%N]	1-2: Ball
+[%N]	2-2:  <b>SOLO HOME RUN</b>  (Flyball, 89XD, EV 99.4 MPH), Distance : 413 ft
+[%B]	Batting: RHB <a href="../players/player_24444.html">Marcell Ozuna</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F8  (Line Drive, 8LS, EV 95.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_25702.html">Dalton Rushing</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: <b>DOUBLE</b>  (Flyball, 89XD, EV 100.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_23372.html">Nick Madrigal</a>
+[%N]	0-0: <b>SINGLE</b>  (Flyball, 34D, EV 98.1 MPH)
+[%N]	<a href="../players/player_25702.html">Dalton Rushing</a> to third
+[%B]	Batting: RHB <a href="../players/player_37012.html">Chas McCormick</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 89M, EV 91.9 MPH)
+[%N]	<b><a href="../players/player_25702.html">Dalton Rushing</a> scores</b>
+[%N]	<a href="../players/player_23372.html">Nick Madrigal</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw by CF made to third
+[%N]	<a href="../players/player_37012.html">Chas McCormick</a> to second
+[%B]	Batting: RHB <a href="../players/player_36803.html">Roberto Chirinos</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9S, EV 85.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_37682.html">Diego Hernandez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 3FF
+[%N]	2-2: Strikes out swinging
+[%F]	Bottom of the 5th over - 2 runs, 4 hits, 0 errors, 2 left on base; Toledo 1 - Lehigh Valley 9
+[%T]	Top of the 6th - Toledo Mud Hens batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_40596.html">Max Carlson</a>
+[%B]	Batting: RHB <a href="../players/player_132822.html">Seaver King</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 3SF
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_18994.html">David Hensley</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Grounds into double play, 5-4-3 (Groundball, 56, EV 103.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_36336.html">Alec Bohm</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Line Drive, 78M, EV 88.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_23484.html">Spencer Torkelson</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_36336.html">Alec Bohm</a> steals 2nd base
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 6MD, EV 95.6 MPH)
+[%N]	<a href="../players/player_36336.html">Alec Bohm</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by CF to home</b>
+[%B]	Batting: RHB <a href="../players/player_30362.html">C.J. Hinojosa</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Line Drive, 8RM, EV 88.1 MPH)
+[%F]	Top of the 6th over - 1 run, 2 hits, 0 errors, 1 left on base; Toledo 2 - Lehigh Valley 9
+[%T]	Bottom of the 6th - Lehigh Valley IronPigs batting - Pitching for Toledo Mud Hens : RHP <a href="../players/player_25066.html">Reese Olson</a>
+[%B]	Batting: LHB <a href="../players/player_24264.html">Jake Alu</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1:  Fly out, F4  (Line Drive, 4, EV 64.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_49533.html">Hao-Yu Lee</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 56D, EV 110.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_40245.html">Yerlin Confidan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 4MD, EV 95.0 MPH)
+[%N]	<a href="../players/player_49533.html">Hao-Yu Lee</a> to second
+[%N]	Runner from 2nd tries for 3rd, SAFE, throw by CF made to third
+[%N]	<a href="../players/player_40245.html">Yerlin Confidan</a> to second
+[%B]	Batting: RHB <a href="../players/player_24444.html">Marcell Ozuna</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ground out 5-3 (Groundball, 56, EV 107.5 MPH)
+[%N]	<b><a href="../players/player_49533.html">Hao-Yu Lee</a> scores</b>
+[%B]	Batting: LHB <a href="../players/player_25702.html">Dalton Rushing</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2:  <b>2-RUN HOME RUN</b>  (Flyball, 7D, EV 100.0 MPH), Distance : 394 ft
+[%B]	Batting: RHB <a href="../players/player_23372.html">Nick Madrigal</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 23F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ground out 4-3 (Groundball, 4, EV 101.9 MPH)
+[%F]	Bottom of the 6th over - 3 runs, 3 hits, 0 errors, 0 left on base; Toledo 2 - Lehigh Valley 12
+[%T]	Top of the 7th - Toledo Mud Hens batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_40596.html">Max Carlson</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_40289.html">Roberto Campos</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_25006.html">Nick Fortes</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 56S, EV 92.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_30352.html">Travis Jankowski</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 7LSF
+[%N]	1-2: Foul Ball, location: 5SF
+[%N]	1-2: Strikes out swinging
+[%F]	Top of the 7th over - 0 runs, 0 hits, 0 errors, 0 left on base; Toledo 2 - Lehigh Valley 12
+[%T]	Bottom of the 7th - Lehigh Valley IronPigs batting - Pitching for Toledo Mud Hens : RHP <a href="../players/player_25066.html">Reese Olson</a>
+[%B]	Now in RF: <a href="../players/player_40289.html">Roberto Campos</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_39197.html">Jose Ramos</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Line Drive, 6MD, EV 96.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_36803.html">Roberto Chirinos</a>
+[%N]	0-0:  Fly out, F6  (Line Drive, 6, EV 71.9 MPH)
+[%B]	Pinch Hitting: RHB <a href="../players/player_23838.html">Justin Connell</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_39197.html">Jose Ramos</a> to second
+[%B]	Pinch Hitting: LHB <a href="../players/player_31631.html">Tony Kemp</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 6MD, EV 98.8 MPH)
+[%N]	<a href="../players/player_39197.html">Jose Ramos</a> to third
+[%N]	<a href="../players/player_23838.html">Justin Connell</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by CF to home</b>
+[%N]	<a href="../players/player_23838.html">Justin Connell</a> to third
+[%N]	<a href="../players/player_31631.html">Tony Kemp</a> to second
+[%B]	Pitching: RHP <a href="../players/player_50807.html">Wanmer Ramirez</a>
+[%B]	Batting: RHB <a href="../players/player_49533.html">Hao-Yu Lee</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 5F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F9  (Flyball, 9S, EV 91.9 MPH)
+[%B]	Pinch Hitting: RHB <a href="../players/player_31915.html">Brandon Dixon</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 7LS, EV 108.8 MPH)
+[%N]	<b><a href="../players/player_23838.html">Justin Connell</a> scores</b>
+[%N]	<a href="../players/player_31631.html">Tony Kemp</a> to third
+[%B]	Batting: RHB <a href="../players/player_24444.html">Marcell Ozuna</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Flyball, 8LXD, EV 97.5 MPH)
+[%N]	<b><a href="../players/player_31631.html">Tony Kemp</a> scores</b>
+[%N]	<a href="../players/player_31915.html">Brandon Dixon</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by CF to trailing runner, SAFE at third!</b>
+[%B]	Batting: LHB <a href="../players/player_25702.html">Dalton Rushing</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_23372.html">Nick Madrigal</a>
+[%N]	0-0: Ground out U3 (Groundball, 34, EV 78.8 MPH)
+[%F]	Bottom of the 7th over - 4 runs, 4 hits, 0 errors, 2 left on base; Toledo 2 - Lehigh Valley 16
+[%T]	Top of the 8th - Toledo Mud Hens batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_40596.html">Max Carlson</a>
+[%B]	Pitching: RHP <a href="../players/player_40819.html">Orion Kerkering</a>
+[%B]	Now at 3B: <a href="../players/player_31915.html">Brandon Dixon</a>
+[%B]	Now in LF: <a href="../players/player_23838.html">Justin Connell</a>
+[%B]	Now in CF: <a href="../players/player_31631.html">Tony Kemp</a>
+[%B]	Now in RF: <a href="../players/player_39197.html">Jose Ramos</a>
+[%B]	Batting: RHB <a href="../players/player_39000.html">Jose De La Cruz</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 3FF
+[%N]	1-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_132822.html">Seaver King</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 3SF
+[%N]	0-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_18994.html">David Hensley</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 9LSF
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 9LSF
+[%N]	2-2: Ground out 1-3 (Groundball, P, EV 66.3 MPH)
+[%F]	Top of the 8th over - 0 runs, 0 hits, 0 errors, 0 left on base; Toledo 2 - Lehigh Valley 16
+[%T]	Bottom of the 8th - Lehigh Valley IronPigs batting - Pitching for Toledo Mud Hens : RHP <a href="../players/player_50807.html">Wanmer Ramirez</a>
+[%B]	Batting: RHB <a href="../players/player_39197.html">Jose Ramos</a>
+[%N]	0-0: Foul Ball, location: 9LMF
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 5SF
+[%N]	3-2: Foul Ball, location: 5F
+[%N]	3-2: Strikes out swinging, 2-3 out at first.
+[%B]	Batting: RHB <a href="../players/player_36803.html">Roberto Chirinos</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 5F
+[%N]	2-2: Ground out 6-3 (Groundball, 6MD, EV 110.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_23838.html">Justin Connell</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ground out 6-3 (Groundball, 6M, EV 85.0 MPH)
+[%F]	Bottom of the 8th over - 0 runs, 0 hits, 0 errors, 0 left on base; Toledo 2 - Lehigh Valley 16
+[%T]	Top of the 9th - Toledo Mud Hens batting - Pitching for Lehigh Valley IronPigs : RHP <a href="../players/player_40819.html">Orion Kerkering</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_1309.html">Peyton Graham</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: <b>DOUBLE</b>  (Groundball, 5L, EV 108.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_23484.html">Spencer Torkelson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_30362.html">C.J. Hinojosa</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_40289.html">Roberto Campos</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F8  (Flyball, 8LM, EV 93.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_25006.html">Nick Fortes</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 2F
+[%N]	3-2: Strikes out looking
+[%F]	Top of the 9th over - 0 runs, 1 hit, 0 errors, 2 left on base; Toledo 2 - Lehigh Valley 16

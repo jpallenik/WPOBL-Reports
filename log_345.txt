@@ -1,0 +1,439 @@
+[%T]	Top of the 1st - Memphis Redbirds batting - Pitching for Gwinnett Stripers : RHP <a href="../players/player_38749.html">Roddery Munoz</a>
+[%B]	Pitching: RHP <a href="../players/player_38749.html">Roddery Munoz</a>
+[%B]	Batting: RHB <a href="../players/player_23400.html">Masyn Winn</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 5, EV 83.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_23831.html">Brendan Donovan</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 56D, EV 94.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_18344.html">Jordan Walker</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Grounds into double play, 5-4-3 (Groundball, 56, EV 100.6 MPH)
+[%F]	Top of the 1st over - 0 runs, 1 hit, 0 errors, 0 left on base; Memphis 0 - Gwinnett 0
+[%T]	Bottom of the 1st - Gwinnett Stripers batting - Pitching for Memphis Redbirds : RHP <a href="../players/player_42291.html">Emmet Sheehan</a>
+[%B]	Pitching: RHP <a href="../players/player_42291.html">Emmet Sheehan</a>
+[%B]	Batting: RHB <a href="../players/player_42472.html">Kevin Kilpatrick</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_39700.html">Geraldo Quintero</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 34D, EV 96.9 MPH)
+[%B]	Batting: SHB <a href="../players/player_34322.html">Yoán Moncada</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Grounds out, U3 (Groundball, 3L, EV 85.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_44552.html">Cole Mathis</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 5-3 (Groundball, 56S, EV 72.5 MPH)
+[%F]	Bottom of the 1st over - 0 runs, 1 hit, 0 errors, 1 left on base; Memphis 0 - Gwinnett 0
+[%T]	Top of the 2nd - Memphis Redbirds batting - Pitching for Gwinnett Stripers : RHP <a href="../players/player_38749.html">Roddery Munoz</a>
+[%B]	Batting: RHB <a href="../players/player_37929.html">Heriberto Hernandez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 2LF
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 4MD, EV 98.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_39646.html">Alec Burleson</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>DOUBLE</b>  (Line Drive, 89D, EV 98.8 MPH)
+[%N]	<a href="../players/player_37929.html">Heriberto Hernandez</a> to third
+[%B]	Batting: RHB <a href="../players/player_47390.html">Emaarion Boyd</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 5, EV 85.6 MPH)
+[%B]	Batting: LHB <a href="../players/player_38967.html">Mike Antico</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_48835.html">Leonardo Bernal</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out looking
+[%F]	Top of the 2nd over - 0 runs, 2 hits, 0 errors, 2 left on base; Memphis 0 - Gwinnett 0
+[%T]	Bottom of the 2nd - Gwinnett Stripers batting - Pitching for Memphis Redbirds : RHP <a href="../players/player_42291.html">Emmet Sheehan</a>
+[%B]	Batting: LHB <a href="../players/player_31865.html">Willie Calhoun</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 23F
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F8  (Flyball, 8RD, EV 95.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_47686.html">Harry Owen</a>
+[%N]	0-0:  Fly out, F9  (Flyball, 9D, EV 75.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_36719.html">Jesse Franklin V</a>
+[%N]	0-0:  <b>SOLO HOME RUN</b>  (Flyball, 9LD, EV 96.3 MPH), Distance : 350 ft
+[%B]	Batting: RHB <a href="../players/player_38935.html">Kadon Morton</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 56S, EV 85.6 MPH)
+[%F]	Bottom of the 2nd over - 1 run, 1 hit, 0 errors, 0 left on base; Memphis 0 - Gwinnett 1
+[%T]	Top of the 3rd - Memphis Redbirds batting - Pitching for Gwinnett Stripers : RHP <a href="../players/player_38749.html">Roddery Munoz</a>
+[%B]	Batting: LHB <a href="../players/player_46240.html">Noah Mendlinger</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 5FF
+[%N]	1-1: Foul Ball, location: 5F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_23400.html">Masyn Winn</a>
+[%N]	0-0: Foul Ball, location: 9LDF
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_23831.html">Brendan Donovan</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  <b>SOLO HOME RUN</b>  (Flyball, 89XD, EV 96.3 MPH), Distance : 386 ft
+[%B]	Batting: RHB <a href="../players/player_18344.html">Jordan Walker</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  <b>SOLO HOME RUN</b>  (Flyball, 7D, EV 95.6 MPH), Distance : 366 ft
+[%B]	Batting: RHB <a href="../players/player_37929.html">Heriberto Hernandez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out looking
+[%F]	Top of the 3rd over - 2 runs, 2 hits, 0 errors, 0 left on base; Memphis 2 - Gwinnett 1
+[%T]	Bottom of the 3rd - Gwinnett Stripers batting - Pitching for Memphis Redbirds : RHP <a href="../players/player_42291.html">Emmet Sheehan</a>
+[%B]	Batting: RHB <a href="../players/player_41499.html">Keshawn Ogans</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F3  (Popup, 3F, EV 66.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_42472.html">Kevin Kilpatrick</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F7  (Flyball, 7LM, EV 105.0 MPH)
+[%B]	Batting: SHB <a href="../players/player_39700.html">Geraldo Quintero</a>
+[%N]	0-0:  Fly out, F6  (Line Drive, 6, EV 66.3 MPH)
+[%F]	Bottom of the 3rd over - 0 runs, 0 hits, 0 errors, 0 left on base; Memphis 2 - Gwinnett 1
+[%T]	Top of the 4th - Memphis Redbirds batting - Pitching for Gwinnett Stripers : RHP <a href="../players/player_38749.html">Roddery Munoz</a>
+[%B]	Batting: LHB <a href="../players/player_39646.html">Alec Burleson</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Line Drive, 8RM, EV 91.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_47390.html">Emaarion Boyd</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 6MD, EV 104.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_38967.html">Mike Antico</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Called Strike
+[%N]	1-2: Ball
+[%N]	2-2: <b>DOUBLE</b>  (Flyball, 8LXD, EV 99.4 MPH)
+[%N]	<a href="../players/player_47390.html">Emaarion Boyd</a> to third
+[%B]	Batting: SHB <a href="../players/player_48835.html">Leonardo Bernal</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 3FF
+[%N]	0-2: Ball
+[%N]	1-2: <b>DOUBLE</b>  (Flyball, 78D, EV 90.0 MPH)
+[%N]	<b><a href="../players/player_47390.html">Emaarion Boyd</a> scores</b>
+[%N]	<b><a href="../players/player_38967.html">Mike Antico</a> scores</b>
+[%B]	Pinch Runner at 2nd <a href="../players/player_49535.html">Carlos Linarez</a>: 
+[%B]	Batting: LHB <a href="../players/player_46240.html">Noah Mendlinger</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 89S, EV 94.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_23400.html">Masyn Winn</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_23831.html">Brendan Donovan</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 23F
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: <b>SINGLE</b>  (Groundball, 6MD, EV 95.0 MPH)
+[%N]	<a href="../players/player_49535.html">Carlos Linarez</a> to third
+[%N]	<a href="../players/player_23400.html">Masyn Winn</a> to second
+[%N]	<b><a href="../players/player_49535.html">Carlos Linarez</a> scores</b>
+[%N]	<a href="../players/player_23400.html">Masyn Winn</a> to third
+[%B]	Pitching: RHP <a href="../players/player_49747.html">Jhancarlos Lara</a>
+[%B]	Batting: RHB <a href="../players/player_18344.html">Jordan Walker</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Called Strike
+[%N]	2-2: Fielders Choice at 2nd, 6-4 (Groundball, 6, EV 95.0 MPH)
+[%F]	Top of the 4th over - 3 runs, 4 hits, 0 errors, 2 left on base; Memphis 5 - Gwinnett 1
+[%T]	Bottom of the 4th - Gwinnett Stripers batting - Pitching for Memphis Redbirds : RHP <a href="../players/player_42291.html">Emmet Sheehan</a>
+[%B]	Now at C: <a href="../players/player_49535.html">Carlos Linarez</a>
+[%B]	Batting: SHB <a href="../players/player_34322.html">Yoán Moncada</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_44552.html">Cole Mathis</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: <b>DOUBLE</b>  (Flyball, 89D, EV 110.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_31865.html">Willie Calhoun</a>
+[%N]	0-0: Foul Ball, location: 9LMF
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F9  (Flyball, 9, EV 91.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_47686.html">Harry Owen</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Foul Ball, location: 9LDF
+[%N]	3-2: Ground out 6-3 (Groundball, 6, EV 71.9 MPH)
+[%F]	Bottom of the 4th over - 0 runs, 1 hit, 0 errors, 1 left on base; Memphis 5 - Gwinnett 1
+[%T]	Top of the 5th - Memphis Redbirds batting - Pitching for Gwinnett Stripers : RHP <a href="../players/player_49747.html">Jhancarlos Lara</a>
+[%B]	Batting: RHB <a href="../players/player_37929.html">Heriberto Hernandez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_39646.html">Alec Burleson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_47390.html">Emaarion Boyd</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Ground out 4-3 (Groundball, 4, EV 90.0 MPH)
+[%F]	Top of the 5th over - 0 runs, 0 hits, 0 errors, 0 left on base; Memphis 5 - Gwinnett 1
+[%T]	Bottom of the 5th - Gwinnett Stripers batting - Pitching for Memphis Redbirds : RHP <a href="../players/player_42291.html">Emmet Sheehan</a>
+[%B]	Batting: LHB <a href="../players/player_36719.html">Jesse Franklin V</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Hit by Pitch
+[%B]	Batting: RHB <a href="../players/player_38935.html">Kadon Morton</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Hit by Pitch
+[%N]	<a href="../players/player_36719.html">Jesse Franklin V</a> to second
+[%B]	Pinch Runner at 1st <a href="../players/player_38161.html">Brandol Mezquita</a>: 
+[%B]	Batting: RHB <a href="../players/player_41499.html">Keshawn Ogans</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0:  Fly out, F9  (Flyball, 89S, EV 92.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_42472.html">Kevin Kilpatrick</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 9LMF
+[%N]	1-2: <b>SINGLE</b>  (Line Drive, 6D, EV 100.6 MPH)
+[%N]	<a href="../players/player_36719.html">Jesse Franklin V</a> to third
+[%N]	<a href="../players/player_38161.html">Brandol Mezquita</a> to second
+[%B]	Batting: SHB <a href="../players/player_39700.html">Geraldo Quintero</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Grounds into double play, 4-6-3 (Groundball, 4S, EV 78.1 MPH)
+[%F]	Bottom of the 5th over - 0 runs, 1 hit, 0 errors, 2 left on base; Memphis 5 - Gwinnett 1
+[%T]	Top of the 6th - Memphis Redbirds batting - Pitching for Gwinnett Stripers : RHP <a href="../players/player_49747.html">Jhancarlos Lara</a>
+[%B]	Now in RF: <a href="../players/player_38161.html">Brandol Mezquita</a>
+[%B]	Batting: LHB <a href="../players/player_38967.html">Mike Antico</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 25FF
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_49535.html">Carlos Linarez</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 5L, EV 89.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_46240.html">Noah Mendlinger</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 3FF
+[%N]	2-1: Foul Ball, location: 5DF
+[%N]	2-2: Strikes out swinging
+[%F]	Top of the 6th over - 0 runs, 0 hits, 0 errors, 0 left on base; Memphis 5 - Gwinnett 1
+[%T]	Bottom of the 6th - Gwinnett Stripers batting - Pitching for Memphis Redbirds : RHP <a href="../players/player_42291.html">Emmet Sheehan</a>
+[%B]	Batting: SHB <a href="../players/player_34322.html">Yoán Moncada</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 7LDF
+[%N]	1-1: <b>DOUBLE</b>  (Line Drive, 8RXD, EV 107.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_44552.html">Cole Mathis</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 7LS, EV 110.6 MPH)
+[%N]	<a href="../players/player_34322.html">Yoán Moncada</a> to third
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by LF to home</b>
+[%B]	Batting: LHB <a href="../players/player_31865.html">Willie Calhoun</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2:  Fly out, F8  (Flyball, 89M, EV 85.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_47686.html">Harry Owen</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%N]	<a href="../players/player_44552.html">Cole Mathis</a> to second
+[%B]	Batting: LHB <a href="../players/player_36719.html">Jesse Franklin V</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 9LDF
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_38161.html">Brandol Mezquita</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  Fly out, F7  (Line Drive, 7S, EV 90.6 MPH)
+[%F]	Bottom of the 6th over - 1 run, 2 hits, 0 errors, 2 left on base; Memphis 5 - Gwinnett 2
+[%T]	Top of the 7th - Memphis Redbirds batting - Pitching for Gwinnett Stripers : RHP <a href="../players/player_49747.html">Jhancarlos Lara</a>
+[%B]	Batting: RHB <a href="../players/player_23400.html">Masyn Winn</a>
+[%N]	0-0: Foul Ball, location: 5DF
+[%N]	0-1: Ball
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ground out 5-3 (Groundball, 25, EV 88.8 MPH)
+[%B]	Batting: LHB <a href="../players/player_23831.html">Brendan Donovan</a>
+[%N]	0-0: <b>SINGLE</b>  (Groundball, 34D, EV 100.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_18344.html">Jordan Walker</a>
+[%N]	0-0:  Fly out, F5  (Line Drive, 5, EV 66.3 MPH)
+[%B]	Batting: RHB <a href="../players/player_37929.html">Heriberto Hernandez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 1-3 (Groundball, P, EV 69.4 MPH)
+[%F]	Top of the 7th over - 0 runs, 1 hit, 0 errors, 1 left on base; Memphis 5 - Gwinnett 2
+[%T]	Bottom of the 7th - Gwinnett Stripers batting - Pitching for Memphis Redbirds : RHP <a href="../players/player_42291.html">Emmet Sheehan</a>
+[%B]	Batting: RHB <a href="../players/player_41499.html">Keshawn Ogans</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Ground out 6-3 (Groundball, 56, EV 90.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_42472.html">Kevin Kilpatrick</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 5FF
+[%N]	2-2:  Fly out, F1  (Line Drive, P, EV 78.1 MPH)
+[%B]	Batting: SHB <a href="../players/player_39700.html">Geraldo Quintero</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out U3 (Groundball, 3, EV 100.6 MPH)
+[%F]	Bottom of the 7th over - 0 runs, 0 hits, 0 errors, 0 left on base; Memphis 5 - Gwinnett 2
+[%T]	Top of the 8th - Memphis Redbirds batting - Pitching for Gwinnett Stripers : RHP <a href="../players/player_49747.html">Jhancarlos Lara</a>
+[%B]	Batting: LHB <a href="../players/player_39646.html">Alec Burleson</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ground out 4-3 (Groundball, 4, EV 105.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_47390.html">Emaarion Boyd</a>
+[%N]	0-0: Ball
+[%N]	1-0: Reached on error, E2 (Groundball, 2L, EV 75.0 MPH)
+[%B]	Batting: LHB <a href="../players/player_38967.html">Mike Antico</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Groundball, 34, EV 84.4 MPH) (infield hit)
+[%N]	<a href="../players/player_47390.html">Emaarion Boyd</a> to second
+[%B]	Batting: RHB <a href="../players/player_49535.html">Carlos Linarez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: <b>DOUBLE</b>  (Flyball, 8RXD, EV 105.6 MPH)
+[%N]	<b><a href="../players/player_47390.html">Emaarion Boyd</a> scores</b>
+[%N]	<a href="../players/player_38967.html">Mike Antico</a> to third
+[%B]	Batting: LHB <a href="../players/player_46240.html">Noah Mendlinger</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: <b>SINGLE</b>  (Line Drive, 3D, EV 106.9 MPH)
+[%N]	<b><a href="../players/player_38967.html">Mike Antico</a> scores</b>
+[%N]	<a href="../players/player_49535.html">Carlos Linarez</a> to third
+[%B]	Batting: RHB <a href="../players/player_23400.html">Masyn Winn</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>DOUBLE</b>  (Flyball, 89D, EV 107.5 MPH)
+[%N]	<b><a href="../players/player_49535.html">Carlos Linarez</a> scores</b>
+[%N]	<a href="../players/player_46240.html">Noah Mendlinger</a> to third
+[%B]	Pitching: RHP <a href="../players/player_50714.html">Juan Sanchez</a>
+[%B]	Batting: LHB <a href="../players/player_23831.html">Brendan Donovan</a>
+[%N]	0-0: Ball
+[%N]	Wild Pitch!
+[%N]	<b><a href="../players/player_46240.html">Noah Mendlinger</a> scores</b>
+[%N]	<a href="../players/player_23400.html">Masyn Winn</a> to third
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1:  Fly out, F5  (Line Drive, 5, EV 96.9 MPH)
+[%B]	Pinch Hitting: RHB <a href="../players/player_1527.html">Nicolas Torres</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 5FF
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 25F
+[%N]	0-2: <b>DOUBLE</b>  (Line Drive, 3D, EV 99.4 MPH)
+[%N]	<b><a href="../players/player_23400.html">Masyn Winn</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_37929.html">Heriberto Hernandez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 5DF
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging, 2-3 out at first.
+[%F]	Top of the 8th over - 5 runs, 5 hits, 1 error, 1 left on base; Memphis 10 - Gwinnett 2
+[%T]	Bottom of the 8th - Gwinnett Stripers batting - Pitching for Memphis Redbirds : RHP <a href="../players/player_42291.html">Emmet Sheehan</a>
+[%B]	Now in RF: <a href="../players/player_1527.html">Nicolas Torres</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_46229.html">E.J. Exposito</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2:  Fly out, F4  (Popup, 4, EV 58.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_44552.html">Cole Mathis</a>
+[%N]	0-0: Ball
+[%N]	1-0:  <b>SOLO HOME RUN</b>  (Flyball, 9LD, EV 96.3 MPH), Distance : 346 ft
+[%B]	Pinch Hitting: RHB <a href="../players/player_48424.html">Adam Zebrowski</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Pitching: RHP <a href="../players/player_37734.html">Teodoro Ortega</a>
+[%B]	Batting: RHB <a href="../players/player_47686.html">Harry Owen</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: <b>SINGLE</b>  (Groundball, 6MD, EV 106.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_36719.html">Jesse Franklin V</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Swinging Strike
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 5F
+[%N]	2-2: Hit by Pitch
+[%N]	<a href="../players/player_47686.html">Harry Owen</a> to second
+[%B]	Batting: RHB <a href="../players/player_38161.html">Brandol Mezquita</a>
+[%N]	0-0:  Fly out, F5  (Popup, 5SF, EV 80.6 MPH)
+[%F]	Bottom of the 8th over - 1 run, 2 hits, 0 errors, 2 left on base; Memphis 10 - Gwinnett 3
+[%T]	Top of the 9th - Memphis Redbirds batting - Pitching for Gwinnett Stripers : RHP <a href="../players/player_50714.html">Juan Sanchez</a>
+[%B]	Now at 1B: <a href="../players/player_48424.html">Adam Zebrowski</a>
+[%B]	Now at 2B: <a href="../players/player_46229.html">E.J. Exposito</a>
+[%B]	Now at 3B: <a href="../players/player_39700.html">Geraldo Quintero</a>
+[%B]	Pinch Hitting: RHB <a href="../players/player_38833.html">Ramon Mendoza</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_47390.html">Emaarion Boyd</a>
+[%N]	0-0: Foul Ball, location: 3FF
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: LHB <a href="../players/player_38967.html">Mike Antico</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Grounds into double play, 5-4-3 (Groundball, 5, EV 85.0 MPH)
+[%F]	Top of the 9th over - 0 runs, 0 hits, 0 errors, 0 left on base; Memphis 10 - Gwinnett 3
+[%T]	Bottom of the 9th - Gwinnett Stripers batting - Pitching for Memphis Redbirds : RHP <a href="../players/player_37734.html">Teodoro Ortega</a>
+[%B]	Now at 1B: <a href="../players/player_38833.html">Ramon Mendoza</a>
+[%B]	Batting: RHB <a href="../players/player_41499.html">Keshawn Ogans</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Swinging Strike
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_42472.html">Kevin Kilpatrick</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 8LS, EV 92.5 MPH)
+[%B]	Batting: SHB <a href="../players/player_39700.html">Geraldo Quintero</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 25F
+[%N]	0-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_46229.html">E.J. Exposito</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 25F
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out looking
+[%F]	Bottom of the 9th over - 0 runs, 1 hit, 0 errors, 1 left on base; Memphis 10 - Gwinnett 3

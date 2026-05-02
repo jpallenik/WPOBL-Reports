@@ -1,0 +1,553 @@
+[%T]	Top of the 1st - Erie SeaWolves batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_38795.html">Joander Suarez</a>
+[%B]	Pitching: RHP <a href="../players/player_38795.html">Joander Suarez</a>
+[%B]	Batting: SHB <a href="../players/player_48768.html">Abel Bastidas</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Groundball, 6S, EV 65.0 MPH) (infield hit)
+[%B]	Batting: RHB <a href="../players/player_22542.html">Matt Vierling</a>
+[%N]	0-0: Sac Bunt to 23 - play at first, batter OUT! 3-4
+[%N]	<a href="../players/player_48768.html">Abel Bastidas</a> to second
+[%B]	Batting: RHB <a href="../players/player_38028.html">Jose Rodriguez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 9LDF
+[%N]	1-1: Foul Ball, location: 5FF
+[%N]	1-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_1522.html">Andrés Chaparro</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_46613.html">Ben Malgeri</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Swinging Strike
+[%N]	3-2: Strikes out swinging
+[%F]	Top of the 1st over - 0 runs, 1 hit, 0 errors, 2 left on base; Erie 0 - Binghamton 0
+[%T]	Bottom of the 1st - Binghamton Rumble Ponies batting - Pitching for Erie SeaWolves : RHP <a href="../players/player_44395.html">Wilmer Flores</a>
+[%B]	Pitching: RHP <a href="../players/player_44395.html">Wilmer Flores</a>
+[%B]	Batting: SHB <a href="../players/player_49936.html">Willy Fañas</a>
+[%N]	0-0: Foul Ball, location: 23F
+[%N]	0-1: Ground out 6-3 (Groundball, 4MD, EV 100.0 MPH)
+[%B]	Batting: SHB <a href="../players/player_27156.html">Ehire Adrianza</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>DOUBLE</b>  (Line Drive, 78M, EV 93.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_30210.html">Jose Peraza</a>
+[%N]	0-0: <b>SINGLE</b>  (Line Drive, 3D, EV 104.4 MPH)
+[%N]	<a href="../players/player_27156.html">Ehire Adrianza</a> to third
+[%B]	Batting: RHB <a href="../players/player_47135.html">Jacob Reimer</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	Wild Pitch!
+[%N]	<b><a href="../players/player_27156.html">Ehire Adrianza</a> scores</b>
+[%N]	<a href="../players/player_30210.html">Jose Peraza</a> to second
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_50583.html">Yordis Perera</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1:  Fly out, F9  (Line Drive, 9, EV 95.0 MPH)
+[%F]	Bottom of the 1st over - 1 run, 2 hits, 0 errors, 1 left on base; Erie 0 - Binghamton 1
+[%T]	Top of the 2nd - Erie SeaWolves batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_38795.html">Joander Suarez</a>
+[%B]	Batting: RHB <a href="../players/player_36520.html">Eli Wilson</a>
+[%N]	0-0: Foul Ball, location: 2RF
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 9LSF
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_43071.html">Kyle Tako</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Foul Ball, location: 23F
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_39900.html">Cesar Calderon</a>
+[%N]	0-0: Ground out 4-3 (Groundball, 4M, EV 83.8 MPH)
+[%F]	Top of the 2nd over - 0 runs, 0 hits, 0 errors, 0 left on base; Erie 0 - Binghamton 1
+[%T]	Bottom of the 2nd - Binghamton Rumble Ponies batting - Pitching for Erie SeaWolves : RHP <a href="../players/player_44395.html">Wilmer Flores</a>
+[%B]	Batting: RHB <a href="../players/player_44657.html">Alex Ulloa</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_39964.html">Fernando Villalobos</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: <b>SINGLE</b>  (Groundball, 34D, EV 94.4 MPH)
+[%B]	Batting: LHB <a href="../players/player_40755.html">Rhylan Thomas</a>
+[%N]	0-0: Foul Ball, location: 23F
+[%N]	0-1: Hit by Pitch
+[%N]	<a href="../players/player_39964.html">Fernando Villalobos</a> to second
+[%B]	Batting: SHB <a href="../players/player_40474.html">Eric Santana</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Line Drive, 78M, EV 97.5 MPH)
+[%N]	<a href="../players/player_39964.html">Fernando Villalobos</a> to third
+[%N]	<a href="../players/player_40755.html">Rhylan Thomas</a> to second
+[%B]	Batting: SHB <a href="../players/player_49936.html">Willy Fañas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Grounds into double play, 4-6-3 (Groundball, 4S, EV 88.1 MPH)
+[%F]	Bottom of the 2nd over - 0 runs, 2 hits, 0 errors, 2 left on base; Erie 0 - Binghamton 1
+[%T]	Top of the 3rd - Erie SeaWolves batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_38795.html">Joander Suarez</a>
+[%B]	Batting: RHB <a href="../players/player_40285.html">Abelaldo Lopez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 25F
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 23F
+[%N]	1-2: Foul Ball, location: 23F
+[%N]	1-2: Ground out 5-3 (Groundball, 56S, EV 82.5 MPH)
+[%B]	Batting: SHB <a href="../players/player_48768.html">Abel Bastidas</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 25F
+[%N]	1-2: <b>SINGLE</b>  (Flyball, 3D, EV 97.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_22542.html">Matt Vierling</a>
+[%N]	0-0: Foul Ball, location: 25FF
+[%N]	0-1: Foul Ball, location: 5F
+[%N]	0-2: Ball
+[%N]	1-2: <b>TRIPLE</b>  (Flyball, 78XD, EV 98.8 MPH)
+[%N]	<b><a href="../players/player_48768.html">Abel Bastidas</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_38028.html">Jose Rodriguez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  Fly out, F8  (Flyball, 8RD, EV 96.9 MPH)
+[%N]	<b>Runner from 3rd tags up, SCORES, no throw by CF</b>
+[%B]	Batting: RHB <a href="../players/player_1522.html">Andrés Chaparro</a>
+[%N]	0-0: Called Strike
+[%N]	0-1:  <b>SOLO HOME RUN</b>  (Flyball, 78XD, EV 98.8 MPH), Distance : 419 ft
+[%B]	Batting: RHB <a href="../players/player_46613.html">Ben Malgeri</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_36520.html">Eli Wilson</a>
+[%N]	0-0: <b>DOUBLE</b>  (Flyball, 89D, EV 108.1 MPH)
+[%N]	<a href="../players/player_46613.html">Ben Malgeri</a> to third
+[%B]	Batting: RHB <a href="../players/player_43071.html">Kyle Tako</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%F]	Top of the 3rd over - 3 runs, 4 hits, 0 errors, 2 left on base; Erie 3 - Binghamton 1
+[%T]	Bottom of the 3rd - Binghamton Rumble Ponies batting - Pitching for Erie SeaWolves : RHP <a href="../players/player_44395.html">Wilmer Flores</a>
+[%B]	Batting: SHB <a href="../players/player_27156.html">Ehire Adrianza</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 5F
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 23FF
+[%N]	2-2:  Fly out, F7  (Line Drive, 7LS, EV 83.8 MPH)
+[%B]	Batting: RHB <a href="../players/player_30210.html">Jose Peraza</a>
+[%N]	0-0: Ball
+[%N]	1-0:  Fly out, F8  (Flyball, 8LXD, EV 109.4 MPH)
+[%B]	Batting: RHB <a href="../players/player_47135.html">Jacob Reimer</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Foul Ball, location: 9LSF
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_50583.html">Yordis Perera</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%N]	<a href="../players/player_47135.html">Jacob Reimer</a> to second
+[%B]	Batting: RHB <a href="../players/player_44657.html">Alex Ulloa</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Foul Ball, location: 9LSF
+[%N]	3-1: Base on Balls
+[%N]	<a href="../players/player_47135.html">Jacob Reimer</a> to third
+[%N]	<a href="../players/player_50583.html">Yordis Perera</a> to second
+[%B]	Batting: LHB <a href="../players/player_39964.html">Fernando Villalobos</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 6MD, EV 95.6 MPH)
+[%N]	<b><a href="../players/player_47135.html">Jacob Reimer</a> scores</b>
+[%N]	<a href="../players/player_50583.html">Yordis Perera</a> to third
+[%N]	<a href="../players/player_44657.html">Alex Ulloa</a> to second
+[%N]	<b>Runner from 3rd tries for Home, SAFE, throw by CF to home</b>
+[%B]	Batting: LHB <a href="../players/player_40755.html">Rhylan Thomas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2: Strikes out swinging
+[%F]	Bottom of the 3rd over - 2 runs, 1 hit, 0 errors, 2 left on base; Erie 3 - Binghamton 3
+[%T]	Top of the 4th - Erie SeaWolves batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_38795.html">Joander Suarez</a>
+[%B]	Batting: RHB <a href="../players/player_39900.html">Cesar Calderon</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_40285.html">Abelaldo Lopez</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 9LMF
+[%N]	1-2: Ball
+[%N]	2-2:  Fly out, F7  (Line Drive, 56D, EV 69.4 MPH)
+[%B]	Batting: SHB <a href="../players/player_48768.html">Abel Bastidas</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Called Strike
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging
+[%F]	Top of the 4th over - 0 runs, 0 hits, 0 errors, 0 left on base; Erie 3 - Binghamton 3
+[%T]	Bottom of the 4th - Binghamton Rumble Ponies batting - Pitching for Erie SeaWolves : RHP <a href="../players/player_44395.html">Wilmer Flores</a>
+[%B]	Batting: SHB <a href="../players/player_40474.html">Eric Santana</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_49936.html">Willy Fañas</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 23F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: <b>DOUBLE</b>  (Line Drive, 8RXD, EV 106.3 MPH)
+[%B]	Batting: SHB <a href="../players/player_27156.html">Ehire Adrianza</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 23F
+[%N]	2-2: Ball
+[%N]	3-2: Ground out 4-3 (Groundball, 34, EV 100.6 MPH)
+[%N]	<a href="../players/player_49936.html">Willy Fañas</a> to third
+[%B]	Batting: RHB <a href="../players/player_30210.html">Jose Peraza</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Swinging Strike
+[%N]	2-1: Ground out 5-3 (Groundball, 56S, EV 93.1 MPH)
+[%F]	Bottom of the 4th over - 0 runs, 1 hit, 0 errors, 1 left on base; Erie 3 - Binghamton 3
+[%T]	Top of the 5th - Erie SeaWolves batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_38795.html">Joander Suarez</a>
+[%B]	Batting: RHB <a href="../players/player_22542.html">Matt Vierling</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: Called Strike
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_38028.html">Jose Rodriguez</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Foul Ball, location: 7LSF
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_1522.html">Andrés Chaparro</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_38028.html">Jose Rodriguez</a> to second
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_46613.html">Ben Malgeri</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Foul Ball, location: 5FF
+[%N]	2-2: Foul Ball, location: 7LDF
+[%N]	2-2: Ball
+[%N]	3-2:  Fly out, F5  (Popup, 5S, EV 80.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_36520.html">Eli Wilson</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 9LDF
+[%N]	0-2: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	Balk!
+[%N]	<a href="../players/player_38028.html">Jose Rodriguez</a> to third
+[%N]	<a href="../players/player_1522.html">Andrés Chaparro</a> to second
+[%N]	2-2: <b>SINGLE</b>  (Line Drive, 8LS, EV 101.3 MPH)
+[%N]	<b><a href="../players/player_38028.html">Jose Rodriguez</a> scores</b>
+[%N]	<a href="../players/player_1522.html">Andrés Chaparro</a> to third
+[%B]	Pitching: RHP <a href="../players/player_18770.html">Corbin Martin</a>
+[%B]	Batting: RHB <a href="../players/player_43071.html">Kyle Tako</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	Wild Pitch!
+[%N]	<b><a href="../players/player_1522.html">Andrés Chaparro</a> scores</b>
+[%N]	<a href="../players/player_36520.html">Eli Wilson</a> to second
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Strikes out swinging
+[%F]	Top of the 5th over - 2 runs, 1 hit, 0 errors, 1 left on base; Erie 5 - Binghamton 3
+[%T]	Bottom of the 5th - Binghamton Rumble Ponies batting - Pitching for Erie SeaWolves : RHP <a href="../players/player_44395.html">Wilmer Flores</a>
+[%B]	Batting: RHB <a href="../players/player_47135.html">Jacob Reimer</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 3SF
+[%N]	1-1: Foul Ball, location: 7LMFF
+[%N]	1-2: <b>SINGLE</b>  (Groundball, 34D, EV 105.6 MPH)
+[%B]	Batting: RHB <a href="../players/player_50583.html">Yordis Perera</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 9LMF
+[%N]	0-2: Ball
+[%N]	1-2: <b>DOUBLE</b>  (Flyball, 8RXD, EV 91.3 MPH)
+[%N]	<a href="../players/player_47135.html">Jacob Reimer</a> to third
+[%B]	Pitching: RHP <a href="../players/player_38501.html">Seth Mayberry</a>
+[%B]	Batting: RHB <a href="../players/player_44657.html">Alex Ulloa</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 9LMF
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: LHB <a href="../players/player_39964.html">Fernando Villalobos</a>
+[%N]	0-0: Ground out 3-1 (Groundball, 34S, EV 86.3 MPH)
+[%B]	Batting: LHB <a href="../players/player_40755.html">Rhylan Thomas</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 7LMF
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Foul Ball, location: 3F
+[%N]	3-2: Foul Ball, location: 2F
+[%N]	3-2: Base on Balls
+[%B]	Pitching: RHP <a href="../players/player_25148.html">Billy Corcoran</a>
+[%B]	Batting: SHB <a href="../players/player_40474.html">Eric Santana</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Called Strike
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out looking
+[%F]	Bottom of the 5th over - 0 runs, 2 hits, 0 errors, 3 left on base; Erie 5 - Binghamton 3
+[%T]	Top of the 6th - Erie SeaWolves batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_18770.html">Corbin Martin</a>
+[%B]	Batting: RHB <a href="../players/player_39900.html">Cesar Calderon</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Called Strike
+[%N]	1-2: Foul Ball, location: 7LDF
+[%N]	1-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_40285.html">Abelaldo Lopez</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Ball
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_48768.html">Abel Bastidas</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 78M, EV 93.8 MPH)
+[%F]	Top of the 6th over - 0 runs, 0 hits, 0 errors, 0 left on base; Erie 5 - Binghamton 3
+[%T]	Bottom of the 6th - Binghamton Rumble Ponies batting - Pitching for Erie SeaWolves : RHP <a href="../players/player_25148.html">Billy Corcoran</a>
+[%B]	Batting: SHB <a href="../players/player_49936.html">Willy Fañas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Called Strike
+[%N]	3-1: <b>SINGLE</b>  (Line Drive, 6MD, EV 101.3 MPH)
+[%B]	Batting: SHB <a href="../players/player_27156.html">Ehire Adrianza</a>
+[%N]	0-0: Ground out 5-3 (Groundball, 5, EV 101.9 MPH)
+[%N]	<a href="../players/player_49936.html">Willy Fañas</a> to second
+[%B]	Batting: RHB <a href="../players/player_30210.html">Jose Peraza</a>
+[%N]	0-0: Ball
+[%N]	Wild Pitch!
+[%N]	<a href="../players/player_49936.html">Willy Fañas</a> to third
+[%N]	1-0: <b>SINGLE</b>  (Flyball, 34D, EV 90.6 MPH)
+[%N]	<b><a href="../players/player_49936.html">Willy Fañas</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_47135.html">Jacob Reimer</a>
+[%N]	0-0: Ball
+[%N]	<a href="../players/player_30210.html">Jose Peraza</a> steals 2nd base
+[%N]	1-0: Foul Ball, location: 23FF
+[%N]	1-1:  Fly out, F9  (Flyball, 9, EV 86.9 MPH)
+[%B]	Batting: RHB <a href="../players/player_50583.html">Yordis Perera</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Called Strike
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out looking
+[%F]	Bottom of the 6th over - 1 run, 2 hits, 0 errors, 1 left on base; Erie 5 - Binghamton 4
+[%T]	Top of the 7th - Erie SeaWolves batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_18770.html">Corbin Martin</a>
+[%B]	Batting: RHB <a href="../players/player_22542.html">Matt Vierling</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Foul Ball, location: 2F
+[%N]	2-1: Foul Ball, location: 3SF
+[%N]	2-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_38028.html">Jose Rodriguez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_1522.html">Andrés Chaparro</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Foul Ball, location: 9LMFF
+[%N]	0-2: Strikes out swinging
+[%B]	Batting: RHB <a href="../players/player_46613.html">Ben Malgeri</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Foul Ball, location: 2F
+[%N]	0-2: Ball
+[%N]	<a href="../players/player_38028.html">Jose Rodriguez</a> steals 2nd base
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: <b>DOUBLE</b>  (Flyball, 78XD, EV 111.9 MPH)
+[%N]	<b><a href="../players/player_38028.html">Jose Rodriguez</a> scores</b>
+[%B]	Batting: RHB <a href="../players/player_36520.html">Eli Wilson</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Base on Balls
+[%B]	Batting: RHB <a href="../players/player_43071.html">Kyle Tako</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging
+[%F]	Top of the 7th over - 1 run, 1 hit, 0 errors, 2 left on base; Erie 6 - Binghamton 4
+[%T]	Bottom of the 7th - Binghamton Rumble Ponies batting - Pitching for Erie SeaWolves : RHP <a href="../players/player_25148.html">Billy Corcoran</a>
+[%B]	Batting: RHB <a href="../players/player_44657.html">Alex Ulloa</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Called Strike
+[%N]	0-2: Foul Ball, location: 5F
+[%N]	0-2: Ball
+[%N]	1-2: Foul Ball, location: 23FF
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Foul Ball, location: 5FF
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Strikes out swinging
+[%B]	Pitching: LHP <a href="../players/player_43342.html">Kris Anglin</a>
+[%B]	Batting: LHB <a href="../players/player_39964.html">Fernando Villalobos</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1:  <b>SOLO HOME RUN</b>  (Flyball, 9D, EV 95.0 MPH), Distance : 360 ft
+[%B]	Batting: LHB <a href="../players/player_40755.html">Rhylan Thomas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Batting: SHB <a href="../players/player_40474.html">Eric Santana</a>
+[%N]	0-0: Sac Bunt to 15S - play at first, batter OUT! 1-3
+[%N]	<a href="../players/player_40755.html">Rhylan Thomas</a> to second
+[%B]	Batting: SHB <a href="../players/player_49936.html">Willy Fañas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 9LDF
+[%N]	1-1: Called Strike
+[%N]	1-2:  Fly out, F7  (Flyball, 78S, EV 77.5 MPH)
+[%F]	Bottom of the 7th over - 1 run, 1 hit, 0 errors, 1 left on base; Erie 6 - Binghamton 5
+[%T]	Top of the 8th - Erie SeaWolves batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_18770.html">Corbin Martin</a>
+[%B]	Batting: RHB <a href="../players/player_39900.html">Cesar Calderon</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Swinging Strike
+[%N]	0-2: Strikes out looking
+[%B]	Batting: RHB <a href="../players/player_40285.html">Abelaldo Lopez</a>
+[%N]	0-0: Ball
+[%N]	1-0: Foul Ball, location: 2F
+[%N]	1-1: Foul Ball, location: 9LMF
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: Strikes out swinging
+[%B]	Batting: SHB <a href="../players/player_48768.html">Abel Bastidas</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ball
+[%N]	3-0: Base on Balls
+[%B]	Pitching: RHP <a href="../players/player_20210.html">Angel Felipe</a>
+[%B]	Batting: RHB <a href="../players/player_22542.html">Matt Vierling</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 8LD, EV 98.1 MPH)
+[%F]	Top of the 8th over - 0 runs, 0 hits, 0 errors, 1 left on base; Erie 6 - Binghamton 5
+[%T]	Bottom of the 8th - Binghamton Rumble Ponies batting - Pitching for Erie SeaWolves : LHP <a href="../players/player_43342.html">Kris Anglin</a>
+[%B]	Now at 1B: <a href="../players/player_39900.html">Cesar Calderon</a>
+[%B]	Now at 2B: <a href="../players/player_41954.html">Peyton Chatagnier</a>
+[%B]	Batting: SHB <a href="../players/player_27156.html">Ehire Adrianza</a>
+[%N]	0-0: Swinging Strike
+[%N]	0-1: Ball
+[%N]	1-1: Called Strike
+[%N]	1-2: Strikes out swinging
+[%B]	Pitching: RHP <a href="../players/player_49240.html">Carlos Marcano</a>
+[%B]	Batting: RHB <a href="../players/player_30210.html">Jose Peraza</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ground out 6-3 (Groundball, 15, EV 83.1 MPH)
+[%B]	Batting: RHB <a href="../players/player_47135.html">Jacob Reimer</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: Ground out 5-3 (Groundball, 5, EV 84.4 MPH)
+[%F]	Bottom of the 8th over - 0 runs, 0 hits, 0 errors, 0 left on base; Erie 6 - Binghamton 5
+[%T]	Top of the 9th - Erie SeaWolves batting - Pitching for Binghamton Rumble Ponies : RHP <a href="../players/player_20210.html">Angel Felipe</a>
+[%B]	Pinch Hitting: LHB <a href="../players/player_42815.html">Andri Leon</a>
+[%N]	0-0: Ball
+[%N]	1-0: Called Strike
+[%N]	1-1: Ball
+[%N]	2-1: Ball
+[%N]	3-1: Called Strike
+[%N]	3-2:  Fly out, F5  (Line Drive, 56, EV 62.5 MPH)
+[%B]	Batting: RHB <a href="../players/player_41954.html">Peyton Chatagnier</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Groundball, 6MD, EV 95.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_46613.html">Ben Malgeri</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: Ball
+[%N]	1-1: Ball
+[%N]	2-1: Foul Ball, location: 9LSF
+[%N]	2-2: Foul Ball, location: 2F
+[%N]	2-2: Hit by Pitch
+[%N]	<a href="../players/player_41954.html">Peyton Chatagnier</a> to second
+[%B]	Batting: RHB <a href="../players/player_36520.html">Eli Wilson</a>
+[%N]	0-0:  Fly out, F6  (Popup, 6M, EV 50.0 MPH)
+[%B]	Batting: RHB <a href="../players/player_43071.html">Kyle Tako</a>
+[%N]	0-0: Ball
+[%N]	1-0: Swinging Strike
+[%N]	1-1: Ground out 4-3 (Groundball, 4, EV 90.0 MPH)
+[%F]	Top of the 9th over - 0 runs, 1 hit, 0 errors, 2 left on base; Erie 6 - Binghamton 5
+[%T]	Bottom of the 9th - Binghamton Rumble Ponies batting - Pitching for Erie SeaWolves : RHP <a href="../players/player_49240.html">Carlos Marcano</a>
+[%B]	Pitching: RHP <a href="../players/player_44481.html">James Peyton Smith</a>
+[%B]	Now at 3B: <a href="../players/player_38810.html">Albert Jerez</a>
+[%B]	Batting: RHB <a href="../players/player_50583.html">Yordis Perera</a>
+[%N]	0-0: Foul Ball, location: 9LSF
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 9LSF
+[%N]	1-2: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Foul Ball, location: 25F
+[%N]	2-2: Strikes out swinging
+[%B]	Pinch Hitting: SHB <a href="../players/player_23704.html">Jonathan Araúz</a>
+[%N]	0-0: Foul Ball, location: 2F
+[%N]	0-1: Ball
+[%N]	1-1: Foul Ball, location: 2F
+[%N]	1-2: Ball
+[%N]	2-2: Ball
+[%N]	3-2: <b>DOUBLE</b>  (Flyball, 8LXD, EV 92.5 MPH)
+[%B]	Batting: LHB <a href="../players/player_39964.html">Fernando Villalobos</a>
+[%N]	0-0: Ball
+[%N]	1-0: Ball
+[%N]	2-0: <b>SINGLE</b>  (Line Drive, 34D, EV 96.9 MPH)
+[%N]	<a href="../players/player_23704.html">Jonathan Araúz</a> to third
+[%B]	Batting: LHB <a href="../players/player_40755.html">Rhylan Thomas</a>
+[%N]	0-0: Called Strike
+[%N]	0-1: <b>SINGLE</b>  (Line Drive, 3D, EV 98.8 MPH)
+[%N]	<b><a href="../players/player_23704.html">Jonathan Araúz</a> scores</b>
+[%N]	<a href="../players/player_39964.html">Fernando Villalobos</a> to second
+[%B]	Pitching: RHP <a href="../players/player_42904.html">Ulices Campos</a>
+[%B]	Batting: SHB <a href="../players/player_40474.html">Eric Santana</a>
+[%N]	0-0: Ball
+[%N]	1-0: <b>SINGLE</b>  (Line Drive, 6D, EV 96.9 MPH)
+[%N]	<a href="../players/player_39964.html">Fernando Villalobos</a> to third
+[%N]	<a href="../players/player_40755.html">Rhylan Thomas</a> to second
+[%B]	Batting: SHB <a href="../players/player_49936.html">Willy Fañas</a>
+[%N]	0-0:  Fly out, F8  (Flyball, 89D, EV 105.6 MPH)
+[%N]	<b>Runner from 3rd tags up, SCORES, no throw by CF</b>
+[%F]	Bottom of the 9th over - 2 runs, 4 hits, 0 errors, 2 left on base; Erie 6 - Binghamton 7
